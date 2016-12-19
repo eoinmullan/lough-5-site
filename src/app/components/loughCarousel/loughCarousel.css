@@ -1,0 +1,27 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 100%;
+  margin: auto;
+}
+.carousel {
+	interval: 1000;
+}
+.carousel-control {
+	opacity: 0.2;
+}
+.carousel-control:focus {
+	opacity: 0.2;
+}
+.carousel-control:hover {
+	opacity: 0.4;
+}
+.carousel-caption {
+	font-family: "Helvetica Neue", "Work sans", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-weight:900;
+	text-shadow: 3px 3px 3px #000, -1px -1px #000, 1px 1px #000;
+	color: rgb(237,237,91);	
+}
+.carousel-indicators {
+	opacity: 0.5;
+}

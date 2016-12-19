@@ -1,0 +1,22 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  background: rgb(237,237,91);
+}
+
+/*.container {
+	background-color: rgb(237,237,91);
+}*/
+
+.thumbnail {
+  height: 200px;
+}
+
+.thumbnail img.pull-right {
+  width: 50px;
+}

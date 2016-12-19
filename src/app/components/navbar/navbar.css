@@ -1,0 +1,17 @@
+.acme-navbar-text {
+  color: white;
+}
+.navbar {
+	background-color: inherit;
+	margin: 0;
+}
+.logo {
+	height: 80px;
+	padding:10px;
+}
+.navbar-static-top {
+	border: 0;
+}
+.navbar-nav {
+	padding-top:15px;
+}

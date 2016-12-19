@@ -49,8 +49,8 @@
         "module": "ui.bootstrap"
       },
       "cssPreprocessor": {
-        "key": "node-sass",
-        "extension": "scss"
+        "key": "noCssPrepro",
+        "extension": "css"
       },
       "jsPreprocessor": {
         "key": "noJsPrepro",
