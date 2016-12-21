@@ -3,9 +3,6 @@
   width: 100%;
   margin: auto;
 }
-.carousel {
-	interval: 1000;
-}
 .carousel-control {
 	opacity: 0.2;
 }
