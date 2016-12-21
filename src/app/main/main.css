@@ -9,3 +9,16 @@
 	font-size: 22px;
 	font-weight: 700;
 }
+.main-header {
+	font-weight: 700;
+	font-style: italic;
+	text-align: center;
+	font-size: 40px;
+}
+.info-text {
+	font-style: italic;
+	font-size: 30px;
+}
+.img-container {
+	max-height: 180px;
+}

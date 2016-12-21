@@ -15,3 +15,9 @@
 .navbar-nav {
 	padding-top:15px;
 }
+.navbar-toggle {
+	margin: 24px;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #777;
+}
