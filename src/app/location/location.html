@@ -1,3 +1,11 @@
-<div class="container">
-  <p>Here it is!</p>
+<!-- <ng-map zoom="11" center="[40.74, -74.18]">
+  <marker position="[40.71, -74.21]" title="hello"></marker>
+</ng-map> -->
+<div ng-controller="LocationController">
+  <ng-map center="54.6263624,-7.1054474" zoom="13" style="height:100vh;">
+    <marker position="54.6263624,-7.1054474" title="Lough 5 Road Race"
+            optimized="false"
+            default-style="false">              
+    </marker>
+  </ng-map>
 </div>
