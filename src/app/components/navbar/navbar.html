@@ -12,12 +12,11 @@
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a ng-href="#">About</a></li>
-        <li><a ng-href="#/location">Location</a></li>
-        <li><a ng-href="#/course">Course</a></li>
-        <li><a ng-href="#">Results</a></li>
-        <li><a ng-href="#">Contact</a></li>
+      <ul class="nav navbar-nav" ng-init="tab = 0">
+        <li ng-class="{active:tab == 0}"><a ng-href="#" ng-click="tab=0">Home</a></li>
+        <li ng-class="{active:tab == 1}"><a ng-href="#/location" ng-click="tab=1">Location</a></li>
+        <li ng-class="{active:tab == 2}"><a ng-href="#/course" ng-click="tab=2">Course</a></li>
+        <li ng-class="{active:tab == 3}"><a ng-href="#/results" ng-click="tab=3">Results</a></li>
       </ul>
     </div>
   </div>
