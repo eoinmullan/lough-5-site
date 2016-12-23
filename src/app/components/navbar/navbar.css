@@ -21,6 +21,9 @@
 .navbar-inverse .navbar-toggle .icon-bar {
     background-color: #777;
 }
+.navbar-inverse .navbar-nav > li > a {
+	color: #777;
+}
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
 	color: black;
 }
