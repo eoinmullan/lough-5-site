@@ -11,12 +11,12 @@
       </a>
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav" ng-init="tab = 0">
-        <li ng-class="{active:tab == 0}"><a ng-href="#" ng-click="tab=0">Home</a></li>
-        <li ng-class="{active:tab == 1}"><a ng-href="#/location" ng-click="tab=1">Location</a></li>
-        <li ng-class="{active:tab == 2}"><a ng-href="#/course" ng-click="tab=2">Course</a></li>
-        <li ng-class="{active:tab == 3}"><a ng-href="#/results" ng-click="tab=3">Results</a></li>
+    <div class="collapse navbar-collapse" id="main-navbar" ng-controller="TabController as tab">
+      <ul class="nav navbar-nav">
+        <li ng-class="{ active:tab.isSet(1) }"><a ng-href="#" ng-click="tab.setTab(1)">Home</a></li>
+        <li ng-class="{ active:tab.isSet(2) }""><a ng-href="#/location" ng-click="tab.setTab(2)">Location</a></li>
+        <li ng-class="{ active:tab.isSet(3) }"><a ng-href="#/course" ng-click="tab.setTab(3)">Course</a></li>
+        <li ng-class="{ active:tab.isSet(4) }"><a ng-href="#/results" ng-click="tab.setTab(4)">Results</a></li>
       </ul>
     </div>
   </div>
