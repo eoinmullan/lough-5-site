@@ -30,17 +30,19 @@
   }
 
   function TabController($location) {
-    switch ($location.$$url) {
-      case "/": this.tab = 1; break;
-      case "/location": this.tab = 2; break;
-      case "/course": this.tab = 3; break;
-      case "/results": this.tab = 4; break;
+    var vm = this;
+    switch ($location.path()) {
+      case "":
+      case "/": vm.tab = 1; break;
+      case "/location": vm.tab = 2; break;
+      case "/course": vm.tab = 3; break;
+      case "/results": vm.tab = 4; break;
     }
-    this.setTab = function(newValue){
-      this.tab = newValue;
+    vm.setTab = function(newValue){
+      vm.tab = newValue;
     };
-    this.isSet = function(tabName){
-      return this.tab === tabName;
+    vm.isSet = function(tabName){
+      return vm.tab === tabName;
     };
   }
 
