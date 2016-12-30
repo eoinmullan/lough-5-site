@@ -15,9 +15,13 @@
 	text-align: center;
 	font-size: 40px;
 }
-.info-text {
+.info-text-l {
 	font-style: italic;
 	font-size: 30px;
+}
+.info-text-m {
+	font-style: italic;
+	font-size: 24px;
 }
 .img-container {
 	max-height: 180px;
