@@ -11,7 +11,11 @@
 		  <li ng-class="{ active:tab.isSet(1) }"><a href="" ng-click="tab.setTab(1)">2009</a></li>
 		</ul>
 	</div>
-    <h1 ng-show="tab.isSet(8)">The 2016 race results will be posted here shortly after the race finishes.</h1>
+	<iframe ng-show="tab.isSet(8)"
+            width="934px"
+            height="100%"
+            src="https://docs.google.com/spreadsheets/d/1akhM5XuAQ0Z8qbf4Fxsym9jKAfB6l4-E_N9cumowHp8/pubhtml?gid=282929710&amp;single=true&amp;widget=true&amp;headers=false">
+    </iframe>
     <iframe ng-show="tab.isSet(7)"
             width="849px"
             height="100%"
