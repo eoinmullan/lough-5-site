@@ -24,6 +24,10 @@
       .state('results', {
         url: '/results',
         templateUrl: 'app/results/results.html'
+      })
+      .state('fastest50', {
+        url: '/fastest50',
+        templateUrl: 'app/fastest50/fastest50.html'
       });
 
     $urlRouterProvider.otherwise('/');
@@ -37,6 +41,7 @@
       case "/location": vm.tab = 2; break;
       case "/course": vm.tab = 3; break;
       case "/results": vm.tab = 4; break;
+      case "/fastest50": vm.tab = 5; break;
     }
     vm.setTab = function(newValue){
       vm.tab = newValue;
