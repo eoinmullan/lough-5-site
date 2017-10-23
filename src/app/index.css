@@ -5,8 +5,16 @@
   padding: 0.2em 0;
 }
 
-body {
-  background-image: url("../assets/images/lough-background.jpg");
+@media {
+    body {
+    	background-image: url("../assets/images/lough-background-med-res.jpg");
+    }
+}
+
+@media (min-width: 2561px) {
+    body {
+    	background-image: url("../assets/images/lough-background-high-res.jpg");
+    }
 }
 
 .thumbnail {
