@@ -21,7 +21,7 @@
 	font-style: italic;
 	text-align: center;
 }
-.main-header h1 {
+h1.main-header {
 	font-size: 40px;
 }
 #main-header-panel {
