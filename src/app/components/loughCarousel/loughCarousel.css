@@ -13,7 +13,7 @@
 	opacity: 0.4;
 }
 .carousel-caption {
-	font-family: "Helvetica Neue", "Work sans", Helvetica, Arial, sans-serif;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
 	font-style: italic;
 	font-weight:900;
 	text-shadow: 3px 3px 3px #000, -1px -1px #000, 1px 1px #000;

@@ -1,0 +1,22 @@
+.fastest-50 {
+    margin-top: 80px;
+    padding: 10px;
+    text-align: center;
+}
+.fastest-iframes {
+    text-align: center;
+}
+.row {
+    margin: 0;
+}
+
+@media {
+    .fastest-50 {
+        width: 547px;
+    }
+}
+@media (min-width: 1100px) {
+    .fastest-50 {
+        width: 1100px;
+    }
+}

@@ -7,3 +7,17 @@
 .nav > li > a:hover, .nav > li > a:focus {
 	color: #444;
 }
+.year-picker {
+	margin-top: 80px;
+}
+li.year-labels {
+	font-size: 20px;
+	text-align: center;
+}
+.center-pills {
+    display: flex;
+    justify-content: center;
+}
+.results-iframes {
+	text-align: center;
+}

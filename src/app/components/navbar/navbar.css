@@ -1,15 +1,29 @@
 .acme-navbar-text {
-  color: white;
+  color: rgb(237,237,91);
 }
+
 .navbar {
-	background-color: rgb(237,237,91);
-	margin: 0;
+	background: transparent;
+}
+@media {
+	.navbar-collapse.ng-scope {
+		background-color: #444;
+	}
+}
+@media (min-width: 768px) {
+    .navbar-collapse.ng-scope {
+		background: transparent;
+    }
+	.navbar-fixed-top.scrolled {
+		background-color: #444 !important;
+		transition: background-color 400ms linear;
+	}
 }
 .logo {
 	height: 80px;
 	padding:10px;
 }
-.navbar-static-top {
+.navbar-fixed-top {
 	border: 0;
 }
 .navbar-nav {
@@ -18,12 +32,6 @@
 .navbar-toggle {
 	margin: 24px;
 }
-.navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #777;
-}
 .navbar-inverse .navbar-nav > li > a {
-	color: #777;
-}
-.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: black;
+	color: rgb(237,237,91);
 }

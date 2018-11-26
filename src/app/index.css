@@ -5,12 +5,21 @@
   padding: 0.2em 0;
 }
 
-@media {
-    body {
-    	background-image: url("../assets/images/lough-background-med-res.jpg");
-    }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 
+@media {
+    body {
+      background-image: url("../assets/images/lough-background-low-res.jpg");
+      background-size: cover;
+    }
+}
+@media (min-width: 2017px) {
+    body {
+    	background-image: url("../assets/images/lough-background-high-res.jpg");
+    }
+}
 @media (min-width: 2561px) {
     body {
     	background-image: url("../assets/images/lough-background-high-res.jpg");
