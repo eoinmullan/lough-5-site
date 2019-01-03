@@ -16,18 +16,15 @@ h1 {
 h1, h2, li {
 	text-align: center;
 	color: rgb(237,237,91);
-	text-shadow: black 0 0 5px;
-}
-h2 {
-	text-decoration: underline;
+	text-shadow: black 0 0 15px;
 }
 h4 {
 	color: black;
-	text-shadow: rgb(254, 255, 212) 0 0 5px;
+	text-shadow: rgb(254, 255, 212) 0 0 15px;
 	text-align: center;
 }
 h1.main-header {
-	font-size: 40px;
+	font-size: 50px;
 }
 #main-header-panel {
 	margin-top: 80px;
