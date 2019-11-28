@@ -2,47 +2,68 @@
   padding-left: 0;
   padding-right: 0;
 }
+
 ul {
-	list-style-type: none;
-	padding: 0 20px 0 20px;
+  list-style-type: none;
+  padding: 0 20px 0 20px;
 }
+
 li {
-	font-size: 20px;
-	font-weight: 600;
+  font-size: 20px;
+  font-weight: 600;
 }
+
 h1 {
-	font-size: 40px;
+  font-size: 40px;
 }
+
 h1, h2, li {
-	text-align: center;
-	color: rgb(237,237,91);
-	text-shadow: black 0 0 15px;
+  text-align: center;
+  color: rgb(237, 237, 91);
+  text-shadow: black 0 0 15px;
 }
+
 h4 {
-	color: black;
-	text-shadow: rgb(254, 255, 212) 0 0 15px;
-	text-align: center;
+  color: black;
+  text-shadow: rgb(254, 255, 212) 2px 2px 8px, rgb(254, 255, 212) 2px 2px 3px;
+  text-align: center;
 }
-h1.main-header {
-	font-size: 50px;
+
+button.main-header {
+  font-size: 30px;
+  border-radius: 24px;
+  background-color: rgb(237, 237, 91);
+  color: black;
 }
+
+.enter-now {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 #main-header-panel {
-	margin-top: 80px;
+  margin-top: 80px;
 }
+
 .info-text-l {
-	font-style: italic;
-	font-size: 24px;
+  font-style: italic;
+  font-size: 24px;
 }
+
 .info-text-m {
-	font-style: italic;
-	font-size: 24px;
+  font-style: italic;
+  font-size: 24px;
 }
+
 .img-container {
-	max-height: 180px;
+  max-height: 180px;
 }
+
 .social-media {
-	text-align: center;
+  text-align: center;
 }
+
 .icon-shadow {
   color: black;
   text-shadow: rgb(254, 255, 212) 0 0 15px;
