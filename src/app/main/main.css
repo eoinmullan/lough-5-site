@@ -68,3 +68,8 @@ button.main-header {
   color: black;
   text-shadow: rgb(254, 255, 212) 0 0 15px;
 }
+
+.alert-custom {
+  margin: 10px;
+  border-radius: 10px;
+}
