@@ -36,10 +36,9 @@ button.main-header {
   color: black;
 }
 
-.main-button {
+.main-buttons {
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 
 #main-header-panel {
