@@ -4,6 +4,8 @@ Website for the annual New Year's Eve Lough 5 Road Race & walk.
 
 ## Developing
 
+Use Node 10.22.1 `nvm use 10 && nvm alias default 10.22.1`
+
 Bring down dependencies with `npm install` & `bower install`
 
 For development, run the site locally with `gulp serve`. This will bring the site up at http://localhost:3000/. Changes will be reflected as soon as they are saved using BrowserSync.
