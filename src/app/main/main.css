@@ -63,6 +63,12 @@ button.main-header {
   text-align: center;
 }
 
+.enter-now {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .icon-shadow {
   color: black;
   text-shadow: rgb(254, 255, 212) 0 0 15px;
