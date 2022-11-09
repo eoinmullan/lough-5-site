@@ -8,7 +8,7 @@
   /** @ngInject */
   function ResultsTabController() {
     var vm = this;
-    vm.tab = 12;
+    vm.tab = 13;
 
     vm.setTab = function(newValue){
       vm.tab = newValue;
