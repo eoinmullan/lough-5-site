@@ -28,6 +28,10 @@
       .state('fastest50', {
         url: '/fastest50',
         templateUrl: 'app/fastest50/fastest50.html'
+      })
+      .state('age-categories', {
+        url: '/age-categories',
+        templateUrl: 'app/age-categories/age-categories.html'
       });
 
     $urlRouterProvider.otherwise('/');

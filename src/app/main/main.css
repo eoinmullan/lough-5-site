@@ -23,16 +23,23 @@ h1, h2, h3, li {
   text-shadow: black 0 0 15px;
 }
 
-h4 {
+.dark-text {
   color: black;
   text-shadow: rgb(254, 255, 212) 2px 2px 8px, rgb(254, 255, 212) 2px 2px 3px;
   text-align: center;
+  text-underline: rgb(254, 255, 212);
 }
 
 button.main-header {
   font-size: 30px;
   border-radius: 24px;
   background-color: rgb(237, 237, 91);
+  color: black;
+}
+
+button.age-categories {
+  font-size: 24px;
+  border-radius: 24px;
   color: black;
 }
 
@@ -47,7 +54,7 @@ button.main-header {
 
 .info-text-l {
   font-style: italic;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 .info-text-m {
@@ -63,7 +70,7 @@ button.main-header {
   text-align: center;
 }
 
-.enter-now {
+.button-style {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
