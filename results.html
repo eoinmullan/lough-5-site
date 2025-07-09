@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lough 5 - Results</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header class="header">
+    <nav class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="location.html">Location</a></li>
+        <li><a href="course.html">Course</a></li>
+        <li><a href="results.html" class="current">Results</a></li>
+        <li><a href="fastest-50.html">Fastest 50</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Race Results</h2>
+      <p class="section-text">
+        Complete results from the Charity 5K Race. Use the search box to find specific runners.
+      </p>
+      
+      <div class="card" x-data="resultsApp()">
+        <div class="search-container">
+          <input 
+            type="text" 
+            x-model="searchTerm" 
+            placeholder="Search by name, bib number, or age group..." 
+            class="search-input"
+          >
+        </div>
+        
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Position</th>
+                <th>Bib</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Age Group</th>
+                <th>Finish Time</th>
+                <th>Pace</th>
+              </tr>
+            </thead>
+            <tbody>
+              <template x-for="runner in filteredResults" :key="runner.position">
+                <tr>
+                  <td x-text="runner.position"></td>
+                  <td x-text="runner.bib"></td>
+                  <td x-text="runner.name"></td>
+                  <td x-text="runner.gender"></td>
+                  <td x-text="runner.age_group"></td>
+                  <td x-text="runner.finish_time"></td>
+                  <td x-text="runner.pace"></td>
+                </tr>
+              </template>
+            </tbody>
+          </table>
+        </div>
+        
+        <div x-show="filteredResults.length === 0" style="text-align: center; padding: 20px;">
+          <p>No results found. Please try a different search term.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    function resultsApp() {
+      return {
+        searchTerm: '',
+        results: [],
+        
+        init() {
+          fetch('assets/results.json')
+            .then(response => response.json())
+            .then(data => {
+              this.results = data.results;
+            })
+            .catch(error => {
+              console.error('Error loading results:', error);
+            });
+        },
+        
+        get filteredResults() {
+          if (!this.searchTerm.trim()) {
+            return this.results;
+          }
+          
+          const term = this.searchTerm.toLowerCase().trim();
+          
+          return this.results.filter(runner => {
+            return (
+              runner.name.toLowerCase().includes(term) ||
+              runner.bib.toString().includes(term) ||
+              runner.age_group.toLowerCase().includes(term) ||
+              runner.gender.toLowerCase().includes(term) ||
+              runner.finish_time.toLowerCase().includes(term) ||
+              runner.pace.toLowerCase().includes(term) ||
+              runner.position.toString().includes(term)
+            );
+          });
+        }
+      };
+    }
+  </script>
+</body>
+</html>
