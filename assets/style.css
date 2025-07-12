@@ -404,13 +404,9 @@ table tr:hover {
 }
 
 /* Responsive */
-@media (max-width: 870px) {
-    table th:nth-child(2),
+@media (max-width: 1000px) {
     table th:nth-child(6),
-    table th:nth-child(8),
-    table td:nth-child(2),
-    table td:nth-child(6),
-    table td:nth-child(8) {
+    table td:nth-child(6) {
         display: none;
     }
 
@@ -423,12 +419,26 @@ table tr:hover {
         background-color: rgba(255, 202, 40, 0.2);
     }
 }
-
-@media (max-width: 480px) {
-    table th:nth-child(4),
-    table td:nth-child(4) {
+@media (max-width: 870px) {
+    table th:nth-child(2),
+    table th:nth-child(6),
+    table th:nth-child(9),
+    table td:nth-child(2),
+    table td:nth-child(6),
+    table td:nth-child(9) {
         display: none;
     }
+}
+@media (max-width: 600px) {
+    table th:nth-child(4),
+    table th:nth-child(7),
+    table td:nth-child(4),
+    table td:nth-child(7) {
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {
 
     /* Adjust modal for very small screens */
     .modal-content {
