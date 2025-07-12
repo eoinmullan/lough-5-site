@@ -1,0 +1,5462 @@
+[
+  {
+    "Position": 1,
+    "Bib no.": 1,
+    "Name": "Andrew Annett",
+    "Club": "Mourne Runners",
+    "Category": "MO",
+    "Lap of Lough": "6:17",
+    "Chip Time": "0:25:44",
+    "Gun Time": "0:25:44"
+  },
+  {
+    "Position": 2,
+    "Bib no.": 108,
+    "Name": "Peter Donnelly",
+    "Club": "North belfast harriers",
+    "Category": "MO",
+    "Lap of Lough": "6:24",
+    "Chip Time": "0:26:16",
+    "Gun Time": "0:26:16"
+  },
+  {
+    "Position": 3,
+    "Bib no.": 195,
+    "Name": "Tristan Kelly",
+    "Club": "Finn valley ac",
+    "Category": "MO",
+    "Lap of Lough": "6:28",
+    "Chip Time": "0:26:44",
+    "Gun Time": "0:26:44"
+  },
+  {
+    "Position": 4,
+    "Bib no.": 421,
+    "Name": "Kyle Thompson",
+    "Club": "Loughview ac",
+    "Category": "MJ",
+    "Lap of Lough": "6:26",
+    "Chip Time": "0:26:59",
+    "Gun Time": "0:26:59"
+  },
+  {
+    "Position": 5,
+    "Bib no.": 157,
+    "Name": "Colin Griffin",
+    "Club": "Ballinamore ac",
+    "Category": "M40",
+    "Lap of Lough": "6:32",
+    "Chip Time": "0:27:01",
+    "Gun Time": "0:27:01"
+  },
+  {
+    "Position": 6,
+    "Bib no.": 620,
+    "Name": "Danny Mooney",
+    "Club": "Letterkenny AC",
+    "Category": "MO",
+    "Lap of Lough": "6:24",
+    "Chip Time": "0:27:08",
+    "Gun Time": "0:27:08"
+  },
+  {
+    "Position": 7,
+    "Bib no.": 563,
+    "Name": "Domhnall Lynam",
+    "Club": "Enniskillen",
+    "Category": "MO",
+    "Lap of Lough": "6:54",
+    "Chip Time": "0:28:01",
+    "Gun Time": "0:28:01"
+  },
+  {
+    "Position": 8,
+    "Bib no.": 166,
+    "Name": "Colly Harkin",
+    "Club": "Omagh harriers",
+    "Category": "MO",
+    "Lap of Lough": "6:53",
+    "Chip Time": "0:28:05",
+    "Gun Time": "0:28:05"
+  },
+  {
+    "Position": 9,
+    "Bib no.": 23,
+    "Name": "Raymond Birch",
+    "Club": "Letterkenny AC",
+    "Category": "M40",
+    "Lap of Lough": "6:42",
+    "Chip Time": "0:28:12",
+    "Gun Time": "0:28:12"
+  },
+  {
+    "Position": 10,
+    "Bib no.": 39,
+    "Name": "Shea Carlin",
+    "Club": "Finn valley ac",
+    "Category": "MO",
+    "Lap of Lough": "6:59",
+    "Chip Time": "0:28:27",
+    "Gun Time": "0:28:27"
+  },
+  {
+    "Position": 11,
+    "Bib no.": 298,
+    "Name": "Pius Mcintyre",
+    "Club": "Foyle valley ac",
+    "Category": "M35",
+    "Lap of Lough": "6:54",
+    "Chip Time": "0:28:31",
+    "Gun Time": "0:28:31"
+  },
+  {
+    "Position": 12,
+    "Bib no.": 76,
+    "Name": "Paul Coyle",
+    "Club": "Strabane triathlon club",
+    "Category": "M40",
+    "Lap of Lough": "6:58",
+    "Chip Time": "0:28:35",
+    "Gun Time": "0:28:35"
+  },
+  {
+    "Position": 13,
+    "Bib no.": 12,
+    "Name": "Phil Adams",
+    "Club": "Omagh harriers",
+    "Category": "M35",
+    "Lap of Lough": "7:02",
+    "Chip Time": "0:28:41",
+    "Gun Time": "0:28:41"
+  },
+  {
+    "Position": 14,
+    "Bib no.": 98,
+    "Name": "Francis Donnelly",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "6:42",
+    "Chip Time": "0:28:42",
+    "Gun Time": "0:28:42"
+  },
+  {
+    "Position": 15,
+    "Bib no.": 215,
+    "Name": "Conor Maguire",
+    "Club": "Omagh triathlon club",
+    "Category": "MO",
+    "Lap of Lough": "6:49",
+    "Chip Time": "0:28:43",
+    "Gun Time": "0:28:43"
+  },
+  {
+    "Position": 16,
+    "Bib no.": 89,
+    "Name": "Sean Diamond",
+    "Club": "Omagh harriers",
+    "Category": "MO",
+    "Lap of Lough": "6:57",
+    "Chip Time": "0:28:48",
+    "Gun Time": "0:28:48"
+  },
+  {
+    "Position": 17,
+    "Bib no.": 288,
+    "Name": "Fergus McGirr",
+    "Club": "Omagh triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "7:10",
+    "Chip Time": "0:29:08",
+    "Gun Time": "0:29:08"
+  },
+  {
+    "Position": 18,
+    "Bib no.": 478,
+    "Name": "Justin Bloomer",
+    "Club": "Mid Ulster AC",
+    "Category": "MO",
+    "Lap of Lough": "7:00",
+    "Chip Time": "0:29:25",
+    "Gun Time": "0:29:25"
+  },
+  {
+    "Position": 19,
+    "Bib no.": 207,
+    "Name": "Jonathon Loughran",
+    "Club": "Galbally Runners",
+    "Category": "M40",
+    "Lap of Lough": "7:02",
+    "Chip Time": "0:29:26",
+    "Gun Time": "0:29:29"
+  },
+  {
+    "Position": 20,
+    "Bib no.": 544,
+    "Name": "Dan Haigney",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Lap of Lough": "7:08",
+    "Chip Time": "0:29:42",
+    "Gun Time": "0:29:42"
+  },
+  {
+    "Position": 21,
+    "Bib no.": 259,
+    "Name": "Patrick Mccrory",
+    "Club": "Omagh harriers",
+    "Category": "M50",
+    "Lap of Lough": "7:14",
+    "Chip Time": "0:29:48",
+    "Gun Time": "0:29:48"
+  },
+  {
+    "Position": 22,
+    "Bib no.": 574,
+    "Name": "Chris McGuigan",
+    "Club": "Omagh Harriers",
+    "Category": "M55",
+    "Lap of Lough": "6:54",
+    "Chip Time": "0:29:46",
+    "Gun Time": "0:29:49"
+  },
+  {
+    "Position": 23,
+    "Bib no.": 219,
+    "Name": "Adrian Martin",
+    "Club": "Carmen Runners",
+    "Category": "M35",
+    "Lap of Lough": "7:06",
+    "Chip Time": "0:29:52",
+    "Gun Time": "0:29:52"
+  },
+  {
+    "Position": 24,
+    "Bib no.": 491,
+    "Name": "Aidan Borchers",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Lap of Lough": "6:59",
+    "Chip Time": "0:29:50",
+    "Gun Time": "0:29:53"
+  },
+  {
+    "Position": 25,
+    "Bib no.": 28,
+    "Name": "Richard Bradley",
+    "Club": "Galbally Runners",
+    "Category": "M35",
+    "Lap of Lough": "7:00",
+    "Chip Time": "0:29:50",
+    "Gun Time": "0:29:54"
+  },
+  {
+    "Position": 26,
+    "Bib no.": 237,
+    "Name": "Oliver Mcbride",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "7:17",
+    "Chip Time": "0:30:13",
+    "Gun Time": "0:30:16"
+  },
+  {
+    "Position": 27,
+    "Bib no.": 558,
+    "Name": "Delfim Pimentel",
+    "Club": "Delfim Runners",
+    "Category": "M55",
+    "Lap of Lough": "7:26",
+    "Chip Time": "0:30:19",
+    "Gun Time": "0:30:19"
+  },
+  {
+    "Position": 28,
+    "Bib no.": 100,
+    "Name": "Luke Donnelly",
+    "Club": "Carmen Runners",
+    "Category": "MJ",
+    "Lap of Lough": "7:38",
+    "Chip Time": "0:30:31",
+    "Gun Time": "0:30:31"
+  },
+  {
+    "Position": 29,
+    "Bib no.": 367,
+    "Name": "Grainne O'Hagan",
+    "Club": "Knockmany Running Club",
+    "Category": "FO",
+    "Lap of Lough": "7:25",
+    "Chip Time": "0:30:38",
+    "Gun Time": "0:30:40"
+  },
+  {
+    "Position": 30,
+    "Bib no.": 560,
+    "Name": "Darren Toland",
+    "Club": "Finn Valley AC",
+    "Category": "MO",
+    "Lap of Lough": "7:29",
+    "Chip Time": "0:30:46",
+    "Gun Time": "0:30:50"
+  },
+  {
+    "Position": 31,
+    "Bib no.": 156,
+    "Name": "David Graham",
+    "Club": "Mallusk harriers",
+    "Category": "M35",
+    "Lap of Lough": "7:36",
+    "Chip Time": "0:31:10",
+    "Gun Time": "0:31:11"
+  },
+  {
+    "Position": 32,
+    "Bib no.": 118,
+    "Name": "Aiden Molly",
+    "Club": "Omagh Harriers",
+    "Category": "M50",
+    "Lap of Lough": "7:23",
+    "Chip Time": "0:31:17",
+    "Gun Time": "0:31:18"
+  },
+  {
+    "Position": 33,
+    "Bib no.": 432,
+    "Name": "Fearghal Ward",
+    "Club": "Omagh harriers",
+    "Category": "M35",
+    "Lap of Lough": "7:25",
+    "Chip Time": "0:31:19",
+    "Gun Time": "0:31:20"
+  },
+  {
+    "Position": 34,
+    "Bib no.": 617,
+    "Name": "Rory Dolan",
+    "Club": "Omagh Harriers",
+    "Category": "MJ",
+    "Lap of Lough": "7:33",
+    "Chip Time": "0:31:26",
+    "Gun Time": "0:31:26"
+  },
+  {
+    "Position": 35,
+    "Bib no.": 410,
+    "Name": "Conor Smyth",
+    "Club": "Galbally Runners",
+    "Category": "MO",
+    "Lap of Lough": "7:04",
+    "Chip Time": "0:31:16",
+    "Gun Time": "0:31:30"
+  },
+  {
+    "Position": 36,
+    "Bib no.": 488,
+    "Name": "Darrell Brogan",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Lap of Lough": "7:31",
+    "Chip Time": "0:31:34",
+    "Gun Time": "0:31:35"
+  },
+  {
+    "Position": 37,
+    "Bib no.": 65,
+    "Name": "Martin Corcoran",
+    "Club": "Omagh harriers",
+    "Category": "M45",
+    "Lap of Lough": "7:20",
+    "Chip Time": "0:31:32",
+    "Gun Time": "0:31:37"
+  },
+  {
+    "Position": 38,
+    "Bib no.": 294,
+    "Name": "Fintan Mcguckin",
+    "Club": "Keep er lit",
+    "Category": "M45",
+    "Lap of Lough": "7:36",
+    "Chip Time": "0:31:51",
+    "Gun Time": "0:31:52"
+  },
+  {
+    "Position": 39,
+    "Bib no.": 299,
+    "Name": "Martin Mcivor",
+    "Club": "Omagh harriers",
+    "Category": "M40",
+    "Lap of Lough": "7:36",
+    "Chip Time": "0:31:53",
+    "Gun Time": "0:31:53"
+  },
+  {
+    "Position": 40,
+    "Bib no.": 452,
+    "Name": "Martin McLaughlin",
+    "Club": "Omagh Harriers",
+    "Category": "M60",
+    "Lap of Lough": "7:41",
+    "Chip Time": "0:31:53",
+    "Gun Time": "0:31:54"
+  },
+  {
+    "Position": 41,
+    "Bib no.": 567,
+    "Name": "Mark Farquhar",
+    "Club": "Tri Limits",
+    "Category": "M40",
+    "Lap of Lough": "7:30",
+    "Chip Time": "0:31:48",
+    "Gun Time": "0:31:57"
+  },
+  {
+    "Position": 42,
+    "Bib no.": 457,
+    "Name": "Niamh Heaney",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Lap of Lough": "7:54",
+    "Chip Time": "0:32:00",
+    "Gun Time": "0:32:00"
+  },
+  {
+    "Position": 43,
+    "Bib no.": 519,
+    "Name": "Stefan Forker",
+    "Club": "Maghery",
+    "Category": "MO",
+    "Lap of Lough": "7:41",
+    "Chip Time": "0:31:59",
+    "Gun Time": "0:32:01"
+  },
+  {
+    "Position": 44,
+    "Bib no.": 559,
+    "Name": "Ryan Porter",
+    "Club": "Finn Valley AC",
+    "Category": "MO",
+    "Lap of Lough": "7:25",
+    "Chip Time": "0:31:57",
+    "Gun Time": "0:32:02"
+  },
+  {
+    "Position": 45,
+    "Bib no.": 48,
+    "Name": "Declan Coney",
+    "Club": "Keep er lit",
+    "Category": "M40",
+    "Lap of Lough": "7:31",
+    "Chip Time": "0:32:03",
+    "Gun Time": "0:32:06"
+  },
+  {
+    "Position": 46,
+    "Bib no.": 145,
+    "Name": "Michael Gallagher",
+    "Club": "Carmen Runners",
+    "Category": "M35",
+    "Lap of Lough": "7:30",
+    "Chip Time": "0:32:03",
+    "Gun Time": "0:32:09"
+  },
+  {
+    "Position": 47,
+    "Bib no.": 171,
+    "Name": "Shane Sheridan",
+    "Club": "Kc runners",
+    "Category": "M35",
+    "Lap of Lough": "7:35",
+    "Chip Time": "0:32:04",
+    "Gun Time": "0:32:09"
+  },
+  {
+    "Position": 48,
+    "Bib no.": 490,
+    "Name": "Cathal O'Hagan",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "7:22",
+    "Chip Time": "0:32:04",
+    "Gun Time": "0:32:11"
+  },
+  {
+    "Position": 49,
+    "Bib no.": 114,
+    "Name": "Michael Duncan",
+    "Club": "Lifford Strabane AC",
+    "Category": "M60",
+    "Lap of Lough": "7:38",
+    "Chip Time": "0:32:12",
+    "Gun Time": "0:32:13"
+  },
+  {
+    "Position": 50,
+    "Bib no.": 468,
+    "Name": "Oistin McAleer",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "7:32",
+    "Chip Time": "0:32:15",
+    "Gun Time": "0:32:16"
+  },
+  {
+    "Position": 51,
+    "Bib no.": 496,
+    "Name": "Eamon Bradley",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Lap of Lough": "7:27",
+    "Chip Time": "0:32:13",
+    "Gun Time": "0:32:19"
+  },
+  {
+    "Position": 52,
+    "Bib no.": 300,
+    "Name": "Aidan Mckenna",
+    "Club": "Letterkenny AC",
+    "Category": "M50",
+    "Lap of Lough": "7:46",
+    "Chip Time": "0:32:21",
+    "Gun Time": "0:32:21"
+  },
+  {
+    "Position": 53,
+    "Bib no.": 564,
+    "Name": "Terry Canning",
+    "Club": "Omagh Harriers",
+    "Category": "M50",
+    "Lap of Lough": "7:31",
+    "Chip Time": "0:32:17",
+    "Gun Time": "0:32:21"
+  },
+  {
+    "Position": 54,
+    "Bib no.": 105,
+    "Name": "Neil Donnelly",
+    "Club": "Carmen Runners",
+    "Category": "M40",
+    "Lap of Lough": "6:53",
+    "Chip Time": "0:31:38",
+    "Gun Time": "0:32:24"
+  },
+  {
+    "Position": 55,
+    "Bib no.": 4,
+    "Name": "Eimear Mccarroll",
+    "Club": "Finn valley ac",
+    "Category": "FO",
+    "Lap of Lough": "7:56",
+    "Chip Time": "0:32:25",
+    "Gun Time": "0:32:25"
+  },
+  {
+    "Position": 56,
+    "Bib no.": 182,
+    "Name": "Philip Hughes",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "7:43",
+    "Chip Time": "0:32:34",
+    "Gun Time": "0:32:38"
+  },
+  {
+    "Position": 57,
+    "Bib no.": 70,
+    "Name": "Fionn Corry",
+    "Club": "Omagh harriers",
+    "Category": "MJ",
+    "Lap of Lough": "7:52",
+    "Chip Time": "0:32:37",
+    "Gun Time": "0:32:38"
+  },
+  {
+    "Position": 58,
+    "Bib no.": 276,
+    "Name": "Benny Mcelholm",
+    "Club": "Revolution training & fitness",
+    "Category": "M40",
+    "Lap of Lough": "7:46",
+    "Chip Time": "0:32:34",
+    "Gun Time": "0:32:39"
+  },
+  {
+    "Position": 59,
+    "Bib no.": 384,
+    "Name": "Ryan O'Neill",
+    "Club": "Keep er lit",
+    "Category": "M40",
+    "Lap of Lough": "7:40",
+    "Chip Time": "0:32:37",
+    "Gun Time": "0:32:40"
+  },
+  {
+    "Position": 60,
+    "Bib no.": 252,
+    "Name": "Aodhan Mccay",
+    "Club": "Leamington cycling and athletic",
+    "Category": "MO",
+    "Lap of Lough": "7:31",
+    "Chip Time": "0:32:37",
+    "Gun Time": "0:32:40"
+  },
+  {
+    "Position": 61,
+    "Bib no.": 337,
+    "Name": "Adrian Moore",
+    "Club": "Melvin wjr",
+    "Category": "M45",
+    "Lap of Lough": "7:40",
+    "Chip Time": "0:32:42",
+    "Gun Time": "0:32:46"
+  },
+  {
+    "Position": 62,
+    "Bib no.": 340,
+    "Name": "Stuart Morrow",
+    "Club": "Carmen Runners",
+    "Category": "M35",
+    "Lap of Lough": "7:30",
+    "Chip Time": "0:32:39",
+    "Gun Time": "0:32:47"
+  },
+  {
+    "Position": 63,
+    "Bib no.": 41,
+    "Name": "Jonny Carson",
+    "Club": "Keep er lit",
+    "Category": "M35",
+    "Lap of Lough": "7:56",
+    "Chip Time": "0:32:48",
+    "Gun Time": "0:32:49"
+  },
+  {
+    "Position": 64,
+    "Bib no.": 442,
+    "Name": "Barry McElduff",
+    "Club": "Omagh Harriers",
+    "Category": "M50",
+    "Lap of Lough": "7:52",
+    "Chip Time": "0:32:48",
+    "Gun Time": "0:32:53"
+  },
+  {
+    "Position": 65,
+    "Bib no.": 54,
+    "Name": "Martin Conroy",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "7:59",
+    "Chip Time": "0:32:55",
+    "Gun Time": "0:32:55"
+  },
+  {
+    "Position": 66,
+    "Bib no.": 13,
+    "Name": "David Aiken",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "7:38",
+    "Chip Time": "0:32:44",
+    "Gun Time": "0:32:58"
+  },
+  {
+    "Position": 67,
+    "Bib no.": 320,
+    "Name": "Dermott McNamee",
+    "Club": "Kc runners",
+    "Category": "M45",
+    "Lap of Lough": "8:02",
+    "Chip Time": "0:33:05",
+    "Gun Time": "0:33:08"
+  },
+  {
+    "Position": 68,
+    "Bib no.": 296,
+    "Name": "Pauline Mcgurren",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "7:47",
+    "Chip Time": "0:33:06",
+    "Gun Time": "0:33:10"
+  },
+  {
+    "Position": 69,
+    "Bib no.": 241,
+    "Name": "Denise Mccann",
+    "Club": "Galbally Runners",
+    "Category": "F35",
+    "Lap of Lough": "7:51",
+    "Chip Time": "0:33:07",
+    "Gun Time": "0:33:14"
+  },
+  {
+    "Position": 70,
+    "Bib no.": 239,
+    "Name": "James Mccabe",
+    "Club": "Omagh harriers",
+    "Category": "M45",
+    "Lap of Lough": "8:07",
+    "Chip Time": "0:33:23",
+    "Gun Time": "0:33:26"
+  },
+  {
+    "Position": 71,
+    "Bib no.": 588,
+    "Name": "Kevin Conroy",
+    "Club": "Omagh Harriers",
+    "Category": "M40",
+    "Lap of Lough": "7:52",
+    "Chip Time": "0:33:21",
+    "Gun Time": "0:33:27"
+  },
+  {
+    "Position": 72,
+    "Bib no.": 71,
+    "Name": "Damian Cox",
+    "Club": "Omagh harriers",
+    "Category": "M50",
+    "Lap of Lough": "7:39",
+    "Chip Time": "0:33:20",
+    "Gun Time": "0:33:28"
+  },
+  {
+    "Position": 73,
+    "Bib no.": 202,
+    "Name": "Darran Lagan",
+    "Club": "Omagh triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "7:45",
+    "Chip Time": "0:33:29",
+    "Gun Time": "0:33:33"
+  },
+  {
+    "Position": 74,
+    "Bib no.": 462,
+    "Name": "Kevin McCartan",
+    "Club": "Omagh Harriers",
+    "Category": "M40",
+    "Lap of Lough": "7:58",
+    "Chip Time": "0:33:37",
+    "Gun Time": "0:33:41"
+  },
+  {
+    "Position": 75,
+    "Bib no.": 370,
+    "Name": "Maggie O'Hara",
+    "Club": "Finn valley ac",
+    "Category": "FO",
+    "Lap of Lough": "8:02",
+    "Chip Time": "0:33:41",
+    "Gun Time": "0:33:43"
+  },
+  {
+    "Position": 76,
+    "Bib no.": 408,
+    "Name": "Derek Small",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "7:48",
+    "Chip Time": "0:33:41",
+    "Gun Time": "0:33:50"
+  },
+  {
+    "Position": 77,
+    "Bib no.": 576,
+    "Name": "Tony Toner",
+    "Club": "Termoneeny RC",
+    "Category": "M60",
+    "Lap of Lough": "8:01",
+    "Chip Time": "0:33:52",
+    "Gun Time": "0:33:54"
+  },
+  {
+    "Position": 78,
+    "Bib no.": 379,
+    "Name": "Darragh O'Neill",
+    "Club": "Omagh triathlon club",
+    "Category": "M35",
+    "Lap of Lough": "7:56",
+    "Chip Time": "0:33:59",
+    "Gun Time": "0:34:02"
+  },
+  {
+    "Position": 79,
+    "Bib no.": 531,
+    "Name": "Joanne Campbell",
+    "Club": "Finn Valley",
+    "Category": "FO",
+    "Lap of Lough": "8:20",
+    "Chip Time": "0:34:01",
+    "Gun Time": "0:34:04"
+  },
+  {
+    "Position": 80,
+    "Bib no.": 74,
+    "Name": "Gerald Coyle",
+    "Club": "Strabane triathlon club",
+    "Category": "M40",
+    "Lap of Lough": "8:22",
+    "Chip Time": "0:33:59",
+    "Gun Time": "0:34:04"
+  },
+  {
+    "Position": 81,
+    "Bib no.": 580,
+    "Name": "Sean Toner",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:10",
+    "Chip Time": "0:34:06",
+    "Gun Time": "0:34:07"
+  },
+  {
+    "Position": 82,
+    "Bib no.": 516,
+    "Name": "Aidy Finlay",
+    "Club": "KC Runners",
+    "Category": "M40",
+    "Lap of Lough": "8:04",
+    "Chip Time": "0:34:03",
+    "Gun Time": "0:34:08"
+  },
+  {
+    "Position": 83,
+    "Bib no.": 136,
+    "Name": "Andy Funnell",
+    "Club": "Omagh harriers",
+    "Category": "M35",
+    "Lap of Lough": "8:13",
+    "Chip Time": "0:34:06",
+    "Gun Time": "0:34:12"
+  },
+  {
+    "Position": 84,
+    "Bib no.": 62,
+    "Name": "Shea Conway",
+    "Club": "Loughmacrory gfc",
+    "Category": "MJ",
+    "Lap of Lough": "8:28",
+    "Chip Time": "0:34:16",
+    "Gun Time": "0:34:18"
+  },
+  {
+    "Position": 85,
+    "Bib no.": 183,
+    "Name": "Tom Hunter",
+    "Club": "Moredrinkingthanrunningclub",
+    "Category": "M50",
+    "Lap of Lough": "8:12",
+    "Chip Time": "0:34:19",
+    "Gun Time": "0:34:19"
+  },
+  {
+    "Position": 86,
+    "Bib no.": 366,
+    "Name": "Damian O'Hagan",
+    "Club": "Knockmany Running Club",
+    "Category": "M35",
+    "Lap of Lough": "8:22",
+    "Chip Time": "0:34:19",
+    "Gun Time": "0:34:25"
+  },
+  {
+    "Position": 87,
+    "Bib no.": 199,
+    "Name": "Brian Kerrigan",
+    "Club": "Clann na ngael walk jog run",
+    "Category": "M45",
+    "Lap of Lough": "8:13",
+    "Chip Time": "0:34:21",
+    "Gun Time": "0:34:25"
+  },
+  {
+    "Position": 88,
+    "Bib no.": 377,
+    "Name": "Angela O'Neill",
+    "Club": "Keep er lit",
+    "Category": "F45",
+    "Lap of Lough": "7:57",
+    "Chip Time": "0:34:18",
+    "Gun Time": "0:34:26"
+  },
+  {
+    "Position": 89,
+    "Bib no.": 518,
+    "Name": "Brendan Martin",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "8:09",
+    "Chip Time": "0:34:24",
+    "Gun Time": "0:34:27"
+  },
+  {
+    "Position": 90,
+    "Bib no.": 212,
+    "Name": "Thomas Macaulay",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "7:56",
+    "Chip Time": "0:34:19",
+    "Gun Time": "0:34:38"
+  },
+  {
+    "Position": 91,
+    "Bib no.": 557,
+    "Name": "Raymond McElroy",
+    "Club": "Magherafelt Harriers",
+    "Category": "M45",
+    "Lap of Lough": "8:16",
+    "Chip Time": "0:34:36",
+    "Gun Time": "0:34:41"
+  },
+  {
+    "Position": 92,
+    "Bib no.": 487,
+    "Name": "Vincy Hollywood",
+    "Club": "Sperrin Harriers",
+    "Category": "M55",
+    "Lap of Lough": "8:21",
+    "Chip Time": "0:34:40",
+    "Gun Time": "0:34:43"
+  },
+  {
+    "Position": 93,
+    "Bib no.": 481,
+    "Name": "Sean Canavan",
+    "Club": "Omagh St. Endas",
+    "Category": "MO",
+    "Lap of Lough": "7:32",
+    "Chip Time": "0:34:16",
+    "Gun Time": "0:34:43"
+  },
+  {
+    "Position": 94,
+    "Bib no.": 392,
+    "Name": "Darren Pritchard",
+    "Club": "Kc runners",
+    "Category": "M35",
+    "Lap of Lough": "8:43",
+    "Chip Time": "0:34:47",
+    "Gun Time": "0:34:51"
+  },
+  {
+    "Position": 95,
+    "Bib no.": 250,
+    "Name": "Mark Mccaul",
+    "Club": "Ballymena runners AC",
+    "Category": "M40",
+    "Lap of Lough": "7:58",
+    "Chip Time": "0:34:41",
+    "Gun Time": "0:34:51"
+  },
+  {
+    "Position": 96,
+    "Bib no.": 499,
+    "Name": "Paul Heaney",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "7:42",
+    "Chip Time": "0:34:26",
+    "Gun Time": "0:34:55"
+  },
+  {
+    "Position": 97,
+    "Bib no.": 205,
+    "Name": "Ciaran Loughran",
+    "Club": "Conall 97",
+    "Category": "M50",
+    "Lap of Lough": "8:05",
+    "Chip Time": "0:34:45",
+    "Gun Time": "0:34:55"
+  },
+  {
+    "Position": 98,
+    "Bib no.": 261,
+    "Name": "Ciarán Mccrystal",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "8:08",
+    "Chip Time": "0:34:54",
+    "Gun Time": "0:34:56"
+  },
+  {
+    "Position": 99,
+    "Bib no.": 430,
+    "Name": "Lee Vickery",
+    "Club": "Glw",
+    "Category": "M40",
+    "Lap of Lough": "7:56",
+    "Chip Time": "0:34:52",
+    "Gun Time": "0:35:02"
+  },
+  {
+    "Position": 100,
+    "Bib no.": 604,
+    "Name": "Majella McCartan",
+    "Club": "Carmen Runners",
+    "Category": "F40",
+    "Lap of Lough": "8:08",
+    "Chip Time": "0:34:50",
+    "Gun Time": "0:35:03"
+  },
+  {
+    "Position": 101,
+    "Bib no.": 86,
+    "Name": "Gerard Devine",
+    "Club": "Owen roes",
+    "Category": "MO",
+    "Lap of Lough": "7:23",
+    "Chip Time": "0:34:33",
+    "Gun Time": "0:35:06"
+  },
+  {
+    "Position": 102,
+    "Bib no.": 537,
+    "Name": "Conor Gallagher",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "7:50",
+    "Chip Time": "0:34:57",
+    "Gun Time": "0:35:09"
+  },
+  {
+    "Position": 103,
+    "Bib no.": 552,
+    "Name": "Brendan Woods",
+    "Club": "Galbally Runners",
+    "Category": "M50",
+    "Lap of Lough": "8:10",
+    "Chip Time": "0:34:56",
+    "Gun Time": "0:35:12"
+  },
+  {
+    "Position": 104,
+    "Bib no.": 581,
+    "Name": "Peter Stankard",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:11",
+    "Chip Time": "0:35:06",
+    "Gun Time": "0:35:13"
+  },
+  {
+    "Position": 105,
+    "Bib no.": 49,
+    "Name": "Peter Conlon",
+    "Club": "Galbally Runners",
+    "Category": "M50",
+    "Lap of Lough": "8:08",
+    "Chip Time": "0:34:59",
+    "Gun Time": "0:35:15"
+  },
+  {
+    "Position": 106,
+    "Bib no.": 542,
+    "Name": "Eugene Haigney",
+    "Club": "Omagh",
+    "Category": "M50",
+    "Lap of Lough": "8:27",
+    "Chip Time": "0:35:16",
+    "Gun Time": "0:35:23"
+  },
+  {
+    "Position": 107,
+    "Bib no.": 561,
+    "Name": "Rory McCann",
+    "Club": "Errigal Ciaran",
+    "Category": "M40",
+    "Lap of Lough": "8:02",
+    "Chip Time": "0:35:18",
+    "Gun Time": "0:35:24"
+  },
+  {
+    "Position": 108,
+    "Bib no.": 325,
+    "Name": "Brendan Mcveigh",
+    "Club": "Tri limits triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "8:10",
+    "Chip Time": "0:35:08",
+    "Gun Time": "0:35:25"
+  },
+  {
+    "Position": 109,
+    "Bib no.": 123,
+    "Name": "Gareth Fegan",
+    "Club": "Omagh tri club / omagh harriers",
+    "Category": "M35",
+    "Lap of Lough": "8:28",
+    "Chip Time": "0:35:21",
+    "Gun Time": "0:35:30"
+  },
+  {
+    "Position": 110,
+    "Bib no.": 353,
+    "Name": "Aimee Mullin",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "8:18",
+    "Chip Time": "0:35:16",
+    "Gun Time": "0:35:31"
+  },
+  {
+    "Position": 111,
+    "Bib no.": 333,
+    "Name": "Daniel Mills",
+    "Club": "Pomeroy runners",
+    "Category": "M35",
+    "Lap of Lough": "8:46",
+    "Chip Time": "0:35:32",
+    "Gun Time": "0:35:33"
+  },
+  {
+    "Position": 112,
+    "Bib no.": 565,
+    "Name": "Adrian Davidson",
+    "Club": "Tri Limits",
+    "Category": "M45",
+    "Lap of Lough": "8:30",
+    "Chip Time": "0:35:27",
+    "Gun Time": "0:35:37"
+  },
+  {
+    "Position": 113,
+    "Bib no.": 458,
+    "Name": "Oran McAleer",
+    "Club": "Omagh Tri Club",
+    "Category": "MJ",
+    "Lap of Lough": "8:29",
+    "Chip Time": "0:35:39",
+    "Gun Time": "0:35:41"
+  },
+  {
+    "Position": 114,
+    "Bib no.": 209,
+    "Name": "Stephen Lynch",
+    "Club": "Carmen Runners",
+    "Category": "M40",
+    "Lap of Lough": "8:04",
+    "Chip Time": "0:35:30",
+    "Gun Time": "0:35:41"
+  },
+  {
+    "Position": 115,
+    "Bib no.": 502,
+    "Name": "Micheal Gallagher",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "7:38",
+    "Chip Time": "0:35:28",
+    "Gun Time": "0:35:41"
+  },
+  {
+    "Position": 116,
+    "Bib no.": 467,
+    "Name": "Lorcan Meenagh",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "8:07",
+    "Chip Time": "0:35:41",
+    "Gun Time": "0:35:43"
+  },
+  {
+    "Position": 117,
+    "Bib no.": 613,
+    "Name": "David Quinn",
+    "Club": "Omagh CBS",
+    "Category": "MJ",
+    "Lap of Lough": "8:21",
+    "Chip Time": "0:35:42",
+    "Gun Time": "0:35:44"
+  },
+  {
+    "Position": 118,
+    "Bib no.": 185,
+    "Name": "Fiona Kearney",
+    "Club": "Armagh AC",
+    "Category": "F45",
+    "Lap of Lough": "8:24",
+    "Chip Time": "0:35:33",
+    "Gun Time": "0:35:44"
+  },
+  {
+    "Position": 119,
+    "Bib no.": 489,
+    "Name": "Peter O'Hara",
+    "Club": "",
+    "Category": "M65",
+    "Lap of Lough": "8:32",
+    "Chip Time": "0:35:53",
+    "Gun Time": "0:35:54"
+  },
+  {
+    "Position": 120,
+    "Bib no.": 513,
+    "Name": "Oisin O'Kane",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "7:44",
+    "Chip Time": "0:35:36",
+    "Gun Time": "0:35:55"
+  },
+  {
+    "Position": 121,
+    "Bib no.": 466,
+    "Name": "Damhan Meenagh",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "7:49",
+    "Chip Time": "0:35:41",
+    "Gun Time": "0:36:02"
+  },
+  {
+    "Position": 122,
+    "Bib no.": 534,
+    "Name": "Gavin Gallagher",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "8:20",
+    "Chip Time": "0:35:50",
+    "Gun Time": "0:36:04"
+  },
+  {
+    "Position": 123,
+    "Bib no.": 540,
+    "Name": "Joanne McNabb",
+    "Club": "Finn Valley AC",
+    "Category": "F40",
+    "Lap of Lough": "8:29",
+    "Chip Time": "0:36:02",
+    "Gun Time": "0:36:05"
+  },
+  {
+    "Position": 124,
+    "Bib no.": 440,
+    "Name": "Ciara Woods",
+    "Club": "Omagh harriers",
+    "Category": "F45",
+    "Lap of Lough": "8:27",
+    "Chip Time": "0:36:01",
+    "Gun Time": "0:36:05"
+  },
+  {
+    "Position": 125,
+    "Bib no.": 403,
+    "Name": "Gavin Rushe",
+    "Club": "Carmen Runners",
+    "Category": "MO",
+    "Lap of Lough": "8:34",
+    "Chip Time": "0:36:05",
+    "Gun Time": "0:36:13"
+  },
+  {
+    "Position": 126,
+    "Bib no.": 297,
+    "Name": "John McHugh",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:15",
+    "Chip Time": "0:36:05",
+    "Gun Time": "0:36:16"
+  },
+  {
+    "Position": 127,
+    "Bib no.": 97,
+    "Name": "Cormac Donnelly",
+    "Club": "Drumquin gfc",
+    "Category": "MJ",
+    "Lap of Lough": "8:03",
+    "Chip Time": "0:36:08",
+    "Gun Time": "0:36:22"
+  },
+  {
+    "Position": 128,
+    "Bib no.": 189,
+    "Name": "Damian Kelly",
+    "Club": "Sperrin harriers",
+    "Category": "M55",
+    "Lap of Lough": "8:27",
+    "Chip Time": "0:36:20",
+    "Gun Time": "0:36:23"
+  },
+  {
+    "Position": 129,
+    "Bib no.": 504,
+    "Name": "Richard Allen",
+    "Club": "Armagh AC",
+    "Category": "M45",
+    "Lap of Lough": "8:07",
+    "Chip Time": "0:36:14",
+    "Gun Time": "0:36:25"
+  },
+  {
+    "Position": 130,
+    "Bib no.": 164,
+    "Name": "Davey Hamilton",
+    "Club": "Carmen Runners",
+    "Category": "M60",
+    "Lap of Lough": "8:20",
+    "Chip Time": "0:36:14",
+    "Gun Time": "0:36:34"
+  },
+  {
+    "Position": 131,
+    "Bib no.": 160,
+    "Name": "Jonathan Hadley",
+    "Club": "Knockmany Running Club",
+    "Category": "M35",
+    "Lap of Lough": "8:24",
+    "Chip Time": "0:36:26",
+    "Gun Time": "0:36:36"
+  },
+  {
+    "Position": 132,
+    "Bib no.": 134,
+    "Name": "Eadaoin Fox",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "8:21",
+    "Chip Time": "0:36:23",
+    "Gun Time": "0:36:37"
+  },
+  {
+    "Position": 133,
+    "Bib no.": 128,
+    "Name": "Paul Fitzgerald",
+    "Club": "Omagh harriers",
+    "Category": "MO",
+    "Lap of Lough": "8:49",
+    "Chip Time": "0:36:34",
+    "Gun Time": "0:36:39"
+  },
+  {
+    "Position": 134,
+    "Bib no.": 616,
+    "Name": "Odhran Curran",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "8:48",
+    "Chip Time": "0:36:39",
+    "Gun Time": "0:36:41"
+  },
+  {
+    "Position": 135,
+    "Bib no.": 289,
+    "Name": "Brian Mcglone",
+    "Club": "Knockmany Running Club",
+    "Category": "M50",
+    "Lap of Lough": "8:40",
+    "Chip Time": "0:36:35",
+    "Gun Time": "0:36:49"
+  },
+  {
+    "Position": 136,
+    "Bib no.": 38,
+    "Name": "Dominic Carlin",
+    "Club": "Lifford Strabane AC",
+    "Category": "M50",
+    "Lap of Lough": "8:47",
+    "Chip Time": "0:36:51",
+    "Gun Time": "0:36:52"
+  },
+  {
+    "Position": 137,
+    "Bib no.": 81,
+    "Name": "Stephen Daly",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:46",
+    "Chip Time": "0:36:43",
+    "Gun Time": "0:36:55"
+  },
+  {
+    "Position": 138,
+    "Bib no.": 471,
+    "Name": "Terri McWilliams",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:05",
+    "Chip Time": "0:36:34",
+    "Gun Time": "0:36:56"
+  },
+  {
+    "Position": 139,
+    "Bib no.": 541,
+    "Name": "Deirdre Haigney",
+    "Club": "Omagh",
+    "Category": "F45",
+    "Lap of Lough": "8:42",
+    "Chip Time": "0:36:56",
+    "Gun Time": "0:37:03"
+  },
+  {
+    "Position": 140,
+    "Bib no.": 35,
+    "Name": "Niamh Campbell",
+    "Club": "Mid ulster athletic club",
+    "Category": "FJ",
+    "Lap of Lough": "8:47",
+    "Chip Time": "0:37:00",
+    "Gun Time": "0:37:03"
+  },
+  {
+    "Position": 141,
+    "Bib no.": 477,
+    "Name": "Gary Jeffers",
+    "Club": "Tri Limits",
+    "Category": "MO",
+    "Lap of Lough": "8:36",
+    "Chip Time": "0:36:51",
+    "Gun Time": "0:37:06"
+  },
+  {
+    "Position": 142,
+    "Bib no.": 475,
+    "Name": "Brian McBride",
+    "Club": "Letterkenny AC",
+    "Category": "M70",
+    "Lap of Lough": "9:04",
+    "Chip Time": "0:37:19",
+    "Gun Time": "0:37:19"
+  },
+  {
+    "Position": 143,
+    "Bib no.": 538,
+    "Name": "Sandra Dunseath",
+    "Club": "Magherafelt Harriers",
+    "Category": "F45",
+    "Lap of Lough": "8:40",
+    "Chip Time": "0:37:19",
+    "Gun Time": "0:37:23"
+  },
+  {
+    "Position": 144,
+    "Bib no.": 165,
+    "Name": "Cormac Hannigan",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:41",
+    "Chip Time": "0:37:08",
+    "Gun Time": "0:37:26"
+  },
+  {
+    "Position": 145,
+    "Bib no.": 423,
+    "Name": "Marie Tierney",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "8:37",
+    "Chip Time": "0:37:10",
+    "Gun Time": "0:37:28"
+  },
+  {
+    "Position": 146,
+    "Bib no.": 328,
+    "Name": "Francis Mcveigh",
+    "Club": "Galbally Runners",
+    "Category": "M40",
+    "Lap of Lough": "8:36",
+    "Chip Time": "0:37:11",
+    "Gun Time": "0:37:30"
+  },
+  {
+    "Position": 147,
+    "Bib no.": 272,
+    "Name": "Padraig Mcdermott",
+    "Club": "Omagh triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "8:45",
+    "Chip Time": "0:37:26",
+    "Gun Time": "0:37:31"
+  },
+  {
+    "Position": 148,
+    "Bib no.": 512,
+    "Name": "Ciaran McGaughey",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:37",
+    "Chip Time": "0:37:17",
+    "Gun Time": "0:37:32"
+  },
+  {
+    "Position": 149,
+    "Bib no.": 112,
+    "Name": "Steven Dornan",
+    "Club": "Sperrin harriers",
+    "Category": "M50",
+    "Lap of Lough": "8:51",
+    "Chip Time": "0:37:26",
+    "Gun Time": "0:37:38"
+  },
+  {
+    "Position": 150,
+    "Bib no.": 101,
+    "Name": "Mario Donnelly",
+    "Club": "",
+    "Category": "M65",
+    "Lap of Lough": "8:50",
+    "Chip Time": "0:37:29",
+    "Gun Time": "0:37:40"
+  },
+  {
+    "Position": 151,
+    "Bib no.": 109,
+    "Name": "Sinead Donnelly",
+    "Club": "Omagh triathlon club",
+    "Category": "F45",
+    "Lap of Lough": "8:50",
+    "Chip Time": "0:37:35",
+    "Gun Time": "0:37:41"
+  },
+  {
+    "Position": 152,
+    "Bib no.": 506,
+    "Name": "Gerard Campbell",
+    "Club": "Lifford / Strabane AC",
+    "Category": "M55",
+    "Lap of Lough": "9:07",
+    "Chip Time": "0:37:41",
+    "Gun Time": "0:37:42"
+  },
+  {
+    "Position": 153,
+    "Bib no.": 508,
+    "Name": "Shane Coyle",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:24",
+    "Chip Time": "0:37:24",
+    "Gun Time": "0:37:44"
+  },
+  {
+    "Position": 154,
+    "Bib no.": 307,
+    "Name": "Annemarie Mckernan",
+    "Club": "Keep er lit",
+    "Category": "F45",
+    "Lap of Lough": "8:59",
+    "Chip Time": "0:37:46",
+    "Gun Time": "0:37:47"
+  },
+  {
+    "Position": 155,
+    "Bib no.": 338,
+    "Name": "John Moore",
+    "Club": "Run for enda",
+    "Category": "M50",
+    "Lap of Lough": "8:29",
+    "Chip Time": "0:37:42",
+    "Gun Time": "0:38:03"
+  },
+  {
+    "Position": 156,
+    "Bib no.": 439,
+    "Name": "Patrick Withers",
+    "Club": "Omagh harriers",
+    "Category": "M35",
+    "Lap of Lough": "9:04",
+    "Chip Time": "0:37:57",
+    "Gun Time": "0:38:06"
+  },
+  {
+    "Position": 157,
+    "Bib no.": 213,
+    "Name": "Wendy Macdonald",
+    "Club": "Glw",
+    "Category": "F45",
+    "Lap of Lough": "9:00",
+    "Chip Time": "0:37:57",
+    "Gun Time": "0:38:07"
+  },
+  {
+    "Position": 158,
+    "Bib no.": 587,
+    "Name": "Dara Daly",
+    "Club": "Omagh Harriers",
+    "Category": "MJ",
+    "Lap of Lough": "8:49",
+    "Chip Time": "0:37:54",
+    "Gun Time": "0:38:08"
+  },
+  {
+    "Position": 159,
+    "Bib no.": 381,
+    "Name": "Julie O'Neill",
+    "Club": "Armagh AC",
+    "Category": "F45",
+    "Lap of Lough": "8:47",
+    "Chip Time": "0:37:58",
+    "Gun Time": "0:38:09"
+  },
+  {
+    "Position": 160,
+    "Bib no.": 253,
+    "Name": "Niall Mcclements",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:16",
+    "Chip Time": "0:37:55",
+    "Gun Time": "0:38:10"
+  },
+  {
+    "Position": 161,
+    "Bib no.": 139,
+    "Name": "Francie Gallagher",
+    "Club": "Trillick",
+    "Category": "M55",
+    "Lap of Lough": "8:32",
+    "Chip Time": "0:37:50",
+    "Gun Time": "0:38:11"
+  },
+  {
+    "Position": 162,
+    "Bib no.": 33,
+    "Name": "Adam Campbell",
+    "Club": "Carmen Runners",
+    "Category": "MO",
+    "Lap of Lough": "8:53",
+    "Chip Time": "0:37:53",
+    "Gun Time": "0:38:13"
+  },
+  {
+    "Position": 163,
+    "Bib no.": 83,
+    "Name": "Daire Devine",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:55",
+    "Chip Time": "0:37:45",
+    "Gun Time": "0:38:15"
+  },
+  {
+    "Position": 164,
+    "Bib no.": 247,
+    "Name": "Dominic Mccartan",
+    "Club": "Carmen Runners",
+    "Category": "M60",
+    "Lap of Lough": "9:40",
+    "Chip Time": "0:38:18",
+    "Gun Time": "0:38:19"
+  },
+  {
+    "Position": 165,
+    "Bib no.": 479,
+    "Name": "Ciara Tanny",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "8:29",
+    "Chip Time": "0:37:55",
+    "Gun Time": "0:38:21"
+  },
+  {
+    "Position": 166,
+    "Bib no.": 469,
+    "Name": "Cathair Logue",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "9:27",
+    "Chip Time": "0:38:10",
+    "Gun Time": "0:38:23"
+  },
+  {
+    "Position": 167,
+    "Bib no.": 363,
+    "Name": "Susan O’Neill",
+    "Club": "Tri limits triathlon club",
+    "Category": "F35",
+    "Lap of Lough": "8:53",
+    "Chip Time": "0:38:10",
+    "Gun Time": "0:38:27"
+  },
+  {
+    "Position": 168,
+    "Bib no.": 167,
+    "Name": "Jessica Harkness",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "9:00",
+    "Chip Time": "0:38:17",
+    "Gun Time": "0:38:30"
+  },
+  {
+    "Position": 169,
+    "Bib no.": 615,
+    "Name": "Pearse McDonald",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "9:45",
+    "Chip Time": "0:38:29",
+    "Gun Time": "0:38:31"
+  },
+  {
+    "Position": 170,
+    "Bib no.": 234,
+    "Name": "Fran McAtee",
+    "Club": "Otc",
+    "Category": "M50",
+    "Lap of Lough": "8:43",
+    "Chip Time": "0:38:12",
+    "Gun Time": "0:38:31"
+  },
+  {
+    "Position": 171,
+    "Bib no.": 316,
+    "Name": "Michael Mcnamee",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "9:11",
+    "Chip Time": "0:38:18",
+    "Gun Time": "0:38:32"
+  },
+  {
+    "Position": 172,
+    "Bib no.": 168,
+    "Name": "Roger Harkness",
+    "Club": "Wednesday club",
+    "Category": "M50",
+    "Lap of Lough": "8:42",
+    "Chip Time": "0:38:20",
+    "Gun Time": "0:38:34"
+  },
+  {
+    "Position": 173,
+    "Bib no.": 482,
+    "Name": "Aiden McGale",
+    "Club": "Dromore",
+    "Category": "MO",
+    "Lap of Lough": "8:23",
+    "Chip Time": "0:38:09",
+    "Gun Time": "0:38:35"
+  },
+  {
+    "Position": 174,
+    "Bib no.": 184,
+    "Name": "Chris Johnston",
+    "Club": "St Peters AC",
+    "Category": "M40",
+    "Lap of Lough": "9:33",
+    "Chip Time": "0:38:34",
+    "Gun Time": "0:38:41"
+  },
+  {
+    "Position": 175,
+    "Bib no.": 119,
+    "Name": "Owen Falconer",
+    "Club": "Omagh triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "8:40",
+    "Chip Time": "0:38:23",
+    "Gun Time": "0:38:42"
+  },
+  {
+    "Position": 176,
+    "Bib no.": 382,
+    "Name": "Martin O'Neill",
+    "Club": "Keep er lit",
+    "Category": "M45",
+    "Lap of Lough": "8:42",
+    "Chip Time": "0:38:25",
+    "Gun Time": "0:38:43"
+  },
+  {
+    "Position": 177,
+    "Bib no.": 47,
+    "Name": "Micky Collins",
+    "Club": "Omagh triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "8:59",
+    "Chip Time": "0:38:43",
+    "Gun Time": "0:38:50"
+  },
+  {
+    "Position": 178,
+    "Bib no.": 64,
+    "Name": "Patrick Conwell",
+    "Club": "St Peters AC",
+    "Category": "M60",
+    "Lap of Lough": "8:48",
+    "Chip Time": "0:38:35",
+    "Gun Time": "0:38:50"
+  },
+  {
+    "Position": 179,
+    "Bib no.": 435,
+    "Name": "Mark Willis",
+    "Club": "St Peters AC",
+    "Category": "M45",
+    "Lap of Lough": "8:49",
+    "Chip Time": "0:38:35",
+    "Gun Time": "0:38:51"
+  },
+  {
+    "Position": 180,
+    "Bib no.": 90,
+    "Name": "Hugo Doherty",
+    "Club": "Lifford Strabane AC",
+    "Category": "M50",
+    "Lap of Lough": "8:56",
+    "Chip Time": "0:38:37",
+    "Gun Time": "0:38:51"
+  },
+  {
+    "Position": 181,
+    "Bib no.": 532,
+    "Name": "Shane Corrigan",
+    "Club": "Omagh Harriers",
+    "Category": "M45",
+    "Lap of Lough": "9:07",
+    "Chip Time": "0:38:39",
+    "Gun Time": "0:38:52"
+  },
+  {
+    "Position": 182,
+    "Bib no.": 474,
+    "Name": "Brian Corry",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:23",
+    "Chip Time": "0:38:26",
+    "Gun Time": "0:38:56"
+  },
+  {
+    "Position": 183,
+    "Bib no.": 236,
+    "Name": "Jonathan Mcbride",
+    "Club": "Tri limits triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "8:42",
+    "Chip Time": "0:38:44",
+    "Gun Time": "0:39:00"
+  },
+  {
+    "Position": 184,
+    "Bib no.": 73,
+    "Name": "Eamon Coyle",
+    "Club": "Melvin wjr",
+    "Category": "M50",
+    "Lap of Lough": "9:24",
+    "Chip Time": "0:38:54",
+    "Gun Time": "0:39:00"
+  },
+  {
+    "Position": 185,
+    "Bib no.": 103,
+    "Name": "Michaela Donnelly",
+    "Club": "Omagh triathlon club",
+    "Category": "FO",
+    "Lap of Lough": "8:46",
+    "Chip Time": "0:38:49",
+    "Gun Time": "0:39:05"
+  },
+  {
+    "Position": 186,
+    "Bib no.": 339,
+    "Name": "Jennifer Morrow",
+    "Club": "Omagh triathlon club",
+    "Category": "F35",
+    "Lap of Lough": "8:48",
+    "Chip Time": "0:38:52",
+    "Gun Time": "0:39:08"
+  },
+  {
+    "Position": 187,
+    "Bib no.": 547,
+    "Name": "Marty Hagan",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:53",
+    "Chip Time": "0:38:50",
+    "Gun Time": "0:39:09"
+  },
+  {
+    "Position": 188,
+    "Bib no.": 387,
+    "Name": "Shaun Paskin",
+    "Club": "Kc runners",
+    "Category": "M35",
+    "Lap of Lough": "9:09",
+    "Chip Time": "0:39:00",
+    "Gun Time": "0:39:10"
+  },
+  {
+    "Position": 189,
+    "Bib no.": 535,
+    "Name": "Conor Cassidy",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:29",
+    "Chip Time": "0:38:36",
+    "Gun Time": "0:39:13"
+  },
+  {
+    "Position": 190,
+    "Bib no.": 485,
+    "Name": "Charlie Meenan",
+    "Club": "Killyclogher GAC",
+    "Category": "MJ",
+    "Lap of Lough": "8:13",
+    "Chip Time": "0:38:38",
+    "Gun Time": "0:39:18"
+  },
+  {
+    "Position": 191,
+    "Bib no.": 579,
+    "Name": "Leo Meenan",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "8:34",
+    "Chip Time": "0:39:00",
+    "Gun Time": "0:39:18"
+  },
+  {
+    "Position": 192,
+    "Bib no.": 230,
+    "Name": "Peter Mcanenly",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "9:40",
+    "Chip Time": "0:39:23",
+    "Gun Time": "0:39:25"
+  },
+  {
+    "Position": 193,
+    "Bib no.": 275,
+    "Name": "Eoin Mcelduff",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "8:42",
+    "Chip Time": "0:39:12",
+    "Gun Time": "0:39:27"
+  },
+  {
+    "Position": 194,
+    "Bib no.": 75,
+    "Name": "John Coyle",
+    "Club": "Lifford Strabane AC",
+    "Category": "M50",
+    "Lap of Lough": "9:25",
+    "Chip Time": "0:39:17",
+    "Gun Time": "0:39:29"
+  },
+  {
+    "Position": 195,
+    "Bib no.": 130,
+    "Name": "Fergal Foley",
+    "Club": "Kc runners",
+    "Category": "MO",
+    "Lap of Lough": "9:30",
+    "Chip Time": "0:39:22",
+    "Gun Time": "0:39:32"
+  },
+  {
+    "Position": 196,
+    "Bib no.": 364,
+    "Name": "Tracey O'Donnell",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "9:23",
+    "Chip Time": "0:39:24",
+    "Gun Time": "0:39:34"
+  },
+  {
+    "Position": 197,
+    "Bib no.": 80,
+    "Name": "Shane Curtis",
+    "Club": "Sperrin harriers",
+    "Category": "M40",
+    "Lap of Lough": "8:48",
+    "Chip Time": "0:39:17",
+    "Gun Time": "0:39:36"
+  },
+  {
+    "Position": 198,
+    "Bib no.": 115,
+    "Name": "Stephen Dunn",
+    "Club": "Jog moira",
+    "Category": "M50",
+    "Lap of Lough": "8:41",
+    "Chip Time": "0:39:14",
+    "Gun Time": "0:39:37"
+  },
+  {
+    "Position": 199,
+    "Bib no.": 169,
+    "Name": "Plunkett Hart",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "9:15",
+    "Chip Time": "0:39:27",
+    "Gun Time": "0:39:39"
+  },
+  {
+    "Position": 200,
+    "Bib no.": 362,
+    "Name": "Sean O’Donnell",
+    "Club": "Run for enda",
+    "Category": "M50",
+    "Lap of Lough": "9:08",
+    "Chip Time": "0:39:19",
+    "Gun Time": "0:39:40"
+  },
+  {
+    "Position": 201,
+    "Bib no.": 459,
+    "Name": "Gerard Corcoran",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:51",
+    "Chip Time": "0:39:12",
+    "Gun Time": "0:39:41"
+  },
+  {
+    "Position": 202,
+    "Bib no.": 196,
+    "Name": "Elaine Kerlin",
+    "Club": "Omagh harriers",
+    "Category": "F35",
+    "Lap of Lough": "9:13",
+    "Chip Time": "0:39:26",
+    "Gun Time": "0:39:42"
+  },
+  {
+    "Position": 203,
+    "Bib no.": 135,
+    "Name": "Michaela Fox",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:05",
+    "Chip Time": "0:39:30",
+    "Gun Time": "0:39:43"
+  },
+  {
+    "Position": 204,
+    "Bib no.": 429,
+    "Name": "Iliana Valiullina",
+    "Club": "Ballymena runners AC",
+    "Category": "FO",
+    "Lap of Lough": "9:11",
+    "Chip Time": "0:39:29",
+    "Gun Time": "0:39:47"
+  },
+  {
+    "Position": 205,
+    "Bib no.": 603,
+    "Name": "Kevin Clarke",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:39",
+    "Chip Time": "0:39:10",
+    "Gun Time": "0:39:49"
+  },
+  {
+    "Position": 206,
+    "Bib no.": 492,
+    "Name": "Aiden McCreesh",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "9:27",
+    "Chip Time": "0:39:48",
+    "Gun Time": "0:39:49"
+  },
+  {
+    "Position": 207,
+    "Bib no.": 575,
+    "Name": "Stephen Montgomery",
+    "Club": "1Zero1",
+    "Category": "M40",
+    "Lap of Lough": "9:09",
+    "Chip Time": "0:39:32",
+    "Gun Time": "0:39:53"
+  },
+  {
+    "Position": 208,
+    "Bib no.": 352,
+    "Name": "Chris McIvor",
+    "Club": "Kc runners",
+    "Category": "M50",
+    "Lap of Lough": "9:12",
+    "Chip Time": "0:39:51",
+    "Gun Time": "0:39:56"
+  },
+  {
+    "Position": 209,
+    "Bib no.": 404,
+    "Name": "Ivor Russell",
+    "Club": "Knockmany Running Club",
+    "Category": "M40",
+    "Lap of Lough": "9:20",
+    "Chip Time": "0:39:46",
+    "Gun Time": "0:39:57"
+  },
+  {
+    "Position": 210,
+    "Bib no.": 530,
+    "Name": "Mairead O'Kane",
+    "Club": "Run for Enda",
+    "Category": "FO",
+    "Lap of Lough": "9:34",
+    "Chip Time": "0:39:58",
+    "Gun Time": "0:39:58"
+  },
+  {
+    "Position": 211,
+    "Bib no.": 201,
+    "Name": "Erika Kudrenko",
+    "Club": "Acorns",
+    "Category": "F40",
+    "Lap of Lough": "9:18",
+    "Chip Time": "0:39:50",
+    "Gun Time": "0:39:58"
+  },
+  {
+    "Position": 212,
+    "Bib no.": 515,
+    "Name": "Chris Kerr",
+    "Club": "Knockmanny",
+    "Category": "M40",
+    "Lap of Lough": "8:52",
+    "Chip Time": "0:39:29",
+    "Gun Time": "0:40:00"
+  },
+  {
+    "Position": 213,
+    "Bib no.": 143,
+    "Name": "Maeve Gallagher",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:07",
+    "Chip Time": "0:39:41",
+    "Gun Time": "0:40:00"
+  },
+  {
+    "Position": 214,
+    "Bib no.": 279,
+    "Name": "Mark Mcelhone",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:36",
+    "Chip Time": "0:39:36",
+    "Gun Time": "0:40:00"
+  },
+  {
+    "Position": 215,
+    "Bib no.": 548,
+    "Name": "Kevin Campbell",
+    "Club": "Omagh Harriers",
+    "Category": "M45",
+    "Lap of Lough": "9:16",
+    "Chip Time": "0:39:45",
+    "Gun Time": "0:40:00"
+  },
+  {
+    "Position": 216,
+    "Bib no.": 68,
+    "Name": "Gavin Corrigan",
+    "Club": "Omagh triathlon club",
+    "Category": "M40",
+    "Lap of Lough": "9:08",
+    "Chip Time": "0:39:42",
+    "Gun Time": "0:40:01"
+  },
+  {
+    "Position": 217,
+    "Bib no.": 287,
+    "Name": "Johnny McGillion",
+    "Club": "Melvin",
+    "Category": "MO",
+    "Lap of Lough": "8:13",
+    "Chip Time": "0:39:27",
+    "Gun Time": "0:40:02"
+  },
+  {
+    "Position": 218,
+    "Bib no.": 96,
+    "Name": "Clare Donnelly",
+    "Club": "Carmen Runners",
+    "Category": "FJ",
+    "Lap of Lough": "9:16",
+    "Chip Time": "0:39:45",
+    "Gun Time": "0:40:02"
+  },
+  {
+    "Position": 219,
+    "Bib no.": 180,
+    "Name": "John Hughes",
+    "Club": "Letterkenny AC",
+    "Category": "M60",
+    "Lap of Lough": "9:00",
+    "Chip Time": "0:39:16",
+    "Gun Time": "0:40:02"
+  },
+  {
+    "Position": 220,
+    "Bib no.": 529,
+    "Name": "Jacqueline Donnelly",
+    "Club": "KC Runners",
+    "Category": "FO",
+    "Lap of Lough": "9:03",
+    "Chip Time": "0:39:41",
+    "Gun Time": "0:40:04"
+  },
+  {
+    "Position": 221,
+    "Bib no.": 69,
+    "Name": "Una Corrigan",
+    "Club": "Omagh harriers",
+    "Category": "F40",
+    "Lap of Lough": "9:24",
+    "Chip Time": "0:39:57",
+    "Gun Time": "0:40:05"
+  },
+  {
+    "Position": 222,
+    "Bib no.": 174,
+    "Name": "Anna Hempenstall",
+    "Club": "Kc runners",
+    "Category": "FJ",
+    "Lap of Lough": "8:56",
+    "Chip Time": "0:39:41",
+    "Gun Time": "0:40:06"
+  },
+  {
+    "Position": 223,
+    "Bib no.": 120,
+    "Name": "Adrian McKinney",
+    "Club": "Omagh triathlon club",
+    "Category": "M60",
+    "Lap of Lough": "9:28",
+    "Chip Time": "0:40:05",
+    "Gun Time": "0:40:10"
+  },
+  {
+    "Position": 224,
+    "Bib no.": 210,
+    "Name": "Criostoir Mac nia",
+    "Club": "Knockmany Running Club",
+    "Category": "M60",
+    "Lap of Lough": "9:38",
+    "Chip Time": "0:39:58",
+    "Gun Time": "0:40:11"
+  },
+  {
+    "Position": 225,
+    "Bib no.": 414,
+    "Name": "Shirley Stafford",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "9:16",
+    "Chip Time": "0:40:00",
+    "Gun Time": "0:40:16"
+  },
+  {
+    "Position": 226,
+    "Bib no.": 318,
+    "Name": "Paul Mcnamee",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "9:18",
+    "Chip Time": "0:40:06",
+    "Gun Time": "0:40:18"
+  },
+  {
+    "Position": 227,
+    "Bib no.": 327,
+    "Name": "Éadaoin Mcveigh",
+    "Club": "Galbally Runners",
+    "Category": "F35",
+    "Lap of Lough": "9:19",
+    "Chip Time": "0:40:01",
+    "Gun Time": "0:40:21"
+  },
+  {
+    "Position": 228,
+    "Bib no.": 25,
+    "Name": "Alice Bradley",
+    "Club": "Dub runners",
+    "Category": "F40",
+    "Lap of Lough": "8:45",
+    "Chip Time": "0:39:56",
+    "Gun Time": "0:40:22"
+  },
+  {
+    "Position": 229,
+    "Bib no.": 78,
+    "Name": "Ursula Coyle",
+    "Club": "Lifford Strabane AC",
+    "Category": "F55",
+    "Lap of Lough": "9:15",
+    "Chip Time": "0:40:11",
+    "Gun Time": "0:40:23"
+  },
+  {
+    "Position": 230,
+    "Bib no.": 526,
+    "Name": "Darragh McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "M35",
+    "Lap of Lough": "8:34",
+    "Chip Time": "0:39:53",
+    "Gun Time": "0:40:24"
+  },
+  {
+    "Position": 231,
+    "Bib no.": 473,
+    "Name": "Cathy Cunningham",
+    "Club": "Omagh Tri Club",
+    "Category": "F50",
+    "Lap of Lough": "9:25",
+    "Chip Time": "0:40:13",
+    "Gun Time": "0:40:25"
+  },
+  {
+    "Position": 232,
+    "Bib no.": 281,
+    "Name": "Matthew Mcfadden",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "8:43",
+    "Chip Time": "0:39:59",
+    "Gun Time": "0:40:26"
+  },
+  {
+    "Position": 233,
+    "Bib no.": 178,
+    "Name": "Michael Herron",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "9:29",
+    "Chip Time": "0:40:19",
+    "Gun Time": "0:40:27"
+  },
+  {
+    "Position": 234,
+    "Bib no.": 602,
+    "Name": "Barry McGarvey",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "8:30",
+    "Chip Time": "0:40:29",
+    "Gun Time": "0:40:29"
+  },
+  {
+    "Position": 235,
+    "Bib no.": 125,
+    "Name": "Joanne Fingleton",
+    "Club": "Sperrin harriers",
+    "Category": "F35",
+    "Lap of Lough": "9:35",
+    "Chip Time": "0:40:18",
+    "Gun Time": "0:40:29"
+  },
+  {
+    "Position": 236,
+    "Bib no.": 470,
+    "Name": "Cormac McAshee",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "10:33",
+    "Chip Time": "0:40:31",
+    "Gun Time": "0:40:31"
+  },
+  {
+    "Position": 237,
+    "Bib no.": 476,
+    "Name": "Victoria Todd",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:22",
+    "Chip Time": "0:40:19",
+    "Gun Time": "0:40:41"
+  },
+  {
+    "Position": 238,
+    "Bib no.": 283,
+    "Name": "Dylan McFarlane",
+    "Club": "Broughderg beasts",
+    "Category": "MJ",
+    "Lap of Lough": "9:50",
+    "Chip Time": "0:40:32",
+    "Gun Time": "0:40:45"
+  },
+  {
+    "Position": 239,
+    "Bib no.": 495,
+    "Name": "Ruairi Donaghy",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:48",
+    "Chip Time": "0:40:13",
+    "Gun Time": "0:40:46"
+  },
+  {
+    "Position": 240,
+    "Bib no.": 436,
+    "Name": "Sandra Wilson",
+    "Club": "Enniskillen",
+    "Category": "F55",
+    "Lap of Lough": "9:36",
+    "Chip Time": "0:40:34",
+    "Gun Time": "0:40:54"
+  },
+  {
+    "Position": 241,
+    "Bib no.": 416,
+    "Name": "Leigh Stirrup",
+    "Club": "Sperrin harriers",
+    "Category": "M50",
+    "Lap of Lough": "8:39",
+    "Chip Time": "0:40:19",
+    "Gun Time": "0:40:54"
+  },
+  {
+    "Position": 242,
+    "Bib no.": 225,
+    "Name": "Dessie Mcaleer",
+    "Club": "Omagh triathlon club",
+    "Category": "M55",
+    "Lap of Lough": "9:36",
+    "Chip Time": "0:40:38",
+    "Gun Time": "0:40:55"
+  },
+  {
+    "Position": 243,
+    "Bib no.": 373,
+    "Name": "Joseph O'Kane",
+    "Club": "Drumquin gac",
+    "Category": "MJ",
+    "Lap of Lough": "9:31",
+    "Chip Time": "0:40:26",
+    "Gun Time": "0:40:55"
+  },
+  {
+    "Position": 244,
+    "Bib no.": 614,
+    "Name": "Joanne Howland",
+    "Club": "Killeeshil",
+    "Category": "F45",
+    "Lap of Lough": "9:02",
+    "Chip Time": "0:40:29",
+    "Gun Time": "0:40:57"
+  },
+  {
+    "Position": 245,
+    "Bib no.": 554,
+    "Name": "Sarah Gorman",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:40",
+    "Chip Time": "0:40:51",
+    "Gun Time": "0:40:57"
+  },
+  {
+    "Position": 246,
+    "Bib no.": 507,
+    "Name": "Paddy Connolly",
+    "Club": "Killeeshil Runners",
+    "Category": "M35",
+    "Lap of Lough": "8:19",
+    "Chip Time": "0:40:13",
+    "Gun Time": "0:40:59"
+  },
+  {
+    "Position": 247,
+    "Bib no.": 600,
+    "Name": "Damien McKenna",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "8:17",
+    "Chip Time": "0:40:12",
+    "Gun Time": "0:40:59"
+  },
+  {
+    "Position": 248,
+    "Bib no.": 266,
+    "Name": "Terry McCullagh",
+    "Club": "Grave dodgers rac",
+    "Category": "M60",
+    "Lap of Lough": "8:59",
+    "Chip Time": "0:40:21",
+    "Gun Time": "0:41:01"
+  },
+  {
+    "Position": 249,
+    "Bib no.": 360,
+    "Name": "Gareth Nethercote",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:40",
+    "Chip Time": "0:40:54",
+    "Gun Time": "0:41:03"
+  },
+  {
+    "Position": 250,
+    "Bib no.": 245,
+    "Name": "Fergal Mccarney",
+    "Club": "Drumragh sarsfields",
+    "Category": "M40",
+    "Lap of Lough": "9:53",
+    "Chip Time": "0:40:47",
+    "Gun Time": "0:41:04"
+  },
+  {
+    "Position": 251,
+    "Bib no.": 411,
+    "Name": "Brendan Somerville",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "8:43",
+    "Chip Time": "0:40:36",
+    "Gun Time": "0:41:06"
+  },
+  {
+    "Position": 252,
+    "Bib no.": 344,
+    "Name": "Dermot Moxon",
+    "Club": "Galbally Runners",
+    "Category": "M35",
+    "Lap of Lough": "9:29",
+    "Chip Time": "0:40:56",
+    "Gun Time": "0:41:07"
+  },
+  {
+    "Position": 253,
+    "Bib no.": 151,
+    "Name": "Hugh Gormley",
+    "Club": "Drumquin wolfe tones",
+    "Category": "MJ",
+    "Lap of Lough": "9:23",
+    "Chip Time": "0:40:40",
+    "Gun Time": "0:41:08"
+  },
+  {
+    "Position": 254,
+    "Bib no.": 34,
+    "Name": "Declan Campbell",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "9:44",
+    "Chip Time": "0:41:03",
+    "Gun Time": "0:41:09"
+  },
+  {
+    "Position": 255,
+    "Bib no.": 262,
+    "Name": "Micheál Mccrystal",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "10:51",
+    "Chip Time": "0:41:11",
+    "Gun Time": "0:41:14"
+  },
+  {
+    "Position": 256,
+    "Bib no.": 553,
+    "Name": "Leah O'Neill",
+    "Club": "Magherafelt Harriers",
+    "Category": "F45",
+    "Lap of Lough": "9:58",
+    "Chip Time": "0:41:10",
+    "Gun Time": "0:41:15"
+  },
+  {
+    "Position": 257,
+    "Bib no.": 555,
+    "Name": "Karen McElroy",
+    "Club": "Magherafelt Harriers",
+    "Category": "F50",
+    "Lap of Lough": "10:00",
+    "Chip Time": "0:41:12",
+    "Gun Time": "0:41:15"
+  },
+  {
+    "Position": 258,
+    "Bib no.": 21,
+    "Name": "Trevor Beattie",
+    "Club": "Run for enda",
+    "Category": "M40",
+    "Lap of Lough": "8:50",
+    "Chip Time": "0:40:37",
+    "Gun Time": "0:41:16"
+  },
+  {
+    "Position": 259,
+    "Bib no.": 144,
+    "Name": "Maire Gallagher",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Lap of Lough": "9:34",
+    "Chip Time": "0:40:58",
+    "Gun Time": "0:41:17"
+  },
+  {
+    "Position": 260,
+    "Bib no.": 443,
+    "Name": "Tanya Kelly",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Lap of Lough": "9:42",
+    "Chip Time": "0:40:57",
+    "Gun Time": "0:41:19"
+  },
+  {
+    "Position": 261,
+    "Bib no.": 539,
+    "Name": "Sean og Harte",
+    "Club": "Greencastle",
+    "Category": "MJ",
+    "Lap of Lough": "8:42",
+    "Chip Time": "0:40:46",
+    "Gun Time": "0:41:20"
+  },
+  {
+    "Position": 262,
+    "Bib no.": 154,
+    "Name": "Sean Gormley",
+    "Club": "Drumquin wolfe tones",
+    "Category": "MJ",
+    "Lap of Lough": "9:07",
+    "Chip Time": "0:40:53",
+    "Gun Time": "0:41:21"
+  },
+  {
+    "Position": 263,
+    "Bib no.": 413,
+    "Name": "Trevor Spence",
+    "Club": "",
+    "Category": "M35",
+    "Lap of Lough": "9:50",
+    "Chip Time": "0:41:14",
+    "Gun Time": "0:41:28"
+  },
+  {
+    "Position": 264,
+    "Bib no.": 536,
+    "Name": "Siobhan Gorman",
+    "Club": "KC Runners",
+    "Category": "FO",
+    "Lap of Lough": "10:00",
+    "Chip Time": "0:41:22",
+    "Gun Time": "0:41:32"
+  },
+  {
+    "Position": 265,
+    "Bib no.": 50,
+    "Name": "Vincent Conlon",
+    "Club": "Aaclub",
+    "Category": "M55",
+    "Lap of Lough": "9:43",
+    "Chip Time": "0:41:23",
+    "Gun Time": "0:41:34"
+  },
+  {
+    "Position": 266,
+    "Bib no.": 510,
+    "Name": "Sean McGroory",
+    "Club": "Tattyreagh",
+    "Category": "M35",
+    "Lap of Lough": "9:37",
+    "Chip Time": "0:41:05",
+    "Gun Time": "0:41:40"
+  },
+  {
+    "Position": 267,
+    "Bib no.": 527,
+    "Name": "Jill Stevenson",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:34",
+    "Chip Time": "0:41:21",
+    "Gun Time": "0:41:43"
+  },
+  {
+    "Position": 268,
+    "Bib no.": 358,
+    "Name": "Graham Neilands",
+    "Club": "Lifford Strabane AC",
+    "Category": "M50",
+    "Lap of Lough": "9:50",
+    "Chip Time": "0:41:28",
+    "Gun Time": "0:41:43"
+  },
+  {
+    "Position": 269,
+    "Bib no.": 601,
+    "Name": "Shea Daly",
+    "Club": "Killyclogher",
+    "Category": "MJ",
+    "Lap of Lough": "9:55",
+    "Chip Time": "0:41:14",
+    "Gun Time": "0:41:44"
+  },
+  {
+    "Position": 270,
+    "Bib no.": 626,
+    "Name": "Shaun Connolly",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "9:02",
+    "Chip Time": "0:41:19",
+    "Gun Time": "0:41:47"
+  },
+  {
+    "Position": 271,
+    "Bib no.": 153,
+    "Name": "Pauline Gormley",
+    "Club": "Omagh harriers",
+    "Category": "F50",
+    "Lap of Lough": "10:04",
+    "Chip Time": "0:41:45",
+    "Gun Time": "0:41:53"
+  },
+  {
+    "Position": 272,
+    "Bib no.": 578,
+    "Name": "Peter Dolan",
+    "Club": "Run for Enda",
+    "Category": "M55",
+    "Lap of Lough": "9:11",
+    "Chip Time": "0:41:27",
+    "Gun Time": "0:41:55"
+  },
+  {
+    "Position": 273,
+    "Bib no.": 224,
+    "Name": "Catriona Mcaleer",
+    "Club": "",
+    "Category": "F50",
+    "Lap of Lough": "9:46",
+    "Chip Time": "0:41:38",
+    "Gun Time": "0:41:55"
+  },
+  {
+    "Position": 274,
+    "Bib no.": 315,
+    "Name": "Cora McNamee",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "9:39",
+    "Chip Time": "0:41:32",
+    "Gun Time": "0:41:57"
+  },
+  {
+    "Position": 275,
+    "Bib no.": 622,
+    "Name": "Therese Mullan",
+    "Club": "",
+    "Category": "F60",
+    "Lap of Lough": "9:41",
+    "Chip Time": "0:41:49",
+    "Gun Time": "0:41:57"
+  },
+  {
+    "Position": 276,
+    "Bib no.": 599,
+    "Name": "Shannon McGowan",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:04",
+    "Chip Time": "0:41:43",
+    "Gun Time": "0:41:58"
+  },
+  {
+    "Position": 277,
+    "Bib no.": 342,
+    "Name": "Jennifer Morton",
+    "Club": "Omagh harriers",
+    "Category": "F60",
+    "Lap of Lough": "10:01",
+    "Chip Time": "0:41:40",
+    "Gun Time": "0:41:59"
+  },
+  {
+    "Position": 278,
+    "Bib no.": 378,
+    "Name": "Anthony O'Neill",
+    "Club": "Sperrin harriers",
+    "Category": "M60",
+    "Lap of Lough": "9:40",
+    "Chip Time": "0:41:37",
+    "Gun Time": "0:41:59"
+  },
+  {
+    "Position": 279,
+    "Bib no.": 187,
+    "Name": "Bryan Kelly",
+    "Club": "Nias",
+    "Category": "M50",
+    "Lap of Lough": "10:07",
+    "Chip Time": "0:41:55",
+    "Gun Time": "0:42:01"
+  },
+  {
+    "Position": 280,
+    "Bib no.": 582,
+    "Name": "Seamus Conway",
+    "Club": "Loughmacrory",
+    "Category": "M40",
+    "Lap of Lough": "9:23",
+    "Chip Time": "0:41:33",
+    "Gun Time": "0:42:02"
+  },
+  {
+    "Position": 281,
+    "Bib no.": 409,
+    "Name": "Hazel Small",
+    "Club": "",
+    "Category": "F55",
+    "Lap of Lough": "9:14",
+    "Chip Time": "0:41:33",
+    "Gun Time": "0:42:04"
+  },
+  {
+    "Position": 282,
+    "Bib no.": 549,
+    "Name": "Ronan Ward",
+    "Club": "Loughmacrory",
+    "Category": "M40",
+    "Lap of Lough": "9:21",
+    "Chip Time": "0:41:34",
+    "Gun Time": "0:42:05"
+  },
+  {
+    "Position": 283,
+    "Bib no.": 509,
+    "Name": "Sean McGuigan",
+    "Club": "Killeeshil Runners",
+    "Category": "M60",
+    "Lap of Lough": "9:32",
+    "Chip Time": "0:41:40",
+    "Gun Time": "0:42:05"
+  },
+  {
+    "Position": 284,
+    "Bib no.": 192,
+    "Name": "Lisa Kelly",
+    "Club": "Omagh harriers",
+    "Category": "F45",
+    "Lap of Lough": "9:45",
+    "Chip Time": "0:41:57",
+    "Gun Time": "0:42:06"
+  },
+  {
+    "Position": 285,
+    "Bib no.": 133,
+    "Name": "Daniel Fox",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "9:02",
+    "Chip Time": "0:41:32",
+    "Gun Time": "0:42:08"
+  },
+  {
+    "Position": 286,
+    "Bib no.": 394,
+    "Name": "Colm Quinn",
+    "Club": "Killeeshil runners",
+    "Category": "M40",
+    "Lap of Lough": "9:27",
+    "Chip Time": "0:41:45",
+    "Gun Time": "0:42:11"
+  },
+  {
+    "Position": 287,
+    "Bib no.": 361,
+    "Name": "Rich Nightingale",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:09",
+    "Chip Time": "0:41:29",
+    "Gun Time": "0:42:11"
+  },
+  {
+    "Position": 288,
+    "Bib no.": 568,
+    "Name": "Lewis Farquhar",
+    "Club": "Tri Limits",
+    "Category": "MJ",
+    "Lap of Lough": "9:45",
+    "Chip Time": "0:41:43",
+    "Gun Time": "0:42:12"
+  },
+  {
+    "Position": 289,
+    "Bib no.": 556,
+    "Name": "Dervla Heaney",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Lap of Lough": "10:01",
+    "Chip Time": "0:41:52",
+    "Gun Time": "0:42:13"
+  },
+  {
+    "Position": 290,
+    "Bib no.": 122,
+    "Name": "John Fee",
+    "Club": "Enniskillen run club",
+    "Category": "M50",
+    "Lap of Lough": "9:48",
+    "Chip Time": "0:41:52",
+    "Gun Time": "0:42:13"
+  },
+  {
+    "Position": 291,
+    "Bib no.": 77,
+    "Name": "Roisin Coyle",
+    "Club": "Mevin",
+    "Category": "F35",
+    "Lap of Lough": "10:00",
+    "Chip Time": "0:42:10",
+    "Gun Time": "0:42:17"
+  },
+  {
+    "Position": 292,
+    "Bib no.": 310,
+    "Name": "Richard Mcmaster",
+    "Club": "Magherafelt harriers",
+    "Category": "M55",
+    "Lap of Lough": "10:09",
+    "Chip Time": "0:42:13",
+    "Gun Time": "0:42:17"
+  },
+  {
+    "Position": 293,
+    "Bib no.": 29,
+    "Name": "Team Bradley",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "9:48",
+    "Chip Time": "0:42:19",
+    "Gun Time": "0:42:19"
+  },
+  {
+    "Position": 294,
+    "Bib no.": 293,
+    "Name": "Patricia Mcgoldrick",
+    "Club": "",
+    "Category": "F45",
+    "Lap of Lough": "9:21",
+    "Chip Time": "0:41:52",
+    "Gun Time": "0:42:21"
+  },
+  {
+    "Position": 295,
+    "Bib no.": 583,
+    "Name": "Seamus Kelly",
+    "Club": "Loughmacrory",
+    "Category": "M40",
+    "Lap of Lough": "9:20",
+    "Chip Time": "0:41:51",
+    "Gun Time": "0:42:21"
+  },
+  {
+    "Position": 296,
+    "Bib no.": 110,
+    "Name": "Brian Doris",
+    "Club": "Keep er lit",
+    "Category": "M40",
+    "Lap of Lough": "8:32",
+    "Chip Time": "0:42:02",
+    "Gun Time": "0:42:23"
+  },
+  {
+    "Position": 297,
+    "Bib no.": 290,
+    "Name": "Michelle Mcglone",
+    "Club": "Knockmany Running Club",
+    "Category": "F50",
+    "Lap of Lough": "9:47",
+    "Chip Time": "0:42:16",
+    "Gun Time": "0:42:25"
+  },
+  {
+    "Position": 298,
+    "Bib no.": 391,
+    "Name": "Aishling Porter",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:44",
+    "Chip Time": "0:42:17",
+    "Gun Time": "0:42:27"
+  },
+  {
+    "Position": 299,
+    "Bib no.": 341,
+    "Name": "Ivor Morton",
+    "Club": "Omagh harriers",
+    "Category": "M55",
+    "Lap of Lough": "9:49",
+    "Chip Time": "0:42:06",
+    "Gun Time": "0:42:27"
+  },
+  {
+    "Position": 300,
+    "Bib no.": 104,
+    "Name": "Muireann Donnelly",
+    "Club": "Drumquin gfc",
+    "Category": "FJ",
+    "Lap of Lough": "9:34",
+    "Chip Time": "0:42:06",
+    "Gun Time": "0:42:29"
+  },
+  {
+    "Position": 301,
+    "Bib no.": 372,
+    "Name": "Gary O'Kane",
+    "Club": "Run for enda",
+    "Category": "M35",
+    "Lap of Lough": "8:57",
+    "Chip Time": "0:41:58",
+    "Gun Time": "0:42:31"
+  },
+  {
+    "Position": 302,
+    "Bib no.": 546,
+    "Name": "Aislínn Connolly",
+    "Club": "",
+    "Category": "F35",
+    "Lap of Lough": "9:30",
+    "Chip Time": "0:42:03",
+    "Gun Time": "0:42:33"
+  },
+  {
+    "Position": 303,
+    "Bib no.": 321,
+    "Name": "Ruairi Mcnamee",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "9:10",
+    "Chip Time": "0:42:01",
+    "Gun Time": "0:42:33"
+  },
+  {
+    "Position": 304,
+    "Bib no.": 203,
+    "Name": "Albert Law",
+    "Club": "Omagh harriers",
+    "Category": "M65",
+    "Lap of Lough": "9:36",
+    "Chip Time": "0:42:14",
+    "Gun Time": "0:42:34"
+  },
+  {
+    "Position": 305,
+    "Bib no.": 514,
+    "Name": "Diane McCann",
+    "Club": "Omagh Harriers",
+    "Category": "F55",
+    "Lap of Lough": "10:00",
+    "Chip Time": "0:42:22",
+    "Gun Time": "0:42:35"
+  },
+  {
+    "Position": 306,
+    "Bib no.": 52,
+    "Name": "Michael Connolly",
+    "Club": "Knockmany Running Club",
+    "Category": "M60",
+    "Lap of Lough": "9:19",
+    "Chip Time": "0:42:12",
+    "Gun Time": "0:42:36"
+  },
+  {
+    "Position": 307,
+    "Bib no.": 170,
+    "Name": "Mark Harte",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "9:19",
+    "Chip Time": "0:42:10",
+    "Gun Time": "0:42:44"
+  },
+  {
+    "Position": 308,
+    "Bib no.": 605,
+    "Name": "Aisling Fox",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:57",
+    "Chip Time": "0:42:32",
+    "Gun Time": "0:42:46"
+  },
+  {
+    "Position": 309,
+    "Bib no.": 577,
+    "Name": "Gabriel McAree",
+    "Club": "Jolly Joggers",
+    "Category": "M55",
+    "Lap of Lough": "9:11",
+    "Chip Time": "0:42:07",
+    "Gun Time": "0:42:48"
+  },
+  {
+    "Position": 310,
+    "Bib no.": 53,
+    "Name": "Caroline Conroy",
+    "Club": "",
+    "Category": "F45",
+    "Lap of Lough": "9:57",
+    "Chip Time": "0:42:30",
+    "Gun Time": "0:42:48"
+  },
+  {
+    "Position": 311,
+    "Bib no.": 323,
+    "Name": "Kevin Mcquaid",
+    "Club": "Fintona",
+    "Category": "MO",
+    "Lap of Lough": "9:52",
+    "Chip Time": "0:42:32",
+    "Gun Time": "0:42:52"
+  },
+  {
+    "Position": 312,
+    "Bib no.": 257,
+    "Name": "Niall Mccrory",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "9:23",
+    "Chip Time": "0:42:13",
+    "Gun Time": "0:42:54"
+  },
+  {
+    "Position": 313,
+    "Bib no.": 111,
+    "Name": "Martin Dorman",
+    "Club": "Keep er lit",
+    "Category": "M40",
+    "Lap of Lough": "9:04",
+    "Chip Time": "0:42:33",
+    "Gun Time": "0:42:54"
+  },
+  {
+    "Position": 314,
+    "Bib no.": 433,
+    "Name": "Laura Ward",
+    "Club": "Lochmhicruairi",
+    "Category": "FO",
+    "Lap of Lough": "10:04",
+    "Chip Time": "0:42:39",
+    "Gun Time": "0:42:57"
+  },
+  {
+    "Position": 315,
+    "Bib no.": 389,
+    "Name": "Bernie Pearson",
+    "Club": "Run for enda",
+    "Category": "F40",
+    "Lap of Lough": "10:00",
+    "Chip Time": "0:42:34",
+    "Gun Time": "0:42:57"
+  },
+  {
+    "Position": 316,
+    "Bib no.": 406,
+    "Name": "Jane Sally",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:07",
+    "Chip Time": "0:42:42",
+    "Gun Time": "0:42:57"
+  },
+  {
+    "Position": 317,
+    "Bib no.": 376,
+    "Name": "Sinead O'Kane",
+    "Club": "Omagh harriers",
+    "Category": "F40",
+    "Lap of Lough": "10:02",
+    "Chip Time": "0:42:56",
+    "Gun Time": "0:43:04"
+  },
+  {
+    "Position": 318,
+    "Bib no.": 117,
+    "Name": "Maureen Eccles",
+    "Club": "Carmen Runners",
+    "Category": "F50",
+    "Lap of Lough": "10:23",
+    "Chip Time": "0:43:04",
+    "Gun Time": "0:43:10"
+  },
+  {
+    "Position": 319,
+    "Bib no.": 608,
+    "Name": "Alexander Lee",
+    "Club": "PHF Runners",
+    "Category": "MO",
+    "Lap of Lough": "9:39",
+    "Chip Time": "0:42:48",
+    "Gun Time": "0:43:10"
+  },
+  {
+    "Position": 320,
+    "Bib no.": 520,
+    "Name": "Bianca H",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:05",
+    "Chip Time": "0:42:58",
+    "Gun Time": "0:43:11"
+  },
+  {
+    "Position": 321,
+    "Bib no.": 142,
+    "Name": "Lily Gallagher",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "10:20",
+    "Chip Time": "0:42:57",
+    "Gun Time": "0:43:12"
+  },
+  {
+    "Position": 322,
+    "Bib no.": 621,
+    "Name": "Luke Gormley",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "11:08",
+    "Chip Time": "0:43:06",
+    "Gun Time": "0:43:12"
+  },
+  {
+    "Position": 323,
+    "Bib no.": 22,
+    "Name": "Darren Bingham",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:54",
+    "Chip Time": "0:42:31",
+    "Gun Time": "0:43:15"
+  },
+  {
+    "Position": 324,
+    "Bib no.": 528,
+    "Name": "Niall Barker",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "9:29",
+    "Chip Time": "0:42:46",
+    "Gun Time": "0:43:20"
+  },
+  {
+    "Position": 325,
+    "Bib no.": 623,
+    "Name": "Kevin Gormley",
+    "Club": "Acm",
+    "Category": "M45",
+    "Lap of Lough": "9:47",
+    "Chip Time": "0:42:45",
+    "Gun Time": "0:43:20"
+  },
+  {
+    "Position": 326,
+    "Bib no.": 350,
+    "Name": "Cathy Mullan",
+    "Club": "Run for enda",
+    "Category": "F50",
+    "Lap of Lough": "10:06",
+    "Chip Time": "0:43:10",
+    "Gun Time": "0:43:22"
+  },
+  {
+    "Position": 327,
+    "Bib no.": 420,
+    "Name": "Kieran Taggart",
+    "Club": "Run for enda",
+    "Category": "M60",
+    "Lap of Lough": "10:07",
+    "Chip Time": "0:43:10",
+    "Gun Time": "0:43:23"
+  },
+  {
+    "Position": 328,
+    "Bib no.": 334,
+    "Name": "Mairead Mitchell",
+    "Club": "",
+    "Category": "F35",
+    "Lap of Lough": "9:19",
+    "Chip Time": "0:42:46",
+    "Gun Time": "0:43:23"
+  },
+  {
+    "Position": 329,
+    "Bib no.": 132,
+    "Name": "Cormac Fox",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "10:46",
+    "Chip Time": "0:43:24",
+    "Gun Time": "0:43:25"
+  },
+  {
+    "Position": 330,
+    "Bib no.": 629,
+    "Name": "Caolan Kelly",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "10:49",
+    "Chip Time": "0:43:27",
+    "Gun Time": "0:43:28"
+  },
+  {
+    "Position": 331,
+    "Bib no.": 87,
+    "Name": "John Paul Devlin",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "9:55",
+    "Chip Time": "0:43:07",
+    "Gun Time": "0:43:28"
+  },
+  {
+    "Position": 332,
+    "Bib no.": 511,
+    "Name": "Emma Ward",
+    "Club": "Carmen Runners",
+    "Category": "FO",
+    "Lap of Lough": "9:22",
+    "Chip Time": "0:43:01",
+    "Gun Time": "0:43:33"
+  },
+  {
+    "Position": 333,
+    "Bib no.": 450,
+    "Name": "Kelly McCartan",
+    "Club": "Omagh Tri Club",
+    "Category": "FO",
+    "Lap of Lough": "10:26",
+    "Chip Time": "0:43:34",
+    "Gun Time": "0:43:40"
+  },
+  {
+    "Position": 334,
+    "Bib no.": 102,
+    "Name": "Meabh Donnelly",
+    "Club": "Drumquin gfc",
+    "Category": "FJ",
+    "Lap of Lough": "9:55",
+    "Chip Time": "0:43:23",
+    "Gun Time": "0:43:45"
+  },
+  {
+    "Position": 335,
+    "Bib no.": 595,
+    "Name": "Mark Mullan",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "10:02",
+    "Chip Time": "0:43:11",
+    "Gun Time": "0:43:47"
+  },
+  {
+    "Position": 336,
+    "Bib no.": 627,
+    "Name": "Martin Fox",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "9:56",
+    "Chip Time": "0:43:23",
+    "Gun Time": "0:43:54"
+  },
+  {
+    "Position": 337,
+    "Bib no.": 371,
+    "Name": "Eugene O'Kane",
+    "Club": "Loughmacrory",
+    "Category": "M65",
+    "Lap of Lough": "10:03",
+    "Chip Time": "0:43:21",
+    "Gun Time": "0:43:57"
+  },
+  {
+    "Position": 338,
+    "Bib no.": 486,
+    "Name": "Brian Meenan",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "9:26",
+    "Chip Time": "0:43:21",
+    "Gun Time": "0:43:59"
+  },
+  {
+    "Position": 339,
+    "Bib no.": 551,
+    "Name": "Shaun Dillon",
+    "Club": "Termoneeny",
+    "Category": "F55",
+    "Lap of Lough": "9:57",
+    "Chip Time": "0:43:31",
+    "Gun Time": "0:44:04"
+  },
+  {
+    "Position": 340,
+    "Bib no.": 424,
+    "Name": "Aidan Toner",
+    "Club": "Killeeshil runners",
+    "Category": "M40",
+    "Lap of Lough": "10:45",
+    "Chip Time": "0:43:46",
+    "Gun Time": "0:44:12"
+  },
+  {
+    "Position": 341,
+    "Bib no.": 354,
+    "Name": "Cahir Mullin",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "11:15",
+    "Chip Time": "0:44:11",
+    "Gun Time": "0:44:12"
+  },
+  {
+    "Position": 342,
+    "Bib no.": 45,
+    "Name": "Paul Cassidy",
+    "Club": "Run for enda",
+    "Category": "M55",
+    "Lap of Lough": "9:50",
+    "Chip Time": "0:43:33",
+    "Gun Time": "0:44:13"
+  },
+  {
+    "Position": 343,
+    "Bib no.": 407,
+    "Name": "Aishling Service",
+    "Club": "Carmen Runners",
+    "Category": "FO",
+    "Lap of Lough": "10:27",
+    "Chip Time": "0:44:07",
+    "Gun Time": "0:44:14"
+  },
+  {
+    "Position": 344,
+    "Bib no.": 235,
+    "Name": "Shane Mcbrearty",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "10:22",
+    "Chip Time": "0:43:51",
+    "Gun Time": "0:44:15"
+  },
+  {
+    "Position": 345,
+    "Bib no.": 625,
+    "Name": "Patrick O'Reilly",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "8:41",
+    "Chip Time": "0:43:31",
+    "Gun Time": "0:44:18"
+  },
+  {
+    "Position": 346,
+    "Bib no.": 388,
+    "Name": "Lisa Patterson",
+    "Club": "",
+    "Category": "F35",
+    "Lap of Lough": "8:30",
+    "Chip Time": "0:44:09",
+    "Gun Time": "0:44:18"
+  },
+  {
+    "Position": 347,
+    "Bib no.": 99,
+    "Name": "Karen Donnelly",
+    "Club": "Carmen Runners",
+    "Category": "F45",
+    "Lap of Lough": "10:32",
+    "Chip Time": "0:44:12",
+    "Gun Time": "0:44:19"
+  },
+  {
+    "Position": 348,
+    "Bib no.": 375,
+    "Name": "Sara O'Kane",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "10:01",
+    "Chip Time": "0:44:02",
+    "Gun Time": "0:44:20"
+  },
+  {
+    "Position": 349,
+    "Bib no.": 598,
+    "Name": "Darragh Duddy",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "10:40",
+    "Chip Time": "0:44:12",
+    "Gun Time": "0:44:26"
+  },
+  {
+    "Position": 350,
+    "Bib no.": 37,
+    "Name": "Celine Carberry",
+    "Club": "Kc runners",
+    "Category": "FO",
+    "Lap of Lough": "10:22",
+    "Chip Time": "0:44:20",
+    "Gun Time": "0:44:30"
+  },
+  {
+    "Position": 351,
+    "Bib no.": 359,
+    "Name": "Brian Neill",
+    "Club": "Knockmany Running Club",
+    "Category": "M50",
+    "Lap of Lough": "9:36",
+    "Chip Time": "0:43:49",
+    "Gun Time": "0:44:30"
+  },
+  {
+    "Position": 352,
+    "Bib no.": 18,
+    "Name": "Oonagh Armstrong",
+    "Club": "Knockmany Running Club",
+    "Category": "F40",
+    "Lap of Lough": "9:37",
+    "Chip Time": "0:43:57",
+    "Gun Time": "0:44:30"
+  },
+  {
+    "Position": 353,
+    "Bib no.": 72,
+    "Name": "Daniel Coyle",
+    "Club": "Knockmany Running Club",
+    "Category": "M60",
+    "Lap of Lough": "9:35",
+    "Chip Time": "0:43:49",
+    "Gun Time": "0:44:30"
+  },
+  {
+    "Position": 354,
+    "Bib no.": 305,
+    "Name": "Catherine Mckeown",
+    "Club": "Knockmany Running Club",
+    "Category": "F40",
+    "Lap of Lough": "9:38",
+    "Chip Time": "0:43:57",
+    "Gun Time": "0:44:30"
+  },
+  {
+    "Position": 355,
+    "Bib no.": 395,
+    "Name": "Kerry Quinn",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:59",
+    "Chip Time": "0:44:03",
+    "Gun Time": "0:44:33"
+  },
+  {
+    "Position": 356,
+    "Bib no.": 285,
+    "Name": "Ryan McFarlane",
+    "Club": "Broughderg beasts",
+    "Category": "MJ",
+    "Lap of Lough": "10:13",
+    "Chip Time": "0:44:11",
+    "Gun Time": "0:44:33"
+  },
+  {
+    "Position": 357,
+    "Bib no.": 179,
+    "Name": "Ciara Holland",
+    "Club": "Killeeshil runners",
+    "Category": "F35",
+    "Lap of Lough": "9:54",
+    "Chip Time": "0:44:09",
+    "Gun Time": "0:44:34"
+  },
+  {
+    "Position": 358,
+    "Bib no.": 484,
+    "Name": "Lucy Meenan",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "9:54",
+    "Chip Time": "0:43:56",
+    "Gun Time": "0:44:35"
+  },
+  {
+    "Position": 359,
+    "Bib no.": 121,
+    "Name": "Alison Farquhar",
+    "Club": "Tri limits triathlon club",
+    "Category": "F40",
+    "Lap of Lough": "9:57",
+    "Chip Time": "0:44:07",
+    "Gun Time": "0:44:37"
+  },
+  {
+    "Position": 360,
+    "Bib no.": 322,
+    "Name": "Seana Mcquade",
+    "Club": "Omagh harriers",
+    "Category": "F45",
+    "Lap of Lough": "10:55",
+    "Chip Time": "0:44:47",
+    "Gun Time": "0:44:47"
+  },
+  {
+    "Position": 361,
+    "Bib no.": 137,
+    "Name": "Bronagh Gallagher",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:06",
+    "Chip Time": "0:44:38",
+    "Gun Time": "0:44:55"
+  },
+  {
+    "Position": 362,
+    "Bib no.": 146,
+    "Name": "Oonagh Gallagher",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:06",
+    "Chip Time": "0:44:38",
+    "Gun Time": "0:44:55"
+  },
+  {
+    "Position": 363,
+    "Bib no.": 483,
+    "Name": "Maeve Holland",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "10:17",
+    "Chip Time": "0:44:36",
+    "Gun Time": "0:44:59"
+  },
+  {
+    "Position": 364,
+    "Bib no.": 193,
+    "Name": "Owen Kelly",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "10:08",
+    "Chip Time": "0:44:25",
+    "Gun Time": "0:44:59"
+  },
+  {
+    "Position": 365,
+    "Bib no.": 194,
+    "Name": "Paddy Kelly",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "10:08",
+    "Chip Time": "0:44:25",
+    "Gun Time": "0:45:00"
+  },
+  {
+    "Position": 366,
+    "Bib no.": 533,
+    "Name": "Pamela Corrigan",
+    "Club": "Omagh Harriers",
+    "Category": "F40",
+    "Lap of Lough": "10:23",
+    "Chip Time": "0:44:50",
+    "Gun Time": "0:45:03"
+  },
+  {
+    "Position": 367,
+    "Bib no.": 284,
+    "Name": "John McFarlane",
+    "Club": "Broughderg beasts",
+    "Category": "M50",
+    "Lap of Lough": "10:16",
+    "Chip Time": "0:44:43",
+    "Gun Time": "0:45:05"
+  },
+  {
+    "Position": 368,
+    "Bib no.": 229,
+    "Name": "Vincent Mcaleer",
+    "Club": "Glenhull gliders",
+    "Category": "M40",
+    "Lap of Lough": "10:40",
+    "Chip Time": "0:44:44",
+    "Gun Time": "0:45:06"
+  },
+  {
+    "Position": 369,
+    "Bib no.": 571,
+    "Name": "Pearse Donaghy",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "10:16",
+    "Chip Time": "0:44:39",
+    "Gun Time": "0:45:08"
+  },
+  {
+    "Position": 370,
+    "Bib no.": 138,
+    "Name": "Claire Gallagher",
+    "Club": "Trillick",
+    "Category": "F55",
+    "Lap of Lough": "10:05",
+    "Chip Time": "0:44:35",
+    "Gun Time": "0:45:09"
+  },
+  {
+    "Position": 371,
+    "Bib no.": 584,
+    "Name": "Noreen McDermott",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "10:22",
+    "Chip Time": "0:44:46",
+    "Gun Time": "0:45:10"
+  },
+  {
+    "Position": 372,
+    "Bib no.": 191,
+    "Name": "Eolann Kelly",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "11:17",
+    "Chip Time": "0:45:10",
+    "Gun Time": "0:45:11"
+  },
+  {
+    "Position": 373,
+    "Bib no.": 593,
+    "Name": "Daniel Hempenstall",
+    "Club": "Loughmacrory GFC",
+    "Category": "MJ",
+    "Lap of Lough": "9:38",
+    "Chip Time": "0:45:06",
+    "Gun Time": "0:45:11"
+  },
+  {
+    "Position": 374,
+    "Bib no.": 175,
+    "Name": "Megan Hempenstall",
+    "Club": "Loughmacrory",
+    "Category": "FJ",
+    "Lap of Lough": "10:21",
+    "Chip Time": "0:44:47",
+    "Gun Time": "0:45:12"
+  },
+  {
+    "Position": 375,
+    "Bib no.": 570,
+    "Name": "Dara Conway",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "9:45",
+    "Chip Time": "0:45:12",
+    "Gun Time": "0:45:16"
+  },
+  {
+    "Position": 376,
+    "Bib no.": 437,
+    "Name": "Chris Withers",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "11:48",
+    "Chip Time": "0:45:16",
+    "Gun Time": "0:45:16"
+  },
+  {
+    "Position": 377,
+    "Bib no.": 226,
+    "Name": "Eilish Mcaleer",
+    "Club": "Run for enda",
+    "Category": "F45",
+    "Lap of Lough": "10:54",
+    "Chip Time": "0:45:09",
+    "Gun Time": "0:45:19"
+  },
+  {
+    "Position": 378,
+    "Bib no.": 566,
+    "Name": "Ciaran McCathrey",
+    "Club": "1Zero1",
+    "Category": "M55",
+    "Lap of Lough": "10:49",
+    "Chip Time": "0:45:00",
+    "Gun Time": "0:45:20"
+  },
+  {
+    "Position": 379,
+    "Bib no.": 286,
+    "Name": "Geraldine McGandy",
+    "Club": "Maguiresbridge running club",
+    "Category": "F60",
+    "Lap of Lough": "10:44",
+    "Chip Time": "0:44:57",
+    "Gun Time": "0:45:20"
+  },
+  {
+    "Position": 380,
+    "Bib no.": 274,
+    "Name": "Shauna McDonald",
+    "Club": "Carmen Runners",
+    "Category": "FO",
+    "Lap of Lough": "9:51",
+    "Chip Time": "0:44:51",
+    "Gun Time": "0:45:22"
+  },
+  {
+    "Position": 381,
+    "Bib no.": 465,
+    "Name": "Rory O'Brien",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Lap of Lough": "10:36",
+    "Chip Time": "0:45:07",
+    "Gun Time": "0:45:27"
+  },
+  {
+    "Position": 382,
+    "Bib no.": 330,
+    "Name": "Conor Mcwilliams",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "9:36",
+    "Chip Time": "0:44:52",
+    "Gun Time": "0:45:31"
+  },
+  {
+    "Position": 383,
+    "Bib no.": 188,
+    "Name": "Cara Kelly",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "10:07",
+    "Chip Time": "0:45:19",
+    "Gun Time": "0:45:38"
+  },
+  {
+    "Position": 384,
+    "Bib no.": 609,
+    "Name": "Amy McFadden",
+    "Club": "KC Runners",
+    "Category": "FO",
+    "Lap of Lough": "11:13",
+    "Chip Time": "0:45:31",
+    "Gun Time": "0:45:40"
+  },
+  {
+    "Position": 385,
+    "Bib no.": 610,
+    "Name": "Kim McGinn",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "11:11",
+    "Chip Time": "0:45:31",
+    "Gun Time": "0:45:40"
+  },
+  {
+    "Position": 386,
+    "Bib no.": 396,
+    "Name": "Ronan Logue",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "11:33",
+    "Chip Time": "0:45:40",
+    "Gun Time": "0:45:43"
+  },
+  {
+    "Position": 387,
+    "Bib no.": 91,
+    "Name": "Sean Dolan",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "9:27",
+    "Chip Time": "0:45:05",
+    "Gun Time": "0:45:45"
+  },
+  {
+    "Position": 388,
+    "Bib no.": 343,
+    "Name": "Naomi Morton",
+    "Club": "Leicester runners",
+    "Category": "FO",
+    "Lap of Lough": "10:38",
+    "Chip Time": "0:45:25",
+    "Gun Time": "0:45:47"
+  },
+  {
+    "Position": 389,
+    "Bib no.": 501,
+    "Name": "Paul O'Hare",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "10:33",
+    "Chip Time": "0:45:22",
+    "Gun Time": "0:45:48"
+  },
+  {
+    "Position": 390,
+    "Bib no.": 456,
+    "Name": "Eoin Kelly",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "11:19",
+    "Chip Time": "0:45:47",
+    "Gun Time": "0:45:49"
+  },
+  {
+    "Position": 391,
+    "Bib no.": 265,
+    "Name": "Stephen McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "M40",
+    "Lap of Lough": "10:16",
+    "Chip Time": "0:45:25",
+    "Gun Time": "0:45:54"
+  },
+  {
+    "Position": 392,
+    "Bib no.": 498,
+    "Name": "Malachy McVeigh",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "10:28",
+    "Chip Time": "0:45:30",
+    "Gun Time": "0:45:55"
+  },
+  {
+    "Position": 393,
+    "Bib no.": 15,
+    "Name": "Lorraine Arbuckle",
+    "Club": "Melvin, strabane",
+    "Category": "F40",
+    "Lap of Lough": "10:53",
+    "Chip Time": "0:45:49",
+    "Gun Time": "0:45:56"
+  },
+  {
+    "Position": 394,
+    "Bib no.": 517,
+    "Name": "Mariee Thompson",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "10:17",
+    "Chip Time": "0:45:31",
+    "Gun Time": "0:45:56"
+  },
+  {
+    "Position": 395,
+    "Bib no.": 619,
+    "Name": "Conal McAleen",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "10:09",
+    "Chip Time": "0:45:42",
+    "Gun Time": "0:45:58"
+  },
+  {
+    "Position": 396,
+    "Bib no.": 216,
+    "Name": "Seamus Maguire",
+    "Club": "Otc",
+    "Category": "M40",
+    "Lap of Lough": "10:31",
+    "Chip Time": "0:45:41",
+    "Gun Time": "0:46:02"
+  },
+  {
+    "Position": 397,
+    "Bib no.": 390,
+    "Name": "Steve Pope",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "10:38",
+    "Chip Time": "0:45:30",
+    "Gun Time": "0:46:13"
+  },
+  {
+    "Position": 398,
+    "Bib no.": 92,
+    "Name": "Ashley Donald",
+    "Club": "Omagh triathlon club",
+    "Category": "M50",
+    "Lap of Lough": "10:26",
+    "Chip Time": "0:45:40",
+    "Gun Time": "0:46:15"
+  },
+  {
+    "Position": 399,
+    "Bib no.": 277,
+    "Name": "Jarlath Mcelholm",
+    "Club": "Run for enda",
+    "Category": "M50",
+    "Lap of Lough": "10:14",
+    "Chip Time": "0:45:41",
+    "Gun Time": "0:46:16"
+  },
+  {
+    "Position": 400,
+    "Bib no.": 569,
+    "Name": "Finn Kelly",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "10:52",
+    "Chip Time": "0:46:20",
+    "Gun Time": "0:46:21"
+  },
+  {
+    "Position": 401,
+    "Bib no.": 445,
+    "Name": "Gemma O'Brien",
+    "Club": "Loughmacrory",
+    "Category": "F35",
+    "Lap of Lough": "10:05",
+    "Chip Time": "0:45:50",
+    "Gun Time": "0:46:27"
+  },
+  {
+    "Position": 402,
+    "Bib no.": 448,
+    "Name": "Ciara McAleer",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:10",
+    "Chip Time": "0:45:56",
+    "Gun Time": "0:46:32"
+  },
+  {
+    "Position": 403,
+    "Bib no.": 162,
+    "Name": "Richard Halliday",
+    "Club": "Tri limits triathlon club",
+    "Category": "M45",
+    "Lap of Lough": "10:42",
+    "Chip Time": "0:46:00",
+    "Gun Time": "0:46:33"
+  },
+  {
+    "Position": 404,
+    "Bib no.": 177,
+    "Name": "Paul Henry",
+    "Club": "Tri limits triathlon club",
+    "Category": "M40",
+    "Lap of Lough": "10:42",
+    "Chip Time": "0:46:00",
+    "Gun Time": "0:46:33"
+  },
+  {
+    "Position": 405,
+    "Bib no.": 434,
+    "Name": "Sean White",
+    "Club": "Loughmacrory",
+    "Category": "M55",
+    "Lap of Lough": "11:02",
+    "Chip Time": "0:46:07",
+    "Gun Time": "0:46:36"
+  },
+  {
+    "Position": 406,
+    "Bib no.": 624,
+    "Name": "Colm Grimes",
+    "Club": "Beragh Red Knights",
+    "Category": "MO",
+    "Lap of Lough": "11:21",
+    "Chip Time": "0:46:09",
+    "Gun Time": "0:46:42"
+  },
+  {
+    "Position": 407,
+    "Bib no.": 270,
+    "Name": "Gerry Mcdermott",
+    "Club": "Run for enda",
+    "Category": "M60",
+    "Lap of Lough": "10:38",
+    "Chip Time": "0:46:21",
+    "Gun Time": "0:46:42"
+  },
+  {
+    "Position": 408,
+    "Bib no.": 301,
+    "Name": "Daniel Mckenna",
+    "Club": "Kildress",
+    "Category": "MJ",
+    "Lap of Lough": "10:44",
+    "Chip Time": "0:46:15",
+    "Gun Time": "0:46:42"
+  },
+  {
+    "Position": 409,
+    "Bib no.": 304,
+    "Name": "Phillip Mckenna",
+    "Club": "Kildress",
+    "Category": "M40",
+    "Lap of Lough": "10:41",
+    "Chip Time": "0:46:14",
+    "Gun Time": "0:46:43"
+  },
+  {
+    "Position": 410,
+    "Bib no.": 31,
+    "Name": "Stephen Brophy",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "10:22",
+    "Chip Time": "0:46:04",
+    "Gun Time": "0:46:44"
+  },
+  {
+    "Position": 411,
+    "Bib no.": 59,
+    "Name": "Eva Conway",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "10:28",
+    "Chip Time": "0:46:02",
+    "Gun Time": "0:46:45"
+  },
+  {
+    "Position": 412,
+    "Bib no.": 311,
+    "Name": "Alanna Mcmenamin",
+    "Club": "Drumquin wolfe tones gac",
+    "Category": "FJ",
+    "Lap of Lough": "11:06",
+    "Chip Time": "0:46:44",
+    "Gun Time": "0:47:01"
+  },
+  {
+    "Position": 413,
+    "Bib no.": 173,
+    "Name": "Loretta Heaney",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "11:27",
+    "Chip Time": "0:47:05",
+    "Gun Time": "0:47:13"
+  },
+  {
+    "Position": 414,
+    "Bib no.": 268,
+    "Name": "Jack Mccusker",
+    "Club": "Drumquin gaa",
+    "Category": "MJ",
+    "Lap of Lough": "9:11",
+    "Chip Time": "0:46:36",
+    "Gun Time": "0:47:16"
+  },
+  {
+    "Position": 415,
+    "Bib no.": 449,
+    "Name": "Daniel Mulholland",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "11:12",
+    "Chip Time": "0:47:17",
+    "Gun Time": "0:47:21"
+  },
+  {
+    "Position": 416,
+    "Bib no.": 60,
+    "Name": "James Conway",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "10:56",
+    "Chip Time": "0:47:01",
+    "Gun Time": "0:47:22"
+  },
+  {
+    "Position": 417,
+    "Bib no.": 242,
+    "Name": "John Mccann",
+    "Club": "Run for enda",
+    "Category": "M70",
+    "Lap of Lough": "11:22",
+    "Chip Time": "0:47:11",
+    "Gun Time": "0:47:24"
+  },
+  {
+    "Position": 418,
+    "Bib no.": 186,
+    "Name": "Collette Keenan",
+    "Club": "Carmen Runners",
+    "Category": "F35",
+    "Lap of Lough": "10:45",
+    "Chip Time": "0:46:54",
+    "Gun Time": "0:47:26"
+  },
+  {
+    "Position": 419,
+    "Bib no.": 16,
+    "Name": "Amanda Armstrong",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "9:58",
+    "Chip Time": "0:46:46",
+    "Gun Time": "0:47:28"
+  },
+  {
+    "Position": 420,
+    "Bib no.": 480,
+    "Name": "Eimear Sweeney",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "11:28",
+    "Chip Time": "0:47:12",
+    "Gun Time": "0:47:29"
+  },
+  {
+    "Position": 421,
+    "Bib no.": 418,
+    "Name": "Mairead Sweeney",
+    "Club": "Run for enda",
+    "Category": "F60",
+    "Lap of Lough": "11:31",
+    "Chip Time": "0:47:22",
+    "Gun Time": "0:47:30"
+  },
+  {
+    "Position": 422,
+    "Bib no.": 431,
+    "Name": "Roisin Walker",
+    "Club": "Springwell running club",
+    "Category": "F45",
+    "Lap of Lough": "10:22",
+    "Chip Time": "0:46:55",
+    "Gun Time": "0:47:34"
+  },
+  {
+    "Position": 423,
+    "Bib no.": 612,
+    "Name": "Wayne Golden",
+    "Club": "Killeeshil",
+    "Category": "M50",
+    "Lap of Lough": "11:01",
+    "Chip Time": "0:47:07",
+    "Gun Time": "0:47:35"
+  },
+  {
+    "Position": 424,
+    "Bib no.": 93,
+    "Name": "Alison Donnell",
+    "Club": "",
+    "Category": "F45",
+    "Lap of Lough": "11:05",
+    "Chip Time": "0:47:12",
+    "Gun Time": "0:47:36"
+  },
+  {
+    "Position": 425,
+    "Bib no.": 317,
+    "Name": "Niall Mcnamee",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "12:05",
+    "Chip Time": "0:47:36",
+    "Gun Time": "0:47:41"
+  },
+  {
+    "Position": 426,
+    "Bib no.": 36,
+    "Name": "Nick Campbell",
+    "Club": "Eskra macs g4mo",
+    "Category": "MO",
+    "Lap of Lough": "11:29",
+    "Chip Time": "0:47:33",
+    "Gun Time": "0:47:44"
+  },
+  {
+    "Position": 427,
+    "Bib no.": 208,
+    "Name": "Hayley Lunny",
+    "Club": "Eskra macs g4mo",
+    "Category": "FO",
+    "Lap of Lough": "11:29",
+    "Chip Time": "0:47:33",
+    "Gun Time": "0:47:44"
+  },
+  {
+    "Position": 428,
+    "Bib no.": 386,
+    "Name": "Roisin Paskin",
+    "Club": "Kc runners",
+    "Category": "FO",
+    "Lap of Lough": "11:30",
+    "Chip Time": "0:47:33",
+    "Gun Time": "0:47:44"
+  },
+  {
+    "Position": 429,
+    "Bib no.": 82,
+    "Name": "Christian Davis",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "10:16",
+    "Chip Time": "0:47:08",
+    "Gun Time": "0:47:49"
+  },
+  {
+    "Position": 430,
+    "Bib no.": 19,
+    "Name": "Amy Ayna",
+    "Club": "Lough gfc",
+    "Category": "FJ",
+    "Lap of Lough": "10:08",
+    "Chip Time": "0:47:06",
+    "Gun Time": "0:47:50"
+  },
+  {
+    "Position": 431,
+    "Bib no.": 349,
+    "Name": "Aaron Mullan",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "11:03",
+    "Chip Time": "0:47:14",
+    "Gun Time": "0:47:52"
+  },
+  {
+    "Position": 432,
+    "Bib no.": 412,
+    "Name": "Tiernan Somerville",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "11:52",
+    "Chip Time": "0:47:22",
+    "Gun Time": "0:47:53"
+  },
+  {
+    "Position": 433,
+    "Bib no.": 107,
+    "Name": "Pauline Donnelly",
+    "Club": "Knockmany Running Club",
+    "Category": "F60",
+    "Lap of Lough": "11:06",
+    "Chip Time": "0:47:39",
+    "Gun Time": "0:47:56"
+  },
+  {
+    "Position": 434,
+    "Bib no.": 335,
+    "Name": "Maura Montague",
+    "Club": "Knockmany Running Club",
+    "Category": "F45",
+    "Lap of Lough": "11:08",
+    "Chip Time": "0:47:40",
+    "Gun Time": "0:47:57"
+  },
+  {
+    "Position": 435,
+    "Bib no.": 221,
+    "Name": "Ónagh Martin",
+    "Club": "",
+    "Category": "F35",
+    "Lap of Lough": "10:57",
+    "Chip Time": "0:47:33",
+    "Gun Time": "0:47:57"
+  },
+  {
+    "Position": 436,
+    "Bib no.": 214,
+    "Name": "Jemma Maclaine",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:25",
+    "Chip Time": "0:47:18",
+    "Gun Time": "0:47:59"
+  },
+  {
+    "Position": 437,
+    "Bib no.": 148,
+    "Name": "James Given",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "10:42",
+    "Chip Time": "0:47:27",
+    "Gun Time": "0:48:03"
+  },
+  {
+    "Position": 438,
+    "Bib no.": 522,
+    "Name": "Barry O'Neill",
+    "Club": "Sperrin",
+    "Category": "M55",
+    "Lap of Lough": "11:42",
+    "Chip Time": "0:48:03",
+    "Gun Time": "0:48:08"
+  },
+  {
+    "Position": 439,
+    "Bib no.": 88,
+    "Name": "Sharon Devlin",
+    "Club": "Kc runners",
+    "Category": "F50",
+    "Lap of Lough": "11:21",
+    "Chip Time": "0:48:03",
+    "Gun Time": "0:48:10"
+  },
+  {
+    "Position": 440,
+    "Bib no.": 319,
+    "Name": "Paula McNamee",
+    "Club": "Kc runners",
+    "Category": "F50",
+    "Lap of Lough": "11:21",
+    "Chip Time": "0:48:04",
+    "Gun Time": "0:48:11"
+  },
+  {
+    "Position": 441,
+    "Bib no.": 324,
+    "Name": "Maire Mcsorley",
+    "Club": "Trillick",
+    "Category": "FO",
+    "Lap of Lough": "11:04",
+    "Chip Time": "0:47:49",
+    "Gun Time": "0:48:13"
+  },
+  {
+    "Position": 442,
+    "Bib no.": 141,
+    "Name": "Kate Gallagher",
+    "Club": "Run for enda",
+    "Category": "FO",
+    "Lap of Lough": "10:36",
+    "Chip Time": "0:47:40",
+    "Gun Time": "0:48:17"
+  },
+  {
+    "Position": 443,
+    "Bib no.": 441,
+    "Name": "Ryan Woodward",
+    "Club": "Pomeroy runners",
+    "Category": "M45",
+    "Lap of Lough": "10:52",
+    "Chip Time": "0:47:37",
+    "Gun Time": "0:48:17"
+  },
+  {
+    "Position": 444,
+    "Bib no.": 326,
+    "Name": "Danny Mcveigh",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "11:27",
+    "Chip Time": "0:47:55",
+    "Gun Time": "0:48:21"
+  },
+  {
+    "Position": 445,
+    "Bib no.": 11,
+    "Name": "Pamela Adams",
+    "Club": "Run for enda",
+    "Category": "F60",
+    "Lap of Lough": "11:24",
+    "Chip Time": "0:48:16",
+    "Gun Time": "0:48:29"
+  },
+  {
+    "Position": 446,
+    "Bib no.": 228,
+    "Name": "Tiernan Mcaleer",
+    "Club": "Omagh harriers",
+    "Category": "MO",
+    "Lap of Lough": "10:43",
+    "Chip Time": "0:48:15",
+    "Gun Time": "0:48:34"
+  },
+  {
+    "Position": 447,
+    "Bib no.": 543,
+    "Name": "Ciara Gordon",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "11:43",
+    "Chip Time": "0:48:10",
+    "Gun Time": "0:48:35"
+  },
+  {
+    "Position": 448,
+    "Bib no.": 30,
+    "Name": "Toni Broderick",
+    "Club": "Run for enda",
+    "Category": "F45",
+    "Lap of Lough": "11:43",
+    "Chip Time": "0:48:27",
+    "Gun Time": "0:48:36"
+  },
+  {
+    "Position": 449,
+    "Bib no.": 84,
+    "Name": "Fintan Devine",
+    "Club": "Aughabrack",
+    "Category": "M50",
+    "Lap of Lough": "11:29",
+    "Chip Time": "0:48:08",
+    "Gun Time": "0:48:38"
+  },
+  {
+    "Position": 450,
+    "Bib no.": 211,
+    "Name": "Rachael Macaulay",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "10:49",
+    "Chip Time": "0:48:21",
+    "Gun Time": "0:48:40"
+  },
+  {
+    "Position": 451,
+    "Bib no.": 351,
+    "Name": "Jim Mullan",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "11:29",
+    "Chip Time": "0:48:17",
+    "Gun Time": "0:48:40"
+  },
+  {
+    "Position": 452,
+    "Bib no.": 383,
+    "Name": "Michelle O'Neill",
+    "Club": "Run for enda",
+    "Category": "F45",
+    "Lap of Lough": "11:40",
+    "Chip Time": "0:48:35",
+    "Gun Time": "0:48:43"
+  },
+  {
+    "Position": 453,
+    "Bib no.": 79,
+    "Name": "Sinead Curran",
+    "Club": "",
+    "Category": "F45",
+    "Lap of Lough": "10:30",
+    "Chip Time": "0:48:23",
+    "Gun Time": "0:48:59"
+  },
+  {
+    "Position": 454,
+    "Bib no.": 594,
+    "Name": "Claire Mullan",
+    "Club": "Killeeshil Runners",
+    "Category": "FO",
+    "Lap of Lough": "11:03",
+    "Chip Time": "0:48:25",
+    "Gun Time": "0:49:01"
+  },
+  {
+    "Position": 455,
+    "Bib no.": 399,
+    "Name": "Patricia Recardo",
+    "Club": "Knockmany Running Club",
+    "Category": "F40",
+    "Lap of Lough": "10:54",
+    "Chip Time": "0:48:23",
+    "Gun Time": "0:49:02"
+  },
+  {
+    "Position": 456,
+    "Bib no.": 40,
+    "Name": "Maria Carr",
+    "Club": "St teresa's",
+    "Category": "F45",
+    "Lap of Lough": "11:46",
+    "Chip Time": "0:48:53",
+    "Gun Time": "0:49:10"
+  },
+  {
+    "Position": 457,
+    "Bib no.": 550,
+    "Name": "Evelyn Hempton",
+    "Club": "",
+    "Category": "F50",
+    "Lap of Lough": "11:16",
+    "Chip Time": "0:49:02",
+    "Gun Time": "0:49:22"
+  },
+  {
+    "Position": 458,
+    "Bib no.": 204,
+    "Name": "Cathal Loughery",
+    "Club": "Clann na ngael walk jog run",
+    "Category": "M40",
+    "Lap of Lough": "11:08",
+    "Chip Time": "0:48:57",
+    "Gun Time": "0:49:24"
+  },
+  {
+    "Position": 459,
+    "Bib no.": 313,
+    "Name": "Greg McMullan",
+    "Club": "Knockmany Running Club",
+    "Category": "M60",
+    "Lap of Lough": "10:30",
+    "Chip Time": "0:48:52",
+    "Gun Time": "0:49:33"
+  },
+  {
+    "Position": 460,
+    "Bib no.": 218,
+    "Name": "Gary Marshall",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "11:15",
+    "Chip Time": "0:49:09",
+    "Gun Time": "0:49:38"
+  },
+  {
+    "Position": 461,
+    "Bib no.": 200,
+    "Name": "Sinead Kerrigan",
+    "Club": "Clann na ngael walk jog run",
+    "Category": "F45",
+    "Lap of Lough": "13:05",
+    "Chip Time": "0:49:39",
+    "Gun Time": "0:49:42"
+  },
+  {
+    "Position": 462,
+    "Bib no.": 147,
+    "Name": "Paddy Gallagher",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "10:58",
+    "Chip Time": "0:49:17",
+    "Gun Time": "0:49:45"
+  },
+  {
+    "Position": 463,
+    "Bib no.": 267,
+    "Name": "Colette Mccusker",
+    "Club": "Drumquin gaa",
+    "Category": "F40",
+    "Lap of Lough": "11:26",
+    "Chip Time": "0:49:11",
+    "Gun Time": "0:49:51"
+  },
+  {
+    "Position": 464,
+    "Bib no.": 505,
+    "Name": "Gerard Magee",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "11:07",
+    "Chip Time": "0:49:16",
+    "Gun Time": "0:49:54"
+  },
+  {
+    "Position": 465,
+    "Bib no.": 355,
+    "Name": "Nadine Mullin",
+    "Club": "",
+    "Category": "F35",
+    "Lap of Lough": "11:47",
+    "Chip Time": "0:49:41",
+    "Gun Time": "0:49:58"
+  },
+  {
+    "Position": 466,
+    "Bib no.": 24,
+    "Name": "Amanda Boyd",
+    "Club": "Mrc",
+    "Category": "F45",
+    "Lap of Lough": "11:43",
+    "Chip Time": "0:49:38",
+    "Gun Time": "0:50:01"
+  },
+  {
+    "Position": 467,
+    "Bib no.": 357,
+    "Name": "Dolores Neeson",
+    "Club": "Knockmany Running Club",
+    "Category": "F60",
+    "Lap of Lough": "11:23",
+    "Chip Time": "0:49:44",
+    "Gun Time": "0:50:24"
+  },
+  {
+    "Position": 468,
+    "Bib no.": 589,
+    "Name": "Cathy McKenna",
+    "Club": "Knockmanny",
+    "Category": "F40",
+    "Lap of Lough": "11:12",
+    "Chip Time": "0:49:47",
+    "Gun Time": "0:50:25"
+  },
+  {
+    "Position": 469,
+    "Bib no.": 220,
+    "Name": "Megan Martin",
+    "Club": "Run for enda",
+    "Category": "FO",
+    "Lap of Lough": "11:50",
+    "Chip Time": "0:50:22",
+    "Gun Time": "0:50:31"
+  },
+  {
+    "Position": 470,
+    "Bib no.": 255,
+    "Name": "Damian Mccorry",
+    "Club": "",
+    "Category": "M60",
+    "Lap of Lough": "11:16",
+    "Chip Time": "0:49:51",
+    "Gun Time": "0:50:34"
+  },
+  {
+    "Position": 471,
+    "Bib no.": 417,
+    "Name": "Dara Sweeney",
+    "Club": "Carmen Runners",
+    "Category": "M50",
+    "Lap of Lough": "11:39",
+    "Chip Time": "0:50:06",
+    "Gun Time": "0:50:40"
+  },
+  {
+    "Position": 472,
+    "Bib no.": 217,
+    "Name": "Elaine Mallaghan",
+    "Club": "Omagh triathlon club",
+    "Category": "F40",
+    "Lap of Lough": "11:32",
+    "Chip Time": "0:50:34",
+    "Gun Time": "0:50:54"
+  },
+  {
+    "Position": 473,
+    "Bib no.": 190,
+    "Name": "Eimear Kelly",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "11:49",
+    "Chip Time": "0:50:26",
+    "Gun Time": "0:50:59"
+  },
+  {
+    "Position": 474,
+    "Bib no.": 415,
+    "Name": "Nigel Sterndale",
+    "Club": "",
+    "Category": "M55",
+    "Lap of Lough": "11:31",
+    "Chip Time": "0:50:30",
+    "Gun Time": "0:51:03"
+  },
+  {
+    "Position": 475,
+    "Bib no.": 428,
+    "Name": "Steve Turner",
+    "Club": "Bad ones runners",
+    "Category": "M45",
+    "Lap of Lough": "11:49",
+    "Chip Time": "0:50:23",
+    "Gun Time": "0:51:04"
+  },
+  {
+    "Position": 476,
+    "Bib no.": 336,
+    "Name": "Kathleen Moohan",
+    "Club": "Run for enda",
+    "Category": "F65",
+    "Lap of Lough": "12:05",
+    "Chip Time": "0:51:01",
+    "Gun Time": "0:51:26"
+  },
+  {
+    "Position": 477,
+    "Bib no.": 586,
+    "Name": "Catherine McCormack",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "12:22",
+    "Chip Time": "0:51:28",
+    "Gun Time": "0:51:39"
+  },
+  {
+    "Position": 478,
+    "Bib no.": 585,
+    "Name": "Pat McCormack",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "12:23",
+    "Chip Time": "0:51:29",
+    "Gun Time": "0:51:39"
+  },
+  {
+    "Position": 479,
+    "Bib no.": 446,
+    "Name": "Cathal O'Brien",
+    "Club": "Loughmacrory",
+    "Category": "M35",
+    "Lap of Lough": "12:48",
+    "Chip Time": "0:51:16",
+    "Gun Time": "0:51:40"
+  },
+  {
+    "Position": 480,
+    "Bib no.": 573,
+    "Name": "Aisling Shortt",
+    "Club": "Knockmany Runners",
+    "Category": "M40",
+    "Lap of Lough": "12:06",
+    "Chip Time": "0:51:03",
+    "Gun Time": "0:51:41"
+  },
+  {
+    "Position": 481,
+    "Bib no.": 461,
+    "Name": "Cathaoir Gormley",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "12:19",
+    "Chip Time": "0:51:25",
+    "Gun Time": "0:51:41"
+  },
+  {
+    "Position": 482,
+    "Bib no.": 314,
+    "Name": "Pamela Mcnally",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "14:48",
+    "Chip Time": "0:51:34",
+    "Gun Time": "0:51:50"
+  },
+  {
+    "Position": 483,
+    "Bib no.": 545,
+    "Name": "Kevin Kearns",
+    "Club": "Run for Enda",
+    "Category": "M50",
+    "Lap of Lough": "15:09",
+    "Chip Time": "0:51:36",
+    "Gun Time": "0:51:50"
+  },
+  {
+    "Position": 484,
+    "Bib no.": 95,
+    "Name": "Chris Donnelly",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "12:33",
+    "Chip Time": "0:51:20",
+    "Gun Time": "0:51:55"
+  },
+  {
+    "Position": 485,
+    "Bib no.": 523,
+    "Name": "Tommy Mullin",
+    "Club": "Kildress",
+    "Category": "MJ",
+    "Lap of Lough": "12:53",
+    "Chip Time": "0:51:27",
+    "Gun Time": "0:51:58"
+  },
+  {
+    "Position": 486,
+    "Bib no.": 596,
+    "Name": "Lisa Norris",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "11:53",
+    "Chip Time": "0:51:24",
+    "Gun Time": "0:51:58"
+  },
+  {
+    "Position": 487,
+    "Bib no.": 597,
+    "Name": "Paul Butler",
+    "Club": "",
+    "Category": "MO",
+    "Lap of Lough": "11:53",
+    "Chip Time": "0:51:24",
+    "Gun Time": "0:51:58"
+  },
+  {
+    "Position": 488,
+    "Bib no.": 500,
+    "Name": "Rebekah Mullin",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "11:16",
+    "Chip Time": "0:51:26",
+    "Gun Time": "0:52:03"
+  },
+  {
+    "Position": 489,
+    "Bib no.": 291,
+    "Name": "Alicia Mcgoldrick",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "11:54",
+    "Chip Time": "0:51:40",
+    "Gun Time": "0:52:10"
+  },
+  {
+    "Position": 490,
+    "Bib no.": 422,
+    "Name": "David Tierney",
+    "Club": "Omagh st.enda's",
+    "Category": "M35",
+    "Lap of Lough": "12:25",
+    "Chip Time": "0:51:50",
+    "Gun Time": "0:52:23"
+  },
+  {
+    "Position": 491,
+    "Bib no.": 393,
+    "Name": "Brigid Quinn",
+    "Club": "Ballymena runners AC",
+    "Category": "F75",
+    "Lap of Lough": "12:13",
+    "Chip Time": "0:52:10",
+    "Gun Time": "0:52:29"
+  },
+  {
+    "Position": 492,
+    "Bib no.": 140,
+    "Name": "Julie Gallagher",
+    "Club": "Omagh harriers",
+    "Category": "F40",
+    "Lap of Lough": "12:04",
+    "Chip Time": "0:52:22",
+    "Gun Time": "0:52:30"
+  },
+  {
+    "Position": 493,
+    "Bib no.": 278,
+    "Name": "Cathal McElhone",
+    "Club": "",
+    "Category": "M40",
+    "Lap of Lough": "12:14",
+    "Chip Time": "0:52:01",
+    "Gun Time": "0:52:44"
+  },
+  {
+    "Position": 494,
+    "Bib no.": 44,
+    "Name": "Marjorie Cassidy",
+    "Club": "",
+    "Category": "F50",
+    "Lap of Lough": "11:47",
+    "Chip Time": "0:52:03",
+    "Gun Time": "0:52:45"
+  },
+  {
+    "Position": 495,
+    "Bib no.": 113,
+    "Name": "Katy Duncan",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "12:01",
+    "Chip Time": "0:52:07",
+    "Gun Time": "0:52:47"
+  },
+  {
+    "Position": 496,
+    "Bib no.": 233,
+    "Name": "Meabh Mcanespie",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "11:25",
+    "Chip Time": "0:52:10",
+    "Gun Time": "0:52:54"
+  },
+  {
+    "Position": 497,
+    "Bib no.": 472,
+    "Name": "Gerry Owens",
+    "Club": "",
+    "Category": "M65",
+    "Lap of Lough": "11:50",
+    "Chip Time": "0:52:16",
+    "Gun Time": "0:53:01"
+  },
+  {
+    "Position": 498,
+    "Bib no.": 503,
+    "Name": "Colleen Dobbs",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "11:40",
+    "Chip Time": "0:52:32",
+    "Gun Time": "0:53:09"
+  },
+  {
+    "Position": 499,
+    "Bib no.": 163,
+    "Name": "Sarah Halliday",
+    "Club": "Tri limits triathlon club",
+    "Category": "F45",
+    "Lap of Lough": "12:09",
+    "Chip Time": "0:52:41",
+    "Gun Time": "0:53:13"
+  },
+  {
+    "Position": 500,
+    "Bib no.": 56,
+    "Name": "Emer Conway",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "11:04",
+    "Chip Time": "0:52:31",
+    "Gun Time": "0:53:15"
+  },
+  {
+    "Position": 501,
+    "Bib no.": 444,
+    "Name": "Orlagh Toner",
+    "Club": "Loughmacrory",
+    "Category": "FJ",
+    "Lap of Lough": "11:45",
+    "Chip Time": "0:52:38",
+    "Gun Time": "0:53:16"
+  },
+  {
+    "Position": 502,
+    "Bib no.": 447,
+    "Name": "Saorla O'Brien",
+    "Club": "Loughmacrory",
+    "Category": "FJ",
+    "Lap of Lough": "11:44",
+    "Chip Time": "0:52:38",
+    "Gun Time": "0:53:16"
+  },
+  {
+    "Position": 503,
+    "Bib no.": 331,
+    "Name": "Melissa Meenan",
+    "Club": "Sperrin og",
+    "Category": "FO",
+    "Lap of Lough": "11:53",
+    "Chip Time": "0:52:46",
+    "Gun Time": "0:53:22"
+  },
+  {
+    "Position": 504,
+    "Bib no.": 106,
+    "Name": "Pat Donnelly",
+    "Club": "Loughmacrory",
+    "Category": "M65",
+    "Lap of Lough": "12:51",
+    "Chip Time": "0:52:56",
+    "Gun Time": "0:53:35"
+  },
+  {
+    "Position": 505,
+    "Bib no.": 463,
+    "Name": "Emma Jane Ward",
+    "Club": "Loughmacrory",
+    "Category": "FJ",
+    "Lap of Lough": "12:08",
+    "Chip Time": "0:53:01",
+    "Gun Time": "0:53:38"
+  },
+  {
+    "Position": 506,
+    "Bib no.": 607,
+    "Name": "Caoimhe McElholm",
+    "Club": "Drumquin",
+    "Category": "FJ",
+    "Lap of Lough": "13:06",
+    "Chip Time": "0:53:30",
+    "Gun Time": "0:53:52"
+  },
+  {
+    "Position": 507,
+    "Bib no.": 258,
+    "Name": "Niamh Mccrory",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "11:25",
+    "Chip Time": "0:53:26",
+    "Gun Time": "0:53:54"
+  },
+  {
+    "Position": 508,
+    "Bib no.": 606,
+    "Name": "Caoileann McElholm",
+    "Club": "Drumquin",
+    "Category": "FJ",
+    "Lap of Lough": "13:14",
+    "Chip Time": "0:53:36",
+    "Gun Time": "0:53:58"
+  },
+  {
+    "Position": 509,
+    "Bib no.": 67,
+    "Name": "Sharon Corey",
+    "Club": "",
+    "Category": "F45",
+    "Lap of Lough": "13:07",
+    "Chip Time": "0:53:52",
+    "Gun Time": "0:54:15"
+  },
+  {
+    "Position": 510,
+    "Bib no.": 426,
+    "Name": "Dearbhla Toner",
+    "Club": "Loch mhic ruairí naomh treasa",
+    "Category": "FJ",
+    "Lap of Lough": "11:49",
+    "Chip Time": "0:53:41",
+    "Gun Time": "0:54:18"
+  },
+  {
+    "Position": 511,
+    "Bib no.": 20,
+    "Name": "Lesa Ayna",
+    "Club": "Lough gfc",
+    "Category": "F45",
+    "Lap of Lough": "11:43",
+    "Chip Time": "0:53:34",
+    "Gun Time": "0:54:18"
+  },
+  {
+    "Position": 512,
+    "Bib no.": 155,
+    "Name": "Seodhna Gormley",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "13:14",
+    "Chip Time": "0:54:02",
+    "Gun Time": "0:54:19"
+  },
+  {
+    "Position": 513,
+    "Bib no.": 348,
+    "Name": "Matthew Mulholland",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "13:37",
+    "Chip Time": "0:54:17",
+    "Gun Time": "0:54:19"
+  },
+  {
+    "Position": 514,
+    "Bib no.": 131,
+    "Name": "Caolán Fox",
+    "Club": "Loch mhic ruairi",
+    "Category": "MJ",
+    "Lap of Lough": "13:45",
+    "Chip Time": "0:54:17",
+    "Gun Time": "0:54:19"
+  },
+  {
+    "Position": 515,
+    "Bib no.": 227,
+    "Name": "Tiarnan Mcaleer",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "13:49",
+    "Chip Time": "0:54:18",
+    "Gun Time": "0:54:19"
+  },
+  {
+    "Position": 516,
+    "Bib no.": 494,
+    "Name": "June Sharkey",
+    "Club": "Clanna Geal",
+    "Category": "F55",
+    "Lap of Lough": "12:34",
+    "Chip Time": "0:53:48",
+    "Gun Time": "0:54:30"
+  },
+  {
+    "Position": 517,
+    "Bib no.": 493,
+    "Name": "Seamus Sharkey",
+    "Club": "Clanna Geal",
+    "Category": "M55",
+    "Lap of Lough": "12:33",
+    "Chip Time": "0:53:48",
+    "Gun Time": "0:54:31"
+  },
+  {
+    "Position": 518,
+    "Bib no.": 158,
+    "Name": "Donna Grimes",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Lap of Lough": "12:40",
+    "Chip Time": "0:54:25",
+    "Gun Time": "0:54:52"
+  },
+  {
+    "Position": 519,
+    "Bib no.": 356,
+    "Name": "Keelin Murray",
+    "Club": "",
+    "Category": "F35",
+    "Lap of Lough": "13:36",
+    "Chip Time": "0:55:06",
+    "Gun Time": "0:55:21"
+  },
+  {
+    "Position": 520,
+    "Bib no.": 149,
+    "Name": "Oonagh Given",
+    "Club": "",
+    "Category": "F50",
+    "Lap of Lough": "12:59",
+    "Chip Time": "0:54:41",
+    "Gun Time": "0:55:24"
+  },
+  {
+    "Position": 521,
+    "Bib no.": 419,
+    "Name": "Stephen Sweeney",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "12:46",
+    "Chip Time": "0:55:06",
+    "Gun Time": "0:55:49"
+  },
+  {
+    "Position": 522,
+    "Bib no.": 176,
+    "Name": "Nicola Henry",
+    "Club": "Tri limits triathlon club",
+    "Category": "F40",
+    "Lap of Lough": "12:53",
+    "Chip Time": "0:55:43",
+    "Gun Time": "0:56:15"
+  },
+  {
+    "Position": 523,
+    "Bib no.": 630,
+    "Name": "Aoife Kelly",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "13:04",
+    "Chip Time": "0:55:37",
+    "Gun Time": "0:56:23"
+  },
+  {
+    "Position": 524,
+    "Bib no.": 628,
+    "Name": "Aine Kelly",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "13:09",
+    "Chip Time": "0:55:43",
+    "Gun Time": "0:56:30"
+  },
+  {
+    "Position": 525,
+    "Bib no.": 94,
+    "Name": "Catherine Donnelly",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "13:03",
+    "Chip Time": "0:56:00",
+    "Gun Time": "0:56:43"
+  },
+  {
+    "Position": 526,
+    "Bib no.": 66,
+    "Name": "James Corey",
+    "Club": "",
+    "Category": "M50",
+    "Lap of Lough": "13:01",
+    "Chip Time": "0:56:28",
+    "Gun Time": "0:56:52"
+  },
+  {
+    "Position": 527,
+    "Bib no.": 129,
+    "Name": "Deirdre Flanagan",
+    "Club": "Run for enda",
+    "Category": "F60",
+    "Lap of Lough": "13:13",
+    "Chip Time": "0:56:09",
+    "Gun Time": "0:56:52"
+  },
+  {
+    "Position": 528,
+    "Bib no.": 329,
+    "Name": "Liz Mcveigh",
+    "Club": "",
+    "Category": "F55",
+    "Lap of Lough": "13:44",
+    "Chip Time": "0:56:26",
+    "Gun Time": "0:56:53"
+  },
+  {
+    "Position": 529,
+    "Bib no.": 497,
+    "Name": "Ursula McVeigh",
+    "Club": "",
+    "Category": "F60",
+    "Lap of Lough": "13:46",
+    "Chip Time": "0:56:29",
+    "Gun Time": "0:56:54"
+  },
+  {
+    "Position": 530,
+    "Bib no.": 425,
+    "Name": "Cliodhna Toner",
+    "Club": "Loch mhic ruairí naomh treasa",
+    "Category": "FJ",
+    "Lap of Lough": "12:38",
+    "Chip Time": "0:56:12",
+    "Gun Time": "0:56:56"
+  },
+  {
+    "Position": 531,
+    "Bib no.": 232,
+    "Name": "Ciaran Mcanespie",
+    "Club": "",
+    "Category": "M45",
+    "Lap of Lough": "12:38",
+    "Chip Time": "0:56:12",
+    "Gun Time": "0:56:56"
+  },
+  {
+    "Position": 532,
+    "Bib no.": 249,
+    "Name": "Roisin Mccartan",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "13:33",
+    "Chip Time": "0:56:59",
+    "Gun Time": "0:57:26"
+  },
+  {
+    "Position": 533,
+    "Bib no.": 346,
+    "Name": "Leona Moxon",
+    "Club": "Carmen Runners",
+    "Category": "F40",
+    "Lap of Lough": "13:14",
+    "Chip Time": "0:57:10",
+    "Gun Time": "0:57:47"
+  },
+  {
+    "Position": 534,
+    "Bib no.": 572,
+    "Name": "Oisin McGarvey",
+    "Club": "",
+    "Category": "MJ",
+    "Lap of Lough": "14:21",
+    "Chip Time": "0:58:09",
+    "Gun Time": "0:58:09"
+  },
+  {
+    "Position": 535,
+    "Bib no.": 525,
+    "Name": "Dylan McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "MJ",
+    "Lap of Lough": "14:21",
+    "Chip Time": "0:58:09",
+    "Gun Time": "0:58:09"
+  },
+  {
+    "Position": 536,
+    "Bib no.": 248,
+    "Name": "Orla Mccartan",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "13:45",
+    "Chip Time": "0:58:15",
+    "Gun Time": "0:58:15"
+  },
+  {
+    "Position": 537,
+    "Bib no.": 592,
+    "Name": "Katie McKenna",
+    "Club": "Kildress",
+    "Category": "FJ",
+    "Lap of Lough": "14:27",
+    "Chip Time": "0:59:22",
+    "Gun Time": "0:59:50"
+  },
+  {
+    "Position": 538,
+    "Bib no.": 590,
+    "Name": "Roisin McKenna",
+    "Club": "",
+    "Category": "F40",
+    "Lap of Lough": "14:27",
+    "Chip Time": "0:59:22",
+    "Gun Time": "0:59:51"
+  },
+  {
+    "Position": 539,
+    "Bib no.": 591,
+    "Name": "Niamh McKenna",
+    "Club": "",
+    "Category": "FJ",
+    "Lap of Lough": "14:29",
+    "Chip Time": "0:59:25",
+    "Gun Time": "0:59:53"
+  },
+  {
+    "Position": 540,
+    "Bib no.": 246,
+    "Name": "Aislinn Haughey",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "14:38",
+    "Chip Time": "0:59:33",
+    "Gun Time": "1:00:13"
+  },
+  {
+    "Position": 541,
+    "Bib no.": 292,
+    "Name": "Arlana Mcgoldrick",
+    "Club": "",
+    "Category": "FO",
+    "Lap of Lough": "14:31",
+    "Chip Time": "1:00:31",
+    "Gun Time": "1:01:00"
+  },
+  {
+    "Position": 542,
+    "Bib no.": 32,
+    "Name": "Desmond Brownlie",
+    "Club": "Lagan valley ac",
+    "Category": "M75",
+    "Lap of Lough": "14:56",
+    "Chip Time": "1:01:11",
+    "Gun Time": "1:01:13"
+  },
+  {
+    "Position": 543,
+    "Bib no.": 524,
+    "Name": "Patrick Mullin",
+    "Club": "Kildress",
+    "Category": "MJ",
+    "Lap of Lough": "15:18",
+    "Chip Time": "1:04:07",
+    "Gun Time": "1:04:23"
+  },
+  {
+    "Position": 544,
+    "Bib no.": 161,
+    "Name": "Tom Halferty",
+    "Club": "Termoneeney",
+    "Category": "M70",
+    "Lap of Lough": "14:51",
+    "Chip Time": "1:03:56",
+    "Gun Time": "1:04:41"
+  },
+  {
+    "Position": 545,
+    "Bib no.": 347,
+    "Name": "Margaret Moxon",
+    "Club": "Run for enda",
+    "Category": "F60",
+    "Lap of Lough": "15:38",
+    "Chip Time": "1:05:03",
+    "Gun Time": "1:05:49"
+  },
+  {
+    "Position": 546,
+    "Bib no.": 308,
+    "Name": "Claire Mclaughlin",
+    "Club": "",
+    "Category": "F60",
+    "Lap of Lough": "16:05",
+    "Chip Time": "1:06:02",
+    "Gun Time": "1:06:27"
+  }
+]

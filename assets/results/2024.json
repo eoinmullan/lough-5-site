@@ -1,0 +1,7952 @@
+[
+  {
+    "Place": 1,
+    "Bib": 7,
+    "Name": "Mullan, Eoin",
+    "AG": "MO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "5:59:00",
+    "ChipTime": "25:15:00",
+    "GunTime": "25:15:00"
+  },
+  {
+    "Place": 2,
+    "Bib": 6,
+    "Name": "Doherty, John Joe",
+    "AG": "MO",
+    "Club": "Finn Valley AC",
+    "Lap of Lough": "5:55:00",
+    "ChipTime": "25:22:00",
+    "GunTime": "25:22:00"
+  },
+  {
+    "Place": 3,
+    "Bib": 5,
+    "Name": "Kelly, Kieran",
+    "AG": "MO",
+    "Club": "Raheny Shamrocks AC",
+    "Lap of Lough": "6:10:00",
+    "ChipTime": "25:28:00",
+    "GunTime": "25:28:00"
+  },
+  {
+    "Place": 4,
+    "Bib": 322,
+    "Name": "Fleming, Tom",
+    "AG": "M U19",
+    "Club": "Loughview AC",
+    "Lap of Lough": "6:06:00",
+    "ChipTime": "26:00:00",
+    "GunTime": "26:00:00"
+  },
+  {
+    "Place": 5,
+    "Bib": 659,
+    "Name": "Donnelly, Luke",
+    "AG": "MO",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "6:32:00",
+    "ChipTime": "27:17:00",
+    "GunTime": "27:18:00"
+  },
+  {
+    "Place": 6,
+    "Bib": 559,
+    "Name": "Monaghan, James",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "6:06:00",
+    "ChipTime": "27:29:00",
+    "GunTime": "27:29:00"
+  },
+  {
+    "Place": 7,
+    "Bib": 156,
+    "Name": "Kelly, Tristan",
+    "AG": "MO",
+    "Club": "Finn Valley AC",
+    "Lap of Lough": "6:37:00",
+    "ChipTime": "27:37:00",
+    "GunTime": "27:37:00"
+  },
+  {
+    "Place": 8,
+    "Bib": 710,
+    "Name": "O'Neill, Laurence",
+    "AG": "M35",
+    "Club": "Strabane Tri Club",
+    "Lap of Lough": "6:43:00",
+    "ChipTime": "28:01:00",
+    "GunTime": "28:01:00"
+  },
+  {
+    "Place": 9,
+    "Bib": 474,
+    "Name": "Kerrs, Shaun",
+    "AG": "MO",
+    "Club": "Tír Chonaill AC",
+    "Lap of Lough": "6:37:00",
+    "ChipTime": "28:04:00",
+    "GunTime": "28:05:00"
+  },
+  {
+    "Place": 10,
+    "Bib": 23,
+    "Name": "Bloomer, Justin",
+    "AG": "MO",
+    "Club": "Mid Ulster AC",
+    "Lap of Lough": "6:31:00",
+    "ChipTime": "28:13:00",
+    "GunTime": "28:13:00"
+  },
+  {
+    "Place": 11,
+    "Bib": 450,
+    "Name": "Callaghan, Paul",
+    "AG": "MO",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "6:44:00",
+    "ChipTime": "28:23:00",
+    "GunTime": "28:26:00"
+  },
+  {
+    "Place": 12,
+    "Bib": 844,
+    "Name": "Prentice, Stephen",
+    "AG": "MO",
+    "Club": "Enniskillen Running Club",
+    "Lap of Lough": "6:47:00",
+    "ChipTime": "28:35:00",
+    "GunTime": "28:35:00"
+  },
+  {
+    "Place": 13,
+    "Bib": 568,
+    "Name": "Murrin, Donal",
+    "AG": "MO",
+    "Club": "Tír Chonaill AC",
+    "Lap of Lough": "6:38:00",
+    "ChipTime": "28:37:00",
+    "GunTime": "28:38:00"
+  },
+  {
+    "Place": 14,
+    "Bib": 335,
+    "Name": "Maguire, Conor",
+    "AG": "MO",
+    "Club": "Omagh Triathlon Club",
+    "Lap of Lough": "6:51:00",
+    "ChipTime": "28:42:00",
+    "GunTime": "28:43:00"
+  },
+  {
+    "Place": 15,
+    "Bib": 496,
+    "Name": "Smyth, Conor",
+    "AG": "MO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "6:52:00",
+    "ChipTime": "28:48:00",
+    "GunTime": "28:49:00"
+  },
+  {
+    "Place": 16,
+    "Bib": 779,
+    "Name": "McIntyre, Pius",
+    "AG": "M40",
+    "Club": "Foyle Valley AC",
+    "Lap of Lough": "6:54:00",
+    "ChipTime": "29:12:00",
+    "GunTime": "29:12:00"
+  },
+  {
+    "Place": 17,
+    "Bib": 503,
+    "Name": "McNulty, Mark",
+    "AG": "M35",
+    "Club": "Newry City Runners AC",
+    "Lap of Lough": "7:12:00",
+    "ChipTime": "29:32:00",
+    "GunTime": "29:33:00"
+  },
+  {
+    "Place": 18,
+    "Bib": 776,
+    "Name": "Devlin, Donal",
+    "AG": "M U19",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "1:27:00",
+    "ChipTime": "29:36:00",
+    "GunTime": "29:37:00"
+  },
+  {
+    "Place": 19,
+    "Bib": 285,
+    "Name": "McKenna, Stephen",
+    "AG": "M45",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "7:17:00",
+    "ChipTime": "29:38:00",
+    "GunTime": "29:38:00"
+  },
+  {
+    "Place": 20,
+    "Bib": 3,
+    "Name": "Hughes, Tommy",
+    "AG": "M60",
+    "Club": "Strive Racing Club",
+    "Lap of Lough": "7:16:00",
+    "ChipTime": "29:55:00",
+    "GunTime": "29:55:00"
+  },
+  {
+    "Place": 21,
+    "Bib": 882,
+    "Name": "Gillespie, John",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "7:11:00",
+    "ChipTime": "30:02:00",
+    "GunTime": "30:06:00"
+  },
+  {
+    "Place": 22,
+    "Bib": 239,
+    "Name": "McAnerney, John james",
+    "AG": "MO",
+    "Club": "Annadale Striders",
+    "Lap of Lough": "7:04:00",
+    "ChipTime": "30:12:00",
+    "GunTime": "30:14:00"
+  },
+  {
+    "Place": 23,
+    "Bib": 881,
+    "Name": "McGuigan, Chris",
+    "AG": "M55",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "7:07:00",
+    "ChipTime": "30:12:00",
+    "GunTime": "30:19:00"
+  },
+  {
+    "Place": 24,
+    "Bib": 494,
+    "Name": "Ward, Fearghal",
+    "AG": "M35",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:05:00",
+    "ChipTime": "30:18:00",
+    "GunTime": "30:20:00"
+  },
+  {
+    "Place": 25,
+    "Bib": 265,
+    "Name": "Devine, Gary",
+    "AG": "M45",
+    "Club": "Clann na nGael WJR",
+    "Lap of Lough": "7:13:00",
+    "ChipTime": "30:24:00",
+    "GunTime": "30:26:00"
+  },
+  {
+    "Place": 26,
+    "Bib": 877,
+    "Name": "Meyler, Seanie",
+    "AG": "M55",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:08:00",
+    "ChipTime": "30:35:00",
+    "GunTime": "30:36:00"
+  },
+  {
+    "Place": 27,
+    "Bib": 473,
+    "Name": "Cunningham, Ciara",
+    "AG": "FO",
+    "Club": "Tír Chonaill AC",
+    "Lap of Lough": "7:16:00",
+    "ChipTime": "30:36:00",
+    "GunTime": "30:37:00"
+  },
+  {
+    "Place": 28,
+    "Bib": 520,
+    "Name": "Byrne, Peter",
+    "AG": "M50",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:27:00",
+    "ChipTime": "30:41:00",
+    "GunTime": "30:42:00"
+  },
+  {
+    "Place": 29,
+    "Bib": 109,
+    "Name": "Pritchard, Edward",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "7:25:00",
+    "ChipTime": "31:04:00",
+    "GunTime": "31:07:00"
+  },
+  {
+    "Place": 30,
+    "Bib": 4,
+    "Name": "Scullion, Cora",
+    "AG": "FO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:23:00",
+    "ChipTime": "31:06:00",
+    "GunTime": "31:08:00"
+  },
+  {
+    "Place": 31,
+    "Bib": 363,
+    "Name": "McGread, Brian",
+    "AG": "M40",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "7:25:00",
+    "ChipTime": "31:09:00",
+    "GunTime": "31:12:00"
+  },
+  {
+    "Place": 32,
+    "Bib": 162,
+    "Name": "Linton, Sam",
+    "AG": "M40",
+    "Club": "Mid Ulster AC",
+    "Lap of Lough": "7:27:00",
+    "ChipTime": "31:15:00",
+    "GunTime": "31:17:00"
+  },
+  {
+    "Place": 33,
+    "Bib": 754,
+    "Name": "Thomas, Haydn",
+    "AG": "M35",
+    "Club": "Carnethy Hill Running Club",
+    "Lap of Lough": "4:24:00",
+    "ChipTime": "31:07:00",
+    "GunTime": "31:18:00"
+  },
+  {
+    "Place": 34,
+    "Bib": 731,
+    "Name": "Hamill, Barry",
+    "AG": "M35",
+    "Club": "Killeshil Runners",
+    "Lap of Lough": "7:49:00",
+    "ChipTime": "31:20:00",
+    "GunTime": "31:21:00"
+  },
+  {
+    "Place": 35,
+    "Bib": 287,
+    "Name": "McCann, Shane",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "7:33:00",
+    "ChipTime": "31:21:00",
+    "GunTime": "31:22:00"
+  },
+  {
+    "Place": 36,
+    "Bib": 189,
+    "Name": "O neill, Fabian",
+    "AG": "M40",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:28:00",
+    "ChipTime": "31:18:00",
+    "GunTime": "31:22:00"
+  },
+  {
+    "Place": 37,
+    "Bib": 497,
+    "Name": "Mullin, Aimee",
+    "AG": "FO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "7:33:00",
+    "ChipTime": "31:20:00",
+    "GunTime": "31:24:00"
+  },
+  {
+    "Place": 38,
+    "Bib": 88,
+    "Name": "Jeffers, Gary",
+    "AG": "M35",
+    "Club": "Mid Ulster AC",
+    "Lap of Lough": "7:40:00",
+    "ChipTime": "31:22:00",
+    "GunTime": "31:25:00"
+  },
+  {
+    "Place": 39,
+    "Bib": 330,
+    "Name": "Collins, Seanan",
+    "AG": "MO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "7:35:00",
+    "ChipTime": "31:23:00",
+    "GunTime": "31:33:00"
+  },
+  {
+    "Place": 40,
+    "Bib": 22,
+    "Name": "Gallagher, Michael",
+    "AG": "M35",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "7:35:00",
+    "ChipTime": "31:33:00",
+    "GunTime": "31:38:00"
+  },
+  {
+    "Place": 41,
+    "Bib": 28,
+    "Name": "Campbell, Nick",
+    "AG": "MO",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "7:20:00",
+    "ChipTime": "31:33:00",
+    "GunTime": "31:41:00"
+  },
+  {
+    "Place": 42,
+    "Bib": 443,
+    "Name": "McGuckin, Fintan",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "7:44:00",
+    "ChipTime": "31:43:00",
+    "GunTime": "31:44:00"
+  },
+  {
+    "Place": 43,
+    "Bib": 190,
+    "Name": "McCausland, William",
+    "AG": "M U19",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:39:00",
+    "ChipTime": "31:44:00",
+    "GunTime": "31:46:00"
+  },
+  {
+    "Place": 44,
+    "Bib": 2,
+    "Name": "McIntyre, Nadine",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "7:42:00",
+    "ChipTime": "31:45:00",
+    "GunTime": "31:47:00"
+  },
+  {
+    "Place": 45,
+    "Bib": 203,
+    "Name": "McElholm, Benny",
+    "AG": "M40",
+    "Club": "Revoultion Training & Fitness",
+    "Lap of Lough": "7:38:00",
+    "ChipTime": "31:44:00",
+    "GunTime": "31:48:00"
+  },
+  {
+    "Place": 46,
+    "Bib": 227,
+    "Name": "McCay, Aodhan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "7:27:00",
+    "ChipTime": "31:53:00",
+    "GunTime": "31:55:00"
+  },
+  {
+    "Place": 47,
+    "Bib": 205,
+    "Name": "McBride, William",
+    "AG": "MO",
+    "Club": "Tuna Triathlon",
+    "Lap of Lough": "7:31:00",
+    "ChipTime": "31:53:00",
+    "GunTime": "31:56:00"
+  },
+  {
+    "Place": 48,
+    "Bib": 813,
+    "Name": "McCartan, Kevin",
+    "AG": "M45",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:37:00",
+    "ChipTime": "31:56:00",
+    "GunTime": "31:59:00"
+  },
+  {
+    "Place": 49,
+    "Bib": 574,
+    "Name": "Crossan, James",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "7:34:00",
+    "ChipTime": "32:00:00",
+    "GunTime": "32:01:00"
+  },
+  {
+    "Place": 50,
+    "Bib": 587,
+    "Name": "Whitehouse, Fionn",
+    "AG": "M U19",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "7:19:00",
+    "ChipTime": "31:56:00",
+    "GunTime": "32:02:00"
+  },
+  {
+    "Place": 51,
+    "Bib": 846,
+    "Name": "Hannan, Paul",
+    "AG": "WCH",
+    "Club": "",
+    "Lap of Lough": "10:48:00",
+    "ChipTime": "32:03:00",
+    "GunTime": "32:03:00"
+  },
+  {
+    "Place": 52,
+    "Bib": 130,
+    "Name": "McCourt, Conor",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "7:57:00",
+    "ChipTime": "32:04:00",
+    "GunTime": "32:07:00"
+  },
+  {
+    "Place": 53,
+    "Bib": 667,
+    "Name": "Donaghy, Gareth",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "7:36:00",
+    "ChipTime": "32:01:00",
+    "GunTime": "32:12:00"
+  },
+  {
+    "Place": 54,
+    "Bib": 165,
+    "Name": "Downey, Kirsty",
+    "AG": "FO",
+    "Club": "Inishowen A.C.",
+    "Lap of Lough": "7:53:00",
+    "ChipTime": "32:08:00",
+    "GunTime": "32:14:00"
+  },
+  {
+    "Place": 55,
+    "Bib": 379,
+    "Name": "Wilton, Karen",
+    "AG": "F50",
+    "Club": "Jog Lisburn",
+    "Lap of Lough": "7:40:00",
+    "ChipTime": "32:12:00",
+    "GunTime": "32:16:00"
+  },
+  {
+    "Place": 56,
+    "Bib": 230,
+    "Name": "McConnell, Niall",
+    "AG": "MO",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "7:42:00",
+    "ChipTime": "32:14:00",
+    "GunTime": "32:19:00"
+  },
+  {
+    "Place": 57,
+    "Bib": 125,
+    "Name": "Toner, Tony",
+    "AG": "M60",
+    "Club": "Tafelta AC",
+    "Lap of Lough": "7:43:00",
+    "ChipTime": "32:19:00",
+    "GunTime": "32:22:00"
+  },
+  {
+    "Place": 58,
+    "Bib": 9,
+    "Name": "McCrory, Gillian",
+    "AG": "F45",
+    "Club": "St Peter's AC",
+    "Lap of Lough": "7:46:00",
+    "ChipTime": "32:21:00",
+    "GunTime": "32:23:00"
+  },
+  {
+    "Place": 59,
+    "Bib": 238,
+    "Name": "McGale, Aidan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "7:44:00",
+    "ChipTime": "32:22:00",
+    "GunTime": "32:24:00"
+  },
+  {
+    "Place": 60,
+    "Bib": 557,
+    "Name": "Halligan, Aidy",
+    "AG": "M35",
+    "Club": "Glaslough Harriers AC",
+    "Lap of Lough": "7:50:00",
+    "ChipTime": "32:24:00",
+    "GunTime": "32:29:00"
+  },
+  {
+    "Place": 61,
+    "Bib": 519,
+    "Name": "Graham, David",
+    "AG": "M35",
+    "Club": "Mallusk Harriers",
+    "Lap of Lough": "7:30:00",
+    "ChipTime": "32:31:00",
+    "GunTime": "32:34:00"
+  },
+  {
+    "Place": 62,
+    "Bib": 240,
+    "Name": "Duddy, Michael",
+    "AG": "M45",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "7:49:00",
+    "ChipTime": "32:38:00",
+    "GunTime": "32:43:00"
+  },
+  {
+    "Place": 63,
+    "Bib": 461,
+    "Name": "Jackson, Phillip",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "7:37:00",
+    "ChipTime": "32:36:00",
+    "GunTime": "32:48:00"
+  },
+  {
+    "Place": 64,
+    "Bib": 103,
+    "Name": "Rafferty, Nigel",
+    "AG": "M40",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "7:52:00",
+    "ChipTime": "32:46:00",
+    "GunTime": "32:52:00"
+  },
+  {
+    "Place": 65,
+    "Bib": 459,
+    "Name": "Hans, Jude",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "7:59:00",
+    "ChipTime": "32:50:00",
+    "GunTime": "32:55:00"
+  },
+  {
+    "Place": 66,
+    "Bib": 849,
+    "Name": "Molly, Eddie",
+    "AG": "M45",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "7:59:00",
+    "ChipTime": "32:54:00",
+    "GunTime": "32:56:00"
+  },
+  {
+    "Place": 67,
+    "Bib": 718,
+    "Name": "Quinn, Packie",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "7:45:00",
+    "ChipTime": "32:46:00",
+    "GunTime": "32:58:00"
+  },
+  {
+    "Place": 68,
+    "Bib": 847,
+    "Name": "McLaughlin, Paul",
+    "AG": "M55",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "7:44:00",
+    "ChipTime": "32:54:00",
+    "GunTime": "32:58:00"
+  },
+  {
+    "Place": 69,
+    "Bib": 724,
+    "Name": "McCabe, James",
+    "AG": "M45",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:58:00",
+    "ChipTime": "32:56:00",
+    "GunTime": "32:59:00"
+  },
+  {
+    "Place": 70,
+    "Bib": 115,
+    "Name": "Doherty, Barry",
+    "AG": "M35",
+    "Club": "Inishowen A.C.",
+    "Lap of Lough": "7:47:00",
+    "ChipTime": "32:52:00",
+    "GunTime": "33:00:00"
+  },
+  {
+    "Place": 71,
+    "Bib": 137,
+    "Name": "Trearty, Niall",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "7:53:00",
+    "ChipTime": "32:57:00",
+    "GunTime": "33:04:00"
+  },
+  {
+    "Place": 72,
+    "Bib": 52,
+    "Name": "Maguire, Joan",
+    "AG": "F40",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "7:50:00",
+    "ChipTime": "33:00:00",
+    "GunTime": "33:07:00"
+  },
+  {
+    "Place": 73,
+    "Bib": 249,
+    "Name": "McDermott, Kevin",
+    "AG": "MO",
+    "Club": "Run for Enda",
+    "Lap of Lough": "7:49:00",
+    "ChipTime": "33:07:00",
+    "GunTime": "33:11:00"
+  },
+  {
+    "Place": 74,
+    "Bib": 293,
+    "Name": "McCann, Conor",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:06:00",
+    "ChipTime": "33:13:00",
+    "GunTime": "33:15:00"
+  },
+  {
+    "Place": 75,
+    "Bib": 691,
+    "Name": "Isherwood, Scott",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:07:00",
+    "ChipTime": "33:03:00",
+    "GunTime": "33:17:00"
+  },
+  {
+    "Place": 76,
+    "Bib": 456,
+    "Name": "O’Donnell, Connor",
+    "AG": "M35",
+    "Club": "Omagh",
+    "Lap of Lough": "7:39:00",
+    "ChipTime": "33:12:00",
+    "GunTime": "33:17:00"
+  },
+  {
+    "Place": 77,
+    "Bib": 148,
+    "Name": "Conroy, Martin",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "8:03:00",
+    "ChipTime": "33:19:00",
+    "GunTime": "33:20:00"
+  },
+  {
+    "Place": 78,
+    "Bib": 663,
+    "Name": "Bradley, Eamon",
+    "AG": "MO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:55:00",
+    "ChipTime": "33:17:00",
+    "GunTime": "33:22:00"
+  },
+  {
+    "Place": 79,
+    "Bib": 82,
+    "Name": "Gallagher, John",
+    "AG": "M35",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "7:51:00",
+    "ChipTime": "33:17:00",
+    "GunTime": "33:26:00"
+  },
+  {
+    "Place": 80,
+    "Bib": 540,
+    "Name": "Molloy, Lauren",
+    "AG": "FO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:54:00",
+    "ChipTime": "33:20:00",
+    "GunTime": "33:27:00"
+  },
+  {
+    "Place": 81,
+    "Bib": 387,
+    "Name": "Fegan, Gareth",
+    "AG": "M40",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "7:56:00",
+    "ChipTime": "33:17:00",
+    "GunTime": "33:28:00"
+  },
+  {
+    "Place": 82,
+    "Bib": 842,
+    "Name": "Canning, Terry",
+    "AG": "M50",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:49:00",
+    "ChipTime": "33:24:00",
+    "GunTime": "33:29:00"
+  },
+  {
+    "Place": 83,
+    "Bib": 521,
+    "Name": "Murphy, Garreth",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "7:38:00",
+    "ChipTime": "33:23:00",
+    "GunTime": "33:30:00"
+  },
+  {
+    "Place": 84,
+    "Bib": 548,
+    "Name": "Campbell, Adam",
+    "AG": "MO",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "8:05:00",
+    "ChipTime": "33:24:00",
+    "GunTime": "33:37:00"
+  },
+  {
+    "Place": 85,
+    "Bib": 651,
+    "Name": "McNamee, Dermot",
+    "AG": "M50",
+    "Club": "KC Runners",
+    "Lap of Lough": "8:08:00",
+    "ChipTime": "33:31:00",
+    "GunTime": "33:38:00"
+  },
+  {
+    "Place": 86,
+    "Bib": 525,
+    "Name": "Stapleton, Eoin",
+    "AG": "MO",
+    "Club": "St Michael’s AC",
+    "Lap of Lough": "7:38:00",
+    "ChipTime": "33:22:00",
+    "GunTime": "33:39:00"
+  },
+  {
+    "Place": 87,
+    "Bib": 261,
+    "Name": "Coyle, Gerard",
+    "AG": "M45",
+    "Club": "Strabane Triathlon Club",
+    "Lap of Lough": "8:00:00",
+    "ChipTime": "33:33:00",
+    "GunTime": "33:40:00"
+  },
+  {
+    "Place": 88,
+    "Bib": 824,
+    "Name": "Dobbs, Shane",
+    "AG": "MO",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "7:56:00",
+    "ChipTime": "33:14:00",
+    "GunTime": "33:43:00"
+  },
+  {
+    "Place": 89,
+    "Bib": 529,
+    "Name": "Coyle, Shane",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:01:00",
+    "ChipTime": "33:38:00",
+    "GunTime": "33:44:00"
+  },
+  {
+    "Place": 90,
+    "Bib": 55,
+    "Name": "McCullagh, Conor",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "8:11:00",
+    "ChipTime": "33:47:00",
+    "GunTime": "33:51:00"
+  },
+  {
+    "Place": 91,
+    "Bib": 605,
+    "Name": "McElduff, Barry",
+    "AG": "M50",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:03:00",
+    "ChipTime": "33:45:00",
+    "GunTime": "33:53:00"
+  },
+  {
+    "Place": 92,
+    "Bib": 594,
+    "Name": "McElroy, Raymond",
+    "AG": "M50",
+    "Club": "Magherafelt Harriers",
+    "Lap of Lough": "7:54:00",
+    "ChipTime": "33:44:00",
+    "GunTime": "33:55:00"
+  },
+  {
+    "Place": 93,
+    "Bib": 589,
+    "Name": "Woods, Paddy",
+    "AG": "M35",
+    "Club": "Armagh AC",
+    "Lap of Lough": "8:20:00",
+    "ChipTime": "33:23:00",
+    "GunTime": "33:55:00"
+  },
+  {
+    "Place": 94,
+    "Bib": 740,
+    "Name": "Burns, Brendan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:22:00",
+    "ChipTime": "33:55:00",
+    "GunTime": "33:59:00"
+  },
+  {
+    "Place": 95,
+    "Bib": 856,
+    "Name": "Taggart, Shane",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:10:00",
+    "ChipTime": "33:58:00",
+    "GunTime": "34:09:00"
+  },
+  {
+    "Place": 96,
+    "Bib": 146,
+    "Name": "Kerr, Chris",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:03:00",
+    "ChipTime": "34:05:00",
+    "GunTime": "34:14:00"
+  },
+  {
+    "Place": 97,
+    "Bib": 664,
+    "Name": "Kelly, Daryl",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:17:00",
+    "ChipTime": "34:03:00",
+    "GunTime": "34:15:00"
+  },
+  {
+    "Place": 98,
+    "Bib": 863,
+    "Name": "Keenan, Peter",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:09:00",
+    "ChipTime": "33:59:00",
+    "GunTime": "34:16:00"
+  },
+  {
+    "Place": 99,
+    "Bib": 184,
+    "Name": "Gourley, Carol",
+    "AG": "F40",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:16:00",
+    "ChipTime": "34:10:00",
+    "GunTime": "34:22:00"
+  },
+  {
+    "Place": 100,
+    "Bib": 438,
+    "Name": "Nicholas, Canice",
+    "AG": "M50",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:15:00",
+    "ChipTime": "34:11:00",
+    "GunTime": "34:22:00"
+  },
+  {
+    "Place": 101,
+    "Bib": 602,
+    "Name": "O'Kane, Eamon",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:22:00",
+    "ChipTime": "34:13:00",
+    "GunTime": "34:25:00"
+  },
+  {
+    "Place": 102,
+    "Bib": 675,
+    "Name": "Campbell, Joanne",
+    "AG": "FO",
+    "Club": "Finn Valley AC",
+    "Lap of Lough": "8:18:00",
+    "ChipTime": "34:16:00",
+    "GunTime": "34:26:00"
+  },
+  {
+    "Place": 103,
+    "Bib": 359,
+    "Name": "Foley, Fergal",
+    "AG": "MO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:12:00",
+    "ChipTime": "34:00:00",
+    "GunTime": "34:28:00"
+  },
+  {
+    "Place": 104,
+    "Bib": 898,
+    "Name": "Harkin, Jude",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:22:00",
+    "ChipTime": "34:03:00",
+    "GunTime": "34:29:00"
+  },
+  {
+    "Place": 105,
+    "Bib": 848,
+    "Name": "Heaney, Niamh",
+    "AG": "FO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "7:37:00",
+    "ChipTime": "34:19:00",
+    "GunTime": "34:29:00"
+  },
+  {
+    "Place": 106,
+    "Bib": 843,
+    "Name": "McGrory, Gary",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "8:12:00",
+    "ChipTime": "34:24:00",
+    "GunTime": "34:30:00"
+  },
+  {
+    "Place": 107,
+    "Bib": 417,
+    "Name": "Murphy, Glenn",
+    "AG": "M40",
+    "Club": "ITC",
+    "Lap of Lough": "8:23:00",
+    "ChipTime": "33:43:00",
+    "GunTime": "34:31:00"
+  },
+  {
+    "Place": 108,
+    "Bib": 258,
+    "Name": "Doherty, David",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "7:52:00",
+    "ChipTime": "34:29:00",
+    "GunTime": "34:31:00"
+  },
+  {
+    "Place": 109,
+    "Bib": 89,
+    "Name": "Fyffe, Mark",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:08:00",
+    "ChipTime": "34:24:00",
+    "GunTime": "34:33:00"
+  },
+  {
+    "Place": 110,
+    "Bib": 775,
+    "Name": "Devlin, Martin",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "11:56:00",
+    "ChipTime": "34:27:00",
+    "GunTime": "34:34:00"
+  },
+  {
+    "Place": 111,
+    "Bib": 829,
+    "Name": "Logue, Keelan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:00:00",
+    "ChipTime": "34:26:00",
+    "GunTime": "34:36:00"
+  },
+  {
+    "Place": 112,
+    "Bib": 573,
+    "Name": "McManus, Malachy",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:21:00",
+    "ChipTime": "34:21:00",
+    "GunTime": "34:38:00"
+  },
+  {
+    "Place": 113,
+    "Bib": 885,
+    "Name": "McSorley, James",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:23:00",
+    "ChipTime": "34:31:00",
+    "GunTime": "34:39:00"
+  },
+  {
+    "Place": 114,
+    "Bib": 138,
+    "Name": "Grogan, Ronan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:15:00",
+    "ChipTime": "34:14:00",
+    "GunTime": "34:43:00"
+  },
+  {
+    "Place": 115,
+    "Bib": 464,
+    "Name": "Carroll, Mark",
+    "AG": "MO",
+    "Club": "Drumragh",
+    "Lap of Lough": "8:05:00",
+    "ChipTime": "34:35:00",
+    "GunTime": "34:44:00"
+  },
+  {
+    "Place": 116,
+    "Bib": 586,
+    "Name": "Whitehouse, Gemma",
+    "AG": "F45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:21:00",
+    "ChipTime": "34:40:00",
+    "GunTime": "34:47:00"
+  },
+  {
+    "Place": 117,
+    "Bib": 526,
+    "Name": "Duffy, Richard",
+    "AG": "M50",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:18:00",
+    "ChipTime": "34:40:00",
+    "GunTime": "34:48:00"
+  },
+  {
+    "Place": 118,
+    "Bib": 196,
+    "Name": "Simpson, Lisa",
+    "AG": "F45",
+    "Club": "Acorns AC",
+    "Lap of Lough": "8:03:00",
+    "ChipTime": "34:44:00",
+    "GunTime": "34:49:00"
+  },
+  {
+    "Place": 119,
+    "Bib": 552,
+    "Name": "Corrigan, Niall",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:28:00",
+    "ChipTime": "34:32:00",
+    "GunTime": "34:54:00"
+  },
+  {
+    "Place": 120,
+    "Bib": 567,
+    "Name": "Crossan, Rusty",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:12:00",
+    "ChipTime": "34:55:00",
+    "GunTime": "34:55:00"
+  },
+  {
+    "Place": 121,
+    "Bib": 511,
+    "Name": "Brogan, Darrell",
+    "AG": "M35",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:20:00",
+    "ChipTime": "34:54:00",
+    "GunTime": "34:56:00"
+  },
+  {
+    "Place": 122,
+    "Bib": 787,
+    "Name": "McKenna, Damien",
+    "AG": "M35",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "8:20:00",
+    "ChipTime": "34:48:00",
+    "GunTime": "34:57:00"
+  },
+  {
+    "Place": 123,
+    "Bib": 199,
+    "Name": "Crozier, Paul",
+    "AG": "MO",
+    "Club": "Tribal Run Club",
+    "Lap of Lough": "8:24:00",
+    "ChipTime": "34:35:00",
+    "GunTime": "34:58:00"
+  },
+  {
+    "Place": 124,
+    "Bib": 24,
+    "Name": "McGandy, Orla",
+    "AG": "F35",
+    "Club": "RoadRunners AC",
+    "Lap of Lough": "8:29:00",
+    "ChipTime": "34:55:00",
+    "GunTime": "35:00:00"
+  },
+  {
+    "Place": 125,
+    "Bib": 420,
+    "Name": "Duncan, Michael",
+    "AG": "M60",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "8:04:00",
+    "ChipTime": "34:21:00",
+    "GunTime": "35:00:00"
+  },
+  {
+    "Place": 126,
+    "Bib": 158,
+    "Name": "Doherty, Garvin",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "8:42:00",
+    "ChipTime": "34:58:00",
+    "GunTime": "35:01:00"
+  },
+  {
+    "Place": 127,
+    "Bib": 789,
+    "Name": "Mitchell, Willie",
+    "AG": "M35",
+    "Club": "Running Rebels",
+    "Lap of Lough": "8:42:00",
+    "ChipTime": "34:57:00",
+    "GunTime": "35:03:00"
+  },
+  {
+    "Place": 128,
+    "Bib": 886,
+    "Name": "O'Neill, Darragh",
+    "AG": "M35",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "8:18:00",
+    "ChipTime": "35:02:00",
+    "GunTime": "35:05:00"
+  },
+  {
+    "Place": 129,
+    "Bib": 144,
+    "Name": "Moore, Adrian",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "8:03:00",
+    "ChipTime": "34:35:00",
+    "GunTime": "35:09:00"
+  },
+  {
+    "Place": 130,
+    "Bib": 700,
+    "Name": "Donnelly, Eoin",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:26:00",
+    "ChipTime": "35:09:00",
+    "GunTime": "35:12:00"
+  },
+  {
+    "Place": 131,
+    "Bib": 439,
+    "Name": "Quinn, Oliver",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:19:00",
+    "ChipTime": "35:03:00",
+    "GunTime": "35:14:00"
+  },
+  {
+    "Place": 132,
+    "Bib": 755,
+    "Name": "Gartland, Tommy",
+    "AG": "M65",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "8:20:00",
+    "ChipTime": "35:09:00",
+    "GunTime": "35:16:00"
+  },
+  {
+    "Place": 133,
+    "Bib": 609,
+    "Name": "Lyons, Alan",
+    "AG": "M40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "8:13:00",
+    "ChipTime": "35:05:00",
+    "GunTime": "35:18:00"
+  },
+  {
+    "Place": 134,
+    "Bib": 611,
+    "Name": "Donnelly, Neil",
+    "AG": "M40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "8:14:00",
+    "ChipTime": "35:04:00",
+    "GunTime": "35:18:00"
+  },
+  {
+    "Place": 135,
+    "Bib": 793,
+    "Name": "Leonard, Gary",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "4:27:00",
+    "ChipTime": "35:06:00",
+    "GunTime": "35:19:00"
+  },
+  {
+    "Place": 136,
+    "Bib": 105,
+    "Name": "Bradley, John",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:20:00",
+    "ChipTime": "34:59:00",
+    "GunTime": "35:20:00"
+  },
+  {
+    "Place": 137,
+    "Bib": 61,
+    "Name": "Sally, Hugh",
+    "AG": "M45",
+    "Club": "Lagan Valley AC",
+    "Lap of Lough": "8:32:00",
+    "ChipTime": "35:18:00",
+    "GunTime": "35:21:00"
+  },
+  {
+    "Place": 138,
+    "Bib": 506,
+    "Name": "Woods, Ciara",
+    "AG": "F45",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:27:00",
+    "ChipTime": "35:18:00",
+    "GunTime": "35:24:00"
+  },
+  {
+    "Place": 139,
+    "Bib": 93,
+    "Name": "Baxter, Mark",
+    "AG": "M50",
+    "Club": "Termoneeny Running Club",
+    "Lap of Lough": "8:21:00",
+    "ChipTime": "35:17:00",
+    "GunTime": "35:25:00"
+  },
+  {
+    "Place": 140,
+    "Bib": 507,
+    "Name": "Clements, Sam",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:09:00",
+    "ChipTime": "35:04:00",
+    "GunTime": "35:25:00"
+  },
+  {
+    "Place": 141,
+    "Bib": 288,
+    "Name": "O’Donnell, Miceal",
+    "AG": "MO",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:18:00",
+    "ChipTime": "35:17:00",
+    "GunTime": "35:26:00"
+  },
+  {
+    "Place": 142,
+    "Bib": 307,
+    "Name": "Tuohey, Gerry",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "8:21:00",
+    "ChipTime": "35:23:00",
+    "GunTime": "35:29:00"
+  },
+  {
+    "Place": 143,
+    "Bib": 678,
+    "Name": "O donnell, Ciaran",
+    "AG": "M55",
+    "Club": "Letterkenny AC",
+    "Lap of Lough": "8:24:00",
+    "ChipTime": "35:25:00",
+    "GunTime": "35:30:00"
+  },
+  {
+    "Place": 144,
+    "Bib": 544,
+    "Name": "McWilliams, Cormac",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "9:02:00",
+    "ChipTime": "35:20:00",
+    "GunTime": "35:33:00"
+  },
+  {
+    "Place": 145,
+    "Bib": 469,
+    "Name": "Gallagher, Robert",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "8:21:00",
+    "ChipTime": "35:32:00",
+    "GunTime": "35:37:00"
+  },
+  {
+    "Place": 146,
+    "Bib": 737,
+    "Name": "Mills, Kyle",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:21:00",
+    "ChipTime": "35:21:00",
+    "GunTime": "35:37:00"
+  },
+  {
+    "Place": 147,
+    "Bib": 198,
+    "Name": "McAtee, Vinnie",
+    "AG": "M45",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "8:26:00",
+    "ChipTime": "35:26:00",
+    "GunTime": "35:40:00"
+  },
+  {
+    "Place": 148,
+    "Bib": 124,
+    "Name": "Whittle, Adrian",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:39:00",
+    "ChipTime": "35:15:00",
+    "GunTime": "35:40:00"
+  },
+  {
+    "Place": 149,
+    "Bib": 527,
+    "Name": "Hoynes, Raymond",
+    "AG": "M50",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "8:23:00",
+    "ChipTime": "35:14:00",
+    "GunTime": "35:40:00"
+  },
+  {
+    "Place": 150,
+    "Bib": 277,
+    "Name": "Donnelly, Plunkett",
+    "AG": "M35",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "35:30:00",
+    "GunTime": "35:41:00"
+  },
+  {
+    "Place": 151,
+    "Bib": 565,
+    "Name": "Meenagh, Damhan",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "8:30:00",
+    "ChipTime": "35:16:00",
+    "GunTime": "35:42:00"
+  },
+  {
+    "Place": 152,
+    "Bib": 223,
+    "Name": "Holleran, Damien",
+    "AG": "M45",
+    "Club": "1ZERO1 Athletes",
+    "Lap of Lough": "8:25:00",
+    "ChipTime": "35:38:00",
+    "GunTime": "35:43:00"
+  },
+  {
+    "Place": 153,
+    "Bib": 672,
+    "Name": "Donnelly, Shane",
+    "AG": "MO",
+    "Club": "Kildress Local Runners",
+    "Lap of Lough": "7:58:00",
+    "ChipTime": "35:20:00",
+    "GunTime": "35:49:00"
+  },
+  {
+    "Place": 154,
+    "Bib": 766,
+    "Name": "Loughran, Martin",
+    "AG": "M45",
+    "Club": "Strive Racing Club",
+    "Lap of Lough": "1:12:00",
+    "ChipTime": "35:25:00",
+    "GunTime": "35:54:00"
+  },
+  {
+    "Place": 155,
+    "Bib": 564,
+    "Name": "Meenagh, Ciaran",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:29:00",
+    "ChipTime": "35:41:00",
+    "GunTime": "35:55:00"
+  },
+  {
+    "Place": 156,
+    "Bib": 804,
+    "Name": "McCusker, Darren",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "1:46:00",
+    "ChipTime": "35:45:00",
+    "GunTime": "35:56:00"
+  },
+  {
+    "Place": 157,
+    "Bib": 347,
+    "Name": "Mills, Daniel",
+    "AG": "M35",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "8:47:00",
+    "ChipTime": "35:49:00",
+    "GunTime": "35:57:00"
+  },
+  {
+    "Place": 158,
+    "Bib": 95,
+    "Name": "Wallace, Aidan",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "8:36:00",
+    "ChipTime": "35:55:00",
+    "GunTime": "35:57:00"
+  },
+  {
+    "Place": 159,
+    "Bib": 206,
+    "Name": "Kerlin, Seamus",
+    "AG": "M35",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "8:35:00",
+    "ChipTime": "35:47:00",
+    "GunTime": "36:00:00"
+  },
+  {
+    "Place": 160,
+    "Bib": 86,
+    "Name": "Winters, Gavin",
+    "AG": "M45",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "8:34:00",
+    "ChipTime": "35:52:00",
+    "GunTime": "36:01:00"
+  },
+  {
+    "Place": 161,
+    "Bib": 64,
+    "Name": "Corcoran, Kieran",
+    "AG": "M35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "8:30:00",
+    "ChipTime": "35:44:00",
+    "GunTime": "36:02:00"
+  },
+  {
+    "Place": 162,
+    "Bib": 491,
+    "Name": "McElhatton, Ronan",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "8:40:00",
+    "ChipTime": "35:55:00",
+    "GunTime": "36:11:00"
+  },
+  {
+    "Place": 163,
+    "Bib": 551,
+    "Name": "Kelly, Damian",
+    "AG": "M55",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "8:30:00",
+    "ChipTime": "35:57:00",
+    "GunTime": "36:12:00"
+  },
+  {
+    "Place": 164,
+    "Bib": 323,
+    "Name": "O’Neill, Barry",
+    "AG": "M40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "8:36:00",
+    "ChipTime": "36:00:00",
+    "GunTime": "36:15:00"
+  },
+  {
+    "Place": 165,
+    "Bib": 685,
+    "Name": "McCann, Mark",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:19:00",
+    "ChipTime": "36:06:00",
+    "GunTime": "36:17:00"
+  },
+  {
+    "Place": 166,
+    "Bib": 65,
+    "Name": "Corcoran, Nigel",
+    "AG": "M35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "8:38:00",
+    "ChipTime": "36:01:00",
+    "GunTime": "36:19:00"
+  },
+  {
+    "Place": 167,
+    "Bib": 662,
+    "Name": "O’Neill, Susan",
+    "AG": "F35",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:42:00",
+    "ChipTime": "36:09:00",
+    "GunTime": "36:19:00"
+  },
+  {
+    "Place": 168,
+    "Bib": 366,
+    "Name": "Corey, Conor",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:47:00",
+    "ChipTime": "36:11:00",
+    "GunTime": "36:21:00"
+  },
+  {
+    "Place": 169,
+    "Bib": 63,
+    "Name": "Devine, Daire",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:26:00",
+    "ChipTime": "35:58:00",
+    "GunTime": "36:23:00"
+  },
+  {
+    "Place": 170,
+    "Bib": 370,
+    "Name": "McGurren, Pauline",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "8:45:00",
+    "ChipTime": "36:18:00",
+    "GunTime": "36:24:00"
+  },
+  {
+    "Place": 171,
+    "Bib": 329,
+    "Name": "Collins, Breannain",
+    "AG": "MO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "8:08:00",
+    "ChipTime": "35:47:00",
+    "GunTime": "36:29:00"
+  },
+  {
+    "Place": 172,
+    "Bib": 311,
+    "Name": "Cross, Stephen",
+    "AG": "M50",
+    "Club": "Armagh Pikekickers Triathlon Club",
+    "Lap of Lough": "8:51:00",
+    "ChipTime": "36:20:00",
+    "GunTime": "36:31:00"
+  },
+  {
+    "Place": 173,
+    "Bib": 515,
+    "Name": "O’Neill, Emma",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "8:38:00",
+    "ChipTime": "36:12:00",
+    "GunTime": "36:35:00"
+  },
+  {
+    "Place": 174,
+    "Bib": 354,
+    "Name": "Collins, Bobby",
+    "AG": "M65",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "8:38:00",
+    "ChipTime": "36:26:00",
+    "GunTime": "36:35:00"
+  },
+  {
+    "Place": 175,
+    "Bib": 346,
+    "Name": "Brogan, Sean",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:30:00",
+    "ChipTime": "36:16:00",
+    "GunTime": "36:36:00"
+  },
+  {
+    "Place": 176,
+    "Bib": 584,
+    "Name": "Conlon, Peter",
+    "AG": "M50",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "8:16:00",
+    "ChipTime": "35:52:00",
+    "GunTime": "36:38:00"
+  },
+  {
+    "Place": 177,
+    "Bib": 32,
+    "Name": "Donnelly, Áine",
+    "AG": "FO",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "36:31:00",
+    "GunTime": "36:39:00"
+  },
+  {
+    "Place": 178,
+    "Bib": 392,
+    "Name": "Donnelly, Oliver",
+    "AG": "M45",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "8:27:00",
+    "ChipTime": "36:13:00",
+    "GunTime": "36:39:00"
+  },
+  {
+    "Place": 179,
+    "Bib": 114,
+    "Name": "Brogan, Niall",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:40:00",
+    "ChipTime": "36:21:00",
+    "GunTime": "36:41:00"
+  },
+  {
+    "Place": 180,
+    "Bib": 483,
+    "Name": "Ward, Benny",
+    "AG": "M40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:01:00",
+    "ChipTime": "36:35:00",
+    "GunTime": "36:44:00"
+  },
+  {
+    "Place": 181,
+    "Bib": 572,
+    "Name": "O laoire, Peadar",
+    "AG": "M40",
+    "Club": "OTC",
+    "Lap of Lough": "8:18:00",
+    "ChipTime": "36:38:00",
+    "GunTime": "36:44:00"
+  },
+  {
+    "Place": 182,
+    "Bib": 381,
+    "Name": "Gillespie, Sean",
+    "AG": "MO",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "7:51:00",
+    "ChipTime": "36:22:00",
+    "GunTime": "36:47:00"
+  },
+  {
+    "Place": 183,
+    "Bib": 728,
+    "Name": "O’Kane, Colin",
+    "AG": "M35",
+    "Club": "KC Runners",
+    "Lap of Lough": "8:41:00",
+    "ChipTime": "36:32:00",
+    "GunTime": "36:47:00"
+  },
+  {
+    "Place": 184,
+    "Bib": 185,
+    "Name": "Fitzpatrick, Laura",
+    "AG": "F35",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "8:56:00",
+    "ChipTime": "36:40:00",
+    "GunTime": "36:48:00"
+  },
+  {
+    "Place": 185,
+    "Bib": 719,
+    "Name": "Taggart, Marcus",
+    "AG": "M50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "8:26:00",
+    "ChipTime": "36:45:00",
+    "GunTime": "36:51:00"
+  },
+  {
+    "Place": 186,
+    "Bib": 690,
+    "Name": "Lynch, Austin",
+    "AG": "M45",
+    "Club": "KC Runners",
+    "Lap of Lough": "8:46:00",
+    "ChipTime": "36:36:00",
+    "GunTime": "36:52:00"
+  },
+  {
+    "Place": 187,
+    "Bib": 163,
+    "Name": "Doherty, Fiona",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "9:01:00",
+    "ChipTime": "36:49:00",
+    "GunTime": "36:55:00"
+  },
+  {
+    "Place": 188,
+    "Bib": 596,
+    "Name": "McElroy, Joseph",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "8:55:00",
+    "ChipTime": "36:45:00",
+    "GunTime": "36:56:00"
+  },
+  {
+    "Place": 189,
+    "Bib": 599,
+    "Name": "Hobson, Ian",
+    "AG": "M50",
+    "Club": "Acorns AC",
+    "Lap of Lough": "8:17:00",
+    "ChipTime": "36:39:00",
+    "GunTime": "36:56:00"
+  },
+  {
+    "Place": 190,
+    "Bib": 213,
+    "Name": "Rutledge, Darren",
+    "AG": "M45",
+    "Club": "Run for Enda",
+    "Lap of Lough": "8:34:00",
+    "ChipTime": "36:51:00",
+    "GunTime": "36:58:00"
+  },
+  {
+    "Place": 191,
+    "Bib": 895,
+    "Name": "Donnelly, Michelle",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "8:53:00",
+    "ChipTime": "36:52:00",
+    "GunTime": "36:59:00"
+  },
+  {
+    "Place": 192,
+    "Bib": 514,
+    "Name": "Kearney, Seamus",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "8:40:00",
+    "ChipTime": "37:01:00",
+    "GunTime": "37:04:00"
+  },
+  {
+    "Place": 193,
+    "Bib": 45,
+    "Name": "Bann, Mark",
+    "AG": "M45",
+    "Club": "Acorns AC",
+    "Lap of Lough": "8:42:00",
+    "ChipTime": "36:48:00",
+    "GunTime": "37:05:00"
+  },
+  {
+    "Place": 194,
+    "Bib": 580,
+    "Name": "Logue, Karl",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "8:30:00",
+    "ChipTime": "36:55:00",
+    "GunTime": "37:08:00"
+  },
+  {
+    "Place": 195,
+    "Bib": 338,
+    "Name": "Fox, Nathan",
+    "AG": "MO",
+    "Club": "Run for Enda",
+    "Lap of Lough": "8:40:00",
+    "ChipTime": "37:04:00",
+    "GunTime": "37:12:00"
+  },
+  {
+    "Place": 196,
+    "Bib": 457,
+    "Name": "Oneill, Martin",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:26:00",
+    "ChipTime": "37:01:00",
+    "GunTime": "37:13:00"
+  },
+  {
+    "Place": 197,
+    "Bib": 252,
+    "Name": "Heagney, Eoin",
+    "AG": "M35",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "8:52:00",
+    "ChipTime": "36:43:00",
+    "GunTime": "37:13:00"
+  },
+  {
+    "Place": 198,
+    "Bib": 894,
+    "Name": "Haigney, Deirdre",
+    "AG": "F50",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:47:00",
+    "ChipTime": "37:06:00",
+    "GunTime": "37:14:00"
+  },
+  {
+    "Place": 199,
+    "Bib": 352,
+    "Name": "Woods, Brendan",
+    "AG": "M50",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "8:43:00",
+    "ChipTime": "36:29:00",
+    "GunTime": "37:15:00"
+  },
+  {
+    "Place": 200,
+    "Bib": 516,
+    "Name": "Murphy, Jarlath",
+    "AG": "MO",
+    "Club": "Omagh Triathlon Club",
+    "Lap of Lough": "8:21:00",
+    "ChipTime": "36:52:00",
+    "GunTime": "37:17:00"
+  },
+  {
+    "Place": 201,
+    "Bib": 57,
+    "Name": "Hamiliton, Davey",
+    "AG": "M60",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:06:00",
+    "ChipTime": "36:59:00",
+    "GunTime": "37:18:00"
+  },
+  {
+    "Place": 202,
+    "Bib": 777,
+    "Name": "Devlin, Daithi",
+    "AG": "M U19",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:55:00",
+    "ChipTime": "37:14:00",
+    "GunTime": "37:22:00"
+  },
+  {
+    "Place": 203,
+    "Bib": 717,
+    "Name": "Park, Ryan",
+    "AG": "MO",
+    "Club": "Acorns AC",
+    "Lap of Lough": "6:15:00",
+    "ChipTime": "36:55:00",
+    "GunTime": "37:22:00"
+  },
+  {
+    "Place": 204,
+    "Bib": 786,
+    "Name": "Armstrong, Kevin",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:52:00",
+    "ChipTime": "37:10:00",
+    "GunTime": "37:23:00"
+  },
+  {
+    "Place": 205,
+    "Bib": 679,
+    "Name": "Donnelly, Shea",
+    "AG": "M U19",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:58:00",
+    "ChipTime": "37:18:00",
+    "GunTime": "37:25:00"
+  },
+  {
+    "Place": 206,
+    "Bib": 243,
+    "Name": "Arkinson, Seamus",
+    "AG": "M60",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "8:55:00",
+    "ChipTime": "37:11:00",
+    "GunTime": "37:27:00"
+  },
+  {
+    "Place": 207,
+    "Bib": 33,
+    "Name": "O’Connor, Tina",
+    "AG": "F40",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "8:45:00",
+    "ChipTime": "37:21:00",
+    "GunTime": "37:29:00"
+  },
+  {
+    "Place": 208,
+    "Bib": 123,
+    "Name": "Whittle, Leeann",
+    "AG": "F40",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:57:00",
+    "ChipTime": "37:04:00",
+    "GunTime": "37:30:00"
+  },
+  {
+    "Place": 209,
+    "Bib": 453,
+    "Name": "Keatley, Trevor",
+    "AG": "M45",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "9:19:00",
+    "ChipTime": "37:20:00",
+    "GunTime": "37:30:00"
+  },
+  {
+    "Place": 210,
+    "Bib": 201,
+    "Name": "McQuaid, Cáelainn",
+    "AG": "FO",
+    "Club": "Lagan Valley AC",
+    "Lap of Lough": "8:57:00",
+    "ChipTime": "37:29:00",
+    "GunTime": "37:31:00"
+  },
+  {
+    "Place": 211,
+    "Bib": 803,
+    "Name": "Harte, Mark",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:05:00",
+    "ChipTime": "37:02:00",
+    "GunTime": "37:32:00"
+  },
+  {
+    "Place": 212,
+    "Bib": 485,
+    "Name": "Corcoran, Gerard",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:02:00",
+    "ChipTime": "37:15:00",
+    "GunTime": "37:32:00"
+  },
+  {
+    "Place": 213,
+    "Bib": 308,
+    "Name": "Macidulskas, Arnoldas",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:45:00",
+    "ChipTime": "37:21:00",
+    "GunTime": "37:34:00"
+  },
+  {
+    "Place": 214,
+    "Bib": 860,
+    "Name": "Coyle, Ciara",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "8:45:00",
+    "ChipTime": "37:13:00",
+    "GunTime": "37:36:00"
+  },
+  {
+    "Place": 215,
+    "Bib": 839,
+    "Name": "Hannigan, Cormac",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:52:00",
+    "ChipTime": "37:16:00",
+    "GunTime": "37:36:00"
+  },
+  {
+    "Place": 216,
+    "Bib": 797,
+    "Name": "McElduff, Méabh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "6:56:00",
+    "ChipTime": "37:19:00",
+    "GunTime": "37:37:00"
+  },
+  {
+    "Place": 217,
+    "Bib": 419,
+    "Name": "Thom, Mark",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "8:55:00",
+    "ChipTime": "37:21:00",
+    "GunTime": "37:38:00"
+  },
+  {
+    "Place": 218,
+    "Bib": 173,
+    "Name": "Willis, Mark",
+    "AG": "M45",
+    "Club": "St Peter's AC",
+    "Lap of Lough": "8:57:00",
+    "ChipTime": "37:28:00",
+    "GunTime": "37:39:00"
+  },
+  {
+    "Place": 219,
+    "Bib": 433,
+    "Name": "Ayna, Amy",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "37:10:00",
+    "GunTime": "37:41:00"
+  },
+  {
+    "Place": 220,
+    "Bib": 656,
+    "Name": "Gallagher, Francie",
+    "AG": "M55",
+    "Club": "1ZERO1 Athletes",
+    "Lap of Lough": "8:56:00",
+    "ChipTime": "37:17:00",
+    "GunTime": "37:43:00"
+  },
+  {
+    "Place": 221,
+    "Bib": 676,
+    "Name": "Fox, Daniel",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:56:00",
+    "ChipTime": "37:31:00",
+    "GunTime": "37:45:00"
+  },
+  {
+    "Place": 222,
+    "Bib": 556,
+    "Name": "McErlean, Conor",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "37:35:00",
+    "GunTime": "37:47:00"
+  },
+  {
+    "Place": 223,
+    "Bib": 58,
+    "Name": "Hollywood, Vincent",
+    "AG": "M55",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "8:39:00",
+    "ChipTime": "37:32:00",
+    "GunTime": "37:47:00"
+  },
+  {
+    "Place": 224,
+    "Bib": 680,
+    "Name": "Donnelly, Tess",
+    "AG": "F U19",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:02:00",
+    "ChipTime": "37:24:00",
+    "GunTime": "37:47:00"
+  },
+  {
+    "Place": 225,
+    "Bib": 878,
+    "Name": "Munrose, Cormac",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:41:00",
+    "ChipTime": "37:17:00",
+    "GunTime": "37:49:00"
+  },
+  {
+    "Place": 226,
+    "Bib": 269,
+    "Name": "McCann, Conor",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:00:00",
+    "ChipTime": "37:48:00",
+    "GunTime": "37:50:00"
+  },
+  {
+    "Place": 227,
+    "Bib": 593,
+    "Name": "Lukacs, David",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:41:00",
+    "ChipTime": "37:27:00",
+    "GunTime": "37:50:00"
+  },
+  {
+    "Place": 228,
+    "Bib": 884,
+    "Name": "O'Kane, Peter",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:43:00",
+    "ChipTime": "37:44:00",
+    "GunTime": "37:52:00"
+  },
+  {
+    "Place": 229,
+    "Bib": 753,
+    "Name": "McCracken, Martin",
+    "AG": "M50",
+    "Club": "St Peter's AC",
+    "Lap of Lough": "14:00:00",
+    "ChipTime": "37:38:00",
+    "GunTime": "37:52:00"
+  },
+  {
+    "Place": 230,
+    "Bib": 407,
+    "Name": "McGarvey, Conor",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "9:06:00",
+    "ChipTime": "37:40:00",
+    "GunTime": "37:52:00"
+  },
+  {
+    "Place": 231,
+    "Bib": 170,
+    "Name": "Donaghy, Bronagh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "37:23:00",
+    "GunTime": "37:55:00"
+  },
+  {
+    "Place": 232,
+    "Bib": 38,
+    "Name": "Donaghy, Conor",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:56:00",
+    "ChipTime": "37:27:00",
+    "GunTime": "37:58:00"
+  },
+  {
+    "Place": 233,
+    "Bib": 172,
+    "Name": "Moore, John",
+    "AG": "M55",
+    "Club": "Run for Enda",
+    "Lap of Lough": "8:49:00",
+    "ChipTime": "37:32:00",
+    "GunTime": "37:59:00"
+  },
+  {
+    "Place": 234,
+    "Bib": 373,
+    "Name": "Young, Trudy",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "37:53:00",
+    "GunTime": "38:01:00"
+  },
+  {
+    "Place": 235,
+    "Bib": 455,
+    "Name": "Conway, James",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "9:26:00",
+    "ChipTime": "37:38:00",
+    "GunTime": "38:02:00"
+  },
+  {
+    "Place": 236,
+    "Bib": 643,
+    "Name": "Hempenstall, Daniel",
+    "AG": "M U19",
+    "Club": "Loughmacrory GFC",
+    "Lap of Lough": "8:41:00",
+    "ChipTime": "37:49:00",
+    "GunTime": "38:04:00"
+  },
+  {
+    "Place": 237,
+    "Bib": 12,
+    "Name": "Withers, Patrick",
+    "AG": "M35",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:21:00",
+    "ChipTime": "38:03:00",
+    "GunTime": "38:09:00"
+  },
+  {
+    "Place": 238,
+    "Bib": 81,
+    "Name": "O'Donnell, Tracey",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "9:11:00",
+    "ChipTime": "38:01:00",
+    "GunTime": "38:11:00"
+  },
+  {
+    "Place": 239,
+    "Bib": 684,
+    "Name": "Leonard, Stephen",
+    "AG": "M55",
+    "Club": "Coalisland Na Fianna Runners",
+    "Lap of Lough": "9:05:00",
+    "ChipTime": "38:04:00",
+    "GunTime": "38:11:00"
+  },
+  {
+    "Place": 240,
+    "Bib": 432,
+    "Name": "Porter, Aishling",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:00:00",
+    "ChipTime": "38:10:00",
+    "GunTime": "38:14:00"
+  },
+  {
+    "Place": 241,
+    "Bib": 34,
+    "Name": "Kerney, Ewan",
+    "AG": "M U19",
+    "Club": "Tullysaran GAC",
+    "Lap of Lough": "9:35:00",
+    "ChipTime": "38:04:00",
+    "GunTime": "38:15:00"
+  },
+  {
+    "Place": 242,
+    "Bib": 358,
+    "Name": "Mannion, Michael",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:01:00",
+    "ChipTime": "37:58:00",
+    "GunTime": "38:16:00"
+  },
+  {
+    "Place": 243,
+    "Bib": 357,
+    "Name": "Doherty, Erin",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "8:46:00",
+    "ChipTime": "37:59:00",
+    "GunTime": "38:16:00"
+  },
+  {
+    "Place": 244,
+    "Bib": 627,
+    "Name": "Logue, Colm",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:21:00",
+    "ChipTime": "37:48:00",
+    "GunTime": "38:16:00"
+  },
+  {
+    "Place": 245,
+    "Bib": 811,
+    "Name": "Kelly, Aaron",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "8:46:00",
+    "ChipTime": "37:52:00",
+    "GunTime": "38:20:00"
+  },
+  {
+    "Place": 246,
+    "Bib": 360,
+    "Name": "McCabe, Brannagh",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:58:00",
+    "ChipTime": "38:14:00",
+    "GunTime": "38:21:00"
+  },
+  {
+    "Place": 247,
+    "Bib": 11,
+    "Name": "Kearney, Fiona",
+    "AG": "F45",
+    "Club": "Armagh AC",
+    "Lap of Lough": "9:10:00",
+    "ChipTime": "38:07:00",
+    "GunTime": "38:22:00"
+  },
+  {
+    "Place": 248,
+    "Bib": 244,
+    "Name": "McCrory, Patrick",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:54:00",
+    "ChipTime": "38:14:00",
+    "GunTime": "38:22:00"
+  },
+  {
+    "Place": 249,
+    "Bib": 435,
+    "Name": "McGarvey, Gavin",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:03:00",
+    "ChipTime": "38:14:00",
+    "GunTime": "38:25:00"
+  },
+  {
+    "Place": 250,
+    "Bib": 183,
+    "Name": "Campbell, Declan",
+    "AG": "M50",
+    "Club": "Trilimits",
+    "Lap of Lough": "9:03:00",
+    "ChipTime": "38:13:00",
+    "GunTime": "38:26:00"
+  },
+  {
+    "Place": 251,
+    "Bib": 449,
+    "Name": "Kelly, Fintan",
+    "AG": "M40",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "8:59:00",
+    "ChipTime": "37:45:00",
+    "GunTime": "38:31:00"
+  },
+  {
+    "Place": 252,
+    "Bib": 134,
+    "Name": "McCaughey, Ben",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:53:00",
+    "ChipTime": "38:07:00",
+    "GunTime": "38:31:00"
+  },
+  {
+    "Place": 253,
+    "Bib": 231,
+    "Name": "Henderson, Raymond",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:16:00",
+    "ChipTime": "38:07:00",
+    "GunTime": "38:33:00"
+  },
+  {
+    "Place": 254,
+    "Bib": 539,
+    "Name": "Flaconer, Owen",
+    "AG": "M50",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "8:57:00",
+    "ChipTime": "38:01:00",
+    "GunTime": "38:33:00"
+  },
+  {
+    "Place": 255,
+    "Bib": 186,
+    "Name": "Fitzpatrick, John",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:31:00",
+    "ChipTime": "38:24:00",
+    "GunTime": "38:34:00"
+  },
+  {
+    "Place": 256,
+    "Bib": 235,
+    "Name": "McBride, Jonathan",
+    "AG": "M50",
+    "Club": "Tri Limits",
+    "Lap of Lough": "8:51:00",
+    "ChipTime": "38:10:00",
+    "GunTime": "38:34:00"
+  },
+  {
+    "Place": 257,
+    "Bib": 781,
+    "Name": "Loughran, Jarleth",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "8:49:00",
+    "ChipTime": "38:06:00",
+    "GunTime": "38:36:00"
+  },
+  {
+    "Place": 258,
+    "Bib": 179,
+    "Name": "Paskin, Shaun",
+    "AG": "M35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "2:30:00",
+    "ChipTime": "38:21:00",
+    "GunTime": "38:36:00"
+  },
+  {
+    "Place": 259,
+    "Bib": 674,
+    "Name": "McAleer, Seamus",
+    "AG": "M40",
+    "Club": "OSE",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "38:09:00",
+    "GunTime": "38:37:00"
+  },
+  {
+    "Place": 260,
+    "Bib": 880,
+    "Name": "Devlin, Brian",
+    "AG": "M35",
+    "Club": "Greencastle",
+    "Lap of Lough": "9:31:00",
+    "ChipTime": "38:36:00",
+    "GunTime": "38:42:00"
+  },
+  {
+    "Place": 261,
+    "Bib": 69,
+    "Name": "Holland, Ciara",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "9:24:00",
+    "ChipTime": "38:36:00",
+    "GunTime": "38:43:00"
+  },
+  {
+    "Place": 262,
+    "Bib": 744,
+    "Name": "Patterson, James",
+    "AG": "M U19",
+    "Club": "1ZERO1 Athletes",
+    "Lap of Lough": "1:37:00",
+    "ChipTime": "38:19:00",
+    "GunTime": "38:47:00"
+  },
+  {
+    "Place": 263,
+    "Bib": 94,
+    "Name": "Wallace, Peter",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:36:00",
+    "ChipTime": "38:47:00",
+    "GunTime": "38:49:00"
+  },
+  {
+    "Place": 264,
+    "Bib": 689,
+    "Name": "McGaughey, Ciaran",
+    "AG": "M50",
+    "Club": "XP5",
+    "Lap of Lough": "9:15:00",
+    "ChipTime": "38:28:00",
+    "GunTime": "38:52:00"
+  },
+  {
+    "Place": 265,
+    "Bib": 177,
+    "Name": "McClements, Niall",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:14:00",
+    "ChipTime": "38:39:00",
+    "GunTime": "38:52:00"
+  },
+  {
+    "Place": 266,
+    "Bib": 466,
+    "Name": "Quinn, Pauric",
+    "AG": "M60",
+    "Club": "Omagh Triathlon Club",
+    "Lap of Lough": "8:55:00",
+    "ChipTime": "38:46:00",
+    "GunTime": "38:54:00"
+  },
+  {
+    "Place": 267,
+    "Bib": 140,
+    "Name": "Grimes, Diarmaid",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:27:00",
+    "ChipTime": "38:29:00",
+    "GunTime": "38:58:00"
+  },
+  {
+    "Place": 268,
+    "Bib": 51,
+    "Name": "De armengol villar, Michael",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:17:00",
+    "ChipTime": "38:41:00",
+    "GunTime": "38:58:00"
+  },
+  {
+    "Place": 269,
+    "Bib": 642,
+    "Name": "McAnespie, Oisin",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "8:22:00",
+    "ChipTime": "38:29:00",
+    "GunTime": "38:59:00"
+  },
+  {
+    "Place": 270,
+    "Bib": 666,
+    "Name": "Hudson, Stephen",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:01:00",
+    "ChipTime": "38:53:00",
+    "GunTime": "39:00:00"
+  },
+  {
+    "Place": 271,
+    "Bib": 320,
+    "Name": "Kerr, Mairead",
+    "AG": "F45",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:02:00",
+    "ChipTime": "38:49:00",
+    "GunTime": "39:01:00"
+  },
+  {
+    "Place": 272,
+    "Bib": 391,
+    "Name": "McGale, Oliver",
+    "AG": "M50",
+    "Club": "Pigeon Top Elite Runners",
+    "Lap of Lough": "8:37:00",
+    "ChipTime": "38:38:00",
+    "GunTime": "39:02:00"
+  },
+  {
+    "Place": 273,
+    "Bib": 477,
+    "Name": "McKeown, Julian",
+    "AG": "M50",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:21:00",
+    "ChipTime": "38:45:00",
+    "GunTime": "39:06:00"
+  },
+  {
+    "Place": 274,
+    "Bib": 399,
+    "Name": "Holden, William",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:05:00",
+    "ChipTime": "38:48:00",
+    "GunTime": "39:07:00"
+  },
+  {
+    "Place": 275,
+    "Bib": 319,
+    "Name": "Collins, Micky",
+    "AG": "M50",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "8:54:00",
+    "ChipTime": "38:55:00",
+    "GunTime": "39:08:00"
+  },
+  {
+    "Place": 276,
+    "Bib": 891,
+    "Name": "Loughran, Mark",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:01:00",
+    "ChipTime": "38:49:00",
+    "GunTime": "39:08:00"
+  },
+  {
+    "Place": 277,
+    "Bib": 482,
+    "Name": "O’Hagan, Aidan",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:05:00",
+    "ChipTime": "38:44:00",
+    "GunTime": "39:10:00"
+  },
+  {
+    "Place": 278,
+    "Bib": 442,
+    "Name": "Lyons, Willie",
+    "AG": "M45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "9:10:00",
+    "ChipTime": "38:58:00",
+    "GunTime": "39:11:00"
+  },
+  {
+    "Place": 279,
+    "Bib": 174,
+    "Name": "Hart, Plunkett",
+    "AG": "MO",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "9:00:00",
+    "ChipTime": "38:47:00",
+    "GunTime": "39:13:00"
+  },
+  {
+    "Place": 280,
+    "Bib": 16,
+    "Name": "Dunn, Stephen",
+    "AG": "M50",
+    "Club": "Jog Moira",
+    "Lap of Lough": "9:11:00",
+    "ChipTime": "38:55:00",
+    "GunTime": "39:14:00"
+  },
+  {
+    "Place": 281,
+    "Bib": 703,
+    "Name": "Teague, Barry",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:49:00",
+    "ChipTime": "38:40:00",
+    "GunTime": "39:15:00"
+  },
+  {
+    "Place": 282,
+    "Bib": 537,
+    "Name": "McDermott, Liam",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "9:45:00",
+    "ChipTime": "39:14:00",
+    "GunTime": "39:17:00"
+  },
+  {
+    "Place": 283,
+    "Bib": 636,
+    "Name": "O'Brien, Cathal",
+    "AG": "M40",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "9:17:00",
+    "ChipTime": "39:06:00",
+    "GunTime": "39:22:00"
+  },
+  {
+    "Place": 284,
+    "Bib": 13,
+    "Name": "Withers, Chris",
+    "AG": "M65",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:43:00",
+    "ChipTime": "39:20:00",
+    "GunTime": "39:23:00"
+  },
+  {
+    "Place": 285,
+    "Bib": 498,
+    "Name": "Gillespie, Jason",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "9:08:00",
+    "ChipTime": "39:18:00",
+    "GunTime": "39:23:00"
+  },
+  {
+    "Place": 286,
+    "Bib": 234,
+    "Name": "Campbell, Kevin",
+    "AG": "M45",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:26:00",
+    "ChipTime": "39:04:00",
+    "GunTime": "39:24:00"
+  },
+  {
+    "Place": 287,
+    "Bib": 180,
+    "Name": "Harkness, Roger",
+    "AG": "M50",
+    "Club": "Wednesday Club",
+    "Lap of Lough": "9:06:00",
+    "ChipTime": "38:51:00",
+    "GunTime": "39:25:00"
+  },
+  {
+    "Place": 288,
+    "Bib": 550,
+    "Name": "Weir, Daniel",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:49:00",
+    "ChipTime": "39:02:00",
+    "GunTime": "39:26:00"
+  },
+  {
+    "Place": 289,
+    "Bib": 592,
+    "Name": "McIvor, Ross",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "8:49:00",
+    "ChipTime": "39:03:00",
+    "GunTime": "39:26:00"
+  },
+  {
+    "Place": 290,
+    "Bib": 890,
+    "Name": "Kilpatrick, Declan",
+    "AG": "M50",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "9:02:00",
+    "ChipTime": "38:50:00",
+    "GunTime": "39:28:00"
+  },
+  {
+    "Place": 291,
+    "Bib": 868,
+    "Name": "McBride, Brian",
+    "AG": "M70",
+    "Club": "Lettetrkenny AC",
+    "Lap of Lough": "9:31:00",
+    "ChipTime": "39:28:00",
+    "GunTime": "39:29:00"
+  },
+  {
+    "Place": 292,
+    "Bib": 879,
+    "Name": "Mc, Chris",
+    "AG": "M50",
+    "Club": "KC Runners",
+    "Lap of Lough": "9:11:00",
+    "ChipTime": "39:25:00",
+    "GunTime": "39:29:00"
+  },
+  {
+    "Place": 293,
+    "Bib": 472,
+    "Name": "Coyle, John",
+    "AG": "M55",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "9:27:00",
+    "ChipTime": "38:55:00",
+    "GunTime": "39:30:00"
+  },
+  {
+    "Place": 294,
+    "Bib": 495,
+    "Name": "Ward, Emma",
+    "AG": "F40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:16:00",
+    "ChipTime": "39:01:00",
+    "GunTime": "39:31:00"
+  },
+  {
+    "Place": 295,
+    "Bib": 153,
+    "Name": "Oneill, Stephen",
+    "AG": "M40",
+    "Club": "Acorns AC",
+    "Lap of Lough": "9:04:00",
+    "ChipTime": "39:04:00",
+    "GunTime": "39:31:00"
+  },
+  {
+    "Place": 296,
+    "Bib": 649,
+    "Name": "Gormley, Ruairi",
+    "AG": "MO",
+    "Club": "Clann na Gael Runners",
+    "Lap of Lough": "9:04:00",
+    "ChipTime": "38:40:00",
+    "GunTime": "39:31:00"
+  },
+  {
+    "Place": 297,
+    "Bib": 543,
+    "Name": "McElhone, Noel",
+    "AG": "M40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "39:32:00",
+    "GunTime": "39:34:00"
+  },
+  {
+    "Place": 298,
+    "Bib": 542,
+    "Name": "McElhone, Ciara",
+    "AG": "F40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "39:32:00",
+    "GunTime": "39:34:00"
+  },
+  {
+    "Place": 299,
+    "Bib": 133,
+    "Name": "Coyle, Roisin",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "9:11:00",
+    "ChipTime": "39:16:00",
+    "GunTime": "39:35:00"
+  },
+  {
+    "Place": 300,
+    "Bib": 316,
+    "Name": "Conwell, Patrick",
+    "AG": "M60",
+    "Club": "St Peter's AC",
+    "Lap of Lough": "9:12:00",
+    "ChipTime": "39:11:00",
+    "GunTime": "39:36:00"
+  },
+  {
+    "Place": 301,
+    "Bib": 555,
+    "Name": "McCarney, Fergal",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "39:33:00",
+    "GunTime": "39:38:00"
+  },
+  {
+    "Place": 302,
+    "Bib": 553,
+    "Name": "Forde, Jenny",
+    "AG": "FO",
+    "Club": "Croydon Harriers",
+    "Lap of Lough": "9:41:00",
+    "ChipTime": "39:14:00",
+    "GunTime": "39:38:00"
+  },
+  {
+    "Place": 303,
+    "Bib": 73,
+    "Name": "McGlinchey, Liam",
+    "AG": "M35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "9:01:00",
+    "ChipTime": "38:51:00",
+    "GunTime": "39:40:00"
+  },
+  {
+    "Place": 304,
+    "Bib": 211,
+    "Name": "Hughes, Paddy",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "9:25:00",
+    "ChipTime": "39:03:00",
+    "GunTime": "39:42:00"
+  },
+  {
+    "Place": 305,
+    "Bib": 887,
+    "Name": "Gordan, Declan",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:43:00",
+    "ChipTime": "39:03:00",
+    "GunTime": "39:42:00"
+  },
+  {
+    "Place": 306,
+    "Bib": 421,
+    "Name": "McCauley, Dylan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:26:00",
+    "ChipTime": "39:15:00",
+    "GunTime": "39:42:00"
+  },
+  {
+    "Place": 307,
+    "Bib": 861,
+    "Name": "O'Brien, MD",
+    "AG": "M U19",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "9:25:00",
+    "ChipTime": "39:28:00",
+    "GunTime": "39:42:00"
+  },
+  {
+    "Place": 308,
+    "Bib": 862,
+    "Name": "O'Brien, Kevin",
+    "AG": "M45",
+    "Club": "Dromore Runners",
+    "Lap of Lough": "9:27:00",
+    "ChipTime": "39:29:00",
+    "GunTime": "39:43:00"
+  },
+  {
+    "Place": 309,
+    "Bib": 62,
+    "Name": "Glasgow, Paula",
+    "AG": "F45",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "9:32:00",
+    "ChipTime": "39:41:00",
+    "GunTime": "39:44:00"
+  },
+  {
+    "Place": 310,
+    "Bib": 686,
+    "Name": "McClelland, Tony",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:27:00",
+    "ChipTime": "39:05:00",
+    "GunTime": "39:45:00"
+  },
+  {
+    "Place": 311,
+    "Bib": 167,
+    "Name": "Muir, Andrew",
+    "AG": "M45",
+    "Club": "North Down AC",
+    "Lap of Lough": "9:07:00",
+    "ChipTime": "39:00:00",
+    "GunTime": "39:46:00"
+  },
+  {
+    "Place": 312,
+    "Bib": 281,
+    "Name": "Kelly, Owen",
+    "AG": "M U19",
+    "Club": "Loughmacrory GFC",
+    "Lap of Lough": "9:24:00",
+    "ChipTime": "39:14:00",
+    "GunTime": "39:47:00"
+  },
+  {
+    "Place": 313,
+    "Bib": 851,
+    "Name": "Donnelly, Eoghan",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:25:00",
+    "ChipTime": "39:23:00",
+    "GunTime": "39:47:00"
+  },
+  {
+    "Place": 314,
+    "Bib": 681,
+    "Name": "Donnelly, Toby",
+    "AG": "M U19",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:18:00",
+    "ChipTime": "39:24:00",
+    "GunTime": "39:48:00"
+  },
+  {
+    "Place": 315,
+    "Bib": 283,
+    "Name": "McGrath, Patrick",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:20:00",
+    "ChipTime": "39:46:00",
+    "GunTime": "39:50:00"
+  },
+  {
+    "Place": 316,
+    "Bib": 418,
+    "Name": "Johnson, Ciaron",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "9:00:00",
+    "ChipTime": "39:13:00",
+    "GunTime": "39:51:00"
+  },
+  {
+    "Place": 317,
+    "Bib": 262,
+    "Name": "Donnelly, Martin",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "8:56:00",
+    "ChipTime": "39:18:00",
+    "GunTime": "39:52:00"
+  },
+  {
+    "Place": 318,
+    "Bib": 168,
+    "Name": "Devine, Niamh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:34:00",
+    "ChipTime": "39:34:00",
+    "GunTime": "39:58:00"
+  },
+  {
+    "Place": 319,
+    "Bib": 18,
+    "Name": "Gallagher, Maeve",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "39:40:00",
+    "GunTime": "40:00:00"
+  },
+  {
+    "Place": 320,
+    "Bib": 571,
+    "Name": "Aike, Naomi",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:40:00",
+    "ChipTime": "39:54:00",
+    "GunTime": "40:01:00"
+  },
+  {
+    "Place": 321,
+    "Bib": 708,
+    "Name": "McGuone, Colm",
+    "AG": "MO",
+    "Club": "Coalisland Na Fianna Runners",
+    "Lap of Lough": "9:30:00",
+    "ChipTime": "39:29:00",
+    "GunTime": "40:02:00"
+  },
+  {
+    "Place": 322,
+    "Bib": 209,
+    "Name": "Rushe, James",
+    "AG": "M55",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "39:53:00",
+    "GunTime": "40:03:00"
+  },
+  {
+    "Place": 323,
+    "Bib": 91,
+    "Name": "Macphie, James",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:28:00",
+    "ChipTime": "39:10:00",
+    "GunTime": "40:04:00"
+  },
+  {
+    "Place": 324,
+    "Bib": 707,
+    "Name": "Ward, Michael",
+    "AG": "M55",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:31:00",
+    "ChipTime": "40:01:00",
+    "GunTime": "40:05:00"
+  },
+  {
+    "Place": 325,
+    "Bib": 375,
+    "Name": "Donnelly, Sinead",
+    "AG": "F45",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "9:21:00",
+    "ChipTime": "39:53:00",
+    "GunTime": "40:05:00"
+  },
+  {
+    "Place": 326,
+    "Bib": 588,
+    "Name": "Bradley, Mark",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "39:17:00",
+    "GunTime": "40:05:00"
+  },
+  {
+    "Place": 327,
+    "Bib": 272,
+    "Name": "McCarron, Cathal",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:44:00",
+    "ChipTime": "39:59:00",
+    "GunTime": "40:07:00"
+  },
+  {
+    "Place": 328,
+    "Bib": 376,
+    "Name": "Donnelly, Muireann",
+    "AG": "F U19",
+    "Club": "Loreto, Omagh",
+    "Lap of Lough": "9:36:00",
+    "ChipTime": "39:44:00",
+    "GunTime": "40:09:00"
+  },
+  {
+    "Place": 329,
+    "Bib": 815,
+    "Name": "McCrystal, Micheal",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "9:28:00",
+    "ChipTime": "39:40:00",
+    "GunTime": "40:09:00"
+  },
+  {
+    "Place": 330,
+    "Bib": 859,
+    "Name": "Devlin, Mark",
+    "AG": "M35",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "8:53:00",
+    "ChipTime": "39:30:00",
+    "GunTime": "40:09:00"
+  },
+  {
+    "Place": 331,
+    "Bib": 705,
+    "Name": "O'Neill, Francie",
+    "AG": "M55",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "9:13:00",
+    "ChipTime": "39:26:00",
+    "GunTime": "40:12:00"
+  },
+  {
+    "Place": 332,
+    "Bib": 730,
+    "Name": "Crean, Anna",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "9:32:00",
+    "ChipTime": "39:57:00",
+    "GunTime": "40:14:00"
+  },
+  {
+    "Place": 333,
+    "Bib": 101,
+    "Name": "Devlin, Kevin",
+    "AG": "M55",
+    "Club": "",
+    "Lap of Lough": "9:02:00",
+    "ChipTime": "39:44:00",
+    "GunTime": "40:16:00"
+  },
+  {
+    "Place": 334,
+    "Bib": 751,
+    "Name": "Curran, Conor",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "6:27:00",
+    "ChipTime": "39:43:00",
+    "GunTime": "40:16:00"
+  },
+  {
+    "Place": 335,
+    "Bib": 865,
+    "Name": "Reilly, Gary",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:44:00",
+    "ChipTime": "39:50:00",
+    "GunTime": "40:16:00"
+  },
+  {
+    "Place": 336,
+    "Bib": 735,
+    "Name": "McElduff, Eoghan",
+    "AG": "M35",
+    "Club": "Kildress",
+    "Lap of Lough": "9:15:00",
+    "ChipTime": "39:42:00",
+    "GunTime": "40:17:00"
+  },
+  {
+    "Place": 337,
+    "Bib": 247,
+    "Name": "Greene, Jack",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "39:45:00",
+    "GunTime": "40:18:00"
+  },
+  {
+    "Place": 338,
+    "Bib": 750,
+    "Name": "McCann, Dermot",
+    "AG": "M55",
+    "Club": "Errigal",
+    "Lap of Lough": "9:15:00",
+    "ChipTime": "40:16:00",
+    "GunTime": "40:18:00"
+  },
+  {
+    "Place": 339,
+    "Bib": 545,
+    "Name": "Morrow, Ali",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:51:00",
+    "ChipTime": "40:16:00",
+    "GunTime": "40:19:00"
+  },
+  {
+    "Place": 340,
+    "Bib": 892,
+    "Name": "Loughran, Ciara",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "8:48:00",
+    "ChipTime": "40:02:00",
+    "GunTime": "40:21:00"
+  },
+  {
+    "Place": 341,
+    "Bib": 853,
+    "Name": "McKenna, Damien",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "9:32:00",
+    "ChipTime": "39:36:00",
+    "GunTime": "40:21:00"
+  },
+  {
+    "Place": 342,
+    "Bib": 15,
+    "Name": "McCrea, Clive",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:19:00",
+    "ChipTime": "39:44:00",
+    "GunTime": "40:22:00"
+  },
+  {
+    "Place": 343,
+    "Bib": 356,
+    "Name": "Russell, Ivor",
+    "AG": "M45",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "9:44:00",
+    "ChipTime": "40:02:00",
+    "GunTime": "40:24:00"
+  },
+  {
+    "Place": 344,
+    "Bib": 778,
+    "Name": "Corry, Brian",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "18:34:00",
+    "ChipTime": "39:56:00",
+    "GunTime": "40:25:00"
+  },
+  {
+    "Place": 345,
+    "Bib": 858,
+    "Name": "Taggart, Emma",
+    "AG": "F45",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "9:37:00",
+    "ChipTime": "40:14:00",
+    "GunTime": "40:27:00"
+  },
+  {
+    "Place": 346,
+    "Bib": 191,
+    "Name": "McFall, Gary",
+    "AG": "M40",
+    "Club": "Keep 'er Lit",
+    "Lap of Lough": "9:38:00",
+    "ChipTime": "39:42:00",
+    "GunTime": "40:28:00"
+  },
+  {
+    "Place": 347,
+    "Bib": 739,
+    "Name": "Garry, Siobhan",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "39:51:00",
+    "GunTime": "40:29:00"
+  },
+  {
+    "Place": 348,
+    "Bib": 266,
+    "Name": "McKeown, Lorraine",
+    "AG": "F50",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "14:42:00",
+    "ChipTime": "40:05:00",
+    "GunTime": "40:29:00"
+  },
+  {
+    "Place": 349,
+    "Bib": 761,
+    "Name": "McCullagh, Kevin",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "7:01:00",
+    "ChipTime": "40:05:00",
+    "GunTime": "40:36:00"
+  },
+  {
+    "Place": 350,
+    "Bib": 749,
+    "Name": "Coyle, Caoimhín",
+    "AG": "M U19",
+    "Club": "Run for Enda",
+    "Lap of Lough": "9:52:00",
+    "ChipTime": "40:17:00",
+    "GunTime": "40:37:00"
+  },
+  {
+    "Place": 351,
+    "Bib": 579,
+    "Name": "Coyle, Eamon",
+    "AG": "M50",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "9:38:00",
+    "ChipTime": "40:01:00",
+    "GunTime": "40:38:00"
+  },
+  {
+    "Place": 352,
+    "Bib": 903,
+    "Name": "Maguire, Clare",
+    "AG": "F55",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "9:34:00",
+    "ChipTime": "40:27:00",
+    "GunTime": "40:39:00"
+  },
+  {
+    "Place": 353,
+    "Bib": 850,
+    "Name": "Gillespie, Michael",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:17:00",
+    "ChipTime": "40:06:00",
+    "GunTime": "40:40:00"
+  },
+  {
+    "Place": 354,
+    "Bib": 531,
+    "Name": "Gormley, Brianna",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:29:00",
+    "ChipTime": "40:19:00",
+    "GunTime": "40:41:00"
+  },
+  {
+    "Place": 355,
+    "Bib": 827,
+    "Name": "Sweeney, Dónall",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:09:00",
+    "ChipTime": "40:11:00",
+    "GunTime": "40:45:00"
+  },
+  {
+    "Place": 356,
+    "Bib": 833,
+    "Name": "McKenna, Phillip",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "9:10:00",
+    "ChipTime": "40:29:00",
+    "GunTime": "40:45:00"
+  },
+  {
+    "Place": 357,
+    "Bib": 729,
+    "Name": "Farley, Cate",
+    "AG": "F50",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "9:27:00",
+    "ChipTime": "40:26:00",
+    "GunTime": "40:49:00"
+  },
+  {
+    "Place": 358,
+    "Bib": 799,
+    "Name": "Fox, Cormac",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "4:39:00",
+    "ChipTime": "40:23:00",
+    "GunTime": "40:50:00"
+  },
+  {
+    "Place": 359,
+    "Bib": 220,
+    "Name": "McCauley, Martin",
+    "AG": "MO",
+    "Club": "Star Running Club",
+    "Lap of Lough": "10:20:00",
+    "ChipTime": "40:14:00",
+    "GunTime": "40:52:00"
+  },
+  {
+    "Place": 360,
+    "Bib": 415,
+    "Name": "O'Kane, Gary",
+    "AG": "M35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "9:03:00",
+    "ChipTime": "40:14:00",
+    "GunTime": "40:55:00"
+  },
+  {
+    "Place": 361,
+    "Bib": 638,
+    "Name": "Grimley, Ryan",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "10:07:00",
+    "ChipTime": "40:21:00",
+    "GunTime": "40:55:00"
+  },
+  {
+    "Place": 362,
+    "Bib": 695,
+    "Name": "Glackin, Dearbhla",
+    "AG": "F40",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "9:40:00",
+    "ChipTime": "40:36:00",
+    "GunTime": "40:55:00"
+  },
+  {
+    "Place": 363,
+    "Bib": 524,
+    "Name": "Stapleton, Aisling",
+    "AG": "FO",
+    "Club": "St. MICHAELS AC",
+    "Lap of Lough": "9:38:00",
+    "ChipTime": "40:32:00",
+    "GunTime": "40:57:00"
+  },
+  {
+    "Place": 364,
+    "Bib": 411,
+    "Name": "Loughran, Síofra",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "40:27:00",
+    "GunTime": "40:59:00"
+  },
+  {
+    "Place": 365,
+    "Bib": 897,
+    "Name": "Kearney, Seamus",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "40:48:00",
+    "GunTime": "41:02:00"
+  },
+  {
+    "Place": 366,
+    "Bib": 299,
+    "Name": "Donnell, Richard",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "40:15:00",
+    "GunTime": "41:04:00"
+  },
+  {
+    "Place": 367,
+    "Bib": 808,
+    "Name": "Toner, Pearse",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:35:00",
+    "ChipTime": "40:40:00",
+    "GunTime": "41:04:00"
+  },
+  {
+    "Place": 368,
+    "Bib": 902,
+    "Name": "Travers, Conal",
+    "AG": "MO",
+    "Club": "Loughmacrory GFC",
+    "Lap of Lough": "9:32:00",
+    "ChipTime": "40:48:00",
+    "GunTime": "41:05:00"
+  },
+  {
+    "Place": 369,
+    "Bib": 901,
+    "Name": "Duggan, Sarah",
+    "AG": "FO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "9:34:00",
+    "ChipTime": "40:52:00",
+    "GunTime": "41:08:00"
+  },
+  {
+    "Place": 370,
+    "Bib": 831,
+    "Name": "Logue, Cathair",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:29:00",
+    "ChipTime": "41:00:00",
+    "GunTime": "41:11:00"
+  },
+  {
+    "Place": 371,
+    "Bib": 748,
+    "Name": "Coyle, Seamus",
+    "AG": "M50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:08:00",
+    "ChipTime": "40:52:00",
+    "GunTime": "41:12:00"
+  },
+  {
+    "Place": 372,
+    "Bib": 273,
+    "Name": "Kelly, Sinead",
+    "AG": "F35",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "9:48:00",
+    "ChipTime": "40:59:00",
+    "GunTime": "41:16:00"
+  },
+  {
+    "Place": 373,
+    "Bib": 471,
+    "Name": "Coyle, Ursula",
+    "AG": "F55",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "9:23:00",
+    "ChipTime": "40:42:00",
+    "GunTime": "41:17:00"
+  },
+  {
+    "Place": 374,
+    "Bib": 462,
+    "Name": "Lewis, Phoebe",
+    "AG": "F60",
+    "Club": "Jog Lisburn",
+    "Lap of Lough": "9:50:00",
+    "ChipTime": "41:13:00",
+    "GunTime": "41:18:00"
+  },
+  {
+    "Place": 375,
+    "Bib": 302,
+    "Name": "Hughes, Kevin",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:29:00",
+    "ChipTime": "40:38:00",
+    "GunTime": "41:20:00"
+  },
+  {
+    "Place": 376,
+    "Bib": 106,
+    "Name": "Bradley, Alice",
+    "AG": "F40",
+    "Club": "Dub Runners",
+    "Lap of Lough": "9:22:00",
+    "ChipTime": "40:49:00",
+    "GunTime": "41:21:00"
+  },
+  {
+    "Place": 377,
+    "Bib": 647,
+    "Name": "McGroary, Sean",
+    "AG": "M35",
+    "Club": "Tattyreagh",
+    "Lap of Lough": "9:35:00",
+    "ChipTime": "41:05:00",
+    "GunTime": "41:25:00"
+  },
+  {
+    "Place": 378,
+    "Bib": 500,
+    "Name": "Stewart, Gareth",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:12:00",
+    "ChipTime": "40:31:00",
+    "GunTime": "41:25:00"
+  },
+  {
+    "Place": 379,
+    "Bib": 470,
+    "Name": "Holland, Maeve",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "9:57:00",
+    "ChipTime": "41:21:00",
+    "GunTime": "41:26:00"
+  },
+  {
+    "Place": 380,
+    "Bib": 486,
+    "Name": "Quinn, Patrick",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "9:30:00",
+    "ChipTime": "41:22:00",
+    "GunTime": "41:28:00"
+  },
+  {
+    "Place": 381,
+    "Bib": 499,
+    "Name": "McNeill, Darrol",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "10:07:00",
+    "ChipTime": "41:23:00",
+    "GunTime": "41:28:00"
+  },
+  {
+    "Place": 382,
+    "Bib": 424,
+    "Name": "Bigmore, Suzanne",
+    "AG": "F40",
+    "Club": "Acorns AC",
+    "Lap of Lough": "9:39:00",
+    "ChipTime": "41:09:00",
+    "GunTime": "41:29:00"
+  },
+  {
+    "Place": 383,
+    "Bib": 425,
+    "Name": "Bigmore, Kevin",
+    "AG": "M40",
+    "Club": "Acorns AC",
+    "Lap of Lough": "9:39:00",
+    "ChipTime": "41:09:00",
+    "GunTime": "41:29:00"
+  },
+  {
+    "Place": 384,
+    "Bib": 595,
+    "Name": "McElroy, Karen",
+    "AG": "F50",
+    "Club": "Magherafelt Harriers",
+    "Lap of Lough": "9:47:00",
+    "ChipTime": "41:33:00",
+    "GunTime": "41:33:00"
+  },
+  {
+    "Place": 385,
+    "Bib": 436,
+    "Name": "Curran, Simon",
+    "AG": "M45",
+    "Club": "Island triathlon club",
+    "Lap of Lough": "9:16:00",
+    "ChipTime": "40:46:00",
+    "GunTime": "41:36:00"
+  },
+  {
+    "Place": 386,
+    "Bib": 374,
+    "Name": "Donnelly, Meabh",
+    "AG": "F U19",
+    "Club": "Loreto, Omagh",
+    "Lap of Lough": "9:47:00",
+    "ChipTime": "41:15:00",
+    "GunTime": "41:40:00"
+  },
+  {
+    "Place": 387,
+    "Bib": 716,
+    "Name": "Corrigan, Una",
+    "AG": "F45",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "9:48:00",
+    "ChipTime": "41:17:00",
+    "GunTime": "41:40:00"
+  },
+  {
+    "Place": 388,
+    "Bib": 116,
+    "Name": "Kelly, Tanya",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:11:00",
+    "ChipTime": "41:18:00",
+    "GunTime": "41:42:00"
+  },
+  {
+    "Place": 389,
+    "Bib": 736,
+    "Name": "Tracey, Michael",
+    "AG": "M40",
+    "Club": "Kildress",
+    "Lap of Lough": "14:30:00",
+    "ChipTime": "41:09:00",
+    "GunTime": "41:44:00"
+  },
+  {
+    "Place": 390,
+    "Bib": 625,
+    "Name": "Philips, Michael",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:10:00",
+    "ChipTime": "40:52:00",
+    "GunTime": "41:45:00"
+  },
+  {
+    "Place": 391,
+    "Bib": 834,
+    "Name": "McKenna, Daniel",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "41:34:00",
+    "GunTime": "41:49:00"
+  },
+  {
+    "Place": 392,
+    "Bib": 53,
+    "Name": "Quinn, Tanya",
+    "AG": "F45",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "10:20:00",
+    "ChipTime": "41:45:00",
+    "GunTime": "41:49:00"
+  },
+  {
+    "Place": 393,
+    "Bib": 814,
+    "Name": "McCrystal, Ronan",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:01:00",
+    "ChipTime": "41:34:00",
+    "GunTime": "41:49:00"
+  },
+  {
+    "Place": 394,
+    "Bib": 812,
+    "Name": "Mullin, Shane",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:44:00",
+    "ChipTime": "41:13:00",
+    "GunTime": "41:52:00"
+  },
+  {
+    "Place": 395,
+    "Bib": 794,
+    "Name": "Sheridan, Conrad",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:53:00",
+    "ChipTime": "41:45:00",
+    "GunTime": "41:56:00"
+  },
+  {
+    "Place": 396,
+    "Bib": 697,
+    "Name": "McVeigh, Francis",
+    "AG": "M40",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "9:02:00",
+    "ChipTime": "41:38:00",
+    "GunTime": "41:56:00"
+  },
+  {
+    "Place": 397,
+    "Bib": 447,
+    "Name": "Tuohey, Colly",
+    "AG": "M45",
+    "Club": "Greencastle",
+    "Lap of Lough": "9:25:00",
+    "ChipTime": "41:01:00",
+    "GunTime": "41:59:00"
+  },
+  {
+    "Place": 398,
+    "Bib": 652,
+    "Name": "Curran, Niall",
+    "AG": "M50",
+    "Club": "Omagh Triathlon Club",
+    "Lap of Lough": "10:09:00",
+    "ChipTime": "41:39:00",
+    "GunTime": "42:00:00"
+  },
+  {
+    "Place": 399,
+    "Bib": 14,
+    "Name": "Curran, Liam",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "10:10:00",
+    "ChipTime": "41:41:00",
+    "GunTime": "42:01:00"
+  },
+  {
+    "Place": 400,
+    "Bib": 597,
+    "Name": "O'Connor, Rory",
+    "AG": "M45",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "9:42:00",
+    "ChipTime": "41:17:00",
+    "GunTime": "42:01:00"
+  },
+  {
+    "Place": 401,
+    "Bib": 278,
+    "Name": "Mullin, Denis",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:16:00",
+    "ChipTime": "41:26:00",
+    "GunTime": "42:02:00"
+  },
+  {
+    "Place": 402,
+    "Bib": 434,
+    "Name": "Donaghy, Ainr",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:01:00",
+    "ChipTime": "41:29:00",
+    "GunTime": "42:02:00"
+  },
+  {
+    "Place": 403,
+    "Bib": 216,
+    "Name": "Corrigan, Monica",
+    "AG": "F35",
+    "Club": "Enniskillen RC",
+    "Lap of Lough": "9:38:00",
+    "ChipTime": "41:50:00",
+    "GunTime": "42:02:00"
+  },
+  {
+    "Place": 404,
+    "Bib": 76,
+    "Name": "Gallagher, Claire",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:00:00",
+    "ChipTime": "41:42:00",
+    "GunTime": "42:03:00"
+  },
+  {
+    "Place": 405,
+    "Bib": 801,
+    "Name": "Lagan, Stephen",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "7:46:00",
+    "ChipTime": "41:48:00",
+    "GunTime": "42:04:00"
+  },
+  {
+    "Place": 406,
+    "Bib": 157,
+    "Name": "Kelly, Bryan",
+    "AG": "M50",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:00:00",
+    "ChipTime": "41:38:00",
+    "GunTime": "42:07:00"
+  },
+  {
+    "Place": 407,
+    "Bib": 487,
+    "Name": "McNamee, Paul",
+    "AG": "M60",
+    "Club": "Strabane Triathlon Club",
+    "Lap of Lough": "10:07:00",
+    "ChipTime": "41:37:00",
+    "GunTime": "42:13:00"
+  },
+  {
+    "Place": 408,
+    "Bib": 820,
+    "Name": "Mullin, Cahir",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:47:00",
+    "ChipTime": "41:45:00",
+    "GunTime": "42:13:00"
+  },
+  {
+    "Place": 409,
+    "Bib": 828,
+    "Name": "Donnelly, Ciaran",
+    "AG": "M45",
+    "Club": "Knockmanny",
+    "Lap of Lough": "9:38:00",
+    "ChipTime": "41:31:00",
+    "GunTime": "42:16:00"
+  },
+  {
+    "Place": 410,
+    "Bib": 715,
+    "Name": "Clements, Peter",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:18:00",
+    "ChipTime": "42:10:00",
+    "GunTime": "42:33:00"
+  },
+  {
+    "Place": 411,
+    "Bib": 838,
+    "Name": "Gallagher, Oonagh",
+    "AG": "FO",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:10:00",
+    "ChipTime": "42:14:00",
+    "GunTime": "42:35:00"
+  },
+  {
+    "Place": 412,
+    "Bib": 733,
+    "Name": "McCullagh, Dylan",
+    "AG": "M U19",
+    "Club": "Loughmacrory GAA",
+    "Lap of Lough": "10:28:00",
+    "ChipTime": "42:10:00",
+    "GunTime": "42:37:00"
+  },
+  {
+    "Place": 413,
+    "Bib": 331,
+    "Name": "Recardo, Patricia",
+    "AG": "F40",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "10:19:00",
+    "ChipTime": "42:13:00",
+    "GunTime": "42:38:00"
+  },
+  {
+    "Place": 414,
+    "Bib": 333,
+    "Name": "McLaughlin, Mark",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:09:00",
+    "ChipTime": "42:20:00",
+    "GunTime": "42:40:00"
+  },
+  {
+    "Place": 415,
+    "Bib": 562,
+    "Name": "Meenagh, Conor",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:36:00",
+    "ChipTime": "42:20:00",
+    "GunTime": "42:43:00"
+  },
+  {
+    "Place": 416,
+    "Bib": 340,
+    "Name": "Mac daibhéid, Risteard",
+    "AG": "M50",
+    "Club": "Pigeon Top Elite Runners",
+    "Lap of Lough": "10:04:00",
+    "ChipTime": "42:20:00",
+    "GunTime": "42:44:00"
+  },
+  {
+    "Place": 417,
+    "Bib": 493,
+    "Name": "McElhatton, Fergal",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:14:00",
+    "ChipTime": "42:23:00",
+    "GunTime": "42:47:00"
+  },
+  {
+    "Place": 418,
+    "Bib": 677,
+    "Name": "Mulholland, Daniel",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "42:35:00",
+    "GunTime": "42:48:00"
+  },
+  {
+    "Place": 419,
+    "Bib": 598,
+    "Name": "Rafferty, Tracy",
+    "AG": "F40",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "10:38:00",
+    "ChipTime": "42:32:00",
+    "GunTime": "42:48:00"
+  },
+  {
+    "Place": 420,
+    "Bib": 476,
+    "Name": "McMenemy, Maxine",
+    "AG": "F50",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "10:24:00",
+    "ChipTime": "42:30:00",
+    "GunTime": "42:49:00"
+  },
+  {
+    "Place": 421,
+    "Bib": 688,
+    "Name": "Conway, Caoileann",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:08:00",
+    "ChipTime": "42:46:00",
+    "GunTime": "42:50:00"
+  },
+  {
+    "Place": 422,
+    "Bib": 792,
+    "Name": "Sherry, Darragh",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "15:43:00",
+    "ChipTime": "42:03:00",
+    "GunTime": "42:51:00"
+  },
+  {
+    "Place": 423,
+    "Bib": 709,
+    "Name": "O'Neill, Anthony",
+    "AG": "M60",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "10:13:00",
+    "ChipTime": "42:24:00",
+    "GunTime": "42:56:00"
+  },
+  {
+    "Place": 424,
+    "Bib": 637,
+    "Name": "Gallagher, Micheal",
+    "AG": "M U19",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:12:00",
+    "ChipTime": "42:24:00",
+    "GunTime": "42:57:00"
+  },
+  {
+    "Place": 425,
+    "Bib": 270,
+    "Name": "Sherry, Christopher",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "42:24:00",
+    "GunTime": "42:58:00"
+  },
+  {
+    "Place": 426,
+    "Bib": 479,
+    "Name": "McCartan, Ronan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:46:00",
+    "ChipTime": "42:45:00",
+    "GunTime": "43:00:00"
+  },
+  {
+    "Place": 427,
+    "Bib": 841,
+    "Name": "Mullin, Tommy",
+    "AG": "M U19",
+    "Club": "Kildress",
+    "Lap of Lough": "9:11:00",
+    "ChipTime": "42:13:00",
+    "GunTime": "43:02:00"
+  },
+  {
+    "Place": 428,
+    "Bib": 431,
+    "Name": "McBride, Eamonn",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "10:24:00",
+    "ChipTime": "42:19:00",
+    "GunTime": "43:02:00"
+  },
+  {
+    "Place": 429,
+    "Bib": 795,
+    "Name": "Fox, Martin",
+    "AG": "M55",
+    "Club": "",
+    "Lap of Lough": "14:10:00",
+    "ChipTime": "42:36:00",
+    "GunTime": "43:03:00"
+  },
+  {
+    "Place": 430,
+    "Bib": 478,
+    "Name": "McAleer, Mark",
+    "AG": "M U19",
+    "Club": "St Teresa’s GAA Loughmacrory",
+    "Lap of Lough": "10:22:00",
+    "ChipTime": "42:41:00",
+    "GunTime": "43:06:00"
+  },
+  {
+    "Place": 431,
+    "Bib": 817,
+    "Name": "McGuigan, Peter",
+    "AG": "M U19",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "9:44:00",
+    "ChipTime": "42:07:00",
+    "GunTime": "43:10:00"
+  },
+  {
+    "Place": 432,
+    "Bib": 826,
+    "Name": "Sweeney, Finn",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:23:00",
+    "ChipTime": "42:39:00",
+    "GunTime": "43:13:00"
+  },
+  {
+    "Place": 433,
+    "Bib": 854,
+    "Name": "McKinley, Alex",
+    "AG": "FO",
+    "Club": "KC Runners",
+    "Lap of Lough": "10:07:00",
+    "ChipTime": "42:36:00",
+    "GunTime": "43:14:00"
+  },
+  {
+    "Place": 434,
+    "Bib": 671,
+    "Name": "Porter, Andrea",
+    "AG": "F45",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "10:17:00",
+    "ChipTime": "42:40:00",
+    "GunTime": "43:15:00"
+  },
+  {
+    "Place": 435,
+    "Bib": 770,
+    "Name": "Friel, John",
+    "AG": "M55",
+    "Club": "Village Road Runners",
+    "Lap of Lough": "8:18:00",
+    "ChipTime": "42:20:00",
+    "GunTime": "43:16:00"
+  },
+  {
+    "Place": 436,
+    "Bib": 467,
+    "Name": "Devlin, Sean",
+    "AG": "M60",
+    "Club": "Portadown RC",
+    "Lap of Lough": "10:17:00",
+    "ChipTime": "42:42:00",
+    "GunTime": "43:21:00"
+  },
+  {
+    "Place": 437,
+    "Bib": 135,
+    "Name": "Dillon, Noleen",
+    "AG": "F55",
+    "Club": "",
+    "Lap of Lough": "10:28:00",
+    "ChipTime": "42:41:00",
+    "GunTime": "43:21:00"
+  },
+  {
+    "Place": 438,
+    "Bib": 371,
+    "Name": "McCrory, Cathy",
+    "AG": "F40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:13:00",
+    "ChipTime": "42:54:00",
+    "GunTime": "43:25:00"
+  },
+  {
+    "Place": 439,
+    "Bib": 560,
+    "Name": "Carlin, Sharon",
+    "AG": "F55",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "10:03:00",
+    "ChipTime": "42:51:00",
+    "GunTime": "43:27:00"
+  },
+  {
+    "Place": 440,
+    "Bib": 274,
+    "Name": "Anthony, Ryan",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:18:00",
+    "ChipTime": "42:35:00",
+    "GunTime": "43:28:00"
+  },
+  {
+    "Place": 441,
+    "Bib": 488,
+    "Name": "Anderson, Natasha",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:36:00",
+    "ChipTime": "43:03:00",
+    "GunTime": "43:32:00"
+  },
+  {
+    "Place": 442,
+    "Bib": 864,
+    "Name": "McCrory, Michael",
+    "AG": "M55",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "10:11:00",
+    "ChipTime": "43:10:00",
+    "GunTime": "43:32:00"
+  },
+  {
+    "Place": 443,
+    "Bib": 505,
+    "Name": "Kincaid, Gary",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:03:00",
+    "ChipTime": "42:47:00",
+    "GunTime": "43:36:00"
+  },
+  {
+    "Place": 444,
+    "Bib": 644,
+    "Name": "Hempenstall, Anna",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:15:00",
+    "ChipTime": "42:36:00",
+    "GunTime": "43:37:00"
+  },
+  {
+    "Place": 445,
+    "Bib": 654,
+    "Name": "McDermott, Justin",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:06:00",
+    "ChipTime": "43:37:00",
+    "GunTime": "43:37:00"
+  },
+  {
+    "Place": 446,
+    "Bib": 337,
+    "Name": "Doherty, Paddy",
+    "AG": "M40",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "9:58:00",
+    "ChipTime": "42:54:00",
+    "GunTime": "43:37:00"
+  },
+  {
+    "Place": 447,
+    "Bib": 437,
+    "Name": "Curran, Sinead",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "10:42:00",
+    "ChipTime": "42:56:00",
+    "GunTime": "43:37:00"
+  },
+  {
+    "Place": 448,
+    "Bib": 658,
+    "Name": "Meenagh, Sam",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:59:00",
+    "ChipTime": "42:41:00",
+    "GunTime": "43:38:00"
+  },
+  {
+    "Place": 449,
+    "Bib": 102,
+    "Name": "O’Donnell, Sean",
+    "AG": "M50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:10:00",
+    "ChipTime": "43:13:00",
+    "GunTime": "43:40:00"
+  },
+  {
+    "Place": 450,
+    "Bib": 517,
+    "Name": "Conway, Eva",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:25:00",
+    "ChipTime": "43:10:00",
+    "GunTime": "43:41:00"
+  },
+  {
+    "Place": 451,
+    "Bib": 397,
+    "Name": "Devine, Rory",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "9:51:00",
+    "ChipTime": "43:01:00",
+    "GunTime": "43:43:00"
+  },
+  {
+    "Place": 452,
+    "Bib": 632,
+    "Name": "O'Brien, Aine",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:58:00",
+    "ChipTime": "42:47:00",
+    "GunTime": "43:44:00"
+  },
+  {
+    "Place": 453,
+    "Bib": 809,
+    "Name": "Toner, Jamie",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "11:21:00",
+    "ChipTime": "43:17:00",
+    "GunTime": "43:45:00"
+  },
+  {
+    "Place": 454,
+    "Bib": 96,
+    "Name": "Wallace, Paul",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:03:00",
+    "ChipTime": "43:33:00",
+    "GunTime": "43:45:00"
+  },
+  {
+    "Place": 455,
+    "Bib": 207,
+    "Name": "McColgan, Dylan",
+    "AG": "MO",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "10:22:00",
+    "ChipTime": "43:02:00",
+    "GunTime": "43:45:00"
+  },
+  {
+    "Place": 456,
+    "Bib": 893,
+    "Name": "Allerton, Kirsty",
+    "AG": "FO",
+    "Club": "Unitedfitness",
+    "Lap of Lough": "10:31:00",
+    "ChipTime": "43:41:00",
+    "GunTime": "43:45:00"
+  },
+  {
+    "Place": 457,
+    "Bib": 428,
+    "Name": "McBrearty, Shane",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:36:00",
+    "ChipTime": "43:16:00",
+    "GunTime": "43:46:00"
+  },
+  {
+    "Place": 458,
+    "Bib": 279,
+    "Name": "Largey, Paddy",
+    "AG": "M70",
+    "Club": "",
+    "Lap of Lough": "10:11:00",
+    "ChipTime": "42:43:00",
+    "GunTime": "43:47:00"
+  },
+  {
+    "Place": 459,
+    "Bib": 698,
+    "Name": "McVeigh, Conáin",
+    "AG": "M U19",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "11:04:00",
+    "ChipTime": "43:29:00",
+    "GunTime": "43:48:00"
+  },
+  {
+    "Place": 460,
+    "Bib": 713,
+    "Name": "McAleer, Edel",
+    "AG": "FO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "10:10:00",
+    "ChipTime": "43:34:00",
+    "GunTime": "43:49:00"
+  },
+  {
+    "Place": 461,
+    "Bib": 714,
+    "Name": "McAleer, Gavin",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "10:10:00",
+    "ChipTime": "43:35:00",
+    "GunTime": "43:49:00"
+  },
+  {
+    "Place": 462,
+    "Bib": 192,
+    "Name": "Gallagher, Bronagh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:33:00",
+    "ChipTime": "43:18:00",
+    "GunTime": "43:52:00"
+  },
+  {
+    "Place": 463,
+    "Bib": 773,
+    "Name": "Mullan, Michaeline",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:16:00",
+    "ChipTime": "42:56:00",
+    "GunTime": "43:53:00"
+  },
+  {
+    "Place": 464,
+    "Bib": 673,
+    "Name": "Collins, Dearbhla",
+    "AG": "FO",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "9:40:00",
+    "ChipTime": "42:56:00",
+    "GunTime": "43:53:00"
+  },
+  {
+    "Place": 465,
+    "Bib": 762,
+    "Name": "Quinn, Gary",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "2:41:00",
+    "ChipTime": "43:05:00",
+    "GunTime": "43:53:00"
+  },
+  {
+    "Place": 466,
+    "Bib": 653,
+    "Name": "Turbitt, Gerard",
+    "AG": "M70",
+    "Club": "Omagh Triathlon Club",
+    "Lap of Lough": "10:46:00",
+    "ChipTime": "43:44:00",
+    "GunTime": "43:56:00"
+  },
+  {
+    "Place": 467,
+    "Bib": 702,
+    "Name": "McGarvey, Neil",
+    "AG": "M35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:06:00",
+    "ChipTime": "42:59:00",
+    "GunTime": "43:57:00"
+  },
+  {
+    "Place": 468,
+    "Bib": 768,
+    "Name": "Quinn, Jordan",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "7:37:00",
+    "ChipTime": "42:54:00",
+    "GunTime": "43:57:00"
+  },
+  {
+    "Place": 469,
+    "Bib": 441,
+    "Name": "Connolly, Michael",
+    "AG": "M65",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "10:18:00",
+    "ChipTime": "43:10:00",
+    "GunTime": "43:58:00"
+  },
+  {
+    "Place": 470,
+    "Bib": 645,
+    "Name": "Coyle, Daniel",
+    "AG": "M60",
+    "Club": "Knockmany Runners",
+    "Lap of Lough": "10:00:00",
+    "ChipTime": "43:10:00",
+    "GunTime": "43:58:00"
+  },
+  {
+    "Place": 471,
+    "Bib": 867,
+    "Name": "Neill, Brian",
+    "AG": "M50",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "9:59:00",
+    "ChipTime": "43:10:00",
+    "GunTime": "43:58:00"
+  },
+  {
+    "Place": 472,
+    "Bib": 388,
+    "Name": "Houston, Mal",
+    "AG": "M50",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "9:59:00",
+    "ChipTime": "43:16:00",
+    "GunTime": "43:58:00"
+  },
+  {
+    "Place": 473,
+    "Bib": 889,
+    "Name": ", Batman",
+    "AG": "M60",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "10:08:00",
+    "ChipTime": "43:22:00",
+    "GunTime": "43:59:00"
+  },
+  {
+    "Place": 474,
+    "Bib": 549,
+    "Name": "Duff, Laura",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "9:54:00",
+    "ChipTime": "43:44:00",
+    "GunTime": "44:01:00"
+  },
+  {
+    "Place": 475,
+    "Bib": 120,
+    "Name": "Campbell, Sheena",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:44:00",
+    "ChipTime": "43:53:00",
+    "GunTime": "44:02:00"
+  },
+  {
+    "Place": 476,
+    "Bib": 635,
+    "Name": "O'Brien, Gemma",
+    "AG": "F35",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:23:00",
+    "ChipTime": "43:10:00",
+    "GunTime": "44:04:00"
+  },
+  {
+    "Place": 477,
+    "Bib": 413,
+    "Name": "Hargan, Rosemary",
+    "AG": "F65",
+    "Club": "Rosemary's Runners",
+    "Lap of Lough": "10:11:00",
+    "ChipTime": "43:33:00",
+    "GunTime": "44:05:00"
+  },
+  {
+    "Place": 478,
+    "Bib": 696,
+    "Name": "White, Sean",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "10:40:00",
+    "ChipTime": "43:43:00",
+    "GunTime": "44:10:00"
+  },
+  {
+    "Place": 479,
+    "Bib": 806,
+    "Name": "McFadden, Daniel",
+    "AG": "M U19",
+    "Club": "Glasslough Harriers",
+    "Lap of Lough": "10:22:00",
+    "ChipTime": "44:04:00",
+    "GunTime": "44:11:00"
+  },
+  {
+    "Place": 480,
+    "Bib": 583,
+    "Name": "Rafferty, Oscar",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:24:00",
+    "ChipTime": "44:05:00",
+    "GunTime": "44:12:00"
+  },
+  {
+    "Place": 481,
+    "Bib": 687,
+    "Name": "Maxwell, Alexandra",
+    "AG": "FO",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "9:40:00",
+    "ChipTime": "43:28:00",
+    "GunTime": "44:12:00"
+  },
+  {
+    "Place": 482,
+    "Bib": 665,
+    "Name": "McMullan, Georgina",
+    "AG": "FO",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "9:41:00",
+    "ChipTime": "43:28:00",
+    "GunTime": "44:12:00"
+  },
+  {
+    "Place": 483,
+    "Bib": 772,
+    "Name": "Carlin, Sean",
+    "AG": "M55",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "10:35:00",
+    "ChipTime": "43:38:00",
+    "GunTime": "44:13:00"
+  },
+  {
+    "Place": 484,
+    "Bib": 315,
+    "Name": "Conwell, Gerard",
+    "AG": "M35",
+    "Club": "St Peter's AC",
+    "Lap of Lough": "10:32:00",
+    "ChipTime": "43:58:00",
+    "GunTime": "44:14:00"
+  },
+  {
+    "Place": 485,
+    "Bib": 355,
+    "Name": "Donnelly, Colm",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:12:00",
+    "ChipTime": "43:35:00",
+    "GunTime": "44:16:00"
+  },
+  {
+    "Place": 486,
+    "Bib": 757,
+    "Name": "McDonald, Shan",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:21:00",
+    "ChipTime": "43:55:00",
+    "GunTime": "44:18:00"
+  },
+  {
+    "Place": 487,
+    "Bib": 136,
+    "Name": "Armstrong, Oonagh",
+    "AG": "F40",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "3:05:00",
+    "ChipTime": "43:51:00",
+    "GunTime": "44:18:00"
+  },
+  {
+    "Place": 488,
+    "Bib": 295,
+    "Name": "McKeoen, Catherinr",
+    "AG": "F45",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "10:23:00",
+    "ChipTime": "43:51:00",
+    "GunTime": "44:19:00"
+  },
+  {
+    "Place": 489,
+    "Bib": 802,
+    "Name": "Nicholl, Fiona Marie",
+    "AG": "F50",
+    "Club": "Wee County Harriers",
+    "Lap of Lough": "15:46:00",
+    "ChipTime": "43:35:00",
+    "GunTime": "44:20:00"
+  },
+  {
+    "Place": 490,
+    "Bib": 509,
+    "Name": "McQuaid, Bernie",
+    "AG": "F65",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:14:00",
+    "ChipTime": "44:01:00",
+    "GunTime": "44:23:00"
+  },
+  {
+    "Place": 491,
+    "Bib": 409,
+    "Name": "McAlinney, Seamus",
+    "AG": "M60",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:28:00",
+    "ChipTime": "43:53:00",
+    "GunTime": "44:23:00"
+  },
+  {
+    "Place": 492,
+    "Bib": 845,
+    "Name": "Conway, Seamus",
+    "AG": "M45",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:26:00",
+    "ChipTime": "43:43:00",
+    "GunTime": "44:23:00"
+  },
+  {
+    "Place": 493,
+    "Bib": 699,
+    "Name": "McVeigh, Lorcán",
+    "AG": "M U19",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "10:36:00",
+    "ChipTime": "44:05:00",
+    "GunTime": "44:24:00"
+  },
+  {
+    "Place": 494,
+    "Bib": 871,
+    "Name": "McVeigh, Éadaoin",
+    "AG": "F40",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "10:36:00",
+    "ChipTime": "44:05:00",
+    "GunTime": "44:24:00"
+  },
+  {
+    "Place": 495,
+    "Bib": 204,
+    "Name": "O'Boyle, Shaun",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:44:00",
+    "ChipTime": "43:44:00",
+    "GunTime": "44:25:00"
+  },
+  {
+    "Place": 496,
+    "Bib": 807,
+    "Name": "McElduff, Aimee Rose",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "10:30:00",
+    "ChipTime": "43:45:00",
+    "GunTime": "44:26:00"
+  },
+  {
+    "Place": 497,
+    "Bib": 121,
+    "Name": "Chester, Scott",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:29:00",
+    "ChipTime": "43:54:00",
+    "GunTime": "44:27:00"
+  },
+  {
+    "Place": 498,
+    "Bib": 312,
+    "Name": "McAree, Gabriel",
+    "AG": "M55",
+    "Club": "No club",
+    "Lap of Lough": "10:20:00",
+    "ChipTime": "43:49:00",
+    "GunTime": "44:28:00"
+  },
+  {
+    "Place": 499,
+    "Bib": 416,
+    "Name": "Rafferty, Malachy",
+    "AG": "M65",
+    "Club": "Slieve Gullion Runners",
+    "Lap of Lough": "10:41:00",
+    "ChipTime": "44:01:00",
+    "GunTime": "44:31:00"
+  },
+  {
+    "Place": 500,
+    "Bib": 72,
+    "Name": "O’Neill, Raphael",
+    "AG": "M45",
+    "Club": "Na Fianna A.C.",
+    "Lap of Lough": "10:05:00",
+    "ChipTime": "43:56:00",
+    "GunTime": "44:33:00"
+  },
+  {
+    "Place": 501,
+    "Bib": 74,
+    "Name": "Kelly, Aisling",
+    "AG": "F45",
+    "Club": "Na Fianna A.C.",
+    "Lap of Lough": "10:04:00",
+    "ChipTime": "43:56:00",
+    "GunTime": "44:33:00"
+  },
+  {
+    "Place": 502,
+    "Bib": 71,
+    "Name": "O’Neill, Diane",
+    "AG": "F45",
+    "Club": "Na Fianna A.C.",
+    "Lap of Lough": "10:05:00",
+    "ChipTime": "43:56:00",
+    "GunTime": "44:33:00"
+  },
+  {
+    "Place": 503,
+    "Bib": 576,
+    "Name": "McPeake, Rita",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "10:31:00",
+    "ChipTime": "44:04:00",
+    "GunTime": "44:33:00"
+  },
+  {
+    "Place": 504,
+    "Bib": 492,
+    "Name": "Monaghan, Clodagh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:29:00",
+    "ChipTime": "43:41:00",
+    "GunTime": "44:34:00"
+  },
+  {
+    "Place": 505,
+    "Bib": 888,
+    "Name": "O'Neill, John",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "10:08:00",
+    "ChipTime": "44:04:00",
+    "GunTime": "44:35:00"
+  },
+  {
+    "Place": 506,
+    "Bib": 752,
+    "Name": "Devine, Shea",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "15:54:00",
+    "ChipTime": "44:15:00",
+    "GunTime": "44:36:00"
+  },
+  {
+    "Place": 507,
+    "Bib": 899,
+    "Name": "McCann, Mickey",
+    "AG": "M55",
+    "Club": "",
+    "Lap of Lough": "10:28:00",
+    "ChipTime": "44:26:00",
+    "GunTime": "44:41:00"
+  },
+  {
+    "Place": 508,
+    "Bib": 763,
+    "Name": "O'Kane, Sinead",
+    "AG": "F45",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "8:24:00",
+    "ChipTime": "44:19:00",
+    "GunTime": "44:42:00"
+  },
+  {
+    "Place": 509,
+    "Bib": 536,
+    "Name": "O’Neill, Daithi",
+    "AG": "M U19",
+    "Club": "Gortin Gaa",
+    "Lap of Lough": "9:43:00",
+    "ChipTime": "44:26:00",
+    "GunTime": "44:45:00"
+  },
+  {
+    "Place": 510,
+    "Bib": 883,
+    "Name": "Dolan, Peter",
+    "AG": "M55",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:27:00",
+    "ChipTime": "44:24:00",
+    "GunTime": "44:48:00"
+  },
+  {
+    "Place": 511,
+    "Bib": 126,
+    "Name": "Funston, Gary",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:13:00",
+    "ChipTime": "44:05:00",
+    "GunTime": "44:50:00"
+  },
+  {
+    "Place": 512,
+    "Bib": 305,
+    "Name": "Doherty, Majella",
+    "AG": "F40",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "10:38:00",
+    "ChipTime": "44:14:00",
+    "GunTime": "44:53:00"
+  },
+  {
+    "Place": 513,
+    "Bib": 660,
+    "Name": "Loughrey, Mary carmel",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:30:00",
+    "ChipTime": "44:02:00",
+    "GunTime": "44:54:00"
+  },
+  {
+    "Place": 514,
+    "Bib": 367,
+    "Name": "Crossan, Naomi",
+    "AG": "F40",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "11:01:00",
+    "ChipTime": "44:13:00",
+    "GunTime": "44:56:00"
+  },
+  {
+    "Place": 515,
+    "Bib": 303,
+    "Name": "Clancy, Joseph",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:36:00",
+    "ChipTime": "44:31:00",
+    "GunTime": "44:56:00"
+  },
+  {
+    "Place": 516,
+    "Bib": 412,
+    "Name": "Abraham, Darryl",
+    "AG": "MO",
+    "Club": "Hunterbell health and fitness",
+    "Lap of Lough": "10:19:00",
+    "ChipTime": "44:11:00",
+    "GunTime": "44:56:00"
+  },
+  {
+    "Place": 517,
+    "Bib": 712,
+    "Name": "McCullagh, Peader",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:55:00",
+    "ChipTime": "44:43:00",
+    "GunTime": "44:57:00"
+  },
+  {
+    "Place": 518,
+    "Bib": 694,
+    "Name": "McCartan, Mary",
+    "AG": "F55",
+    "Club": "",
+    "Lap of Lough": "10:40:00",
+    "ChipTime": "44:05:00",
+    "GunTime": "44:59:00"
+  },
+  {
+    "Place": 519,
+    "Bib": 818,
+    "Name": "McGuigan, Mark",
+    "AG": "M50",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "10:20:00",
+    "ChipTime": "43:59:00",
+    "GunTime": "45:02:00"
+  },
+  {
+    "Place": 520,
+    "Bib": 570,
+    "Name": "Quinn, Steffi",
+    "AG": "F35",
+    "Club": "Hunterbell health & fitness",
+    "Lap of Lough": "10:25:00",
+    "ChipTime": "44:18:00",
+    "GunTime": "45:03:00"
+  },
+  {
+    "Place": 521,
+    "Bib": 857,
+    "Name": "Conway, Noleen",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "9:49:00",
+    "ChipTime": "44:09:00",
+    "GunTime": "45:03:00"
+  },
+  {
+    "Place": 522,
+    "Bib": 77,
+    "Name": "Hughes, Edel",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:13:00",
+    "ChipTime": "44:45:00",
+    "GunTime": "45:06:00"
+  },
+  {
+    "Place": 523,
+    "Bib": 458,
+    "Name": "McAleer o neill, Sinéad",
+    "AG": "F40",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "10:29:00",
+    "ChipTime": "44:24:00",
+    "GunTime": "45:11:00"
+  },
+  {
+    "Place": 524,
+    "Bib": 629,
+    "Name": "Toner, Orlagh",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:16:00",
+    "ChipTime": "44:37:00",
+    "GunTime": "45:17:00"
+  },
+  {
+    "Place": 525,
+    "Bib": 342,
+    "Name": "Toner, Aidan",
+    "AG": "M45",
+    "Club": "Killeshil Runners",
+    "Lap of Lough": "10:29:00",
+    "ChipTime": "44:34:00",
+    "GunTime": "45:22:00"
+  },
+  {
+    "Place": 526,
+    "Bib": 345,
+    "Name": "Farley, Ronan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:12:00",
+    "ChipTime": "44:43:00",
+    "GunTime": "45:27:00"
+  },
+  {
+    "Place": 527,
+    "Bib": 648,
+    "Name": "McManamon, Gary",
+    "AG": "MO",
+    "Club": "Geevagh, Sligo",
+    "Lap of Lough": "9:51:00",
+    "ChipTime": "44:40:00",
+    "GunTime": "45:27:00"
+  },
+  {
+    "Place": 528,
+    "Bib": 742,
+    "Name": "McCallan, Fionnfola",
+    "AG": "FO",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "9:16:00",
+    "ChipTime": "44:34:00",
+    "GunTime": "45:27:00"
+  },
+  {
+    "Place": 529,
+    "Bib": 194,
+    "Name": "Grimes, Niall",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:52:00",
+    "ChipTime": "44:40:00",
+    "GunTime": "45:28:00"
+  },
+  {
+    "Place": 530,
+    "Bib": 501,
+    "Name": "Stewart, Tracey",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:46:00",
+    "ChipTime": "44:37:00",
+    "GunTime": "45:30:00"
+  },
+  {
+    "Place": 531,
+    "Bib": 169,
+    "Name": "Devine, Fintan",
+    "AG": "M55",
+    "Club": "",
+    "Lap of Lough": "11:16:00",
+    "ChipTime": "45:08:00",
+    "GunTime": "45:31:00"
+  },
+  {
+    "Place": 532,
+    "Bib": 832,
+    "Name": "McKenna, Katie",
+    "AG": "F U19",
+    "Club": "Kildress Wolfe Tones",
+    "Lap of Lough": "10:17:00",
+    "ChipTime": "45:17:00",
+    "GunTime": "45:33:00"
+  },
+  {
+    "Place": 533,
+    "Bib": 344,
+    "Name": "Owens, Ryan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "5:49:00",
+    "ChipTime": "44:49:00",
+    "GunTime": "45:33:00"
+  },
+  {
+    "Place": 534,
+    "Bib": 784,
+    "Name": "McCaul, Shane",
+    "AG": "M50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:33:00",
+    "ChipTime": "44:48:00",
+    "GunTime": "45:33:00"
+  },
+  {
+    "Place": 535,
+    "Bib": 771,
+    "Name": "Friel, Caroline",
+    "AG": "F55",
+    "Club": "Village road Runner",
+    "Lap of Lough": "11:48:00",
+    "ChipTime": "44:56:00",
+    "GunTime": "45:34:00"
+  },
+  {
+    "Place": 536,
+    "Bib": 446,
+    "Name": "Tuohey, Una",
+    "AG": "F35",
+    "Club": "Greencastle",
+    "Lap of Lough": "10:58:00",
+    "ChipTime": "44:37:00",
+    "GunTime": "45:36:00"
+  },
+  {
+    "Place": 537,
+    "Bib": 267,
+    "Name": "Mullin, Denis",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "10:47:00",
+    "ChipTime": "44:48:00",
+    "GunTime": "45:37:00"
+  },
+  {
+    "Place": 538,
+    "Bib": 166,
+    "Name": "McDonald, Kevin",
+    "AG": "M45",
+    "Club": "Coalisland Na Fianna Runners",
+    "Lap of Lough": "10:15:00",
+    "ChipTime": "45:02:00",
+    "GunTime": "45:38:00"
+  },
+  {
+    "Place": 539,
+    "Bib": 896,
+    "Name": "O'Kane, Aidy",
+    "AG": "M55",
+    "Club": "Pigeon Top Runners",
+    "Lap of Lough": "10:32:00",
+    "ChipTime": "45:03:00",
+    "GunTime": "45:43:00"
+  },
+  {
+    "Place": 540,
+    "Bib": 634,
+    "Name": "O'Brien, Saorla",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "10:43:00",
+    "ChipTime": "45:04:00",
+    "GunTime": "45:44:00"
+  },
+  {
+    "Place": 541,
+    "Bib": 870,
+    "Name": "Barker, Niall",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "11:18:00",
+    "ChipTime": "45:00:00",
+    "GunTime": "45:48:00"
+  },
+  {
+    "Place": 542,
+    "Bib": 423,
+    "Name": "Murphy, Michael",
+    "AG": "MO",
+    "Club": "N/A",
+    "Lap of Lough": "10:18:00",
+    "ChipTime": "45:30:00",
+    "GunTime": "45:48:00"
+  },
+  {
+    "Place": 543,
+    "Bib": 325,
+    "Name": "O'Connor, Michael",
+    "AG": "M40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:48:00",
+    "ChipTime": "45:47:00",
+    "GunTime": "45:49:00"
+  },
+  {
+    "Place": 544,
+    "Bib": 628,
+    "Name": "Toner, Cliodhna",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "10:43:00",
+    "ChipTime": "45:13:00",
+    "GunTime": "45:53:00"
+  },
+  {
+    "Place": 545,
+    "Bib": 767,
+    "Name": "McElduff, Anna mae",
+    "AG": "F U19",
+    "Club": "Greencastle gfc",
+    "Lap of Lough": "12:18:00",
+    "ChipTime": "45:31:00",
+    "GunTime": "45:54:00"
+  },
+  {
+    "Place": 546,
+    "Bib": 726,
+    "Name": "Sayers, Kenny",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "10:56:00",
+    "ChipTime": "45:38:00",
+    "GunTime": "45:55:00"
+  },
+  {
+    "Place": 547,
+    "Bib": 725,
+    "Name": "Sayers, Kimberley",
+    "AG": "F35",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:57:00",
+    "ChipTime": "45:38:00",
+    "GunTime": "45:55:00"
+  },
+  {
+    "Place": 548,
+    "Bib": 711,
+    "Name": "McAleer, Joseph",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:36:00",
+    "ChipTime": "45:13:00",
+    "GunTime": "45:56:00"
+  },
+  {
+    "Place": 549,
+    "Bib": 533,
+    "Name": "McAleer, Sean",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "9:36:00",
+    "ChipTime": "45:13:00",
+    "GunTime": "45:56:00"
+  },
+  {
+    "Place": 550,
+    "Bib": 769,
+    "Name": "McKevitt, James",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "12:18:00",
+    "ChipTime": "45:13:00",
+    "GunTime": "45:56:00"
+  },
+  {
+    "Place": 551,
+    "Bib": 528,
+    "Name": "Donald, Ashley",
+    "AG": "M50",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "10:15:00",
+    "ChipTime": "45:30:00",
+    "GunTime": "45:57:00"
+  },
+  {
+    "Place": 552,
+    "Bib": 372,
+    "Name": "Harte, Ciara",
+    "AG": "F35",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:53:00",
+    "ChipTime": "45:03:00",
+    "GunTime": "45:57:00"
+  },
+  {
+    "Place": 553,
+    "Bib": 837,
+    "Name": "Mitchell, Dermot",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:56:00",
+    "ChipTime": "45:52:00",
+    "GunTime": "45:58:00"
+  },
+  {
+    "Place": 554,
+    "Bib": 866,
+    "Name": "Donnelly, Pat",
+    "AG": "M65",
+    "Club": "",
+    "Lap of Lough": "10:58:00",
+    "ChipTime": "45:23:00",
+    "GunTime": "45:59:00"
+  },
+  {
+    "Place": 555,
+    "Bib": 414,
+    "Name": "Caldwell, Matthew",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:39:00",
+    "ChipTime": "45:08:00",
+    "GunTime": "46:01:00"
+  },
+  {
+    "Place": 556,
+    "Bib": 182,
+    "Name": "Johnston, Liam",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "9:40:00",
+    "ChipTime": "45:08:00",
+    "GunTime": "46:02:00"
+  },
+  {
+    "Place": 557,
+    "Bib": 131,
+    "Name": "Arbuckle, Lorraine",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "10:45:00",
+    "ChipTime": "45:43:00",
+    "GunTime": "46:03:00"
+  },
+  {
+    "Place": 558,
+    "Bib": 561,
+    "Name": "Meenagh, Orla",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "11:19:00",
+    "ChipTime": "45:51:00",
+    "GunTime": "46:05:00"
+  },
+  {
+    "Place": 559,
+    "Bib": 475,
+    "Name": "Brown, Aoife",
+    "AG": "F U19",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:50:00",
+    "ChipTime": "45:40:00",
+    "GunTime": "46:06:00"
+  },
+  {
+    "Place": 560,
+    "Bib": 852,
+    "Name": "McMahon, Clare",
+    "AG": "F40",
+    "Club": "Run for Enda",
+    "Lap of Lough": "10:58:00",
+    "ChipTime": "45:34:00",
+    "GunTime": "46:07:00"
+  },
+  {
+    "Place": 561,
+    "Bib": 454,
+    "Name": "McAleer, Vincent",
+    "AG": "M45",
+    "Club": "Glenhull Gliders",
+    "Lap of Lough": "10:58:00",
+    "ChipTime": "45:39:00",
+    "GunTime": "46:08:00"
+  },
+  {
+    "Place": 562,
+    "Bib": 87,
+    "Name": "O'Connor, Alicia",
+    "AG": "F40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "10:44:00",
+    "ChipTime": "45:32:00",
+    "GunTime": "46:09:00"
+  },
+  {
+    "Place": 563,
+    "Bib": 538,
+    "Name": "O’Neill, Roisin",
+    "AG": "F35",
+    "Club": "Gortin",
+    "Lap of Lough": "11:03:00",
+    "ChipTime": "45:57:00",
+    "GunTime": "46:15:00"
+  },
+  {
+    "Place": 564,
+    "Bib": 855,
+    "Name": "Winters, Claire",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "11:29:00",
+    "ChipTime": "46:09:00",
+    "GunTime": "46:17:00"
+  },
+  {
+    "Place": 565,
+    "Bib": 622,
+    "Name": "McAleer, Ciara",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:43:00",
+    "ChipTime": "45:24:00",
+    "GunTime": "46:19:00"
+  },
+  {
+    "Place": 566,
+    "Bib": 310,
+    "Name": "Gallagher, Trevor",
+    "AG": "M45",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "11:11:00",
+    "ChipTime": "45:41:00",
+    "GunTime": "46:19:00"
+  },
+  {
+    "Place": 567,
+    "Bib": 402,
+    "Name": "O'Kane, Daithí",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:25:00",
+    "ChipTime": "45:44:00",
+    "GunTime": "46:21:00"
+  },
+  {
+    "Place": 568,
+    "Bib": 655,
+    "Name": "Meenagh, Fergal",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:50:00",
+    "ChipTime": "45:25:00",
+    "GunTime": "46:22:00"
+  },
+  {
+    "Place": 569,
+    "Bib": 368,
+    "Name": "McSorley, Rory",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:12:00",
+    "ChipTime": "45:26:00",
+    "GunTime": "46:26:00"
+  },
+  {
+    "Place": 570,
+    "Bib": 164,
+    "Name": "McCullagh, Nigel",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "11:48:00",
+    "ChipTime": "46:11:00",
+    "GunTime": "46:28:00"
+  },
+  {
+    "Place": 571,
+    "Bib": 326,
+    "Name": "O'Brien, Bronagh",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "11:07:00",
+    "ChipTime": "45:36:00",
+    "GunTime": "46:29:00"
+  },
+  {
+    "Place": 572,
+    "Bib": 59,
+    "Name": "Coney, Angela",
+    "AG": "F45",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:16:00",
+    "ChipTime": "45:59:00",
+    "GunTime": "46:30:00"
+  },
+  {
+    "Place": 573,
+    "Bib": 378,
+    "Name": "Kelly, Plunkett",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "10:39:00",
+    "ChipTime": "46:09:00",
+    "GunTime": "46:32:00"
+  },
+  {
+    "Place": 574,
+    "Bib": 17,
+    "Name": "Bradley, Vincent",
+    "AG": "M60",
+    "Club": "North Belfast Harriers",
+    "Lap of Lough": "10:22:00",
+    "ChipTime": "46:11:00",
+    "GunTime": "46:32:00"
+  },
+  {
+    "Place": 575,
+    "Bib": 395,
+    "Name": "Gillespie, Conor",
+    "AG": "M55",
+    "Club": "",
+    "Lap of Lough": "11:35:00",
+    "ChipTime": "46:17:00",
+    "GunTime": "46:34:00"
+  },
+  {
+    "Place": 576,
+    "Bib": 535,
+    "Name": "Nightingale, Rich",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "11:08:00",
+    "ChipTime": "45:51:00",
+    "GunTime": "46:35:00"
+  },
+  {
+    "Place": 577,
+    "Bib": 385,
+    "Name": "Alexander, Aaron",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "10:33:00",
+    "ChipTime": "45:42:00",
+    "GunTime": "46:35:00"
+  },
+  {
+    "Place": 578,
+    "Bib": 365,
+    "Name": "Boyd, Ailish",
+    "AG": "F40",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "11:01:00",
+    "ChipTime": "45:59:00",
+    "GunTime": "46:37:00"
+  },
+  {
+    "Place": 579,
+    "Bib": 530,
+    "Name": "Gormley, Pauline",
+    "AG": "F55",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:20:00",
+    "ChipTime": "46:19:00",
+    "GunTime": "46:41:00"
+  },
+  {
+    "Place": 580,
+    "Bib": 502,
+    "Name": "McCullagh, Lucy",
+    "AG": "F U19",
+    "Club": "Lough",
+    "Lap of Lough": "11:39:00",
+    "ChipTime": "46:25:00",
+    "GunTime": "46:42:00"
+  },
+  {
+    "Place": 581,
+    "Bib": 876,
+    "Name": "Woodhead, Nathan",
+    "AG": "M U19",
+    "Club": "OSE Runners",
+    "Lap of Lough": "11:14:00",
+    "ChipTime": "45:43:00",
+    "GunTime": "46:43:00"
+  },
+  {
+    "Place": 582,
+    "Bib": 440,
+    "Name": "Loughran, Nuala",
+    "AG": "F35",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:04:00",
+    "ChipTime": "46:14:00",
+    "GunTime": "46:45:00"
+  },
+  {
+    "Place": 583,
+    "Bib": 405,
+    "Name": "Daly, Liam",
+    "AG": "M60",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "11:15:00",
+    "ChipTime": "45:51:00",
+    "GunTime": "46:46:00"
+  },
+  {
+    "Place": 584,
+    "Bib": 783,
+    "Name": "Fegan, Michael",
+    "AG": "M60",
+    "Club": "Island triathlon club",
+    "Lap of Lough": "11:39:00",
+    "ChipTime": "45:52:00",
+    "GunTime": "46:47:00"
+  },
+  {
+    "Place": 585,
+    "Bib": 383,
+    "Name": "Johnston, Lois",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:16:00",
+    "ChipTime": "45:54:00",
+    "GunTime": "46:49:00"
+  },
+  {
+    "Place": 586,
+    "Bib": 384,
+    "Name": "Honeyman, Jessica",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:17:00",
+    "ChipTime": "45:55:00",
+    "GunTime": "46:50:00"
+  },
+  {
+    "Place": 587,
+    "Bib": 670,
+    "Name": "McGinley, Roisin",
+    "AG": "F55",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "11:17:00",
+    "ChipTime": "46:15:00",
+    "GunTime": "46:52:00"
+  },
+  {
+    "Place": 588,
+    "Bib": 386,
+    "Name": "Teague, Aisling",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:04:00",
+    "ChipTime": "46:19:00",
+    "GunTime": "46:54:00"
+  },
+  {
+    "Place": 589,
+    "Bib": 704,
+    "Name": "Collins, Keilani",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:35:00",
+    "ChipTime": "46:19:00",
+    "GunTime": "46:54:00"
+  },
+  {
+    "Place": 590,
+    "Bib": 448,
+    "Name": "Thompson, Richard",
+    "AG": "M45",
+    "Club": "N/A",
+    "Lap of Lough": "11:03:00",
+    "ChipTime": "45:57:00",
+    "GunTime": "46:54:00"
+  },
+  {
+    "Place": 591,
+    "Bib": 823,
+    "Name": "Donaghy, Martina",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "10:50:00",
+    "ChipTime": "46:13:00",
+    "GunTime": "46:55:00"
+  },
+  {
+    "Place": 592,
+    "Bib": 875,
+    "Name": "Woodhead, Darragh",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:25:00",
+    "ChipTime": "46:01:00",
+    "GunTime": "47:00:00"
+  },
+  {
+    "Place": 593,
+    "Bib": 286,
+    "Name": "McCann, Nicola",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:59:00",
+    "ChipTime": "46:52:00",
+    "GunTime": "47:02:00"
+  },
+  {
+    "Place": 594,
+    "Bib": 390,
+    "Name": "Keys, Claire",
+    "AG": "F45",
+    "Club": "Lifford Strabane A.C.",
+    "Lap of Lough": "11:02:00",
+    "ChipTime": "46:26:00",
+    "GunTime": "47:03:00"
+  },
+  {
+    "Place": 595,
+    "Bib": 825,
+    "Name": "McKeown, Bernadette",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "10:58:00",
+    "ChipTime": "46:22:00",
+    "GunTime": "47:04:00"
+  },
+  {
+    "Place": 596,
+    "Bib": 149,
+    "Name": "Rice, Grainne",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "11:22:00",
+    "ChipTime": "46:50:00",
+    "GunTime": "47:05:00"
+  },
+  {
+    "Place": 597,
+    "Bib": 217,
+    "Name": "Foley, Ciara",
+    "AG": "F50",
+    "Club": "Running Rebels",
+    "Lap of Lough": "11:24:00",
+    "ChipTime": "46:27:00",
+    "GunTime": "47:05:00"
+  },
+  {
+    "Place": 598,
+    "Bib": 67,
+    "Name": "McVeigh, Danny",
+    "AG": "M60",
+    "Club": "Na Fianna A.C.",
+    "Lap of Lough": "11:40:00",
+    "ChipTime": "46:52:00",
+    "GunTime": "47:08:00"
+  },
+  {
+    "Place": 599,
+    "Bib": 600,
+    "Name": "O'Connor, Christine",
+    "AG": "F40",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "11:07:00",
+    "ChipTime": "46:21:00",
+    "GunTime": "47:08:00"
+  },
+  {
+    "Place": 600,
+    "Bib": 451,
+    "Name": "Fee, Michael",
+    "AG": "MO",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "11:07:00",
+    "ChipTime": "46:21:00",
+    "GunTime": "47:08:00"
+  },
+  {
+    "Place": 601,
+    "Bib": 546,
+    "Name": "Loughran, David",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "12:18:00",
+    "ChipTime": "46:38:00",
+    "GunTime": "47:10:00"
+  },
+  {
+    "Place": 602,
+    "Bib": 490,
+    "Name": "Ward, Aimee",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "11:28:00",
+    "ChipTime": "46:32:00",
+    "GunTime": "47:11:00"
+  },
+  {
+    "Place": 603,
+    "Bib": 104,
+    "Name": "Muldoon, Donna",
+    "AG": "F55",
+    "Club": "Acorns AC",
+    "Lap of Lough": "11:13:00",
+    "ChipTime": "46:38:00",
+    "GunTime": "47:16:00"
+  },
+  {
+    "Place": 604,
+    "Bib": 259,
+    "Name": "Doak, Connor",
+    "AG": "M40",
+    "Club": "Westbury Harriers",
+    "Lap of Lough": "11:11:00",
+    "ChipTime": "47:07:00",
+    "GunTime": "47:18:00"
+  },
+  {
+    "Place": 605,
+    "Bib": 613,
+    "Name": "McCullagh, Anna May",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "10:48:00",
+    "ChipTime": "46:39:00",
+    "GunTime": "47:18:00"
+  },
+  {
+    "Place": 606,
+    "Bib": 248,
+    "Name": "Donald, Glenda",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "10:49:00",
+    "ChipTime": "46:18:00",
+    "GunTime": "47:19:00"
+  },
+  {
+    "Place": 607,
+    "Bib": 398,
+    "Name": "Shaw, Claire",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "10:49:00",
+    "ChipTime": "46:18:00",
+    "GunTime": "47:19:00"
+  },
+  {
+    "Place": 608,
+    "Bib": 743,
+    "Name": "McElhone, Mark",
+    "AG": "M45",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "17:26:00",
+    "ChipTime": "46:38:00",
+    "GunTime": "47:22:00"
+  },
+  {
+    "Place": 609,
+    "Bib": 800,
+    "Name": "McElhone, Shea",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "14:59:00",
+    "ChipTime": "46:38:00",
+    "GunTime": "47:22:00"
+  },
+  {
+    "Place": 610,
+    "Bib": 830,
+    "Name": "Logue, Ronan",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "12:42:00",
+    "ChipTime": "47:13:00",
+    "GunTime": "47:23:00"
+  },
+  {
+    "Place": 611,
+    "Bib": 683,
+    "Name": "Mullan, Jim",
+    "AG": "M50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:36:00",
+    "ChipTime": "47:01:00",
+    "GunTime": "47:25:00"
+  },
+  {
+    "Place": 612,
+    "Bib": 339,
+    "Name": "Eccles, Maureen",
+    "AG": "F55",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:35:00",
+    "ChipTime": "47:02:00",
+    "GunTime": "47:33:00"
+  },
+  {
+    "Place": 613,
+    "Bib": 721,
+    "Name": "Oconnor, Cathal",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "11:29:00",
+    "ChipTime": "46:51:00",
+    "GunTime": "47:33:00"
+  },
+  {
+    "Place": 614,
+    "Bib": 810,
+    "Name": "Logue, Brendamarie",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "11:07:00",
+    "ChipTime": "46:55:00",
+    "GunTime": "47:35:00"
+  },
+  {
+    "Place": 615,
+    "Bib": 566,
+    "Name": "Curran, Peadar",
+    "AG": "M55",
+    "Club": "Down Triathlon Club",
+    "Lap of Lough": "11:25:00",
+    "ChipTime": "47:18:00",
+    "GunTime": "47:39:00"
+  },
+  {
+    "Place": 616,
+    "Bib": 819,
+    "Name": "Mullin, Dara",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "10:49:00",
+    "ChipTime": "47:15:00",
+    "GunTime": "47:40:00"
+  },
+  {
+    "Place": 617,
+    "Bib": 382,
+    "Name": "Mahon, Tiernach",
+    "AG": "M65",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "47:42:00",
+    "ChipTime": "47:29:00",
+    "GunTime": "47:42:00"
+  },
+  {
+    "Place": 618,
+    "Bib": 396,
+    "Name": "Oneill, Sheena",
+    "AG": "F55",
+    "Club": "Island triathlon club",
+    "Lap of Lough": "11:36:00",
+    "ChipTime": "46:54:00",
+    "GunTime": "47:50:00"
+  },
+  {
+    "Place": 619,
+    "Bib": 444,
+    "Name": "Heatley, Gerard",
+    "AG": "M50",
+    "Club": "Coalisland Na Fianna Runners",
+    "Lap of Lough": "11:05:00",
+    "ChipTime": "47:10:00",
+    "GunTime": "47:50:00"
+  },
+  {
+    "Place": 620,
+    "Bib": 590,
+    "Name": "Maguire, Jj",
+    "AG": "M60",
+    "Club": "Cullion runners",
+    "Lap of Lough": "11:23:00",
+    "ChipTime": "47:01:00",
+    "GunTime": "47:51:00"
+  },
+  {
+    "Place": 621,
+    "Bib": 591,
+    "Name": "Maguire, Marie",
+    "AG": "F55",
+    "Club": "Cullion runners",
+    "Lap of Lough": "11:22:00",
+    "ChipTime": "47:00:00",
+    "GunTime": "47:51:00"
+  },
+  {
+    "Place": 622,
+    "Bib": 253,
+    "Name": "McAnenly, Peter",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "11:54:00",
+    "ChipTime": "47:45:00",
+    "GunTime": "47:52:00"
+  },
+  {
+    "Place": 623,
+    "Bib": 782,
+    "Name": "McCart, Brian",
+    "AG": "M50",
+    "Club": "Rasharkin Runners",
+    "Lap of Lough": "12:06:00",
+    "ChipTime": "47:38:00",
+    "GunTime": "48:01:00"
+  },
+  {
+    "Place": 624,
+    "Bib": 66,
+    "Name": "McVeigh, Lynsey",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:52:00",
+    "ChipTime": "47:28:00",
+    "GunTime": "48:02:00"
+  },
+  {
+    "Place": 625,
+    "Bib": 765,
+    "Name": "Connolly, Jonathon",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "11:52:00",
+    "ChipTime": "47:14:00",
+    "GunTime": "48:10:00"
+  },
+  {
+    "Place": 626,
+    "Bib": 332,
+    "Name": "O’Donnell, Sarah",
+    "AG": "FO",
+    "Club": "Conall 97",
+    "Lap of Lough": "20:15:00",
+    "ChipTime": "47:26:00",
+    "GunTime": "48:10:00"
+  },
+  {
+    "Place": 627,
+    "Bib": 764,
+    "Name": "O’Neill, Eimear",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:53:00",
+    "ChipTime": "47:15:00",
+    "GunTime": "48:11:00"
+  },
+  {
+    "Place": 628,
+    "Bib": 147,
+    "Name": "Conroy, Caroline",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "11:29:00",
+    "ChipTime": "47:58:00",
+    "GunTime": "48:15:00"
+  },
+  {
+    "Place": 629,
+    "Bib": 90,
+    "Name": "Robinson, Gillian",
+    "AG": "F45",
+    "Club": "Sperrin Harriers",
+    "Lap of Lough": "11:36:00",
+    "ChipTime": "47:38:00",
+    "GunTime": "48:16:00"
+  },
+  {
+    "Place": 630,
+    "Bib": 701,
+    "Name": "Carlin, Nuala",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "11:12:00",
+    "ChipTime": "47:32:00",
+    "GunTime": "48:19:00"
+  },
+  {
+    "Place": 631,
+    "Bib": 83,
+    "Name": "Kelly, Paul",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "12:34:00",
+    "ChipTime": "47:57:00",
+    "GunTime": "48:20:00"
+  },
+  {
+    "Place": 632,
+    "Bib": 668,
+    "Name": "McIntyre, Liam",
+    "AG": "M50",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "10:49:00",
+    "ChipTime": "47:44:00",
+    "GunTime": "48:25:00"
+  },
+  {
+    "Place": 633,
+    "Bib": 468,
+    "Name": "McConnell, Meabh",
+    "AG": "F35",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "11:23:00",
+    "ChipTime": "48:17:00",
+    "GunTime": "48:28:00"
+  },
+  {
+    "Place": 634,
+    "Bib": 46,
+    "Name": "McCrory, Niamh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:13:00",
+    "ChipTime": "48:03:00",
+    "GunTime": "48:28:00"
+  },
+  {
+    "Place": 635,
+    "Bib": 37,
+    "Name": "Dobbs, Aoife",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:50:00",
+    "ChipTime": "48:00:00",
+    "GunTime": "48:33:00"
+  },
+  {
+    "Place": 636,
+    "Bib": 741,
+    "Name": "Mullin, Nadine",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "13:27:00",
+    "ChipTime": "47:43:00",
+    "GunTime": "48:33:00"
+  },
+  {
+    "Place": 637,
+    "Bib": 122,
+    "Name": "McDermott, Gerry",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "11:37:00",
+    "ChipTime": "48:06:00",
+    "GunTime": "48:34:00"
+  },
+  {
+    "Place": 638,
+    "Bib": 154,
+    "Name": "Shaw, Ciara",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "10:53:00",
+    "ChipTime": "47:33:00",
+    "GunTime": "48:34:00"
+  },
+  {
+    "Place": 639,
+    "Bib": 873,
+    "Name": "McCrory, James",
+    "AG": "M60",
+    "Club": "Mountain Harriers",
+    "Lap of Lough": "10:57:00",
+    "ChipTime": "47:33:00",
+    "GunTime": "48:34:00"
+  },
+  {
+    "Place": 640,
+    "Bib": 512,
+    "Name": "Doherty, Raymond",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "11:35:00",
+    "ChipTime": "48:03:00",
+    "GunTime": "48:35:00"
+  },
+  {
+    "Place": 641,
+    "Bib": 268,
+    "Name": "Griffin, Donal",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "11:29:00",
+    "ChipTime": "47:49:00",
+    "GunTime": "48:37:00"
+  },
+  {
+    "Place": 642,
+    "Bib": 219,
+    "Name": "McElholm, Jarlath",
+    "AG": "M55",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:10:00",
+    "ChipTime": "47:47:00",
+    "GunTime": "48:38:00"
+  },
+  {
+    "Place": 643,
+    "Bib": 633,
+    "Name": "Haughey, Mairead",
+    "AG": "FO",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "13:37:00",
+    "ChipTime": "47:47:00",
+    "GunTime": "48:39:00"
+  },
+  {
+    "Place": 644,
+    "Bib": 197,
+    "Name": "Glackin, Barry",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "11:09:00",
+    "ChipTime": "48:17:00",
+    "GunTime": "48:39:00"
+  },
+  {
+    "Place": 645,
+    "Bib": 113,
+    "Name": "McElduff, Kaitlyn",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:42:00",
+    "ChipTime": "48:30:00",
+    "GunTime": "48:40:00"
+  },
+  {
+    "Place": 646,
+    "Bib": 484,
+    "Name": "Ward, Emma-jane",
+    "AG": "F U19",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "11:49:00",
+    "ChipTime": "48:02:00",
+    "GunTime": "48:41:00"
+  },
+  {
+    "Place": 647,
+    "Bib": 745,
+    "Name": "McLaughlin, Patricia",
+    "AG": "F50",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "11:52:00",
+    "ChipTime": "48:07:00",
+    "GunTime": "48:47:00"
+  },
+  {
+    "Place": 648,
+    "Bib": 693,
+    "Name": "Collins, Cara",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "10:28:00",
+    "ChipTime": "47:56:00",
+    "GunTime": "48:48:00"
+  },
+  {
+    "Place": 649,
+    "Bib": 759,
+    "Name": "McAleer, Hugh",
+    "AG": "M60",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "1:32:00",
+    "ChipTime": "48:21:00",
+    "GunTime": "48:52:00"
+  },
+  {
+    "Place": 650,
+    "Bib": 336,
+    "Name": "McCallion, Declan",
+    "AG": "M55",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "11:06:00",
+    "ChipTime": "48:12:00",
+    "GunTime": "48:54:00"
+  },
+  {
+    "Place": 651,
+    "Bib": 513,
+    "Name": "Weir, Linda",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "11:38:00",
+    "ChipTime": "48:02:00",
+    "GunTime": "48:55:00"
+  },
+  {
+    "Place": 652,
+    "Bib": 406,
+    "Name": "Halfpenny, Aodhan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "11:51:00",
+    "ChipTime": "48:24:00",
+    "GunTime": "48:56:00"
+  },
+  {
+    "Place": 653,
+    "Bib": 119,
+    "Name": "Gillen, Michael",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "11:43:00",
+    "ChipTime": "48:17:00",
+    "GunTime": "48:56:00"
+  },
+  {
+    "Place": 654,
+    "Bib": 117,
+    "Name": "Campbell, Aisling",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:59:00",
+    "ChipTime": "48:50:00",
+    "GunTime": "48:58:00"
+  },
+  {
+    "Place": 655,
+    "Bib": 746,
+    "Name": "Devlin, Fionamarie",
+    "AG": "F40",
+    "Club": "Tafelta AC",
+    "Lap of Lough": "17:33:00",
+    "ChipTime": "48:06:00",
+    "GunTime": "48:58:00"
+  },
+  {
+    "Place": 656,
+    "Bib": 160,
+    "Name": "Tierney, Ryan",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "12:05:00",
+    "ChipTime": "49:06:00",
+    "GunTime": "49:08:00"
+  },
+  {
+    "Place": 657,
+    "Bib": 161,
+    "Name": "Tierney, Kathryn",
+    "AG": "F40",
+    "Club": "Galbally Runners",
+    "Lap of Lough": "12:04:00",
+    "ChipTime": "48:59:00",
+    "GunTime": "49:08:00"
+  },
+  {
+    "Place": 658,
+    "Bib": 780,
+    "Name": "McCaul, Margaret",
+    "AG": "F50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:57:00",
+    "ChipTime": "48:08:00",
+    "GunTime": "49:11:00"
+  },
+  {
+    "Place": 659,
+    "Bib": 334,
+    "Name": "Early, Brendan",
+    "AG": "M65",
+    "Club": "Coalisland Na Fianna Runners",
+    "Lap of Lough": "11:16:00",
+    "ChipTime": "48:55:00",
+    "GunTime": "49:11:00"
+  },
+  {
+    "Place": 660,
+    "Bib": 617,
+    "Name": "O'Kane, Molly",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "19:17:00",
+    "ChipTime": "48:20:00",
+    "GunTime": "49:11:00"
+  },
+  {
+    "Place": 661,
+    "Bib": 284,
+    "Name": "O’Brien, Orlagh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:23:00",
+    "ChipTime": "48:17:00",
+    "GunTime": "49:12:00"
+  },
+  {
+    "Place": 662,
+    "Bib": 510,
+    "Name": "Doyle, Mary",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "11:38:00",
+    "ChipTime": "48:51:00",
+    "GunTime": "49:12:00"
+  },
+  {
+    "Place": 663,
+    "Bib": 481,
+    "Name": "Bradley, Oonagh",
+    "AG": "F45",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:38:00",
+    "ChipTime": "48:51:00",
+    "GunTime": "49:12:00"
+  },
+  {
+    "Place": 664,
+    "Bib": 251,
+    "Name": "Kelly, Shane",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "11:56:00",
+    "ChipTime": "48:53:00",
+    "GunTime": "49:15:00"
+  },
+  {
+    "Place": 665,
+    "Bib": 534,
+    "Name": "Armstrong, Amanda",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "11:57:00",
+    "ChipTime": "48:31:00",
+    "GunTime": "49:15:00"
+  },
+  {
+    "Place": 666,
+    "Bib": 756,
+    "Name": "McDonald, Hanna",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "15:37:00",
+    "ChipTime": "48:41:00",
+    "GunTime": "49:22:00"
+  },
+  {
+    "Place": 667,
+    "Bib": 489,
+    "Name": "McMullan, Greg",
+    "AG": "M60",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "11:20:00",
+    "ChipTime": "48:21:00",
+    "GunTime": "49:24:00"
+  },
+  {
+    "Place": 668,
+    "Bib": 229,
+    "Name": "Turner, Steve",
+    "AG": "M50",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:11:00",
+    "ChipTime": "48:22:00",
+    "GunTime": "49:27:00"
+  },
+  {
+    "Place": 669,
+    "Bib": 581,
+    "Name": "Kelly, Rory",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "12:14:00",
+    "ChipTime": "49:17:00",
+    "GunTime": "49:32:00"
+  },
+  {
+    "Place": 670,
+    "Bib": 563,
+    "Name": "McCullagh, Michelle",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "11:45:00",
+    "ChipTime": "48:42:00",
+    "GunTime": "49:33:00"
+  },
+  {
+    "Place": 671,
+    "Bib": 224,
+    "Name": "Sheehan, Chris",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "12:45:00",
+    "ChipTime": "49:31:00",
+    "GunTime": "49:38:00"
+  },
+  {
+    "Place": 672,
+    "Bib": 788,
+    "Name": "Dobbs, Colleen",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "12:07:00",
+    "ChipTime": "49:06:00",
+    "GunTime": "49:39:00"
+  },
+  {
+    "Place": 673,
+    "Bib": 427,
+    "Name": "McBrearty, Kathryn",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "23:36:00",
+    "ChipTime": "49:03:00",
+    "GunTime": "49:39:00"
+  },
+  {
+    "Place": 674,
+    "Bib": 276,
+    "Name": "O’Kane, Etaoine",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "11:31:00",
+    "ChipTime": "48:54:00",
+    "GunTime": "49:40:00"
+  },
+  {
+    "Place": 675,
+    "Bib": 193,
+    "Name": "Gormley, Ellen",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "11:31:00",
+    "ChipTime": "48:54:00",
+    "GunTime": "49:40:00"
+  },
+  {
+    "Place": 676,
+    "Bib": 200,
+    "Name": "Troy, Sophia",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "10:04:00",
+    "ChipTime": "48:59:00",
+    "GunTime": "49:41:00"
+  },
+  {
+    "Place": 677,
+    "Bib": 400,
+    "Name": "Kerr, Elaine",
+    "AG": "F45",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:28:00",
+    "ChipTime": "49:04:00",
+    "GunTime": "49:41:00"
+  },
+  {
+    "Place": 678,
+    "Bib": 341,
+    "Name": "Adams, Pamela",
+    "AG": "F60",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:29:00",
+    "ChipTime": "49:09:00",
+    "GunTime": "49:41:00"
+  },
+  {
+    "Place": 679,
+    "Bib": 364,
+    "Name": "Sweeney, Mairead",
+    "AG": "F60",
+    "Club": "Run for Enda",
+    "Lap of Lough": "12:00:00",
+    "ChipTime": "49:13:00",
+    "GunTime": "49:44:00"
+  },
+  {
+    "Place": 680,
+    "Bib": 631,
+    "Name": "Toner, Dearbhla",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "11:35:00",
+    "ChipTime": "49:04:00",
+    "GunTime": "49:44:00"
+  },
+  {
+    "Place": 681,
+    "Bib": 460,
+    "Name": "McCreesh, Aidan",
+    "AG": "M40",
+    "Club": "Run for Enda",
+    "Lap of Lough": "12:15:00",
+    "ChipTime": "49:37:00",
+    "GunTime": "49:46:00"
+  },
+  {
+    "Place": 682,
+    "Bib": 646,
+    "Name": "Herron, Michael",
+    "AG": "M55",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "11:36:00",
+    "ChipTime": "49:15:00",
+    "GunTime": "49:57:00"
+  },
+  {
+    "Place": 683,
+    "Bib": 309,
+    "Name": "McCusker, Tony",
+    "AG": "M35",
+    "Club": "",
+    "Lap of Lough": "11:38:00",
+    "ChipTime": "49:31:00",
+    "GunTime": "50:07:00"
+  },
+  {
+    "Place": 684,
+    "Bib": 575,
+    "Name": "Burns, Sue",
+    "AG": "F55",
+    "Club": "",
+    "Lap of Lough": "12:35:00",
+    "ChipTime": "49:42:00",
+    "GunTime": "50:12:00"
+  },
+  {
+    "Place": 685,
+    "Bib": 242,
+    "Name": "McFarlane, Dylan",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "12:04:00",
+    "ChipTime": "49:50:00",
+    "GunTime": "50:12:00"
+  },
+  {
+    "Place": 686,
+    "Bib": 389,
+    "Name": "Donaghey, Gloria",
+    "AG": "F65",
+    "Club": "Finn Valley AC",
+    "Lap of Lough": "12:13:00",
+    "ChipTime": "50:04:00",
+    "GunTime": "50:16:00"
+  },
+  {
+    "Place": 687,
+    "Bib": 904,
+    "Name": "Rafferty, Ruairi",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "12:32:00",
+    "ChipTime": "49:53:00",
+    "GunTime": "50:18:00"
+  },
+  {
+    "Place": 688,
+    "Bib": 840,
+    "Name": "Ward, Cormac",
+    "AG": "M U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "12:59:00",
+    "ChipTime": "50:00:00",
+    "GunTime": "50:20:00"
+  },
+  {
+    "Place": 689,
+    "Bib": 263,
+    "Name": "Healy, Dymphna",
+    "AG": "F60",
+    "Club": "Run for Enda",
+    "Lap of Lough": "12:05:00",
+    "ChipTime": "49:29:00",
+    "GunTime": "50:24:00"
+  },
+  {
+    "Place": 690,
+    "Bib": 289,
+    "Name": "Sterndale, Nigel",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "11:59:00",
+    "ChipTime": "49:42:00",
+    "GunTime": "50:29:00"
+  },
+  {
+    "Place": 691,
+    "Bib": 720,
+    "Name": "McBride, Arlene",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:06:00",
+    "ChipTime": "49:35:00",
+    "GunTime": "50:30:00"
+  },
+  {
+    "Place": 692,
+    "Bib": 139,
+    "Name": "Keyes, Niamh",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:06:00",
+    "ChipTime": "49:36:00",
+    "GunTime": "50:30:00"
+  },
+  {
+    "Place": 693,
+    "Bib": 84,
+    "Name": "Moohan-bradley, Kathleen",
+    "AG": "F65",
+    "Club": "Run for Enda",
+    "Lap of Lough": "11:59:00",
+    "ChipTime": "50:07:00",
+    "GunTime": "50:35:00"
+  },
+  {
+    "Place": 694,
+    "Bib": 118,
+    "Name": "Walker, Roisin",
+    "AG": "F50",
+    "Club": "Springwell Running Club",
+    "Lap of Lough": "12:16:00",
+    "ChipTime": "50:04:00",
+    "GunTime": "50:36:00"
+  },
+  {
+    "Place": 695,
+    "Bib": 445,
+    "Name": "Tuohey, Cillian",
+    "AG": "M U19",
+    "Club": "Greencastle",
+    "Lap of Lough": "11:19:00",
+    "ChipTime": "49:37:00",
+    "GunTime": "50:37:00"
+  },
+  {
+    "Place": 696,
+    "Bib": 426,
+    "Name": "McElduff, Eoin",
+    "AG": "M U19",
+    "Club": "",
+    "Lap of Lough": "12:08:00",
+    "ChipTime": "50:10:00",
+    "GunTime": "50:39:00"
+  },
+  {
+    "Place": 697,
+    "Bib": 306,
+    "Name": "Tuohey, Bernie",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "11:39:00",
+    "ChipTime": "50:12:00",
+    "GunTime": "50:40:00"
+  },
+  {
+    "Place": 698,
+    "Bib": 181,
+    "Name": "Harkness, Jessica",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "12:32:00",
+    "ChipTime": "50:08:00",
+    "GunTime": "50:42:00"
+  },
+  {
+    "Place": 699,
+    "Bib": 874,
+    "Name": "Woodhead, Terese",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "12:28:00",
+    "ChipTime": "49:44:00",
+    "GunTime": "50:44:00"
+  },
+  {
+    "Place": 700,
+    "Bib": 618,
+    "Name": "Devlin, Deborah",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "12:07:00",
+    "ChipTime": "49:53:00",
+    "GunTime": "50:44:00"
+  },
+  {
+    "Place": 701,
+    "Bib": 722,
+    "Name": "Conway, Anita",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:47:00",
+    "ChipTime": "49:50:00",
+    "GunTime": "50:45:00"
+  },
+  {
+    "Place": 702,
+    "Bib": 75,
+    "Name": "Corey, Lisa",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "12:28:00",
+    "ChipTime": "50:19:00",
+    "GunTime": "50:52:00"
+  },
+  {
+    "Place": 703,
+    "Bib": 738,
+    "Name": "McElduff, Paula",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "20:03:00",
+    "ChipTime": "50:01:00",
+    "GunTime": "50:52:00"
+  },
+  {
+    "Place": 704,
+    "Bib": 98,
+    "Name": "Kelly, Aimee",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:36:00",
+    "ChipTime": "49:51:00",
+    "GunTime": "50:53:00"
+  },
+  {
+    "Place": 705,
+    "Bib": 232,
+    "Name": "McElwee, Orla",
+    "AG": "F55",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "11:49:00",
+    "ChipTime": "50:28:00",
+    "GunTime": "51:09:00"
+  },
+  {
+    "Place": 706,
+    "Bib": 271,
+    "Name": "Cavanagh, Nessa",
+    "AG": "F U19",
+    "Club": "Pomeroy GAA",
+    "Lap of Lough": "11:35:00",
+    "ChipTime": "50:32:00",
+    "GunTime": "51:13:00"
+  },
+  {
+    "Place": 707,
+    "Bib": 132,
+    "Name": "Annesley, Stephen",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "12:03:00",
+    "ChipTime": "50:43:00",
+    "GunTime": "51:24:00"
+  },
+  {
+    "Place": 708,
+    "Bib": 97,
+    "Name": "Kelly, Eimear",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "12:01:00",
+    "ChipTime": "50:30:00",
+    "GunTime": "51:32:00"
+  },
+  {
+    "Place": 709,
+    "Bib": 79,
+    "Name": "Donaghy, Elaine",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "12:05:00",
+    "ChipTime": "50:42:00",
+    "GunTime": "51:34:00"
+  },
+  {
+    "Place": 710,
+    "Bib": 80,
+    "Name": "McCullagh, Liz",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "12:04:00",
+    "ChipTime": "50:43:00",
+    "GunTime": "51:34:00"
+  },
+  {
+    "Place": 711,
+    "Bib": 31,
+    "Name": "Kelly, Sinead",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "12:04:00",
+    "ChipTime": "50:43:00",
+    "GunTime": "51:34:00"
+  },
+  {
+    "Place": 712,
+    "Bib": 624,
+    "Name": "McAleer, Eabha Rose",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "12:16:00",
+    "ChipTime": "50:40:00",
+    "GunTime": "51:37:00"
+  },
+  {
+    "Place": 713,
+    "Bib": 403,
+    "Name": "O'Kane, Cara",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "12:11:00",
+    "ChipTime": "51:03:00",
+    "GunTime": "51:40:00"
+  },
+  {
+    "Place": 714,
+    "Bib": 47,
+    "Name": "Kelly, Tracy",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "13:00:00",
+    "ChipTime": "51:09:00",
+    "GunTime": "51:43:00"
+  },
+  {
+    "Place": 715,
+    "Bib": 202,
+    "Name": "Mullin, Orla",
+    "AG": "F45",
+    "Club": "Run for Enda",
+    "Lap of Lough": "12:01:00",
+    "ChipTime": "50:59:00",
+    "GunTime": "51:48:00"
+  },
+  {
+    "Place": 716,
+    "Bib": 835,
+    "Name": "Condon, Emer",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "11:33:00",
+    "ChipTime": "51:14:00",
+    "GunTime": "52:05:00"
+  },
+  {
+    "Place": 717,
+    "Bib": 250,
+    "Name": "Loughery, Cathal",
+    "AG": "M45",
+    "Club": "Clann na ngael Walk Jog Run club",
+    "Lap of Lough": "12:31:00",
+    "ChipTime": "51:57:00",
+    "GunTime": "52:30:00"
+  },
+  {
+    "Place": 718,
+    "Bib": 900,
+    "Name": "Mulligan, Padraig",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "12:59:00",
+    "ChipTime": "52:36:00",
+    "GunTime": "52:36:00"
+  },
+  {
+    "Place": 719,
+    "Bib": 785,
+    "Name": "Donnelly, Erin",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "24:30:00",
+    "ChipTime": "52:14:00",
+    "GunTime": "52:48:00"
+  },
+  {
+    "Place": 720,
+    "Bib": 791,
+    "Name": "Donnelly, Amanda",
+    "AG": "F40",
+    "Club": "Omagh Harriers",
+    "Lap of Lough": "20:20:00",
+    "ChipTime": "52:14:00",
+    "GunTime": "52:48:00"
+  },
+  {
+    "Place": 721,
+    "Bib": 218,
+    "Name": "Mallaghan, Elaine",
+    "AG": "F45",
+    "Club": "Omagh triathlon club",
+    "Lap of Lough": "12:32:00",
+    "ChipTime": "52:24:00",
+    "GunTime": "53:01:00"
+  },
+  {
+    "Place": 722,
+    "Bib": 42,
+    "Name": "Leonard, Michael",
+    "AG": "M45",
+    "Club": "Shamrock Running Club",
+    "Lap of Lough": "12:41:00",
+    "ChipTime": "52:40:00",
+    "GunTime": "53:32:00"
+  },
+  {
+    "Place": 723,
+    "Bib": 43,
+    "Name": "Leonard, Margaret",
+    "AG": "F45",
+    "Club": "Shamrock Running Club",
+    "Lap of Lough": "12:42:00",
+    "ChipTime": "52:40:00",
+    "GunTime": "53:32:00"
+  },
+  {
+    "Place": 724,
+    "Bib": 401,
+    "Name": "O'Kane, Michelle",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "12:41:00",
+    "ChipTime": "52:51:00",
+    "GunTime": "53:41:00"
+  },
+  {
+    "Place": 725,
+    "Bib": 108,
+    "Name": "Owens, Gerry",
+    "AG": "M70",
+    "Club": "",
+    "Lap of Lough": "12:33:00",
+    "ChipTime": "52:54:00",
+    "GunTime": "53:52:00"
+  },
+  {
+    "Place": 726,
+    "Bib": 692,
+    "Name": "Isherwood, Marcus",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "12:32:00",
+    "ChipTime": "53:01:00",
+    "GunTime": "53:52:00"
+  },
+  {
+    "Place": 727,
+    "Bib": 623,
+    "Name": "McAleer, Cara",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "13:21:00",
+    "ChipTime": "53:12:00",
+    "GunTime": "54:10:00"
+  },
+  {
+    "Place": 728,
+    "Bib": 619,
+    "Name": "McAleer, Damien",
+    "AG": "M40",
+    "Club": "",
+    "Lap of Lough": "13:21:00",
+    "ChipTime": "53:12:00",
+    "GunTime": "54:10:00"
+  },
+  {
+    "Place": 729,
+    "Bib": 508,
+    "Name": "Marshall, Aoife",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "12:31:00",
+    "ChipTime": "53:32:00",
+    "GunTime": "54:11:00"
+  },
+  {
+    "Place": 730,
+    "Bib": 228,
+    "Name": "Kelly, Patricia",
+    "AG": "F55",
+    "Club": "",
+    "Lap of Lough": "12:47:00",
+    "ChipTime": "53:44:00",
+    "GunTime": "54:22:00"
+  },
+  {
+    "Place": 731,
+    "Bib": 99,
+    "Name": "Small, Naomi",
+    "AG": "F45",
+    "Club": "Ballymena Runners",
+    "Lap of Lough": "12:43:00",
+    "ChipTime": "53:43:00",
+    "GunTime": "54:40:00"
+  },
+  {
+    "Place": 732,
+    "Bib": 657,
+    "Name": "Meenagh, Brian",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "13:36:00",
+    "ChipTime": "53:43:00",
+    "GunTime": "54:41:00"
+  },
+  {
+    "Place": 733,
+    "Bib": 706,
+    "Name": "Kelly, Aidan",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "14:10:00",
+    "ChipTime": "54:42:00",
+    "GunTime": "55:10:00"
+  },
+  {
+    "Place": 734,
+    "Bib": 70,
+    "Name": "Donnelly, Lisa",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "13:13:00",
+    "ChipTime": "55:02:00",
+    "GunTime": "55:12:00"
+  },
+  {
+    "Place": 735,
+    "Bib": 301,
+    "Name": "Hughes, Eamonn",
+    "AG": "M50",
+    "Club": "",
+    "Lap of Lough": "12:38:00",
+    "ChipTime": "54:37:00",
+    "GunTime": "55:26:00"
+  },
+  {
+    "Place": 736,
+    "Bib": 578,
+    "Name": "McGaughey, Claire",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "13:30:00",
+    "ChipTime": "54:35:00",
+    "GunTime": "55:26:00"
+  },
+  {
+    "Place": 737,
+    "Bib": 774,
+    "Name": "Kerlin, John",
+    "AG": "M65",
+    "Club": "Run for Enda",
+    "Lap of Lough": "29:03:00",
+    "ChipTime": "55:16:00",
+    "GunTime": "55:26:00"
+  },
+  {
+    "Place": 738,
+    "Bib": 40,
+    "Name": "McAree, Una",
+    "AG": "F60",
+    "Club": "",
+    "Lap of Lough": "13:07:00",
+    "ChipTime": "54:28:00",
+    "GunTime": "55:27:00"
+  },
+  {
+    "Place": 739,
+    "Bib": 41,
+    "Name": "McAree, Brigid",
+    "AG": "F65",
+    "Club": "",
+    "Lap of Lough": "13:07:00",
+    "ChipTime": "54:28:00",
+    "GunTime": "55:27:00"
+  },
+  {
+    "Place": 740,
+    "Bib": 314,
+    "Name": "Boggs, Caitrin",
+    "AG": "F35",
+    "Club": "Melvin WJR",
+    "Lap of Lough": "13:14:00",
+    "ChipTime": "54:51:00",
+    "GunTime": "55:35:00"
+  },
+  {
+    "Place": 741,
+    "Bib": 210,
+    "Name": "McGregor, Julie",
+    "AG": "F50",
+    "Club": "Team Täby",
+    "Lap of Lough": "12:59:00",
+    "ChipTime": "54:50:00",
+    "GunTime": "55:35:00"
+  },
+  {
+    "Place": 742,
+    "Bib": 208,
+    "Name": "McCartan, Roisin",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "13:33:00",
+    "ChipTime": "54:53:00",
+    "GunTime": "55:35:00"
+  },
+  {
+    "Place": 743,
+    "Bib": 758,
+    "Name": "Donnelly, Michelle",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "18:09:00",
+    "ChipTime": "55:20:00",
+    "GunTime": "55:38:00"
+  },
+  {
+    "Place": 744,
+    "Bib": 465,
+    "Name": "Hughes, Majella",
+    "AG": "F45",
+    "Club": "Blood Sweat and Tears",
+    "Lap of Lough": "12:37:00",
+    "ChipTime": "55:01:00",
+    "GunTime": "55:40:00"
+  },
+  {
+    "Place": 745,
+    "Bib": 222,
+    "Name": "Kelly, Orla",
+    "AG": "F35",
+    "Club": "BST",
+    "Lap of Lough": "12:37:00",
+    "ChipTime": "55:02:00",
+    "GunTime": "55:40:00"
+  },
+  {
+    "Place": 746,
+    "Bib": 35,
+    "Name": "Logue, Shannon",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "12:56:00",
+    "ChipTime": "55:02:00",
+    "GunTime": "55:45:00"
+  },
+  {
+    "Place": 747,
+    "Bib": 27,
+    "Name": "McMahon, Claire",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "13:45:00",
+    "ChipTime": "54:54:00",
+    "GunTime": "55:56:00"
+  },
+  {
+    "Place": 748,
+    "Bib": 30,
+    "Name": "Doyle, Malachy",
+    "AG": "M60",
+    "Club": "PACE Running Club",
+    "Lap of Lough": "12:58:00",
+    "ChipTime": "55:02:00",
+    "GunTime": "56:09:00"
+  },
+  {
+    "Place": 749,
+    "Bib": 143,
+    "Name": "O kane, Mary",
+    "AG": "F55",
+    "Club": "",
+    "Lap of Lough": "13:23:00",
+    "ChipTime": "56:10:00",
+    "GunTime": "56:23:00"
+  },
+  {
+    "Place": 750,
+    "Bib": 141,
+    "Name": "Quinn, Una",
+    "AG": "F55",
+    "Club": "",
+    "Lap of Lough": "13:24:00",
+    "ChipTime": "56:10:00",
+    "GunTime": "56:24:00"
+  },
+  {
+    "Place": 751,
+    "Bib": 361,
+    "Name": "McCartan, Ciara",
+    "AG": "F35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "13:37:00",
+    "ChipTime": "55:42:00",
+    "GunTime": "56:25:00"
+  },
+  {
+    "Place": 752,
+    "Bib": 236,
+    "Name": "McDermott, Oonagh",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "13:56:00",
+    "ChipTime": "55:38:00",
+    "GunTime": "56:39:00"
+  },
+  {
+    "Place": 753,
+    "Bib": 237,
+    "Name": "McDermott-donaghy, Aisling",
+    "AG": "F40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "13:56:00",
+    "ChipTime": "55:38:00",
+    "GunTime": "56:39:00"
+  },
+  {
+    "Place": 754,
+    "Bib": 150,
+    "Name": "Kerr, Seana",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "13:40:00",
+    "ChipTime": "56:14:00",
+    "GunTime": "56:42:00"
+  },
+  {
+    "Place": 755,
+    "Bib": 214,
+    "Name": "Fanthorpe, Dessie",
+    "AG": "M65",
+    "Club": "",
+    "Lap of Lough": "13:55:00",
+    "ChipTime": "55:57:00",
+    "GunTime": "57:02:00"
+  },
+  {
+    "Place": 756,
+    "Bib": 869,
+    "Name": "Team Kerr",
+    "AG": "WCH",
+    "Club": "",
+    "Lap of Lough": "16:07:00",
+    "ChipTime": "57:11:00",
+    "GunTime": "57:11:00"
+  },
+  {
+    "Place": 757,
+    "Bib": 29,
+    "Name": "Doyle, Roisin",
+    "AG": "F60",
+    "Club": "PACE Running Club",
+    "Lap of Lough": "13:29:00",
+    "ChipTime": "56:08:00",
+    "GunTime": "57:14:00"
+  },
+  {
+    "Place": 758,
+    "Bib": 547,
+    "Name": "Corcoran, Sean",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "14:28:00",
+    "ChipTime": "56:46:00",
+    "GunTime": "57:16:00"
+  },
+  {
+    "Place": 759,
+    "Bib": 321,
+    "Name": "Hinds, Maria",
+    "AG": "F35",
+    "Club": "Run for Enda",
+    "Lap of Lough": "13:26:00",
+    "ChipTime": "56:52:00",
+    "GunTime": "57:21:00"
+  },
+  {
+    "Place": 760,
+    "Bib": 304,
+    "Name": "Wiggett, Donna",
+    "AG": "F45",
+    "Club": "Stopsley Striders",
+    "Lap of Lough": "13:26:00",
+    "ChipTime": "56:52:00",
+    "GunTime": "57:21:00"
+  },
+  {
+    "Place": 761,
+    "Bib": 78,
+    "Name": "Williamson, Jacqueline",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "14:28:00",
+    "ChipTime": "56:43:00",
+    "GunTime": "57:30:00"
+  },
+  {
+    "Place": 762,
+    "Bib": 661,
+    "Name": "Eccles, Sarah",
+    "AG": "F35",
+    "Club": "",
+    "Lap of Lough": "14:13:00",
+    "ChipTime": "56:42:00",
+    "GunTime": "57:35:00"
+  },
+  {
+    "Place": 763,
+    "Bib": 558,
+    "Name": "Kelly, Clara",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "14:05:00",
+    "ChipTime": "56:45:00",
+    "GunTime": "57:47:00"
+  },
+  {
+    "Place": 764,
+    "Bib": 480,
+    "Name": "Conway, Emer",
+    "AG": "F U19",
+    "Club": "Loughmacrory",
+    "Lap of Lough": "14:03:00",
+    "ChipTime": "56:45:00",
+    "GunTime": "57:47:00"
+  },
+  {
+    "Place": 765,
+    "Bib": 723,
+    "Name": "McManus, Ciarán",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "15:07:00",
+    "ChipTime": "57:46:00",
+    "GunTime": "58:08:00"
+  },
+  {
+    "Place": 766,
+    "Bib": 872,
+    "Name": "McClints, Dympna",
+    "AG": "F55",
+    "Club": "Run for Enda",
+    "Lap of Lough": "14:22:00",
+    "ChipTime": "57:06:00",
+    "GunTime": "58:08:00"
+  },
+  {
+    "Place": 767,
+    "Bib": 639,
+    "Name": "Philips, Mark",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "13:39:00",
+    "ChipTime": "58:14:00",
+    "GunTime": "59:08:00"
+  },
+  {
+    "Place": 768,
+    "Bib": 640,
+    "Name": "McCrudden, Maeliosa",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "13:39:00",
+    "ChipTime": "58:15:00",
+    "GunTime": "59:08:00"
+  },
+  {
+    "Place": 769,
+    "Bib": 380,
+    "Name": "McGibney, Tracy",
+    "AG": "F45",
+    "Club": "",
+    "Lap of Lough": "13:51:00",
+    "ChipTime": "59:04:00",
+    "GunTime": "59:17:00"
+  },
+  {
+    "Place": 770,
+    "Bib": 422,
+    "Name": "Catney, Conall",
+    "AG": "MO",
+    "Club": "",
+    "Lap of Lough": "13:56:00",
+    "ChipTime": "58:58:00",
+    "GunTime": "59:20:00"
+  },
+  {
+    "Place": 771,
+    "Bib": 343,
+    "Name": "O'Driscoll, Pat",
+    "AG": "M75",
+    "Club": "North Down AC",
+    "Lap of Lough": "14:06:00",
+    "ChipTime": "58:40:00",
+    "GunTime": "59:42:00"
+  },
+  {
+    "Place": 772,
+    "Bib": 836,
+    "Name": "Condon, Kellie",
+    "AG": "F35",
+    "Club": "St Patrick's Emerald City, Auckland, NZ",
+    "Lap of Lough": "14:09:00",
+    "ChipTime": "58:52:00",
+    "GunTime": "59:43:00"
+  },
+  {
+    "Place": 773,
+    "Bib": 760,
+    "Name": "Hughes, Cassie connie",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "29:19:00",
+    "ChipTime": "59:40:00",
+    "GunTime": "1:00:34"
+  },
+  {
+    "Place": 774,
+    "Bib": 21,
+    "Name": "Welshman, Martin",
+    "AG": "M60",
+    "Club": "",
+    "Lap of Lough": "15:17:00",
+    "ChipTime": "1:00:27",
+    "GunTime": "1:00:36"
+  },
+  {
+    "Place": 775,
+    "Bib": 682,
+    "Name": "Corey, James",
+    "AG": "M50",
+    "Club": "Run for Enda",
+    "Lap of Lough": "15:24:00",
+    "ChipTime": "1:00:20",
+    "GunTime": "1:00:45"
+  },
+  {
+    "Place": 776,
+    "Bib": 408,
+    "Name": "McAlinney, Marie",
+    "AG": "F60",
+    "Club": "Run for Enda",
+    "Lap of Lough": "14:56:00",
+    "ChipTime": "1:00:23",
+    "GunTime": "1:00:53"
+  },
+  {
+    "Place": 777,
+    "Bib": 822,
+    "Name": "Ward, Colleen",
+    "AG": "F50",
+    "Club": "",
+    "Lap of Lough": "14:42:00",
+    "ChipTime": "59:50:00",
+    "GunTime": "1:00:54"
+  },
+  {
+    "Place": 778,
+    "Bib": 8,
+    "Name": "Quinn, Brigid",
+    "AG": "F80",
+    "Club": "Ballymena Runners",
+    "Lap of Lough": "13:57:00",
+    "ChipTime": "1:00:02",
+    "GunTime": "1:00:59"
+  },
+  {
+    "Place": 779,
+    "Bib": 905,
+    "Name": "Meenan, Anna-Rose",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "16:11:00",
+    "ChipTime": "1:01:39",
+    "GunTime": "1:01:45"
+  },
+  {
+    "Place": 780,
+    "Bib": 906,
+    "Name": "McDermott, Aoifrie",
+    "AG": "F U19",
+    "Club": "",
+    "Lap of Lough": "17:02:00",
+    "ChipTime": "1:01:55",
+    "GunTime": "1:02:01"
+  },
+  {
+    "Place": 781,
+    "Bib": 369,
+    "Name": "Gervin, Mary",
+    "AG": "F60",
+    "Club": "Na Fianna A.C.",
+    "Lap of Lough": "15:18:00",
+    "ChipTime": "1:01:58",
+    "GunTime": "1:02:12"
+  },
+  {
+    "Place": 782,
+    "Bib": 56,
+    "Name": "Moxon, Leona",
+    "AG": "F40",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "15:39:00",
+    "ChipTime": "1:01:28",
+    "GunTime": "1:02:12"
+  },
+  {
+    "Place": 783,
+    "Bib": 532,
+    "Name": "Millar, Rebecca",
+    "AG": "FO",
+    "Club": "",
+    "Lap of Lough": "15:03:00",
+    "ChipTime": "1:01:23",
+    "GunTime": "1:02:25"
+  },
+  {
+    "Place": 784,
+    "Bib": 26,
+    "Name": "Rodgers, Yvonne",
+    "AG": "F65",
+    "Club": "Run for Enda",
+    "Lap of Lough": "15:28:00",
+    "ChipTime": "1:02:29",
+    "GunTime": "1:02:35"
+  },
+  {
+    "Place": 785,
+    "Bib": 212,
+    "Name": "McKernan, Kevin",
+    "AG": "M60",
+    "Club": "Carmen Runners",
+    "Lap of Lough": "17:02:00",
+    "ChipTime": "1:04:27",
+    "GunTime": "1:05:02"
+  },
+  {
+    "Place": 786,
+    "Bib": 282,
+    "Name": "Rea, Karen",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "15:59:00",
+    "ChipTime": "1:04:13",
+    "GunTime": "1:05:08"
+  },
+  {
+    "Place": 787,
+    "Bib": 298,
+    "Name": "O donovan, Roisin",
+    "AG": "F40",
+    "Club": "1ZERO1 Athletes",
+    "Lap of Lough": "5:36:00",
+    "ChipTime": "1:05:36",
+    "GunTime": "1:05:36"
+  },
+  {
+    "Place": 788,
+    "Bib": 393,
+    "Name": "Lervy, Emir",
+    "AG": "F40",
+    "Club": "",
+    "Lap of Lough": "14:56:00",
+    "ChipTime": "1:04:43",
+    "GunTime": "1:05:40"
+  },
+  {
+    "Place": 789,
+    "Bib": 107,
+    "Name": "Leonard, Anna",
+    "AG": "F65",
+    "Club": "Run for Enda",
+    "Lap of Lough": "16:18:00",
+    "ChipTime": "1:06:02",
+    "GunTime": "1:06:06"
+  },
+  {
+    "Place": 790,
+    "Bib": 100,
+    "Name": "Monaghan, James",
+    "AG": "M40",
+    "Club": "St Peter's AC",
+    "Lap of Lough": "17:06:00",
+    "ChipTime": "1:06:17",
+    "GunTime": "1:06:27"
+  },
+  {
+    "Place": 791,
+    "Bib": 128,
+    "Name": "McLaughlin, Claire",
+    "AG": "F60",
+    "Club": "Run for Enda",
+    "Lap of Lough": "17:05:00",
+    "ChipTime": "1:05:37",
+    "GunTime": "1:06:27"
+  },
+  {
+    "Place": 792,
+    "Bib": 44,
+    "Name": "Young, Andy",
+    "AG": "M45",
+    "Club": "",
+    "Lap of Lough": "15:42:00",
+    "ChipTime": "1:07:10",
+    "GunTime": "1:08:17"
+  },
+  {
+    "Place": 793,
+    "Bib": 175,
+    "Name": "Kerlin, John",
+    "AG": "M70",
+    "Club": "",
+    "Lap of Lough": "16:48:00",
+    "ChipTime": "1:07:35",
+    "GunTime": "1:08:35"
+  },
+  {
+    "Place": 794,
+    "Bib": 155,
+    "Name": "Brownlie, Desmond",
+    "AG": "M75",
+    "Club": "Lagan Valley AC",
+    "Lap of Lough": "16:49:00",
+    "ChipTime": "1:09:02",
+    "GunTime": "1:09:05"
+  },
+  {
+    "Place": 795,
+    "Bib": 280,
+    "Name": "Rooney, Collette",
+    "AG": "F40",
+    "Club": "Knockmany Running Club",
+    "Lap of Lough": "17:36:00",
+    "ChipTime": "1:09:53",
+    "GunTime": "1:10:56"
+  }
+]

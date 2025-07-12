@@ -1,0 +1,3450 @@
+[
+  {
+    "Position": 1,
+    "Bib no.": 2,
+    "Name": "Noel Collins",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:27:14"
+  },
+  {
+    "Position": 2,
+    "Bib no.": 8,
+    "Name": "Eoin Mullan",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:27:56"
+  },
+  {
+    "Position": 3,
+    "Bib no.": 5,
+    "Name": "Ciaran  Collins",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Finish": "0:28:16"
+  },
+  {
+    "Position": 4,
+    "Bib no.": 413,
+    "Name": "Martin Cox",
+    "Club": "Omagh",
+    "Category": "MO",
+    "Finish": "0:28:37"
+  },
+  {
+    "Position": 5,
+    "Bib no.": 27,
+    "Name": "Kristopher Muldoon",
+    "Club": "Armagh Ac",
+    "Category": "MO",
+    "Finish": "0:29:27"
+  },
+  {
+    "Position": 6,
+    "Bib no.": 160,
+    "Name": "Barry Kelly",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:29:30"
+  },
+  {
+    "Position": 7,
+    "Bib no.": 164,
+    "Name": "Nigel Grier",
+    "Club": "Dromore AC",
+    "Category": "M40+",
+    "Finish": "0:30:26"
+  },
+  {
+    "Position": 8,
+    "Bib no.": 9,
+    "Name": "Connor Moore",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:30:52"
+  },
+  {
+    "Position": 9,
+    "Bib no.": 221,
+    "Name": "David Wright",
+    "Club": "North Belfast",
+    "Category": "M40+",
+    "Finish": "0:30:58"
+  },
+  {
+    "Position": 10,
+    "Bib no.": 459,
+    "Name": "Michael Kerr",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:31:02"
+  },
+  {
+    "Position": 11,
+    "Bib no.": 424,
+    "Name": "Martin Mclaughlin",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:31:08"
+  },
+  {
+    "Position": 12,
+    "Bib no.": 422,
+    "Name": "Conor Meyler",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:31:12"
+  },
+  {
+    "Position": 13,
+    "Bib no.": 208,
+    "Name": "Oran McBride",
+    "Club": "City of Derry Spartans",
+    "Category": "M40+",
+    "Finish": "0:31:14"
+  },
+  {
+    "Position": 14,
+    "Bib no.": 431,
+    "Name": "keith Dawson",
+    "Club": "Lisburn",
+    "Category": "MO",
+    "Finish": "0:31:27"
+  },
+  {
+    "Position": 15,
+    "Bib no.": 416,
+    "Name": "Derek Somerville",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:31:40"
+  },
+  {
+    "Position": 16,
+    "Bib no.": 185,
+    "Name": "Karen Alexander",
+    "Club": "Sperrin Harriers",
+    "Category": "FO",
+    "Finish": "0:31:45"
+  },
+  {
+    "Position": 17,
+    "Bib no.": 172,
+    "Name": "Terry Canninan",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish": "0:31:59"
+  },
+  {
+    "Position": 18,
+    "Bib no.": 189,
+    "Name": "Barry Devlin",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Finish": "0:32:24"
+  },
+  {
+    "Position": 19,
+    "Bib no.": 127,
+    "Name": "Eamonn Donnelly",
+    "Club": "Greencastle",
+    "Category": "MO",
+    "Finish": "0:32:27"
+  },
+  {
+    "Position": 20,
+    "Bib no.": 423,
+    "Name": "Seanie Meyler",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:32:38"
+  },
+  {
+    "Position": 21,
+    "Bib no.": 139,
+    "Name": "Dominic McCartan",
+    "Club": "Carrickmore",
+    "Category": "M50+",
+    "Finish": "0:32:48"
+  },
+  {
+    "Position": 22,
+    "Bib no.": 106,
+    "Name": "Shane McGale",
+    "Club": "Omagh",
+    "Category": "MO",
+    "Finish": "0:32:50"
+  },
+  {
+    "Position": 23,
+    "Bib no.": 125,
+    "Name": "Bob Davison",
+    "Club": "Tri-Limits",
+    "Category": "MO",
+    "Finish": "0:32:51"
+  },
+  {
+    "Position": 24,
+    "Bib no.": 140,
+    "Name": "Greg McClure",
+    "Club": "Lisburn",
+    "Category": "M50+",
+    "Finish": "0:32:56"
+  },
+  {
+    "Position": 25,
+    "Bib no.": 209,
+    "Name": "Robert Gallagher",
+    "Club": "Strabane",
+    "Category": "MO",
+    "Finish": "0:33:01"
+  },
+  {
+    "Position": 26,
+    "Bib no.": 108,
+    "Name": "Peter Skeffington",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:33:08"
+  },
+  {
+    "Position": 27,
+    "Bib no.": 130,
+    "Name": "Stephen Sherry",
+    "Club": "Aughnacloy",
+    "Category": "MO",
+    "Finish": "0:33:28"
+  },
+  {
+    "Position": 28,
+    "Bib no.": 231,
+    "Name": "Liam Mcart",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:33:33"
+  },
+  {
+    "Position": 29,
+    "Bib no.": 269,
+    "Name": "Barney McNally",
+    "Club": "Gallbally",
+    "Category": "MO",
+    "Finish": "0:33:33"
+  },
+  {
+    "Position": 30,
+    "Bib no.": 420,
+    "Name": "Vincy Hollywood",
+    "Club": "Greencastle",
+    "Category": "M40+",
+    "Finish": "0:33:35"
+  },
+  {
+    "Position": 31,
+    "Bib no.": 463,
+    "Name": "Patrick McCrory",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:33:36"
+  },
+  {
+    "Position": 32,
+    "Bib no.": 323,
+    "Name": "Stephen Bradley",
+    "Club": "Northumberland",
+    "Category": "M40+",
+    "Finish": "0:33:38"
+  },
+  {
+    "Position": 33,
+    "Bib no.": 325,
+    "Name": "Pat McCullagh",
+    "Club": "",
+    "Category": "M50+",
+    "Finish": "0:33:45"
+  },
+  {
+    "Position": 34,
+    "Bib no.": 10,
+    "Name": "Eamon Logue",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:33:57"
+  },
+  {
+    "Position": 35,
+    "Bib no.": 475,
+    "Name": "Paddy Montague",
+    "Club": "Dromore",
+    "Category": "MO",
+    "Finish": "0:34:02"
+  },
+  {
+    "Position": 36,
+    "Bib no.": 414,
+    "Name": "Micheal Meenagh",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:34:09"
+  },
+  {
+    "Position": 37,
+    "Bib no.": 480,
+    "Name": "Gary McCrory",
+    "Club": "Omagh",
+    "Category": "MO",
+    "Finish": "0:34:10"
+  },
+  {
+    "Position": 38,
+    "Bib no.": 110,
+    "Name": "Gavin Winters",
+    "Club": "Dromore",
+    "Category": "MO",
+    "Finish": "0:34:21"
+  },
+  {
+    "Position": 39,
+    "Bib no.": 322,
+    "Name": "Paul Bradley",
+    "Club": "Desertmartin",
+    "Category": "MO",
+    "Finish": "0:34:23"
+  },
+  {
+    "Position": 40,
+    "Bib no.": 161,
+    "Name": "Brian Wilson",
+    "Club": "Lagan Valley AC",
+    "Category": "MO",
+    "Finish": "0:34:28"
+  },
+  {
+    "Position": 41,
+    "Bib no.": 107,
+    "Name": "Lorcan Healy",
+    "Club": "Omagh",
+    "Category": "MO",
+    "Finish": "0:34:28"
+  },
+  {
+    "Position": 42,
+    "Bib no.": 252,
+    "Name": "Owen Bradley",
+    "Club": "Killyclogher",
+    "Category": "MO",
+    "Finish": "0:34:28"
+  },
+  {
+    "Position": 43,
+    "Bib no.": 288,
+    "Name": "Samuel McCaul",
+    "Club": "Antrim",
+    "Category": "MO",
+    "Finish": "0:34:32"
+  },
+  {
+    "Position": 44,
+    "Bib no.": 313,
+    "Name": "Neil Dillon",
+    "Club": "Dromore",
+    "Category": "M40+",
+    "Finish": "0:34:41"
+  },
+  {
+    "Position": 45,
+    "Bib no.": 405,
+    "Name": "Aidan Ward",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:34:46"
+  },
+  {
+    "Position": 46,
+    "Bib no.": 115,
+    "Name": "Sean McEroy",
+    "Club": "Omagh",
+    "Category": "M50+",
+    "Finish": "0:34:47"
+  },
+  {
+    "Position": 47,
+    "Bib no.": 350,
+    "Name": "Barry McAleer",
+    "Club": "Killyclogher",
+    "Category": "MO",
+    "Finish": "0:34:49"
+  },
+  {
+    "Position": 48,
+    "Bib no.": 184,
+    "Name": "Damian Quinn",
+    "Club": "Creggan",
+    "Category": "MO",
+    "Finish": "0:35:00"
+  },
+  {
+    "Position": 49,
+    "Bib no.": 3,
+    "Name": "Peter Gormley",
+    "Club": "Omagh Harriers",
+    "Category": "M50+",
+    "Finish": "0:35:07"
+  },
+  {
+    "Position": 50,
+    "Bib no.": 454,
+    "Name": "Roanan Ward",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:35:16"
+  },
+  {
+    "Position": 51,
+    "Bib no.": 72,
+    "Name": "Gary Ward",
+    "Club": "Sperrin Harriers",
+    "Category": "MO",
+    "Finish": "0:35:28"
+  },
+  {
+    "Position": 52,
+    "Bib no.": 7,
+    "Name": "Michael Ward",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:35:30"
+  },
+  {
+    "Position": 53,
+    "Bib no.": 151,
+    "Name": "Gareth Maguire",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:35:48"
+  },
+  {
+    "Position": 54,
+    "Bib no.": 150,
+    "Name": "Linus Montague",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Finish": "0:35:50"
+  },
+  {
+    "Position": 55,
+    "Bib no.": 95,
+    "Name": "Pearse Gallagher",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:35:52"
+  },
+  {
+    "Position": 56,
+    "Bib no.": 417,
+    "Name": "Conor Eannetta",
+    "Club": "Omagh Trialthlon Club",
+    "Category": "MO",
+    "Finish": "0:36:10"
+  },
+  {
+    "Position": 57,
+    "Bib no.": 143,
+    "Name": "Ciaran Hughes",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:36:11"
+  },
+  {
+    "Position": 58,
+    "Bib no.": 492,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "0:36:27"
+  },
+  {
+    "Position": 59,
+    "Bib no.": 162,
+    "Name": "Diane Wilson",
+    "Club": "Lagan Valley AC",
+    "Category": "F40+",
+    "Finish": "0:36:30"
+  },
+  {
+    "Position": 60,
+    "Bib no.": 6,
+    "Name": "Sarah Moore",
+    "Club": "Omagh Harriers",
+    "Category": "FU19",
+    "Finish": "0:36:36"
+  },
+  {
+    "Position": 61,
+    "Bib no.": 433,
+    "Name": "Kevin Herry",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:36:37"
+  },
+  {
+    "Position": 62,
+    "Bib no.": 286,
+    "Name": "Christopher Devlin",
+    "Club": "Sixmilecross",
+    "Category": "MU19",
+    "Finish": "0:36:38"
+  },
+  {
+    "Position": 63,
+    "Bib no.": 119,
+    "Name": "Owen Falconer",
+    "Club": "An Baile Nua",
+    "Category": "MO",
+    "Finish": "0:36:42"
+  },
+  {
+    "Position": 64,
+    "Bib no.": 129,
+    "Name": "Aidan Kelly",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:36:43"
+  },
+  {
+    "Position": 65,
+    "Bib no.": 71,
+    "Name": "Raymond Thom",
+    "Club": "Sperrin Harriers",
+    "Category": "M40+",
+    "Finish": "0:36:45"
+  },
+  {
+    "Position": 66,
+    "Bib no.": 152,
+    "Name": "PJ O Connor",
+    "Club": "Augher",
+    "Category": "MO",
+    "Finish": "0:36:53"
+  },
+  {
+    "Position": 67,
+    "Bib no.": 432,
+    "Name": "Eugene McCullagh",
+    "Club": "Greencastle",
+    "Category": "M55+",
+    "Finish": "0:36:57"
+  },
+  {
+    "Position": 68,
+    "Bib no.": 99,
+    "Name": "Karl Logue",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:37:07"
+  },
+  {
+    "Position": 69,
+    "Bib no.": 228,
+    "Name": "Barry McCann",
+    "Club": "",
+    "Category": "M40+",
+    "Finish": "0:37:09"
+  },
+  {
+    "Position": 70,
+    "Bib no.": 204,
+    "Name": "Bobby Collins",
+    "Club": "Omagh Harriers",
+    "Category": "M50+",
+    "Finish": "0:37:09"
+  },
+  {
+    "Position": 71,
+    "Bib no.": 152,
+    "Name": "PJ O Connor",
+    "Club": "Augher",
+    "Category": "MO",
+    "Finish": "0:37:09"
+  },
+  {
+    "Position": 72,
+    "Bib no.": 65,
+    "Name": "Sean Healy",
+    "Club": "Omagh Harriers",
+    "Category": "M55+",
+    "Finish": "0:37:10"
+  },
+  {
+    "Position": 73,
+    "Bib no.": 44,
+    "Name": "John McAleer",
+    "Club": "Killyclogher",
+    "Category": "MO",
+    "Finish": "0:37:11"
+  },
+  {
+    "Position": 74,
+    "Bib no.": 443,
+    "Name": "Adrian Harley",
+    "Club": "Tattyreagh",
+    "Category": "MO",
+    "Finish": "0:37:19"
+  },
+  {
+    "Position": 75,
+    "Bib no.": 103,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "0:37:19"
+  },
+  {
+    "Position": 76,
+    "Bib no.": 210,
+    "Name": "Dylan Woods",
+    "Club": "Pomeroy",
+    "Category": "MU19",
+    "Finish": "0:37:21"
+  },
+  {
+    "Position": 77,
+    "Bib no.": 412,
+    "Name": "Ronan Quinn",
+    "Club": "Pomeroy",
+    "Category": "MO",
+    "Finish": "0:37:22"
+  },
+  {
+    "Position": 78,
+    "Bib no.": 126,
+    "Name": "Ryan O Donnell",
+    "Club": "Omagh",
+    "Category": "MU19",
+    "Finish": "0:37:27"
+  },
+  {
+    "Position": 79,
+    "Bib no.": 408,
+    "Name": "Mark McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:37:40"
+  },
+  {
+    "Position": 80,
+    "Bib no.": 226,
+    "Name": "Seamus Donaghy",
+    "Club": "Killyclogher",
+    "Category": "MO",
+    "Finish": "0:37:41"
+  },
+  {
+    "Position": 81,
+    "Bib no.": 17,
+    "Name": "Kieran Ward",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:37:49"
+  },
+  {
+    "Position": 82,
+    "Bib no.": 173,
+    "Name": "Finbarr Kelly",
+    "Club": "Mountfied",
+    "Category": "MO",
+    "Finish": "0:37:51"
+  },
+  {
+    "Position": 83,
+    "Bib no.": 132,
+    "Name": "Peter McAleer",
+    "Club": "Omagh",
+    "Category": "M40+",
+    "Finish": "0:37:52"
+  },
+  {
+    "Position": 84,
+    "Bib no.": 436,
+    "Name": "Terry McDermott",
+    "Club": "Greencastle",
+    "Category": "MO",
+    "Finish": "0:37:58"
+  },
+  {
+    "Position": 85,
+    "Bib no.": 464,
+    "Name": "James McCrory",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:38:06"
+  },
+  {
+    "Position": 86,
+    "Bib no.": 410,
+    "Name": "paul martin",
+    "Club": "Speerrin Harriers",
+    "Category": "M50+",
+    "Finish": "0:38:08"
+  },
+  {
+    "Position": 87,
+    "Bib no.": 179,
+    "Name": "Joseph Kelly",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:38:14"
+  },
+  {
+    "Position": 88,
+    "Bib no.": 512,
+    "Name": "Andrew Burns",
+    "Club": "Calendon",
+    "Category": "MO",
+    "Finish": "0:38:17"
+  },
+  {
+    "Position": 89,
+    "Bib no.": 435,
+    "Name": "Aidan Hughes",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:38:20"
+  },
+  {
+    "Position": 90,
+    "Bib no.": 444,
+    "Name": "Deidre Heagney",
+    "Club": "Omagh Harriers",
+    "Category": "F35+",
+    "Finish": "0:38:25"
+  },
+  {
+    "Position": 91,
+    "Bib no.": 407,
+    "Name": "Leo Meenagh",
+    "Club": "Killyclogher",
+    "Category": "MO",
+    "Finish": "0:38:26"
+  },
+  {
+    "Position": 92,
+    "Bib no.": 11,
+    "Name": "Colm Logue",
+    "Club": "Omagh Harriers",
+    "Category": "MU19",
+    "Finish": "0:38:32"
+  },
+  {
+    "Position": 93,
+    "Bib no.": 474,
+    "Name": "Joe Campbell",
+    "Club": "Dromore",
+    "Category": "MO",
+    "Finish": "0:38:36"
+  },
+  {
+    "Position": 94,
+    "Bib no.": 174,
+    "Name": "Paul Daly",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:38:39"
+  },
+  {
+    "Position": 95,
+    "Bib no.": 446,
+    "Name": "Patricia Campbell",
+    "Club": "Omagh Harriers",
+    "Category": "F40+",
+    "Finish": "0:38:41"
+  },
+  {
+    "Position": 96,
+    "Bib no.": 224,
+    "Name": "Martin Donaghy",
+    "Club": "Dungannon",
+    "Category": "M40+",
+    "Finish": "0:38:51"
+  },
+  {
+    "Position": 97,
+    "Bib no.": 430,
+    "Name": "Elizabeth Dawson",
+    "Club": "Antrim",
+    "Category": "FO",
+    "Finish": "0:39:04"
+  },
+  {
+    "Position": 98,
+    "Bib no.": 426,
+    "Name": "Vincent McDonnell",
+    "Club": "Derry",
+    "Category": "MO",
+    "Finish": "0:39:04"
+  },
+  {
+    "Position": 99,
+    "Bib no.": 437,
+    "Name": "Glen McKenna",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:39:05"
+  },
+  {
+    "Position": 100,
+    "Bib no.": 438,
+    "Name": "Paul Dillon",
+    "Club": "",
+    "Category": "m",
+    "Finish": "0:39:22"
+  },
+  {
+    "Position": 101,
+    "Bib no.": 429,
+    "Name": "Gerard Henry",
+    "Club": "Lavey",
+    "Category": "M40+",
+    "Finish": "0:39:31"
+  },
+  {
+    "Position": 102,
+    "Bib no.": 453,
+    "Name": "Carl Curran",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:39:32"
+  },
+  {
+    "Position": 103,
+    "Bib no.": 134,
+    "Name": "Ryan O Brien",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:39:32"
+  },
+  {
+    "Position": 104,
+    "Bib no.": 24,
+    "Name": "Liam Harvey",
+    "Club": "Pomeroy",
+    "Category": "MO",
+    "Finish": "0:39:34"
+  },
+  {
+    "Position": 105,
+    "Bib no.": 282,
+    "Name": "Hugh mcCarney",
+    "Club": "Fintona",
+    "Category": "MO",
+    "Finish": "0:39:35"
+  },
+  {
+    "Position": 106,
+    "Bib no.": 257,
+    "Name": "Paula McAleer",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish": "0:39:39"
+  },
+  {
+    "Position": 107,
+    "Bib no.": 182,
+    "Name": "Joseph Corry",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:39:42"
+  },
+  {
+    "Position": 108,
+    "Bib no.": 190,
+    "Name": "Enda McGarrity",
+    "Club": "Gallbally",
+    "Category": "MU19",
+    "Finish": "0:39:43"
+  },
+  {
+    "Position": 109,
+    "Bib no.": 157,
+    "Name": "Sean Rodgers",
+    "Club": "Omagh",
+    "Category": "M55+",
+    "Finish": "0:39:45"
+  },
+  {
+    "Position": 110,
+    "Bib no.": 501,
+    "Name": "niall Toner",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:39:46"
+  },
+  {
+    "Position": 111,
+    "Bib no.": 500,
+    "Name": "Pearse  Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:39:49"
+  },
+  {
+    "Position": 112,
+    "Bib no.": 499,
+    "Name": "Cormac McGaughey",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:39:54"
+  },
+  {
+    "Position": 113,
+    "Bib no.": 254,
+    "Name": "Martin Sheridan",
+    "Club": "",
+    "Category": "M40+",
+    "Finish": "0:39:59"
+  },
+  {
+    "Position": 114,
+    "Bib no.": 236,
+    "Name": "Eunan Loughran",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:40:00"
+  },
+  {
+    "Position": 115,
+    "Bib no.": 147,
+    "Name": "Brendan Ward",
+    "Club": "Sixmilecross",
+    "Category": "MO",
+    "Finish": "0:40:03"
+  },
+  {
+    "Position": 116,
+    "Bib no.": 439,
+    "Name": "Tommy Nugent",
+    "Club": "Killyclogher",
+    "Category": "M40+",
+    "Finish": "0:40:04"
+  },
+  {
+    "Position": 117,
+    "Bib no.": 153,
+    "Name": "Anita Mckenna",
+    "Club": "Augher",
+    "Category": "FO",
+    "Finish": "0:40:05"
+  },
+  {
+    "Position": 118,
+    "Bib no.": 136,
+    "Name": "Sean Devlin",
+    "Club": "Omagh",
+    "Category": "M40+",
+    "Finish": "0:40:10"
+  },
+  {
+    "Position": 119,
+    "Bib no.": 165,
+    "Name": "Enda Dolan",
+    "Club": "Killyclogher",
+    "Category": "MU19",
+    "Finish": "0:40:14"
+  },
+  {
+    "Position": 120,
+    "Bib no.": 255,
+    "Name": "Patrick Oneill",
+    "Club": "",
+    "Category": "MU19",
+    "Finish": "0:40:15"
+  },
+  {
+    "Position": 121,
+    "Bib no.": 484,
+    "Name": "Jolene McCarney",
+    "Club": "Dromore",
+    "Category": "FO",
+    "Finish": "0:40:16"
+  },
+  {
+    "Position": 122,
+    "Bib no.": 52,
+    "Name": "Aileen McSorley",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish": "0:40:17"
+  },
+  {
+    "Position": 123,
+    "Bib no.": 262,
+    "Name": "Phoebe Collins",
+    "Club": "",
+    "Category": "F35+",
+    "Finish": "0:40:18"
+  },
+  {
+    "Position": 124,
+    "Bib no.": 187,
+    "Name": "Conal McGarrity",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:40:20"
+  },
+  {
+    "Position": 125,
+    "Bib no.": 142,
+    "Name": "Patrick Mullan",
+    "Club": "Omagh",
+    "Category": "MO",
+    "Finish": "0:40:32"
+  },
+  {
+    "Position": 126,
+    "Bib no.": 4,
+    "Name": "Kevin Grimes",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:40:59"
+  },
+  {
+    "Position": 127,
+    "Bib no.": 97,
+    "Name": "Barry McElduff",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:41:00"
+  },
+  {
+    "Position": 128,
+    "Bib no.": 120,
+    "Name": "Barry Corrigan",
+    "Club": "Gallbally",
+    "Category": "MO",
+    "Finish": "0:41:06"
+  },
+  {
+    "Position": 129,
+    "Bib no.": 229,
+    "Name": "Damian McAleer",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:41:10"
+  },
+  {
+    "Position": 130,
+    "Bib no.": 260,
+    "Name": "John McElroy",
+    "Club": "Gallbally",
+    "Category": "MO",
+    "Finish": "0:41:14"
+  },
+  {
+    "Position": 131,
+    "Bib no.": 321,
+    "Name": "Michael Mccullagh",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:41:18"
+  },
+  {
+    "Position": 132,
+    "Bib no.": 109,
+    "Name": "Nicholas O Shiel",
+    "Club": "Omagh",
+    "Category": "M50+",
+    "Finish": "0:41:38"
+  },
+  {
+    "Position": 133,
+    "Bib no.": 211,
+    "Name": "Colm McGlone",
+    "Club": "Pomeroy",
+    "Category": "MU19",
+    "Finish": "0:41:38"
+  },
+  {
+    "Position": 134,
+    "Bib no.": 121,
+    "Name": "Martin Scudden",
+    "Club": "Omagh Harriers",
+    "Category": "M40+",
+    "Finish": "0:41:41"
+  },
+  {
+    "Position": 135,
+    "Bib no.": 205,
+    "Name": "Ciaran McRory",
+    "Club": "Ballygawley",
+    "Category": "M50+",
+    "Finish": "0:41:47"
+  },
+  {
+    "Position": 136,
+    "Bib no.": 74,
+    "Name": "Margaret McAleer",
+    "Club": "Drumquin",
+    "Category": "F40+",
+    "Finish": "0:41:47"
+  },
+  {
+    "Position": 137,
+    "Bib no.": 57,
+    "Name": "Sean Gerald McNulty",
+    "Club": "Cookstown",
+    "Category": "M40+",
+    "Finish": "0:41:49"
+  },
+  {
+    "Position": 138,
+    "Bib no.": 75,
+    "Name": "Joyce Hamilton",
+    "Club": "Omagh",
+    "Category": "FO",
+    "Finish": "0:41:51"
+  },
+  {
+    "Position": 139,
+    "Bib no.": 117,
+    "Name": "Jason Ward",
+    "Club": "Sion Mills",
+    "Category": "MO",
+    "Finish": "0:41:52"
+  },
+  {
+    "Position": 140,
+    "Bib no.": 206,
+    "Name": "Declan McNamee",
+    "Club": "",
+    "Category": "M40+",
+    "Finish": "0:41:57"
+  },
+  {
+    "Position": 141,
+    "Bib no.": 261,
+    "Name": "Jude Collins",
+    "Club": "Antrim",
+    "Category": "M60+",
+    "Finish": "0:42:07"
+  },
+  {
+    "Position": 142,
+    "Bib no.": 219,
+    "Name": "Paul McGhee",
+    "Club": "Toomebridge",
+    "Category": "M40+",
+    "Finish": "0:42:08"
+  },
+  {
+    "Position": 143,
+    "Bib no.": 460,
+    "Name": "Declan Colgan",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:42:22"
+  },
+  {
+    "Position": 144,
+    "Bib no.": 276,
+    "Name": "Frances Mcnally",
+    "Club": "Kildress",
+    "Category": "F40+",
+    "Finish": "0:42:24"
+  },
+  {
+    "Position": 145,
+    "Bib no.": 156,
+    "Name": "Michael conway",
+    "Club": "Greencastle",
+    "Category": "MO",
+    "Finish": "0:42:27"
+  },
+  {
+    "Position": 146,
+    "Bib no.": 316,
+    "Name": "Barry Rodgers",
+    "Club": "Cookstown",
+    "Category": "MO",
+    "Finish": "0:42:38"
+  },
+  {
+    "Position": 147,
+    "Bib no.": 66,
+    "Name": "Roisin Gallagher",
+    "Club": "Badoney",
+    "Category": "F35+",
+    "Finish": "0:42:43"
+  },
+  {
+    "Position": 148,
+    "Bib no.": 502,
+    "Name": "Danny McCallan",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:42:46"
+  },
+  {
+    "Position": 149,
+    "Bib no.": 197,
+    "Name": "Gerard Magee",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:42:49"
+  },
+  {
+    "Position": 150,
+    "Bib no.": 497,
+    "Name": "Martin Grogan",
+    "Club": "Carickmore",
+    "Category": "M",
+    "Finish": "0:42:51"
+  },
+  {
+    "Position": 151,
+    "Bib no.": 166,
+    "Name": "Ryan Duddy",
+    "Club": "Killyclogher",
+    "Category": "MU19",
+    "Finish": "0:42:53"
+  },
+  {
+    "Position": 152,
+    "Bib no.": 167,
+    "Name": "Kevin McDaid",
+    "Club": "Killyclogher",
+    "Category": "MO",
+    "Finish": "0:42:56"
+  },
+  {
+    "Position": 153,
+    "Bib no.": 482,
+    "Name": "Stephen Donnelly",
+    "Club": "Aughnacloy",
+    "Category": "MO",
+    "Finish": "0:42:58"
+  },
+  {
+    "Position": 154,
+    "Bib no.": 493,
+    "Name": "Colm O Kane",
+    "Club": "Drumquin WT",
+    "Category": "MO",
+    "Finish": "0:43:04"
+  },
+  {
+    "Position": 155,
+    "Bib no.": 473,
+    "Name": "Patrick McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:43:11"
+  },
+  {
+    "Position": 156,
+    "Bib no.": 199,
+    "Name": "Jackiwta doyle",
+    "Club": "Co Down",
+    "Category": "F40+",
+    "Finish": "0:43:14"
+  },
+  {
+    "Position": 157,
+    "Bib no.": 411,
+    "Name": "Stephen Harte",
+    "Club": "Pomeroy",
+    "Category": "MO",
+    "Finish": "0:43:15"
+  },
+  {
+    "Position": 158,
+    "Bib no.": 105,
+    "Name": "Rosalind McCartan",
+    "Club": "",
+    "Category": "F35+",
+    "Finish": "0:43:18"
+  },
+  {
+    "Position": 159,
+    "Bib no.": 319,
+    "Name": "Mickey McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:43:21"
+  },
+  {
+    "Position": 160,
+    "Bib no.": 434,
+    "Name": "Patrick Mullan",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:43:26"
+  },
+  {
+    "Position": 161,
+    "Bib no.": 458,
+    "Name": "Oisin McElduff",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:43:28"
+  },
+  {
+    "Position": 162,
+    "Bib no.": 457,
+    "Name": "Maebh McElduf",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:43:31"
+  },
+  {
+    "Position": 163,
+    "Bib no.": 112,
+    "Name": "Kevin McStay",
+    "Club": "Omagh",
+    "Category": "M50+",
+    "Finish": "0:43:41"
+  },
+  {
+    "Position": 164,
+    "Bib no.": 234,
+    "Name": "Maria Mccarter",
+    "Club": "omagh",
+    "Category": "F40+",
+    "Finish": "0:43:42"
+  },
+  {
+    "Position": 165,
+    "Bib no.": 144,
+    "Name": "Sean Pol Harte",
+    "Club": "Greencastle",
+    "Category": "MO",
+    "Finish": "0:43:49"
+  },
+  {
+    "Position": 166,
+    "Bib no.": 249,
+    "Name": "Nial Grimes",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:43:52"
+  },
+  {
+    "Position": 167,
+    "Bib no.": 259,
+    "Name": "Conor Duff",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:43:54"
+  },
+  {
+    "Position": 168,
+    "Bib no.": 449,
+    "Name": "Liam Curran",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:43:55"
+  },
+  {
+    "Position": 169,
+    "Bib no.": 450,
+    "Name": "Sean Curran",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:43:55"
+  },
+  {
+    "Position": 170,
+    "Bib no.": 406,
+    "Name": "Orlagh Colton",
+    "Club": "Omagh",
+    "Category": "FO",
+    "Finish": "0:43:57"
+  },
+  {
+    "Position": 171,
+    "Bib no.": 481,
+    "Name": "Conal Curran",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:45:09"
+  },
+  {
+    "Position": 172,
+    "Bib no.": 188,
+    "Name": "Connor McElduff",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:43:58"
+  },
+  {
+    "Position": 173,
+    "Bib no.": 88,
+    "Name": "Dolores Mulholland",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "0:43:59"
+  },
+  {
+    "Position": 174,
+    "Bib no.": 243,
+    "Name": "Bryan Heaney",
+    "Club": "Derry",
+    "Category": "M40+",
+    "Finish": "0:44:03"
+  },
+  {
+    "Position": 175,
+    "Bib no.": 135,
+    "Name": "Barbara Fleming-Owens",
+    "Club": "Fivemiletown",
+    "Category": "F40+",
+    "Finish": "0:44:06"
+  },
+  {
+    "Position": 176,
+    "Bib no.": 153,
+    "Name": "Anita Mckenna",
+    "Club": "Augher",
+    "Category": "FO",
+    "Finish": "0:44:14"
+  },
+  {
+    "Position": 177,
+    "Bib no.": 55,
+    "Name": "John Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:44:16"
+  },
+  {
+    "Position": 178,
+    "Bib no.": 96,
+    "Name": "Cathal Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:44:17"
+  },
+  {
+    "Position": 179,
+    "Bib no.": 163,
+    "Name": "Padraig McDermott",
+    "Club": "Fintona",
+    "Category": "MO",
+    "Finish": "0:44:24"
+  },
+  {
+    "Position": 180,
+    "Bib no.": 419,
+    "Name": "Martin Quinn",
+    "Club": "Omagh",
+    "Category": "M40+",
+    "Finish": "0:44:43"
+  },
+  {
+    "Position": 181,
+    "Bib no.": 133,
+    "Name": "Theresa McAleer",
+    "Club": "Omagh",
+    "Category": "F40+",
+    "Finish": "0:44:48"
+  },
+  {
+    "Position": 182,
+    "Bib no.": 340,
+    "Name": "Niaomh McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:44:48"
+  },
+  {
+    "Position": 183,
+    "Bib no.": 510,
+    "Name": "Coleen Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:44:49"
+  },
+  {
+    "Position": 184,
+    "Bib no.": 238,
+    "Name": "Majella McAnespie",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:44:54"
+  },
+  {
+    "Position": 185,
+    "Bib no.": 498,
+    "Name": "Niall McGaughey",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:44:55"
+  },
+  {
+    "Position": 186,
+    "Bib no.": 73,
+    "Name": "Jarelth O'Goan",
+    "Club": "Omagh",
+    "Category": "MO",
+    "Finish": "0:44:58"
+  },
+  {
+    "Position": 187,
+    "Bib no.": 155,
+    "Name": "Kevin Conway",
+    "Club": "Greencastle",
+    "Category": "MU19",
+    "Finish": "0:45:14"
+  },
+  {
+    "Position": 188,
+    "Bib no.": 60,
+    "Name": "Anne Gallagher",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "0:45:15"
+  },
+  {
+    "Position": 189,
+    "Bib no.": 455,
+    "Name": "Claire McNally",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "0:45:30"
+  },
+  {
+    "Position": 190,
+    "Bib no.": 159,
+    "Name": "Desmond Brownlie",
+    "Club": "Lagan Valley AC",
+    "Category": "M60+",
+    "Finish": "0:45:47"
+  },
+  {
+    "Position": 191,
+    "Bib no.": 270,
+    "Name": "Ronan Nugent",
+    "Club": "Gallbally",
+    "Category": "MU19",
+    "Finish": "0:45:51"
+  },
+  {
+    "Position": 192,
+    "Bib no.": 145,
+    "Name": "Sean Doran",
+    "Club": "Pomeroy",
+    "Category": "MO",
+    "Finish": "0:45:52"
+  },
+  {
+    "Position": 193,
+    "Bib no.": 217,
+    "Name": "Jennifer Morton",
+    "Club": "Omagh",
+    "Category": "F40+",
+    "Finish": "0:45:53"
+  },
+  {
+    "Position": 194,
+    "Bib no.": 154,
+    "Name": "Patrick Conway",
+    "Club": "Greencastle",
+    "Category": "MU19",
+    "Finish": "0:45:54"
+  },
+  {
+    "Position": 195,
+    "Bib no.": 253,
+    "Name": "Shane Mullan",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:46:01"
+  },
+  {
+    "Position": 196,
+    "Bib no.": 122,
+    "Name": "Edele Muldoon",
+    "Club": "Ballygawley",
+    "Category": "FO",
+    "Finish": "0:46:03"
+  },
+  {
+    "Position": 197,
+    "Bib no.": 92,
+    "Name": "Malachy Coyle",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:46:09"
+  },
+  {
+    "Position": 198,
+    "Bib no.": 415,
+    "Name": "Michael Toner",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:46:09"
+  },
+  {
+    "Position": 199,
+    "Bib no.": 477,
+    "Name": "Gerard hannigan",
+    "Club": "Dromore",
+    "Category": "MO",
+    "Finish": "0:46:11"
+  },
+  {
+    "Position": 200,
+    "Bib no.": 123,
+    "Name": "Jenny Kavanagh",
+    "Club": "Knockmany Ladies Running Club",
+    "Category": "F40+",
+    "Finish": "0:46:17"
+  },
+  {
+    "Position": 201,
+    "Bib no.": 486,
+    "Name": "Hughie Meenagh",
+    "Club": "Loughmacrory",
+    "Category": "M50+",
+    "Finish": "0:46:18"
+  },
+  {
+    "Position": 202,
+    "Bib no.": 13,
+    "Name": "Ruairi Curran",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:46:23"
+  },
+  {
+    "Position": 203,
+    "Bib no.": 118,
+    "Name": "Sean Loughran",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:46:30"
+  },
+  {
+    "Position": 204,
+    "Bib no.": 447,
+    "Name": "Shane MCCullagh",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:46:32"
+  },
+  {
+    "Position": 205,
+    "Bib no.": 89,
+    "Name": "Adrian Mulholland",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:46:32"
+  },
+  {
+    "Position": 206,
+    "Bib no.": 258,
+    "Name": "Cormac Harte",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:46:34"
+  },
+  {
+    "Position": 207,
+    "Bib no.": 508,
+    "Name": "Cathal Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:46:35"
+  },
+  {
+    "Position": 208,
+    "Bib no.": 262,
+    "Name": "Phoebe Collins",
+    "Club": "",
+    "Category": "F35+",
+    "Finish": "0:46:35"
+  },
+  {
+    "Position": 209,
+    "Bib no.": 40,
+    "Name": "Sheena Gartland",
+    "Club": "Ballygawley",
+    "Category": "F40+",
+    "Finish": "0:46:38"
+  },
+  {
+    "Position": 210,
+    "Bib no.": 440,
+    "Name": "Emma Wallace",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "0:46:40"
+  },
+  {
+    "Position": 211,
+    "Bib no.": 277,
+    "Name": "Geraldine Tuohey",
+    "Club": "Greencastle",
+    "Category": "F40+",
+    "Finish": "0:46:42"
+  },
+  {
+    "Position": 212,
+    "Bib no.": 207,
+    "Name": "Dominic Carlin",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:46:46"
+  },
+  {
+    "Position": 213,
+    "Bib no.": 171,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "0:46:48"
+  },
+  {
+    "Position": 214,
+    "Bib no.": 227,
+    "Name": "Ryan Keenan",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:47:09"
+  },
+  {
+    "Position": 215,
+    "Bib no.": 246,
+    "Name": "Peter Donnelly",
+    "Club": "Derry",
+    "Category": "M50+",
+    "Finish": "0:47:09"
+  },
+  {
+    "Position": 216,
+    "Bib no.": 128,
+    "Name": "Fiona McKenna",
+    "Club": "Greencastle",
+    "Category": "FO",
+    "Finish": "0:47:16"
+  },
+  {
+    "Position": 217,
+    "Bib no.": 237,
+    "Name": "Karen Loughran",
+    "Club": "Carrickmore",
+    "Category": "FO",
+    "Finish": "0:47:22"
+  },
+  {
+    "Position": 218,
+    "Bib no.": 91,
+    "Name": "Aidan Kelly",
+    "Club": "Dungannon",
+    "Category": "MO",
+    "Finish": "0:47:23"
+  },
+  {
+    "Position": 219,
+    "Bib no.": 146,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "0:47:25"
+  },
+  {
+    "Position": 220,
+    "Bib no.": 256,
+    "Name": "Stephen Mullan",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:47:28"
+  },
+  {
+    "Position": 221,
+    "Bib no.": 98,
+    "Name": "Aisling Quinn",
+    "Club": "Antrim",
+    "Category": "FO",
+    "Finish": "0:47:29"
+  },
+  {
+    "Position": 222,
+    "Bib no.": 278,
+    "Name": "Peggy Myles",
+    "Club": "Greencastle",
+    "Category": "FO",
+    "Finish": "0:47:32"
+  },
+  {
+    "Position": 223,
+    "Bib no.": 124,
+    "Name": "Ann Flanagan",
+    "Club": "Ballygawley",
+    "Category": "FO",
+    "Finish": "0:47:39"
+  },
+  {
+    "Position": 224,
+    "Bib no.": 245,
+    "Name": "Una Donnelly",
+    "Club": "Derry",
+    "Category": "F40+",
+    "Finish": "0:47:40"
+  },
+  {
+    "Position": 225,
+    "Bib no.": 242,
+    "Name": "Aisling Moore",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish": "0:47:47"
+  },
+  {
+    "Position": 226,
+    "Bib no.": 400,
+    "Name": "Shay Turbitt",
+    "Club": "Omagh",
+    "Category": "M60+",
+    "Finish": "0:48:02"
+  },
+  {
+    "Position": 227,
+    "Bib no.": 216,
+    "Name": "Louise Conaty",
+    "Club": "Omagh",
+    "Category": "F35+",
+    "Finish": "0:48:15"
+  },
+  {
+    "Position": 228,
+    "Bib no.": 193,
+    "Name": "Fiona Nicholl",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "0:48:15"
+  },
+  {
+    "Position": 229,
+    "Bib no.": 462,
+    "Name": "Brian Kelly",
+    "Club": "Eskra",
+    "Category": "M60+",
+    "Finish": "0:48:16"
+  },
+  {
+    "Position": 230,
+    "Bib no.": 80,
+    "Name": "Bernie Ligget",
+    "Club": "Omagh Harriers",
+    "Category": "F35+",
+    "Finish": "0:48:27"
+  },
+  {
+    "Position": 231,
+    "Bib no.": 81,
+    "Name": "Jennifer O'Donnell",
+    "Club": "Omagh Harriers",
+    "Category": "F40+",
+    "Finish": "0:48:27"
+  },
+  {
+    "Position": 232,
+    "Bib no.": 67,
+    "Name": "Michael McCullagh",
+    "Club": "Belfast",
+    "Category": "MO",
+    "Finish": "0:48:30"
+  },
+  {
+    "Position": 233,
+    "Bib no.": 410,
+    "Name": "paul martin",
+    "Club": "Speerrin Harriers",
+    "Category": "M50+",
+    "Finish": "0:48:31"
+  },
+  {
+    "Position": 234,
+    "Bib no.": 445,
+    "Name": "Don campbell",
+    "Club": "Killyclogher",
+    "Category": "M40+",
+    "Finish": "0:48:32"
+  },
+  {
+    "Position": 235,
+    "Bib no.": 21,
+    "Name": "Martin Fox",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:48:35"
+  },
+  {
+    "Position": 236,
+    "Bib no.": 59,
+    "Name": "Cara Kelly",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "0:48:42"
+  },
+  {
+    "Position": 237,
+    "Bib no.": 478,
+    "Name": "Conor Garrity",
+    "Club": "Dromore",
+    "Category": "MO",
+    "Finish": "0:48:49"
+  },
+  {
+    "Position": 238,
+    "Bib no.": 203,
+    "Name": "Bill McCausland",
+    "Club": "Omagh Harriers",
+    "Category": "M50+",
+    "Finish": "0:48:50"
+  },
+  {
+    "Position": 239,
+    "Bib no.": 104,
+    "Name": "Diane Coyle",
+    "Club": "",
+    "Category": "F35+",
+    "Finish": "0:48:52"
+  },
+  {
+    "Position": 240,
+    "Bib no.": 102,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "0:49:02"
+  },
+  {
+    "Position": 241,
+    "Bib no.": 101,
+    "Name": "Claire Sweeney",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "0:49:03"
+  },
+  {
+    "Position": 242,
+    "Bib no.": 100,
+    "Name": "Paul Sweeney",
+    "Club": "Carrickmore",
+    "Category": "M40+",
+    "Finish": "0:49:08"
+  },
+  {
+    "Position": 243,
+    "Bib no.": 116,
+    "Name": "Eamon McHugh",
+    "Club": "Strabane",
+    "Category": "MO",
+    "Finish": "0:49:09"
+  },
+  {
+    "Position": 244,
+    "Bib no.": 425,
+    "Name": "Bernadette Mcanally",
+    "Club": "Antrim",
+    "Category": "F50+",
+    "Finish": "0:49:19"
+  },
+  {
+    "Position": 245,
+    "Bib no.": 16,
+    "Name": "Hugh Meenagh",
+    "Club": "Fintona",
+    "Category": "M40+",
+    "Finish": "0:49:25"
+  },
+  {
+    "Position": 246,
+    "Bib no.": 268,
+    "Name": "Stephen Conway",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:49:53"
+  },
+  {
+    "Position": 247,
+    "Bib no.": 67,
+    "Name": "Michael McCullagh",
+    "Club": "Belfast",
+    "Category": "MO",
+    "Finish": "0:49:54"
+  },
+  {
+    "Position": 248,
+    "Bib no.": 509,
+    "Name": "Aidan  Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:49:54"
+  },
+  {
+    "Position": 249,
+    "Bib no.": 472,
+    "Name": "Stephen MCullagh",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:49:54"
+  },
+  {
+    "Position": 250,
+    "Bib no.": 183,
+    "Name": "John Dooley",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:49:58"
+  },
+  {
+    "Position": 251,
+    "Bib no.": 78,
+    "Name": "Rory O Brien",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:50:02"
+  },
+  {
+    "Position": 252,
+    "Bib no.": 14,
+    "Name": "PJ O Donnell",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:50:03"
+  },
+  {
+    "Position": 253,
+    "Bib no.": 248,
+    "Name": "D Grimes",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:50:46"
+  },
+  {
+    "Position": 254,
+    "Bib no.": 114,
+    "Name": "Damien Ward",
+    "Club": "Drumnakilly",
+    "Category": "MU19",
+    "Finish": "0:51:16"
+  },
+  {
+    "Position": 255,
+    "Bib no.": 149,
+    "Name": "Gerry Owens",
+    "Club": "Beragh",
+    "Category": "MO",
+    "Finish": "0:51:16"
+  },
+  {
+    "Position": 256,
+    "Bib no.": 175,
+    "Name": "Claire O'Hagan",
+    "Club": "Eskra",
+    "Category": "fO",
+    "Finish": "0:51:22"
+  },
+  {
+    "Position": 257,
+    "Bib no.": 479,
+    "Name": "Louise McQuaide",
+    "Club": "Fintona",
+    "Category": "FO",
+    "Finish": "0:51:51"
+  },
+  {
+    "Position": 258,
+    "Bib no.": 263,
+    "Name": "Liam McCartan",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:51:42"
+  },
+  {
+    "Position": 259,
+    "Bib no.": 191,
+    "Name": "Ryan McGarrity",
+    "Club": "Carrickmore",
+    "Category": "MU19",
+    "Finish": "0:51:54"
+  },
+  {
+    "Position": 260,
+    "Bib no.": 20,
+    "Name": "Sean McCartan",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:52:15"
+  },
+  {
+    "Position": 261,
+    "Bib no.": 64,
+    "Name": "Grace Dobbs",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:52:18"
+  },
+  {
+    "Position": 262,
+    "Bib no.": 281,
+    "Name": "Anne Hunt",
+    "Club": "Fintona",
+    "Category": "FO",
+    "Finish": "0:52:22"
+  },
+  {
+    "Position": 263,
+    "Bib no.": 200,
+    "Name": "Matin Garvin",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:52:22"
+  },
+  {
+    "Position": 264,
+    "Bib no.": 28,
+    "Name": "Joanne McGoldrick",
+    "Club": "Mountfield",
+    "Category": "F35+",
+    "Finish": "0:52:23"
+  },
+  {
+    "Position": 265,
+    "Bib no.": 251,
+    "Name": "Connor Groogan",
+    "Club": "Carrickmore",
+    "Category": "MU19",
+    "Finish": "0:52:31"
+  },
+  {
+    "Position": 266,
+    "Bib no.": 409,
+    "Name": "Rosemary O Hanlon",
+    "Club": "Ballygawley",
+    "Category": "FO",
+    "Finish": "0:52:37"
+  },
+  {
+    "Position": 267,
+    "Bib no.": 519,
+    "Name": "Emer Kelly",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "0:52:47"
+  },
+  {
+    "Position": 268,
+    "Bib no.": 461,
+    "Name": "Maria Kelly",
+    "Club": "Knockmany Ladies Running Club",
+    "Category": "F50+",
+    "Finish": "0:52:50"
+  },
+  {
+    "Position": 269,
+    "Bib no.": 520,
+    "Name": "Aine Campbell",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "0:52:53"
+  },
+  {
+    "Position": 270,
+    "Bib no.": 514,
+    "Name": "Nathan Kelly",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:52:56"
+  },
+  {
+    "Position": 271,
+    "Bib no.": 233,
+    "Name": "Paddy MCCreesh",
+    "Club": "Carrickmore",
+    "Category": "M50+",
+    "Finish": "0:52:59"
+  },
+  {
+    "Position": 272,
+    "Bib no.": 441,
+    "Name": "Naomi McAnulla",
+    "Club": "Killyclogher",
+    "Category": "fo",
+    "Finish": "0:53:14"
+  },
+  {
+    "Position": 273,
+    "Bib no.": 452,
+    "Name": "Laura O Kane",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:53:14"
+  },
+  {
+    "Position": 274,
+    "Bib no.": 87,
+    "Name": "Liz Donnelly",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "0:53:15"
+  },
+  {
+    "Position": 275,
+    "Bib no.": 241,
+    "Name": "Dan Rafferty",
+    "Club": "Carrickmore",
+    "Category": "MU19",
+    "Finish": "0:53:15"
+  },
+  {
+    "Position": 276,
+    "Bib no.": 31,
+    "Name": "Anne McCartan",
+    "Club": "Sixmilecross",
+    "Category": "F40+",
+    "Finish": "0:53:27"
+  },
+  {
+    "Position": 277,
+    "Bib no.": 32,
+    "Name": "Geraldine McCartan",
+    "Club": "Sixmilecross",
+    "Category": "F50+",
+    "Finish": "0:53:34"
+  },
+  {
+    "Position": 278,
+    "Bib no.": 250,
+    "Name": "Pearse Grimes",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:53:37"
+  },
+  {
+    "Position": 279,
+    "Bib no.": 148,
+    "Name": "Declan Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:53:38"
+  },
+  {
+    "Position": 280,
+    "Bib no.": 12,
+    "Name": "Enda Curran",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:53:51"
+  },
+  {
+    "Position": 281,
+    "Bib no.": 113,
+    "Name": "Raymond Ward",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:53:52"
+  },
+  {
+    "Position": 282,
+    "Bib no.": 218,
+    "Name": "Donal Ward",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:53:52"
+  },
+  {
+    "Position": 283,
+    "Bib no.": 247,
+    "Name": "Conall Grimes",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:53:55"
+  },
+  {
+    "Position": 284,
+    "Bib no.": 240,
+    "Name": "Jack Darcy",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:54:14"
+  },
+  {
+    "Position": 285,
+    "Bib no.": 239,
+    "Name": "Shane Darcy",
+    "Club": "",
+    "Category": "MO",
+    "Finish": "0:54:15"
+  },
+  {
+    "Position": 286,
+    "Bib no.": 138,
+    "Name": "Nuala Grogan",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "0:54:19"
+  },
+  {
+    "Position": 287,
+    "Bib no.": 23,
+    "Name": "Claire Grogan",
+    "Club": "Carrickmore",
+    "Category": "FO",
+    "Finish": "0:54:19"
+  },
+  {
+    "Position": 288,
+    "Bib no.": 137,
+    "Name": "Cara Grogan",
+    "Club": "Carrickmore",
+    "Category": "FU19",
+    "Finish": "0:54:20"
+  },
+  {
+    "Position": 289,
+    "Bib no.": 180,
+    "Name": "Irene McKeagney",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "0:54:21"
+  },
+  {
+    "Position": 290,
+    "Bib no.": 181,
+    "Name": "Kieran McKeagney",
+    "Club": "Carrickmore",
+    "Category": "M40+",
+    "Finish": "0:54:21"
+  },
+  {
+    "Position": 291,
+    "Bib no.": 279,
+    "Name": "Theresa Myles",
+    "Club": "Greencastle",
+    "Category": "FO",
+    "Finish": "0:54:25"
+  },
+  {
+    "Position": 292,
+    "Bib no.": 319,
+    "Name": "Mickey McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "0:54:37"
+  },
+  {
+    "Position": 293,
+    "Bib no.": 244,
+    "Name": "Carmel Woods",
+    "Club": "Omagh Harriers",
+    "Category": "F40+",
+    "Finish": "0:54:53"
+  },
+  {
+    "Position": 294,
+    "Bib no.": 186,
+    "Name": "John Devlin",
+    "Club": "Pomeroy",
+    "Category": "M40+",
+    "Finish": "0:55:13"
+  },
+  {
+    "Position": 295,
+    "Bib no.": 34,
+    "Name": "Cathair Curran",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "0:55:14"
+  },
+  {
+    "Position": 296,
+    "Bib no.": 312,
+    "Name": "Sean Coyle",
+    "Club": "",
+    "Category": "M40+",
+    "Finish": "0:55:26"
+  },
+  {
+    "Position": 297,
+    "Bib no.": 520,
+    "Name": "Aine Campbell",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "0:55:46"
+  },
+  {
+    "Position": 298,
+    "Bib no.": 448,
+    "Name": "Eunan Donnelly",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "0:56:30"
+  },
+  {
+    "Position": 299,
+    "Bib no.": 469,
+    "Name": "Kellie Carr",
+    "Club": "Donegal",
+    "Category": "FU19",
+    "Finish": "0:57:22"
+  },
+  {
+    "Position": 300,
+    "Bib no.": 468,
+    "Name": "Maria Carr",
+    "Club": "Loughmacrory",
+    "Category": "F35+",
+    "Finish": "0:57:25"
+  },
+  {
+    "Position": 301,
+    "Bib no.": 86,
+    "Name": "Kerry Grimes",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "0:57:30"
+  },
+  {
+    "Position": 302,
+    "Bib no.": 131,
+    "Name": "Colette McCaughey",
+    "Club": "Loughmacrory",
+    "Category": "F35+",
+    "Finish": "0:57:40"
+  },
+  {
+    "Position": 303,
+    "Bib no.": 456,
+    "Name": "Eimear Ward",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "0:57:45"
+  },
+  {
+    "Position": 304,
+    "Bib no.": 288,
+    "Name": "Samuel mcCaul",
+    "Club": "Antrim",
+    "Category": "MO",
+    "Finish": "0:58:52"
+  },
+  {
+    "Position": 305,
+    "Bib no.": 351,
+    "Name": "Danny Kerr",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:58:53"
+  },
+  {
+    "Position": 306,
+    "Bib no.": 230,
+    "Name": "Ciara McCarron",
+    "Club": "Ballygawley",
+    "Category": "FO",
+    "Finish": "0:59:18"
+  },
+  {
+    "Position": 307,
+    "Bib no.": 428,
+    "Name": "Colleen Grimes",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "0:59:18"
+  },
+  {
+    "Position": 308,
+    "Bib no.": 352,
+    "Name": "Kieran Hurson",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "0:59:20"
+  },
+  {
+    "Position": 309,
+    "Bib no.": 93,
+    "Name": "Antoin Fox",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "01:02.33"
+  },
+  {
+    "Position": 310,
+    "Bib no.": 15,
+    "Name": "Connor O Donnell",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "01:02.34"
+  },
+  {
+    "Position": 311,
+    "Bib no.": 214,
+    "Name": "Aidan Woods",
+    "Club": "Pomeroy",
+    "Category": "MU19",
+    "Finish": "01:02.58"
+  },
+  {
+    "Position": 312,
+    "Bib no.": 215,
+    "Name": "Mark Woods",
+    "Club": "Pomeroy",
+    "Category": "MU19",
+    "Finish": "01:02.58"
+  },
+  {
+    "Position": 313,
+    "Bib no.": 213,
+    "Name": "Gerard Woods",
+    "Club": "Pomeroy",
+    "Category": "MO",
+    "Finish": "01:02.59"
+  },
+  {
+    "Position": 314,
+    "Bib no.": 485,
+    "Name": "Celine McCartan",
+    "Club": "Killyclogher",
+    "Category": "F35+",
+    "Finish": "01:04.29"
+  },
+  {
+    "Position": 315,
+    "Bib no.": 287,
+    "Name": "Geraldine O neill",
+    "Club": "Beragh",
+    "Category": "F40+",
+    "Finish": "01:04.30"
+  },
+  {
+    "Position": 316,
+    "Bib no.": 25,
+    "Name": "Christine Skelton",
+    "Club": "Drumquin",
+    "Category": "F35+",
+    "Finish": "01:05.00"
+  },
+  {
+    "Position": 317,
+    "Bib no.": 26,
+    "Name": "Mary Devenney",
+    "Club": "Drumquin",
+    "Category": "F40+",
+    "Finish": "01:05.01"
+  },
+  {
+    "Position": 318,
+    "Bib no.": 194,
+    "Name": "Brenda McElduff",
+    "Club": "Carrickmore",
+    "Category": "FO",
+    "Finish": "01:05.02"
+  },
+  {
+    "Position": 319,
+    "Bib no.": 39,
+    "Name": "Aoibhinn  McAnespie",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "01:05.22"
+  },
+  {
+    "Position": 320,
+    "Bib no.": 222,
+    "Name": "Marissa McKernan",
+    "Club": "",
+    "Category": "F40+",
+    "Finish": "01:05.42"
+  },
+  {
+    "Position": 321,
+    "Bib no.": 77,
+    "Name": "Claire Obrien",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:05.46"
+  },
+  {
+    "Position": 322,
+    "Bib no.": 158,
+    "Name": "Brian Donnelly",
+    "Club": "Mountfied",
+    "Category": "M50+",
+    "Finish": "01:05.47"
+  },
+  {
+    "Position": 323,
+    "Bib no.": 43,
+    "Name": "Michelle Corcoran",
+    "Club": "Mountfield",
+    "Category": "FO",
+    "Finish": "01:05.48"
+  },
+  {
+    "Position": 324,
+    "Bib no.": 201,
+    "Name": "Seamus Irwin",
+    "Club": "Omagh",
+    "Category": "M40+",
+    "Finish": "01:05.50"
+  },
+  {
+    "Position": 325,
+    "Bib no.": 62,
+    "Name": "Cathy Richardson",
+    "Club": "Omagh",
+    "Category": "FO",
+    "Finish": "01:06.00"
+  },
+  {
+    "Position": 326,
+    "Bib no.": 442,
+    "Name": "Ita Toner",
+    "Club": "Loughmacrory",
+    "Category": "fo",
+    "Finish": "01:06.58"
+  },
+  {
+    "Position": 327,
+    "Bib no.": 22,
+    "Name": "Sharon Cavanagh",
+    "Club": "Pomeroy",
+    "Category": "FO",
+    "Finish": "01:07.10"
+  },
+  {
+    "Position": 328,
+    "Bib no.": 505,
+    "Name": "Orla Fox",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:08.37"
+  },
+  {
+    "Position": 329,
+    "Bib no.": 506,
+    "Name": "Geraldine McAleer",
+    "Club": "Loughmacrory",
+    "Category": "F35+",
+    "Finish": "01:08.38"
+  },
+  {
+    "Position": 330,
+    "Bib no.": 404,
+    "Name": "Eilish McAleer",
+    "Club": "Killyclogher",
+    "Category": "F35+",
+    "Finish": "01:08.41"
+  },
+  {
+    "Position": 331,
+    "Bib no.": 403,
+    "Name": "Julie Sharkey",
+    "Club": "Omagh",
+    "Category": "FO",
+    "Finish": "01:08.41"
+  },
+  {
+    "Position": 332,
+    "Bib no.": 46,
+    "Name": "Sheila McCallan",
+    "Club": "Carrickmore",
+    "Category": "FU19",
+    "Finish": "01:08.54"
+  },
+  {
+    "Position": 333,
+    "Bib no.": 76,
+    "Name": "Orla Kelly",
+    "Club": "Carrickmore",
+    "Category": "FU19",
+    "Finish": "01:08.54"
+  },
+  {
+    "Position": 334,
+    "Bib no.": 518,
+    "Name": "Oisin O Kane",
+    "Club": "Loughmacrory",
+    "Category": "MU19",
+    "Finish": "01:09.04"
+  },
+  {
+    "Position": 335,
+    "Bib no.": 517,
+    "Name": "Paoline Quin",
+    "Club": "Kildress",
+    "Category": "FO",
+    "Finish": "01:09.25"
+  },
+  {
+    "Position": 336,
+    "Bib no.": 349,
+    "Name": "Bridget keenan",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:09.26"
+  },
+  {
+    "Position": 337,
+    "Bib no.": 220,
+    "Name": "Brian McAleer",
+    "Club": "Belfast",
+    "Category": "M50+",
+    "Finish": "01:09.47"
+  },
+  {
+    "Position": 338,
+    "Bib no.": 223,
+    "Name": "Kieran McKeran",
+    "Club": "Omagh",
+    "Category": "M40+",
+    "Finish": "01:09.47"
+  },
+  {
+    "Position": 339,
+    "Bib no.": 141,
+    "Name": "Michael McAleer",
+    "Club": "Pomeroy",
+    "Category": "M40+",
+    "Finish": "01:09.59"
+  },
+  {
+    "Position": 340,
+    "Bib no.": 232,
+    "Name": "Seamus McAleer",
+    "Club": "Loughmacrory",
+    "Category": "M55+",
+    "Finish": "01:10.00"
+  },
+  {
+    "Position": 341,
+    "Bib no.": 513,
+    "Name": "Shane Donnelly",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:10.44"
+  },
+  {
+    "Position": 342,
+    "Bib no.": 283,
+    "Name": "Mickey Donnelly",
+    "Club": "Gallbally",
+    "Category": "MO",
+    "Finish": "01:11.00"
+  },
+  {
+    "Position": 343,
+    "Bib no.": 346,
+    "Name": "Jarlath Duff",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:12.33"
+  },
+  {
+    "Position": 344,
+    "Bib no.": 357,
+    "Name": "Kieran Kelly",
+    "Club": "Kildress",
+    "Category": "M55+",
+    "Finish": "01:12.36"
+  },
+  {
+    "Position": 345,
+    "Bib no.": 354,
+    "Name": "Adam  Baines",
+    "Club": "Leicester",
+    "Category": "MO",
+    "Finish": "01:12.36"
+  },
+  {
+    "Position": 346,
+    "Bib no.": 515,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "01:12.37"
+  },
+  {
+    "Position": 347,
+    "Bib no.": 195,
+    "Name": "Lisa McAleer",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:12.37"
+  },
+  {
+    "Position": 348,
+    "Bib no.": 196,
+    "Name": "Nuala Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:12.47"
+  },
+  {
+    "Position": 349,
+    "Bib no.": 177,
+    "Name": "Mairead McCann",
+    "Club": "",
+    "Category": "F40+",
+    "Finish": "01:12.48"
+  },
+  {
+    "Position": 350,
+    "Bib no.": 178,
+    "Name": "Francis Donaghy",
+    "Club": "",
+    "Category": "M55+",
+    "Finish": "01:12.49"
+  },
+  {
+    "Position": 351,
+    "Bib no.": 516,
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "",
+    "Finish": "01:12.49"
+  },
+  {
+    "Position": 352,
+    "Bib no.": 401,
+    "Name": "Lauren Fox",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "01:12.50"
+  },
+  {
+    "Position": 353,
+    "Bib no.": 348,
+    "Name": "Elaine Keenan",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:12.53"
+  },
+  {
+    "Position": 354,
+    "Bib no.": 292,
+    "Name": "Katherine Woods",
+    "Club": "New York",
+    "Category": "F40+",
+    "Finish": "01:13.16"
+  },
+  {
+    "Position": 355,
+    "Bib no.": 320,
+    "Name": "Martina McCartin",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:13.36"
+  },
+  {
+    "Position": 356,
+    "Bib no.": 336,
+    "Name": "Orla Meenagh",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:13.36"
+  },
+  {
+    "Position": 357,
+    "Bib no.": 495,
+    "Name": "Aggie McCullagh",
+    "Club": "",
+    "Category": "F50+",
+    "Finish": "01:13.47"
+  },
+  {
+    "Position": 358,
+    "Bib no.": 271,
+    "Name": "Majella Donagehy",
+    "Club": "Carrickmore",
+    "Category": "FO",
+    "Finish": "01:13.47"
+  },
+  {
+    "Position": 359,
+    "Bib no.": 318,
+    "Name": "Paula Cuddy",
+    "Club": "",
+    "Category": "F40+",
+    "Finish": "01:14.09"
+  },
+  {
+    "Position": 360,
+    "Bib no.": 504,
+    "Name": "Martin Mullin",
+    "Club": "Altamuskin",
+    "Category": "M40+",
+    "Finish": "01:15.07"
+  },
+  {
+    "Position": 361,
+    "Bib no.": 68,
+    "Name": "Louise McCullagh",
+    "Club": "Augher",
+    "Category": "FO",
+    "Finish": "01:15.07"
+  },
+  {
+    "Position": 362,
+    "Bib no.": 483,
+    "Name": "Catherine Donnelly",
+    "Club": "Aughnacloy",
+    "Category": "FO",
+    "Finish": "01:15.15"
+  },
+  {
+    "Position": 363,
+    "Bib no.": 355,
+    "Name": "paddy Devlin",
+    "Club": "Kildress",
+    "Category": "M50+",
+    "Finish": "01:15.26"
+  },
+  {
+    "Position": 364,
+    "Bib no.": 332,
+    "Name": "Mary J Daly",
+    "Club": "Carrickmore",
+    "Category": "F50+",
+    "Finish": "01:15.26"
+  },
+  {
+    "Position": 365,
+    "Bib no.": 335,
+    "Name": "Rosaline Gormley",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "01:15.27"
+  },
+  {
+    "Position": 366,
+    "Bib no.": 496,
+    "Name": "Cathryn McCullagh",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "01:15.32"
+  },
+  {
+    "Position": 367,
+    "Bib no.": 338,
+    "Name": "Elizabeth Quinn",
+    "Club": "Derryloughran",
+    "Category": "FO",
+    "Finish": "01:15.32"
+  },
+  {
+    "Position": 368,
+    "Bib no.": 421,
+    "Name": "Brendan Cunningham",
+    "Club": "Carrickmore",
+    "Category": "M50+",
+    "Finish": "01:15.35"
+  },
+  {
+    "Position": 369,
+    "Bib no.": 521,
+    "Name": "Joe Grogan",
+    "Club": "Carrickmore",
+    "Category": "MO",
+    "Finish": "01:15.55"
+  },
+  {
+    "Position": 370,
+    "Bib no.": 511,
+    "Name": "Teresa McNally",
+    "Club": "Kildress",
+    "Category": "F40+",
+    "Finish": "01:16.07"
+  },
+  {
+    "Position": 371,
+    "Bib no.": 212,
+    "Name": "Damien Woods",
+    "Club": "Pomeroy",
+    "Category": "MU19",
+    "Finish": "01:16.07"
+  },
+  {
+    "Position": 372,
+    "Bib no.": 356,
+    "Name": "Geraldine Kelly",
+    "Club": "Kildress",
+    "Category": "FO",
+    "Finish": "01:16.08"
+  },
+  {
+    "Position": 373,
+    "Bib no.": 328,
+    "Name": "Margaret Anderson",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:16.25"
+  },
+  {
+    "Position": 374,
+    "Bib no.": 342,
+    "Name": "Francis Conway",
+    "Club": "",
+    "Category": "M50+",
+    "Finish": "01:16.26"
+  },
+  {
+    "Position": 375,
+    "Bib no.": 343,
+    "Name": "Mary T Conway",
+    "Club": "Creggan",
+    "Category": "F40+",
+    "Finish": "01:16.32"
+  },
+  {
+    "Position": 376,
+    "Bib no.": 285,
+    "Name": "Rita mcMahon",
+    "Club": "",
+    "Category": "F50+",
+    "Finish": "01:16.42"
+  },
+  {
+    "Position": 377,
+    "Bib no.": 274,
+    "Name": "Annette Heagney",
+    "Club": "Pomeroy",
+    "Category": "F50+",
+    "Finish": "01:16.43"
+  },
+  {
+    "Position": 378,
+    "Bib no.": 38,
+    "Name": "Fiona Hamill",
+    "Club": "Armagh",
+    "Category": "F40+",
+    "Finish": "01:16.57"
+  },
+  {
+    "Position": 379,
+    "Bib no.": 37,
+    "Name": "Eoin Hamill",
+    "Club": "SilverBridge Armagh",
+    "Category": "MO",
+    "Finish": "01:17.02"
+  },
+  {
+    "Position": 380,
+    "Bib no.": 284,
+    "Name": "Patricia McMahon",
+    "Club": "",
+    "Category": "F50+",
+    "Finish": "01:17.04"
+  },
+  {
+    "Position": 381,
+    "Bib no.": 337,
+    "Name": "Patrick Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:17.16"
+  },
+  {
+    "Position": 382,
+    "Bib no.": 470,
+    "Name": "Seamus Goodwin",
+    "Club": "Dromore AC",
+    "Category": "M50+",
+    "Finish": "01:17.17"
+  },
+  {
+    "Position": 383,
+    "Bib no.": 94,
+    "Name": "Mairead Fox",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "01:17.45"
+  },
+  {
+    "Position": 384,
+    "Bib no.": 1,
+    "Name": "Marty Donaghy",
+    "Club": "Loughmacrory",
+    "Category": "M40+",
+    "Finish": "01:17.46"
+  },
+  {
+    "Position": 385,
+    "Bib no.": 315,
+    "Name": "Carmel McGaughey",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:18.05"
+  },
+  {
+    "Position": 386,
+    "Bib no.": 314,
+    "Name": "Sean McGaughey",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:18.05"
+  },
+  {
+    "Position": 387,
+    "Bib no.": 53,
+    "Name": "Ciara Coyle",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:18.06"
+  },
+  {
+    "Position": 388,
+    "Bib no.": 324,
+    "Name": "Jean Coyle",
+    "Club": "",
+    "Category": "F50+",
+    "Finish": "01:18.50"
+  },
+  {
+    "Position": 389,
+    "Bib no.": 48,
+    "Name": "Thomas Mullan",
+    "Club": "Carickmore",
+    "Category": "M40+",
+    "Finish": "01:19.19"
+  },
+  {
+    "Position": 390,
+    "Bib no.": 49,
+    "Name": "Mary Mullan",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "01:19.20"
+  },
+  {
+    "Position": 391,
+    "Bib no.": 291,
+    "Name": "Lauren Woods",
+    "Club": "New York",
+    "Category": "FU19",
+    "Finish": "01:19.22"
+  },
+  {
+    "Position": 392,
+    "Bib no.": 290,
+    "Name": "Noel Woods",
+    "Club": "New York",
+    "Category": "M40+",
+    "Finish": "01:19.23"
+  },
+  {
+    "Position": 393,
+    "Bib no.": 292,
+    "Name": "Katherine Woods",
+    "Club": "New York",
+    "Category": "F40+",
+    "Finish": "01:19.23"
+  },
+  {
+    "Position": 394,
+    "Bib no.": 487,
+    "Name": "Bridget Meenagh",
+    "Club": "Loughmacrory",
+    "Category": "F50+",
+    "Finish": "01:19.24"
+  },
+  {
+    "Position": 395,
+    "Bib no.": 327,
+    "Name": "Theresa Mcullagh",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "01:19.30"
+  },
+  {
+    "Position": 396,
+    "Bib no.": 334,
+    "Name": "Sean Gormley",
+    "Club": "",
+    "Category": "M50+",
+    "Finish": "01:19.30"
+  },
+  {
+    "Position": 397,
+    "Bib no.": 325,
+    "Name": "Pat McCullagh",
+    "Club": "",
+    "Category": "M50+",
+    "Finish": "01:19.31"
+  },
+  {
+    "Position": 398,
+    "Bib no.": 275,
+    "Name": "Niamh Goodwin",
+    "Club": "Dromore",
+    "Category": "FU19",
+    "Finish": "01:19.32"
+  },
+  {
+    "Position": 399,
+    "Bib no.": 36,
+    "Name": "Sharon Pearson",
+    "Club": "Omagh",
+    "Category": "F35+",
+    "Finish": "01:19.32"
+  },
+  {
+    "Position": 400,
+    "Bib no.": 35,
+    "Name": "Bernadette McKernan",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "01:20.11"
+  },
+  {
+    "Position": 401,
+    "Bib no.": 233,
+    "Name": "Paddy MCCreesh",
+    "Club": "Carrickmore",
+    "Category": "M50+",
+    "Finish": "01:20.12"
+  },
+  {
+    "Position": 402,
+    "Bib no.": 176,
+    "Name": "Hugh McCallen",
+    "Club": "Carrickmore",
+    "Category": "M40+",
+    "Finish": "01:20.12"
+  },
+  {
+    "Position": 403,
+    "Bib no.": 83,
+    "Name": "Helen Mary McGlone",
+    "Club": "Omagh",
+    "Category": "F40+",
+    "Finish": "01:20.13"
+  },
+  {
+    "Position": 404,
+    "Bib no.": 82,
+    "Name": "Eamonn James McGlone",
+    "Club": "Omagh",
+    "Category": "M50+",
+    "Finish": "01:21.37"
+  },
+  {
+    "Position": 405,
+    "Bib no.": 341,
+    "Name": "Frank Rafferty",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:21.37"
+  },
+  {
+    "Position": 406,
+    "Bib no.": 339,
+    "Name": "John McCullagh",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:22.07"
+  },
+  {
+    "Position": 407,
+    "Bib no.": 344,
+    "Name": "Sean Rafferty",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:22.07"
+  },
+  {
+    "Position": 408,
+    "Bib no.": 19,
+    "Name": "Carmel Meenagh",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:22.33"
+  },
+  {
+    "Position": 409,
+    "Bib no.": 280,
+    "Name": "Paola Dobbs",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:22.33"
+  },
+  {
+    "Position": 410,
+    "Bib no.": 276,
+    "Name": "Frances Mcnally",
+    "Club": "Kildress",
+    "Category": "F40+",
+    "Finish": "01:23.00"
+  },
+  {
+    "Position": 411,
+    "Bib no.": 471,
+    "Name": "Enya Goodwin",
+    "Club": "Dromore AC",
+    "Category": "fo",
+    "Finish": "01:23.01"
+  },
+  {
+    "Position": 412,
+    "Bib no.": 54,
+    "Name": "Sarah Coyle",
+    "Club": "Loughmacrory",
+    "Category": "F50+",
+    "Finish": "01:23.07"
+  },
+  {
+    "Position": 413,
+    "Bib no.": 326,
+    "Name": "Eilish Coytle",
+    "Club": "",
+    "Category": "FO",
+    "Finish": "01:23.24"
+  },
+  {
+    "Position": 414,
+    "Bib no.": 192,
+    "Name": "Cathy Coyle",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:23.32"
+  },
+  {
+    "Position": 415,
+    "Bib no.": 169,
+    "Name": "Bridget Fox",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "01:23.32"
+  },
+  {
+    "Position": 416,
+    "Bib no.": 168,
+    "Name": "Kathleen Bradley",
+    "Club": "Greencastle",
+    "Category": "FO",
+    "Finish": "01:23.34"
+  },
+  {
+    "Position": 417,
+    "Bib no.": 170,
+    "Name": "Rita Fox",
+    "Club": "Carrickmore",
+    "Category": "FO",
+    "Finish": "01:23.34"
+  },
+  {
+    "Position": 418,
+    "Bib no.": 353,
+    "Name": "Etaoine O Kane",
+    "Club": "Carrickmore",
+    "Category": "FO",
+    "Finish": "01:23.38"
+  },
+  {
+    "Position": 419,
+    "Bib no.": 507,
+    "Name": "eimear Montague",
+    "Club": "Carrickmore",
+    "Category": "F40+",
+    "Finish": "01:23.38"
+  },
+  {
+    "Position": 420,
+    "Bib no.": 289,
+    "Name": "Niamh Gaynor",
+    "Club": "asbourne",
+    "Category": "FU19",
+    "Finish": "01:23.38"
+  },
+  {
+    "Position": 421,
+    "Bib no.": 198,
+    "Name": "Sharon O'Brien",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:24.49"
+  },
+  {
+    "Position": 422,
+    "Bib no.": 427,
+    "Name": "Fiadhnait O'Brien",
+    "Club": "Loughmacrory",
+    "Category": "FU19",
+    "Finish": "01:24.50"
+  },
+  {
+    "Position": 423,
+    "Bib no.": 30,
+    "Name": "Mary Gates",
+    "Club": "Carrickmore",
+    "Category": "F50+",
+    "Finish": "01:24.51"
+  },
+  {
+    "Position": 424,
+    "Bib no.": 451,
+    "Name": "Patricia Grimes",
+    "Club": "",
+    "Category": "F40+",
+    "Finish": "01:26.41"
+  },
+  {
+    "Position": 425,
+    "Bib no.": 47,
+    "Name": "Margaret Mary McCallan",
+    "Club": "Carrickmore",
+    "Category": "F50+",
+    "Finish": "01:26.41"
+  },
+  {
+    "Position": 426,
+    "Bib no.": 45,
+    "Name": "Marie Fullen",
+    "Club": "Loughmacrory",
+    "Category": "F40+",
+    "Finish": "01:27.43"
+  },
+  {
+    "Position": 427,
+    "Bib no.": 467,
+    "Name": "Caoimhe Cunningham",
+    "Club": "Loughmacrory",
+    "Category": "FO",
+    "Finish": "01:27.43"
+  },
+  {
+    "Position": 428,
+    "Bib no.": 466,
+    "Name": "Edele Curran",
+    "Club": "Loughmacrory",
+    "Category": "F35+",
+    "Finish": "01:27.43"
+  },
+  {
+    "Position": 429,
+    "Bib no.": 491,
+    "Name": "Leanne McGuigan",
+    "Club": "Omagh",
+    "Category": "FO",
+    "Finish": "01:27.43"
+  },
+  {
+    "Position": 430,
+    "Bib no.": 490,
+    "Name": "Breige McGuigan",
+    "Club": "",
+    "Category": "F35+",
+    "Finish": "01:27.43"
+  },
+  {
+    "Position": 431,
+    "Bib no.": 347,
+    "Name": "Declan McAleer",
+    "Club": "Loughmacrory",
+    "Category": "MO",
+    "Finish": "01:27.43"
+  }
+]
