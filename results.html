@@ -81,16 +81,20 @@
                 <span class="detail-label">Club:</span>
                 <span class="detail-value" x-text="selectedRunner.club"></span>
               </div>
-              <div class="runner-detail" x-show="!is2016">
+              <div class="runner-detail" x-show="showTwoMiles">
+                <span class="detail-label">2 Miles:</span>
+                <span class="detail-value" x-text="selectedRunner.two_miles"></span>
+              </div>
+              <div class="runner-detail" x-show="showLapOfLough">
                 <span class="detail-label">Lap of Lough:</span>
                 <span class="detail-value" x-text="selectedRunner.lap_of_lough"></span>
               </div>
-              <div class="runner-detail">
+              <div class="runner-detail" x-show="showChipTime">
                 <span class="detail-label">Chip Time:</span>
                 <span class="detail-value" x-text="selectedRunner.chip_time"></span>
               </div>
               <div class="runner-detail">
-                <span class="detail-label">Gun Time:</span>
+                <span class="detail-label">Finish:</span>
                 <span class="detail-value" x-text="selectedRunner.gun_time"></span>
               </div>
             </div>
@@ -109,8 +113,9 @@
                 <th>Name</th>
                 <th>Cat.</th>
                 <th>Club</th>
-                <th x-show="!is2016">Lap of Lough</th>
-                <th>Chip Time</th>
+                <th x-show="showTwoMiles">2 Miles</th>
+                <th x-show="showLapOfLough">Lap of Lough</th>
+                <th x-show="showChipTime">Chip Time</th>
                 <th>Gun Time</th>
               </tr>
             </thead>
@@ -122,8 +127,9 @@
                   <td data-label="Name" x-text="runner.name"></td>
                   <td data-label="Cat." x-text="runner.age_group"></td>
                   <td data-label="Club" x-text="runner.club"></td>
-                  <td data-label="Lap of Lough" x-show="!is2016" x-text="runner.lap_of_lough"></td>
-                  <td data-label="Chip Time" x-text="runner.chip_time"></td>
+                  <td data-label="2 Miles" x-show="showTwoMiles" x-text="runner.two_miles"></td>
+                  <td data-label="Lap of Lough" x-show="showLapOfLough" x-text="runner.lap_of_lough"></td>
+                  <td data-label="Chip Time" x-show="showChipTime" x-text="runner.chip_time"></td>
                   <td data-label="Gun Time" x-text="runner.gun_time"></td>
                 </tr>
               </template>
@@ -166,9 +172,16 @@
           this.isMobileView = window.innerWidth < 870;
         },
 
-        // Check if the current year is 2016 (which doesn't have Lap of Lough data)
-        get is2016() {
-          return this.selectedYear === '2016';
+        get showLapOfLough() {
+          return !['2020', '2016', '2014', '2009'].includes(this.selectedYear);
+        },
+
+        get showTwoMiles() {
+          return ['2014', '2013', '2012', '2011', '2010'].includes(this.selectedYear);
+        },
+
+        get showChipTime() {
+          return !['2020', '2014', '2009'].includes(this.selectedYear);
         },
 
         // Show runner details in modal (only on mobile)
@@ -186,16 +199,17 @@
               // Transform the data to match the expected format
               this.results = data.map(runner => {
                 return {
-                  position: runner.Position,
-                  bib: runner["Bib no."],
-                  name: runner.Name,
-                  age_group: runner.Category,
-                  club: runner.Club,
-                  lap_of_lough: this.selectedYear === '2016' ? null : runner["Lap of Lough"],
-                  chip_time: runner["Chip Time"],
-                  gun_time: runner["Gun Time"],
+                  position: runner.Position || '',
+                  bib: runner["Bib no."] || '',
+                  name: runner.Name || '',
+                  age_group: runner.Category || '',
+                  club: runner.Club || '',
+                  two_miles: this.showTwoMiles ? runner["2 Miles"] || '' : null,
+                  lap_of_lough: this.showLapOfLough ? runner["Lap of Lough"] || '' : null,
+                  chip_time: this.showChipTime ? runner["Chip Time"] || '' : null,
+                  gun_time: runner["Gun Time"] || '',
                 };
-              });
+              }).filter(runner => runner !== null);
             })
             .catch(error => {
               console.error(`Error loading results for ${this.selectedYear}:`, error);
@@ -212,10 +226,14 @@
 
           return this.results.filter(runner => {
             return (
-              runner.name.toLowerCase().includes(term) ||
-              runner.bib.toString().includes(term) ||
-              runner.age_group.toLowerCase().includes(term) ||
-              runner.club.toLowerCase().includes(term)
+              (runner.name && runner.name.toLowerCase().includes(term)) ||
+              (runner.bib && runner.bib.toString().includes(term)) ||
+              (runner.age_group && runner.age_group.toLowerCase().includes(term)) ||
+              (runner.club && runner.club.toLowerCase().includes(term)) ||
+              (runner.two_miles && runner.two_miles.toLowerCase().includes(term)) ||
+              (runner.lap_of_lough && runner.lap_of_lough.toLowerCase().includes(term)) ||
+              (runner.chip_time && runner.chip_time.toLowerCase().includes(term)) ||
+              (runner.gun_time && runner.gun_time.toLowerCase().includes(term))
             );
           });
         }

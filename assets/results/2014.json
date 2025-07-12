@@ -6,7 +6,7 @@
     "Club": "Annadale Striders",
     "Category": "MO",
     "2 Miles": "0:10:12",
-    "Finish": "0:26:23"
+    "Gun Time": "0:26:23"
   },
   {
     "Position": 2,
@@ -15,7 +15,7 @@
     "Club": "Omagh Harriers",
     "Category": "MO",
     "2 Miles": "0:10:14",
-    "Finish": "0:26:39"
+    "Gun Time": "0:26:39"
   },
   {
     "Position": 3,
@@ -24,7 +24,7 @@
     "Club": "City of Derry Spartans",
     "Category": "M35",
     "2 Miles": "0:10:35",
-    "Finish": "0:27:58"
+    "Gun Time": "0:27:58"
   },
   {
     "Position": 4,
@@ -33,7 +33,7 @@
     "Club": "Project Africa",
     "Category": "MO",
     "2 Miles": "0:10:43",
-    "Finish": "0:28:08"
+    "Gun Time": "0:28:08"
   },
   {
     "Position": 5,
@@ -42,7 +42,7 @@
     "Club": "Sperrin Harriers",
     "Category": "MO",
     "2 Miles": "0:10:46",
-    "Finish": "0:28:47"
+    "Gun Time": "0:28:47"
   },
   {
     "Position": 6,
@@ -51,7 +51,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M45",
     "2 Miles": "0:11:11",
-    "Finish": "0:28:54"
+    "Gun Time": "0:28:54"
   },
   {
     "Position": 7,
@@ -60,7 +60,7 @@
     "Club": "Foyle Valley",
     "Category": "MO",
     "2 Miles": "0:11:26",
-    "Finish": "0:28:59"
+    "Gun Time": "0:28:59"
   },
   {
     "Position": 8,
@@ -69,7 +69,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:11:06",
-    "Finish": "0:29:09"
+    "Gun Time": "0:29:09"
   },
   {
     "Position": 9,
@@ -78,7 +78,7 @@
     "Club": "North Belfast Harriers",
     "Category": "FO",
     "2 Miles": "0:11:14",
-    "Finish": "0:29:20"
+    "Gun Time": "0:29:20"
   },
   {
     "Position": 10,
@@ -87,7 +87,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:11:38",
-    "Finish": "0:29:41"
+    "Gun Time": "0:29:41"
   },
   {
     "Position": 11,
@@ -96,7 +96,7 @@
     "Club": "Lifford A.C.",
     "Category": "M45",
     "2 Miles": "0:11:26",
-    "Finish": "0:29:43"
+    "Gun Time": "0:29:43"
   },
   {
     "Position": 12,
@@ -105,7 +105,7 @@
     "Club": "Omagh Harriers",
     "Category": "MJ",
     "2 Miles": "0:11:16",
-    "Finish": "0:29:48"
+    "Gun Time": "0:29:48"
   },
   {
     "Position": 13,
@@ -114,7 +114,7 @@
     "Club": "Pensby Runners",
     "Category": "MO",
     "2 Miles": "0:11:33",
-    "Finish": "0:29:52"
+    "Gun Time": "0:29:52"
   },
   {
     "Position": 14,
@@ -123,7 +123,7 @@
     "Club": "Acorn A.C.",
     "Category": "M35",
     "2 Miles": "0:11:33",
-    "Finish": "0:30:05"
+    "Gun Time": "0:30:05"
   },
   {
     "Position": 15,
@@ -132,7 +132,7 @@
     "Club": "Armagh A.C.",
     "Category": "M40",
     "2 Miles": "0:11:39",
-    "Finish": "0:30:18"
+    "Gun Time": "0:30:18"
   },
   {
     "Position": 16,
@@ -141,7 +141,7 @@
     "Club": "Omagh Harriers",
     "Category": "MJ",
     "2 Miles": "0:11:29",
-    "Finish": "0:30:30"
+    "Gun Time": "0:30:30"
   },
   {
     "Position": 17,
@@ -150,7 +150,7 @@
     "Club": "Omagh Harriers",
     "Category": "M45",
     "2 Miles": "0:11:38",
-    "Finish": "0:30:33"
+    "Gun Time": "0:30:33"
   },
   {
     "Position": 18,
@@ -159,7 +159,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:11:33",
-    "Finish": "0:30:43"
+    "Gun Time": "0:30:43"
   },
   {
     "Position": 19,
@@ -168,7 +168,7 @@
     "Club": "Lifford A.C.",
     "Category": "MO",
     "2 Miles": "0:11:15",
-    "Finish": "0:30:45"
+    "Gun Time": "0:30:45"
   },
   {
     "Position": 20,
@@ -177,7 +177,7 @@
     "Club": "Acorn A.C.",
     "Category": "M35",
     "2 Miles": "0:11:36",
-    "Finish": "0:30:48"
+    "Gun Time": "0:30:48"
   },
   {
     "Position": 21,
@@ -186,7 +186,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:12:06",
-    "Finish": "0:31:28"
+    "Gun Time": "0:31:28"
   },
   {
     "Position": 22,
@@ -195,7 +195,7 @@
     "Club": "Greencastle A.C.",
     "Category": "M45",
     "2 Miles": "0:12:00",
-    "Finish": "0:31:28"
+    "Gun Time": "0:31:28"
   },
   {
     "Position": 23,
@@ -204,7 +204,7 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "2 Miles": "0:12:03",
-    "Finish": "0:31:36"
+    "Gun Time": "0:31:36"
   },
   {
     "Position": 24,
@@ -213,7 +213,7 @@
     "Club": "Lochaber A.C.",
     "Category": "M45",
     "2 Miles": "0:12:20",
-    "Finish": "0:31:40"
+    "Gun Time": "0:31:40"
   },
   {
     "Position": 25,
@@ -222,7 +222,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M35",
     "2 Miles": "0:12:32",
-    "Finish": "0:31:33"
+    "Gun Time": "0:31:33"
   },
   {
     "Position": 26,
@@ -231,7 +231,7 @@
     "Club": "Drumagh G.F.C.",
     "Category": "MO",
     "2 Miles": "0:12:31",
-    "Finish": "0:31:47"
+    "Gun Time": "0:31:47"
   },
   {
     "Position": 27,
@@ -240,7 +240,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:12:21",
-    "Finish": "0:31:41"
+    "Gun Time": "0:31:41"
   },
   {
     "Position": 28,
@@ -249,7 +249,7 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "2 Miles": "0:12:19",
-    "Finish": "0:31:52"
+    "Gun Time": "0:31:52"
   },
   {
     "Position": 29,
@@ -258,7 +258,7 @@
     "Club": "Omagh Harriers",
     "Category": "MJ",
     "2 Miles": "0:12:22",
-    "Finish": "0:31:54"
+    "Gun Time": "0:31:54"
   },
   {
     "Position": 30,
@@ -267,7 +267,7 @@
     "Club": "Omagh Harriers",
     "Category": "MO",
     "2 Miles": "0:11:29",
-    "Finish": "0:31:55"
+    "Gun Time": "0:31:55"
   },
   {
     "Position": 31,
@@ -276,7 +276,7 @@
     "Club": "Kirkstall Harriers",
     "Category": "MO",
     "2 Miles": "0:12:08",
-    "Finish": "0:31:57"
+    "Gun Time": "0:31:57"
   },
   {
     "Position": 32,
@@ -285,7 +285,7 @@
     "Club": "Magherafelt Harriers",
     "Category": "M55",
     "2 Miles": "0:12:19",
-    "Finish": "0:32:09"
+    "Gun Time": "0:32:09"
   },
   {
     "Position": 33,
@@ -294,7 +294,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:12:29",
-    "Finish": "0:32:16"
+    "Gun Time": "0:32:16"
   },
   {
     "Position": 34,
@@ -303,7 +303,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:11:58",
-    "Finish": "0:32:13"
+    "Gun Time": "0:32:13"
   },
   {
     "Position": 35,
@@ -312,7 +312,7 @@
     "Club": "Tattyreagh",
     "Category": "MO",
     "2 Miles": "0:11:54",
-    "Finish": "0:32:14"
+    "Gun Time": "0:32:14"
   },
   {
     "Position": 36,
@@ -321,7 +321,7 @@
     "Club": "Omagh Harriers",
     "Category": "M45",
     "2 Miles": "0:12:22",
-    "Finish": "0:32:20"
+    "Gun Time": "0:32:20"
   },
   {
     "Position": 37,
@@ -330,7 +330,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:12:14",
-    "Finish": "0:32:19"
+    "Gun Time": "0:32:19"
   },
   {
     "Position": 38,
@@ -339,7 +339,7 @@
     "Club": "Pulse",
     "Category": "MO",
     "2 Miles": "0:12:44",
-    "Finish": "0:32:34"
+    "Gun Time": "0:32:34"
   },
   {
     "Position": 39,
@@ -348,7 +348,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:12:39",
-    "Finish": "0:32:36"
+    "Gun Time": "0:32:36"
   },
   {
     "Position": 40,
@@ -357,7 +357,7 @@
     "Club": "Errigal Ciaran G.A.C",
     "Category": "M40",
     "2 Miles": "0:12:33",
-    "Finish": "0:32:45"
+    "Gun Time": "0:32:45"
   },
   {
     "Position": 41,
@@ -366,7 +366,7 @@
     "Club": "Magherafelt Harriers",
     "Category": "M45",
     "2 Miles": "0:12:36",
-    "Finish": "0:32:46"
+    "Gun Time": "0:32:46"
   },
   {
     "Position": 42,
@@ -375,7 +375,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:11:47",
-    "Finish": "0:32:53"
+    "Gun Time": "0:32:53"
   },
   {
     "Position": 43,
@@ -384,7 +384,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:12:31",
-    "Finish": "0:32:55"
+    "Gun Time": "0:32:55"
   },
   {
     "Position": 44,
@@ -393,7 +393,7 @@
     "Club": "Muck Hogs",
     "Category": "MO",
     "2 Miles": "0:12:51",
-    "Finish": "0:32:56"
+    "Gun Time": "0:32:56"
   },
   {
     "Position": 45,
@@ -402,7 +402,7 @@
     "Club": "Knockmany Runners",
     "Category": "M40",
     "2 Miles": "0:12:22",
-    "Finish": "0:33:04"
+    "Gun Time": "0:33:04"
   },
   {
     "Position": 46,
@@ -411,7 +411,7 @@
     "Club": "Sperrin Harriers",
     "Category": "MO",
     "2 Miles": "0:12:51",
-    "Finish": "0:33:17"
+    "Gun Time": "0:33:17"
   },
   {
     "Position": 47,
@@ -420,7 +420,7 @@
     "Club": "Magherafelt Harriers",
     "Category": "M35",
     "2 Miles": "0:12:48",
-    "Finish": "0:33:23"
+    "Gun Time": "0:33:23"
   },
   {
     "Position": 48,
@@ -429,7 +429,7 @@
     "Club": "Sperrin Harriers",
     "Category": "MO",
     "2 Miles": "0:12:50",
-    "Finish": "0:33:29"
+    "Gun Time": "0:33:29"
   },
   {
     "Position": 49,
@@ -438,7 +438,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "2 Miles": "0:12:51",
-    "Finish": "0:33:29"
+    "Gun Time": "0:33:29"
   },
   {
     "Position": 50,
@@ -447,7 +447,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:12:54",
-    "Finish": "0:33:35"
+    "Gun Time": "0:33:35"
   },
   {
     "Position": 51,
@@ -456,7 +456,7 @@
     "Club": "Brothers Running Club",
     "Category": "MO",
     "2 Miles": "0:13:14",
-    "Finish": "0:33:26"
+    "Gun Time": "0:33:26"
   },
   {
     "Position": 52,
@@ -465,7 +465,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:12:50",
-    "Finish": "0:33:33"
+    "Gun Time": "0:33:33"
   },
   {
     "Position": 53,
@@ -474,7 +474,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:13:00",
-    "Finish": "0:33:32"
+    "Gun Time": "0:33:32"
   },
   {
     "Position": 54,
@@ -483,7 +483,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M35",
     "2 Miles": "0:12:47",
-    "Finish": "0:33:43"
+    "Gun Time": "0:33:43"
   },
   {
     "Position": 55,
@@ -492,7 +492,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:00",
-    "Finish": "0:33:48"
+    "Gun Time": "0:33:48"
   },
   {
     "Position": 56,
@@ -501,7 +501,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:12:33",
-    "Finish": "0:33:52"
+    "Gun Time": "0:33:52"
   },
   {
     "Position": 57,
@@ -510,7 +510,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:13:23",
-    "Finish": "0:33:46"
+    "Gun Time": "0:33:46"
   },
   {
     "Position": 58,
@@ -519,7 +519,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:34",
-    "Finish": "0:33:53"
+    "Gun Time": "0:33:53"
   },
   {
     "Position": 59,
@@ -528,7 +528,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:12:52",
-    "Finish": "0:34:01"
+    "Gun Time": "0:34:01"
   },
   {
     "Position": 60,
@@ -537,7 +537,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:12:54",
-    "Finish": "0:34:01"
+    "Gun Time": "0:34:01"
   },
   {
     "Position": 61,
@@ -546,7 +546,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:13:26",
-    "Finish": "0:33:51"
+    "Gun Time": "0:33:51"
   },
   {
     "Position": 62,
@@ -555,7 +555,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:05",
-    "Finish": "0:33:59"
+    "Gun Time": "0:33:59"
   },
   {
     "Position": 63,
@@ -564,7 +564,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:13:17",
-    "Finish": "0:34:10"
+    "Gun Time": "0:34:10"
   },
   {
     "Position": 64,
@@ -573,7 +573,7 @@
     "Club": "Kildress Wolfe Tones",
     "Category": "MO",
     "2 Miles": "0:12:57",
-    "Finish": "0:34:12"
+    "Gun Time": "0:34:12"
   },
   {
     "Position": 65,
@@ -582,7 +582,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:13:05",
-    "Finish": "0:34:17"
+    "Gun Time": "0:34:17"
   },
   {
     "Position": 66,
@@ -591,7 +591,7 @@
     "Club": "Knockmany Runners",
     "Category": "FO",
     "2 Miles": "0:12:34",
-    "Finish": "0:34:14"
+    "Gun Time": "0:34:14"
   },
   {
     "Position": 67,
@@ -600,7 +600,7 @@
     "Club": "Omagh Harriers",
     "Category": "M45",
     "2 Miles": "0:13:08",
-    "Finish": "0:34:12"
+    "Gun Time": "0:34:12"
   },
   {
     "Position": 68,
@@ -609,7 +609,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:12:49",
-    "Finish": "0:34:16"
+    "Gun Time": "0:34:16"
   },
   {
     "Position": 69,
@@ -618,7 +618,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:13:36",
-    "Finish": "0:34:08"
+    "Gun Time": "0:34:08"
   },
   {
     "Position": 70,
@@ -627,7 +627,7 @@
     "Club": "Muck Hogs",
     "Category": "M35",
     "2 Miles": "0:14:10",
-    "Finish": "0:34:10"
+    "Gun Time": "0:34:10"
   },
   {
     "Position": 71,
@@ -636,7 +636,7 @@
     "Club": "Magherafelt Harriers",
     "Category": "M40",
     "2 Miles": "0:13:08",
-    "Finish": "0:34:26"
+    "Gun Time": "0:34:26"
   },
   {
     "Position": 72,
@@ -645,7 +645,7 @@
     "Club": "Carmen Runners",
     "Category": "M40",
     "2 Miles": "0:13:20",
-    "Finish": "0:34:28"
+    "Gun Time": "0:34:28"
   },
   {
     "Position": 73,
@@ -654,7 +654,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:12:55",
-    "Finish": "0:34:42"
+    "Gun Time": "0:34:42"
   },
   {
     "Position": 74,
@@ -663,7 +663,7 @@
     "Club": "Omagh Harriers",
     "Category": "MJ",
     "2 Miles": "0:13:37",
-    "Finish": "0:34:41"
+    "Gun Time": "0:34:41"
   },
   {
     "Position": 75,
@@ -672,7 +672,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:13:51",
-    "Finish": "0:34:53"
+    "Gun Time": "0:34:53"
   },
   {
     "Position": 76,
@@ -681,7 +681,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:41",
-    "Finish": "0:34:53"
+    "Gun Time": "0:34:53"
   },
   {
     "Position": 77,
@@ -690,7 +690,7 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "2 Miles": "0:13:10",
-    "Finish": "0:34:58"
+    "Gun Time": "0:34:58"
   },
   {
     "Position": 78,
@@ -699,7 +699,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:01",
-    "Finish": "0:34:52"
+    "Gun Time": "0:34:52"
   },
   {
     "Position": 79,
@@ -708,7 +708,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:13:17",
-    "Finish": "0:34:59"
+    "Gun Time": "0:34:59"
   },
   {
     "Position": 80,
@@ -717,7 +717,7 @@
     "Club": "Lifford A.C. Fit For Life",
     "Category": "M40",
     "2 Miles": "0:14:08",
-    "Finish": "0:34:51"
+    "Gun Time": "0:34:51"
   },
   {
     "Position": 81,
@@ -726,7 +726,7 @@
     "Club": "Racing 795",
     "Category": "M40",
     "2 Miles": "0:12:55",
-    "Finish": "0:34:57"
+    "Gun Time": "0:34:57"
   },
   {
     "Position": 82,
@@ -735,7 +735,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:13:46",
-    "Finish": "0:34:44"
+    "Gun Time": "0:34:44"
   },
   {
     "Position": 83,
@@ -744,7 +744,7 @@
     "Club": "Pace Running Club",
     "Category": "MO",
     "2 Miles": "0:13:18",
-    "Finish": "0:35:02"
+    "Gun Time": "0:35:02"
   },
   {
     "Position": 84,
@@ -753,7 +753,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:13:08",
-    "Finish": "0:35:07"
+    "Gun Time": "0:35:07"
   },
   {
     "Position": 85,
@@ -762,7 +762,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:13:17",
-    "Finish": "0:35:14"
+    "Gun Time": "0:35:14"
   },
   {
     "Position": 86,
@@ -771,7 +771,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:13:52",
-    "Finish": "0:35:15"
+    "Gun Time": "0:35:15"
   },
   {
     "Position": 87,
@@ -780,7 +780,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:14:06",
-    "Finish": "0:35:22"
+    "Gun Time": "0:35:22"
   },
   {
     "Position": 88,
@@ -789,7 +789,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:13:19",
-    "Finish": "0:35:26"
+    "Gun Time": "0:35:26"
   },
   {
     "Position": 89,
@@ -798,7 +798,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:13:10",
-    "Finish": "0:35:27"
+    "Gun Time": "0:35:27"
   },
   {
     "Position": 90,
@@ -807,7 +807,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:13:50",
-    "Finish": "0:35:21"
+    "Gun Time": "0:35:21"
   },
   {
     "Position": 91,
@@ -816,7 +816,7 @@
     "Club": "Lifford A.C.",
     "Category": "M50",
     "2 Miles": "0:13:49",
-    "Finish": "0:35:29"
+    "Gun Time": "0:35:29"
   },
   {
     "Position": 92,
@@ -825,7 +825,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:19",
-    "Finish": "0:35:15"
+    "Gun Time": "0:35:15"
   },
   {
     "Position": 93,
@@ -834,7 +834,7 @@
     "Club": "BST Extreme",
     "Category": "MO",
     "2 Miles": "0:13:07",
-    "Finish": "0:35:43"
+    "Gun Time": "0:35:43"
   },
   {
     "Position": 94,
@@ -843,7 +843,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:00",
-    "Finish": "0:35:25"
+    "Gun Time": "0:35:25"
   },
   {
     "Position": 95,
@@ -852,7 +852,7 @@
     "Club": "Omagh Harriers",
     "Category": "M45",
     "2 Miles": "0:13:34",
-    "Finish": "0:35:47"
+    "Gun Time": "0:35:47"
   },
   {
     "Position": 96,
@@ -861,7 +861,7 @@
     "Club": "Project Africa",
     "Category": "M55",
     "2 Miles": "0:14:01",
-    "Finish": "0:35:48"
+    "Gun Time": "0:35:48"
   },
   {
     "Position": 97,
@@ -870,7 +870,7 @@
     "Club": "Acorn A.C.",
     "Category": "M35",
     "2 Miles": "0:14:08",
-    "Finish": "0:35:43"
+    "Gun Time": "0:35:43"
   },
   {
     "Position": 98,
@@ -879,7 +879,7 @@
     "Club": "Carmen Runners",
     "Category": "M40",
     "2 Miles": "0:13:13",
-    "Finish": "0:35:51"
+    "Gun Time": "0:35:51"
   },
   {
     "Position": 99,
@@ -888,7 +888,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:14",
-    "Finish": "0:35:54"
+    "Gun Time": "0:35:54"
   },
   {
     "Position": 100,
@@ -897,7 +897,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:13:30",
-    "Finish": "0:35:46"
+    "Gun Time": "0:35:46"
   },
   {
     "Position": 101,
@@ -906,7 +906,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:13:29",
-    "Finish": "0:35:54"
+    "Gun Time": "0:35:54"
   },
   {
     "Position": 102,
@@ -915,7 +915,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:13:12",
-    "Finish": "0:36:00"
+    "Gun Time": "0:36:00"
   },
   {
     "Position": 103,
@@ -924,7 +924,7 @@
     "Club": "Carmen Runners",
     "Category": "MJ",
     "2 Miles": "0:13:27",
-    "Finish": "0:35:57"
+    "Gun Time": "0:35:57"
   },
   {
     "Position": 104,
@@ -933,7 +933,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:14:07",
-    "Finish": "0:35:54"
+    "Gun Time": "0:35:54"
   },
   {
     "Position": 105,
@@ -942,7 +942,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:45",
-    "Finish": "0:35:58"
+    "Gun Time": "0:35:58"
   },
   {
     "Position": 106,
@@ -951,7 +951,7 @@
     "Club": "Manhattan Gaels",
     "Category": "MO",
     "2 Miles": "0:13:49",
-    "Finish": "0:36:02"
+    "Gun Time": "0:36:02"
   },
   {
     "Position": 107,
@@ -960,7 +960,7 @@
     "Club": "Omagh Harriers",
     "Category": "F45",
     "2 Miles": "0:13:37",
-    "Finish": "0:36:10"
+    "Gun Time": "0:36:10"
   },
   {
     "Position": 108,
@@ -969,7 +969,7 @@
     "Club": "Augher",
     "Category": "M35",
     "2 Miles": "0:13:24",
-    "Finish": "0:36:10"
+    "Gun Time": "0:36:10"
   },
   {
     "Position": 109,
@@ -978,7 +978,7 @@
     "Club": "Lamboa Athletic",
     "Category": "M35",
     "2 Miles": "0:13:46",
-    "Finish": "0:36:09"
+    "Gun Time": "0:36:09"
   },
   {
     "Position": 110,
@@ -987,7 +987,7 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "2 Miles": "0:13:54",
-    "Finish": "0:36:13"
+    "Gun Time": "0:36:13"
   },
   {
     "Position": 111,
@@ -996,7 +996,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:14:07",
-    "Finish": "0:36:11"
+    "Gun Time": "0:36:11"
   },
   {
     "Position": 112,
@@ -1005,7 +1005,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:13:56",
-    "Finish": "0:36:13"
+    "Gun Time": "0:36:13"
   },
   {
     "Position": 113,
@@ -1014,7 +1014,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "2 Miles": "0:14:00",
-    "Finish": "0:36:07"
+    "Gun Time": "0:36:07"
   },
   {
     "Position": 114,
@@ -1023,7 +1023,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:14:17",
-    "Finish": "0:36:11"
+    "Gun Time": "0:36:11"
   },
   {
     "Position": 115,
@@ -1032,7 +1032,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:14:08",
-    "Finish": "0:36:25"
+    "Gun Time": "0:36:25"
   },
   {
     "Position": 116,
@@ -1041,7 +1041,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:13:57",
-    "Finish": "0:36:27"
+    "Gun Time": "0:36:27"
   },
   {
     "Position": 117,
@@ -1050,7 +1050,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:42",
-    "Finish": "0:36:14"
+    "Gun Time": "0:36:14"
   },
   {
     "Position": 118,
@@ -1059,7 +1059,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M45",
     "2 Miles": "0:14:07",
-    "Finish": "0:36:23"
+    "Gun Time": "0:36:23"
   },
   {
     "Position": 119,
@@ -1068,7 +1068,7 @@
     "Club": "Brothers Running Club",
     "Category": "M40",
     "2 Miles": "0:14:08",
-    "Finish": "0:36:19"
+    "Gun Time": "0:36:19"
   },
   {
     "Position": 120,
@@ -1077,7 +1077,7 @@
     "Club": "Carmen Runners",
     "Category": "FO",
     "2 Miles": "0:13:40",
-    "Finish": "0:36:24"
+    "Gun Time": "0:36:24"
   },
   {
     "Position": 121,
@@ -1086,7 +1086,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:13:41",
-    "Finish": "0:36:31"
+    "Gun Time": "0:36:31"
   },
   {
     "Position": 122,
@@ -1095,7 +1095,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:33",
-    "Finish": "0:36:07"
+    "Gun Time": "0:36:07"
   },
   {
     "Position": 123,
@@ -1104,7 +1104,7 @@
     "Club": "Whitecross",
     "Category": "MO",
     "2 Miles": "0:14:13",
-    "Finish": "0:36:03"
+    "Gun Time": "0:36:03"
   },
   {
     "Position": 124,
@@ -1113,7 +1113,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:14:22",
-    "Finish": "0:36:27"
+    "Gun Time": "0:36:27"
   },
   {
     "Position": 125,
@@ -1122,7 +1122,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "2 Miles": "0:13:35",
-    "Finish": "0:36:34"
+    "Gun Time": "0:36:34"
   },
   {
     "Position": 126,
@@ -1131,7 +1131,7 @@
     "Club": "Dub Runners",
     "Category": "M35",
     "2 Miles": "0:13:56",
-    "Finish": "0:36:27"
+    "Gun Time": "0:36:27"
   },
   {
     "Position": 127,
@@ -1140,7 +1140,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:14:09",
-    "Finish": "0:36:22"
+    "Gun Time": "0:36:22"
   },
   {
     "Position": 128,
@@ -1149,7 +1149,7 @@
     "Club": "Omagh St. Endas G.A.C.",
     "Category": "MO",
     "2 Miles": "0:14:08",
-    "Finish": "0:36:39"
+    "Gun Time": "0:36:39"
   },
   {
     "Position": 129,
@@ -1158,7 +1158,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:57",
-    "Finish": "0:36:39"
+    "Gun Time": "0:36:39"
   },
   {
     "Position": 130,
@@ -1167,7 +1167,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:13:46",
-    "Finish": "0:36:46"
+    "Gun Time": "0:36:46"
   },
   {
     "Position": 131,
@@ -1176,7 +1176,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M35",
     "2 Miles": "0:14:16",
-    "Finish": "0:36:30"
+    "Gun Time": "0:36:30"
   },
   {
     "Position": 132,
@@ -1185,7 +1185,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:14:09",
-    "Finish": "0:36:39"
+    "Gun Time": "0:36:39"
   },
   {
     "Position": 133,
@@ -1194,7 +1194,7 @@
     "Club": "Lifford A.C. Fit For Life",
     "Category": "M45",
     "2 Miles": "0:14:21",
-    "Finish": "0:36:42"
+    "Gun Time": "0:36:42"
   },
   {
     "Position": 134,
@@ -1203,7 +1203,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:38",
-    "Finish": "0:36:46"
+    "Gun Time": "0:36:46"
   },
   {
     "Position": 135,
@@ -1212,7 +1212,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:13:32",
-    "Finish": "0:36:55"
+    "Gun Time": "0:36:55"
   },
   {
     "Position": 136,
@@ -1221,7 +1221,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:14:07",
-    "Finish": "0:36:53"
+    "Gun Time": "0:36:53"
   },
   {
     "Position": 137,
@@ -1230,7 +1230,7 @@
     "Club": "Ballymena Runners",
     "Category": "M65",
     "2 Miles": "0:14:09",
-    "Finish": "0:36:58"
+    "Gun Time": "0:36:58"
   },
   {
     "Position": 138,
@@ -1239,7 +1239,7 @@
     "Club": "Knockmany Runners",
     "Category": "M50",
     "2 Miles": "0:14:23",
-    "Finish": "0:36:44"
+    "Gun Time": "0:36:44"
   },
   {
     "Position": 139,
@@ -1248,7 +1248,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M50",
     "2 Miles": "0:14:09",
-    "Finish": "0:36:51"
+    "Gun Time": "0:36:51"
   },
   {
     "Position": 140,
@@ -1257,7 +1257,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "2 Miles": "0:13:50",
-    "Finish": "0:37:08"
+    "Gun Time": "0:37:08"
   },
   {
     "Position": 141,
@@ -1266,7 +1266,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:35",
-    "Finish": "0:36:49"
+    "Gun Time": "0:36:49"
   },
   {
     "Position": 142,
@@ -1275,7 +1275,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:14:09",
-    "Finish": "0:37:08"
+    "Gun Time": "0:37:08"
   },
   {
     "Position": 143,
@@ -1284,7 +1284,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:14:33",
-    "Finish": "0:37:14"
+    "Gun Time": "0:37:14"
   },
   {
     "Position": 144,
@@ -1293,7 +1293,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:33",
-    "Finish": "0:36:56"
+    "Gun Time": "0:36:56"
   },
   {
     "Position": 145,
@@ -1302,7 +1302,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:28",
-    "Finish": "0:36:58"
+    "Gun Time": "0:36:58"
   },
   {
     "Position": 146,
@@ -1311,7 +1311,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:14:10",
-    "Finish": "0:37:19"
+    "Gun Time": "0:37:19"
   },
   {
     "Position": 147,
@@ -1320,7 +1320,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M40",
     "2 Miles": "0:14:08",
-    "Finish": "0:37:10"
+    "Gun Time": "0:37:10"
   },
   {
     "Position": 148,
@@ -1329,7 +1329,7 @@
     "Club": "Acorn A.C.",
     "Category": "M60",
     "2 Miles": "0:14:10",
-    "Finish": "0:37:19"
+    "Gun Time": "0:37:19"
   },
   {
     "Position": 149,
@@ -1338,7 +1338,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:07",
-    "Finish": "0:37:08"
+    "Gun Time": "0:37:08"
   },
   {
     "Position": 150,
@@ -1347,7 +1347,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:14:42",
-    "Finish": "0:37:09"
+    "Gun Time": "0:37:09"
   },
   {
     "Position": 151,
@@ -1356,7 +1356,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "2 Miles": "0:14:43",
-    "Finish": "0:37:03"
+    "Gun Time": "0:37:03"
   },
   {
     "Position": 152,
@@ -1365,7 +1365,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:14:13",
-    "Finish": "0:37:26"
+    "Gun Time": "0:37:26"
   },
   {
     "Position": 153,
@@ -1374,7 +1374,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:14:34",
-    "Finish": "0:37:09"
+    "Gun Time": "0:37:09"
   },
   {
     "Position": 154,
@@ -1383,7 +1383,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:14:05",
-    "Finish": "0:37:18"
+    "Gun Time": "0:37:18"
   },
   {
     "Position": 155,
@@ -1392,7 +1392,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:14:06",
-    "Finish": "0:37:25"
+    "Gun Time": "0:37:25"
   },
   {
     "Position": 156,
@@ -1401,7 +1401,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:22",
-    "Finish": "0:37:25"
+    "Gun Time": "0:37:25"
   },
   {
     "Position": 157,
@@ -1410,7 +1410,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:13:39",
-    "Finish": "0:37:25"
+    "Gun Time": "0:37:25"
   },
   {
     "Position": 158,
@@ -1419,7 +1419,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:15:02",
-    "Finish": "0:37:31"
+    "Gun Time": "0:37:31"
   },
   {
     "Position": 159,
@@ -1428,7 +1428,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:14:41",
-    "Finish": "0:37:17"
+    "Gun Time": "0:37:17"
   },
   {
     "Position": 160,
@@ -1437,7 +1437,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:13:56",
-    "Finish": "0:37:35"
+    "Gun Time": "0:37:35"
   },
   {
     "Position": 161,
@@ -1446,7 +1446,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:35",
-    "Finish": "0:37:13"
+    "Gun Time": "0:37:13"
   },
   {
     "Position": 162,
@@ -1455,7 +1455,7 @@
     "Club": "Omagh Harriers",
     "Category": "MJ",
     "2 Miles": "0:14:16",
-    "Finish": "0:37:43"
+    "Gun Time": "0:37:43"
   },
   {
     "Position": 163,
@@ -1464,7 +1464,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:13:38",
-    "Finish": "0:37:47"
+    "Gun Time": "0:37:47"
   },
   {
     "Position": 164,
@@ -1473,7 +1473,7 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "2 Miles": "0:14:35",
-    "Finish": "0:37:31"
+    "Gun Time": "0:37:31"
   },
   {
     "Position": 165,
@@ -1482,7 +1482,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:13:42",
-    "Finish": "0:37:46"
+    "Gun Time": "0:37:46"
   },
   {
     "Position": 166,
@@ -1491,7 +1491,7 @@
     "Club": "Termoneeny",
     "Category": "M50",
     "2 Miles": "0:14:47",
-    "Finish": "0:37:38"
+    "Gun Time": "0:37:38"
   },
   {
     "Position": 167,
@@ -1500,7 +1500,7 @@
     "Club": "Omagh Harriers",
     "Category": "F45",
     "2 Miles": "0:14:24",
-    "Finish": "0:37:47"
+    "Gun Time": "0:37:47"
   },
   {
     "Position": 168,
@@ -1509,7 +1509,7 @@
     "Club": "Knockmany Runners",
     "Category": "M40",
     "2 Miles": "0:15:21",
-    "Finish": "0:37:39"
+    "Gun Time": "0:37:39"
   },
   {
     "Position": 169,
@@ -1518,7 +1518,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:14:46",
-    "Finish": "0:37:55"
+    "Gun Time": "0:37:55"
   },
   {
     "Position": 170,
@@ -1527,7 +1527,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:46",
-    "Finish": "0:37:47"
+    "Gun Time": "0:37:47"
   },
   {
     "Position": 171,
@@ -1536,7 +1536,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M35",
     "2 Miles": "0:14:43",
-    "Finish": "0:37:38"
+    "Gun Time": "0:37:38"
   },
   {
     "Position": 172,
@@ -1545,7 +1545,7 @@
     "Club": "Lifford A.C.",
     "Category": "M40",
     "2 Miles": "0:14:05",
-    "Finish": "0:37:55"
+    "Gun Time": "0:37:55"
   },
   {
     "Position": 173,
@@ -1554,7 +1554,7 @@
     "Club": "Pomeroy Runners",
     "Category": "MO",
     "2 Miles": "0:16:00",
-    "Finish": "0:37:30"
+    "Gun Time": "0:37:30"
   },
   {
     "Position": 174,
@@ -1563,7 +1563,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:37",
-    "Finish": "0:37:39"
+    "Gun Time": "0:37:39"
   },
   {
     "Position": 175,
@@ -1572,7 +1572,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:19",
-    "Finish": "0:37:40"
+    "Gun Time": "0:37:40"
   },
   {
     "Position": 176,
@@ -1581,7 +1581,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:14:50",
-    "Finish": "0:38:01"
+    "Gun Time": "0:38:01"
   },
   {
     "Position": 177,
@@ -1590,7 +1590,7 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "2 Miles": "0:15:04",
-    "Finish": "0:37:40"
+    "Gun Time": "0:37:40"
   },
   {
     "Position": 178,
@@ -1599,7 +1599,7 @@
     "Club": "Omagh Harriers",
     "Category": "M60",
     "2 Miles": "0:14:18",
-    "Finish": "0:38:10"
+    "Gun Time": "0:38:10"
   },
   {
     "Position": 179,
@@ -1608,7 +1608,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:15:10",
-    "Finish": "0:38:01"
+    "Gun Time": "0:38:01"
   },
   {
     "Position": 180,
@@ -1617,7 +1617,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:14:38",
-    "Finish": "0:38:07"
+    "Gun Time": "0:38:07"
   },
   {
     "Position": 181,
@@ -1626,7 +1626,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "2 Miles": "0:14:46",
-    "Finish": "0:37:55"
+    "Gun Time": "0:37:55"
   },
   {
     "Position": 182,
@@ -1635,7 +1635,7 @@
     "Club": "Carmen Runners",
     "Category": "MO",
     "2 Miles": "0:14:07",
-    "Finish": "0:38:02"
+    "Gun Time": "0:38:02"
   },
   {
     "Position": 183,
@@ -1644,7 +1644,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:29",
-    "Finish": "0:38:04"
+    "Gun Time": "0:38:04"
   },
   {
     "Position": 184,
@@ -1653,7 +1653,7 @@
     "Club": "",
     "Category": "",
     "2 Miles": "0:13:11",
-    "Finish": "0:38:24"
+    "Gun Time": "0:38:24"
   },
   {
     "Position": 185,
@@ -1662,7 +1662,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:43",
-    "Finish": "0:38:24"
+    "Gun Time": "0:38:24"
   },
   {
     "Position": 186,
@@ -1671,7 +1671,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:29",
-    "Finish": "0:38:11"
+    "Gun Time": "0:38:11"
   },
   {
     "Position": 187,
@@ -1680,7 +1680,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:14:58",
-    "Finish": "0:38:18"
+    "Gun Time": "0:38:18"
   },
   {
     "Position": 188,
@@ -1689,7 +1689,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:15:31",
-    "Finish": "0:38:00"
+    "Gun Time": "0:38:00"
   },
   {
     "Position": 189,
@@ -1698,7 +1698,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:14:18",
-    "Finish": "0:38:22"
+    "Gun Time": "0:38:22"
   },
   {
     "Position": 190,
@@ -1707,7 +1707,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:18",
-    "Finish": "0:38:15"
+    "Gun Time": "0:38:15"
   },
   {
     "Position": 191,
@@ -1716,7 +1716,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:14:12",
-    "Finish": "0:38:09"
+    "Gun Time": "0:38:09"
   },
   {
     "Position": 192,
@@ -1725,7 +1725,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:15:25",
-    "Finish": "0:38:05"
+    "Gun Time": "0:38:05"
   },
   {
     "Position": 193,
@@ -1734,7 +1734,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:14:15",
-    "Finish": "0:38:36"
+    "Gun Time": "0:38:36"
   },
   {
     "Position": 194,
@@ -1743,7 +1743,7 @@
     "Club": "Carmen Runners",
     "Category": "F35",
     "2 Miles": "0:14:46",
-    "Finish": "0:38:38"
+    "Gun Time": "0:38:38"
   },
   {
     "Position": 195,
@@ -1752,7 +1752,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:18",
-    "Finish": "0:38:45"
+    "Gun Time": "0:38:45"
   },
   {
     "Position": 196,
@@ -1761,7 +1761,7 @@
     "Club": "Dub Runners",
     "Category": "M35",
     "2 Miles": "0:14:18",
-    "Finish": "0:38:29"
+    "Gun Time": "0:38:29"
   },
   {
     "Position": 197,
@@ -1770,7 +1770,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:15:12",
-    "Finish": "0:38:46"
+    "Gun Time": "0:38:46"
   },
   {
     "Position": 198,
@@ -1779,7 +1779,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "2 Miles": "0:14:41",
-    "Finish": "0:38:34"
+    "Gun Time": "0:38:34"
   },
   {
     "Position": 199,
@@ -1788,7 +1788,7 @@
     "Club": "Omagh Harriers",
     "Category": "F35",
     "2 Miles": "0:14:58",
-    "Finish": "0:38:39"
+    "Gun Time": "0:38:39"
   },
   {
     "Position": 200,
@@ -1797,7 +1797,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:15:12",
-    "Finish": "0:38:33"
+    "Gun Time": "0:38:33"
   },
   {
     "Position": 201,
@@ -1806,7 +1806,7 @@
     "Club": "Pomeroy Runners",
     "Category": "FO",
     "2 Miles": "0:15:28",
-    "Finish": "0:38:20"
+    "Gun Time": "0:38:20"
   },
   {
     "Position": 202,
@@ -1815,7 +1815,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:12",
-    "Finish": "0:38:48"
+    "Gun Time": "0:38:48"
   },
   {
     "Position": 203,
@@ -1824,7 +1824,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:15:09",
-    "Finish": "0:38:43"
+    "Gun Time": "0:38:43"
   },
   {
     "Position": 204,
@@ -1833,7 +1833,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:15:14",
-    "Finish": "0:38:44"
+    "Gun Time": "0:38:44"
   },
   {
     "Position": 205,
@@ -1842,7 +1842,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M40",
     "2 Miles": "0:14:36",
-    "Finish": "0:38:47"
+    "Gun Time": "0:38:47"
   },
   {
     "Position": 206,
@@ -1851,7 +1851,7 @@
     "Club": "",
     "Category": "FJ",
     "2 Miles": "0:13:44",
-    "Finish": "0:38:57"
+    "Gun Time": "0:38:57"
   },
   {
     "Position": 207,
@@ -1860,7 +1860,7 @@
     "Club": "Lifford A.C.",
     "Category": "M45",
     "2 Miles": "0:14:36",
-    "Finish": "0:38:51"
+    "Gun Time": "0:38:51"
   },
   {
     "Position": 208,
@@ -1869,7 +1869,7 @@
     "Club": "Loughmacrory",
     "Category": "M35",
     "2 Miles": "0:15:31",
-    "Finish": "0:38:33"
+    "Gun Time": "0:38:33"
   },
   {
     "Position": 209,
@@ -1878,7 +1878,7 @@
     "Club": "Loughmacrory",
     "Category": "M40",
     "2 Miles": "0:15:03",
-    "Finish": "0:38:56"
+    "Gun Time": "0:38:56"
   },
   {
     "Position": 210,
@@ -1887,7 +1887,7 @@
     "Club": "",
     "Category": "",
     "2 Miles": "0:13:58",
-    "Finish": "0:39:07"
+    "Gun Time": "0:39:07"
   },
   {
     "Position": 211,
@@ -1896,7 +1896,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M60",
     "2 Miles": "0:14:35",
-    "Finish": "0:39:11"
+    "Gun Time": "0:39:11"
   },
   {
     "Position": 212,
@@ -1905,7 +1905,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:18",
-    "Finish": "0:38:48"
+    "Gun Time": "0:38:48"
   },
   {
     "Position": 213,
@@ -1914,7 +1914,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:15:36",
-    "Finish": "0:39:05"
+    "Gun Time": "0:39:05"
   },
   {
     "Position": 214,
@@ -1923,7 +1923,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:14:21",
-    "Finish": "0:39:21"
+    "Gun Time": "0:39:21"
   },
   {
     "Position": 215,
@@ -1932,7 +1932,7 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "2 Miles": "0:14:13",
-    "Finish": "0:38:56"
+    "Gun Time": "0:38:56"
   },
   {
     "Position": 216,
@@ -1941,7 +1941,7 @@
     "Club": "Omagh Harriers",
     "Category": "M65",
     "2 Miles": "0:15:04",
-    "Finish": "0:39:19"
+    "Gun Time": "0:39:19"
   },
   {
     "Position": 217,
@@ -1950,7 +1950,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:15:03",
-    "Finish": "0:39:35"
+    "Gun Time": "0:39:35"
   },
   {
     "Position": 218,
@@ -1959,7 +1959,7 @@
     "Club": "Termoneeny",
     "Category": "M40",
     "2 Miles": "0:15:12",
-    "Finish": "0:39:21"
+    "Gun Time": "0:39:21"
   },
   {
     "Position": 219,
@@ -1968,7 +1968,7 @@
     "Club": "Drumquinn",
     "Category": "MO",
     "2 Miles": "0:14:12",
-    "Finish": "0:39:23"
+    "Gun Time": "0:39:23"
   },
   {
     "Position": 220,
@@ -1977,7 +1977,7 @@
     "Club": "Finn Valley",
     "Category": "F55",
     "2 Miles": "0:15:05",
-    "Finish": "0:39:40"
+    "Gun Time": "0:39:40"
   },
   {
     "Position": 221,
@@ -1986,7 +1986,7 @@
     "Club": "Lifford AC",
     "Category": "M40",
     "2 Miles": "",
-    "Finish": "0:39:40"
+    "Gun Time": "0:39:40"
   },
   {
     "Position": 222,
@@ -1995,7 +1995,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:52",
-    "Finish": "0:39:13"
+    "Gun Time": "0:39:13"
   },
   {
     "Position": 223,
@@ -2004,7 +2004,7 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "2 Miles": "0:15:40",
-    "Finish": "0:39:22"
+    "Gun Time": "0:39:22"
   },
   {
     "Position": 224,
@@ -2013,7 +2013,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:28",
-    "Finish": "0:39:30"
+    "Gun Time": "0:39:30"
   },
   {
     "Position": 225,
@@ -2022,7 +2022,7 @@
     "Club": "Knockmany Runners",
     "Category": "M40",
     "2 Miles": "0:15:51",
-    "Finish": "0:39:24"
+    "Gun Time": "0:39:24"
   },
   {
     "Position": 226,
@@ -2031,7 +2031,7 @@
     "Club": "Wee County Harriers",
     "Category": "F45",
     "2 Miles": "0:16:19",
-    "Finish": "0:39:22"
+    "Gun Time": "0:39:22"
   },
   {
     "Position": 227,
@@ -2040,7 +2040,7 @@
     "Club": "Dromore A.C.",
     "Category": "M50",
     "2 Miles": "0:15:25",
-    "Finish": "0:39:31"
+    "Gun Time": "0:39:31"
   },
   {
     "Position": 228,
@@ -2049,7 +2049,7 @@
     "Club": "Acorn A.C.",
     "Category": "F55",
     "2 Miles": "0:14:56",
-    "Finish": "0:39:44"
+    "Gun Time": "0:39:44"
   },
   {
     "Position": 229,
@@ -2058,7 +2058,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:15:28",
-    "Finish": "0:39:32"
+    "Gun Time": "0:39:32"
   },
   {
     "Position": 230,
@@ -2067,7 +2067,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:14:50",
-    "Finish": "0:39:33"
+    "Gun Time": "0:39:33"
   },
   {
     "Position": 231,
@@ -2076,7 +2076,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:15:12",
-    "Finish": "0:39:57"
+    "Gun Time": "0:39:57"
   },
   {
     "Position": 232,
@@ -2085,7 +2085,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M50",
     "2 Miles": "0:15:39",
-    "Finish": "0:39:49"
+    "Gun Time": "0:39:49"
   },
   {
     "Position": 233,
@@ -2094,7 +2094,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:30",
-    "Finish": "0:39:59"
+    "Gun Time": "0:39:59"
   },
   {
     "Position": 234,
@@ -2103,7 +2103,7 @@
     "Club": "Omagh Harriers",
     "Category": "M55",
     "2 Miles": "0:15:36",
-    "Finish": "0:39:47"
+    "Gun Time": "0:39:47"
   },
   {
     "Position": 235,
@@ -2112,7 +2112,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:15:44",
-    "Finish": "0:40:04"
+    "Gun Time": "0:40:04"
   },
   {
     "Position": 236,
@@ -2121,7 +2121,7 @@
     "Club": "Strabane",
     "Category": "M40",
     "2 Miles": "0:15:46",
-    "Finish": "0:39:38"
+    "Gun Time": "0:39:38"
   },
   {
     "Position": 237,
@@ -2130,7 +2130,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:15:24",
-    "Finish": "0:39:48"
+    "Gun Time": "0:39:48"
   },
   {
     "Position": 238,
@@ -2139,7 +2139,7 @@
     "Club": "Coagh",
     "Category": "MO",
     "2 Miles": "0:15:33",
-    "Finish": "0:39:48"
+    "Gun Time": "0:39:48"
   },
   {
     "Position": 239,
@@ -2148,7 +2148,7 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "2 Miles": "0:15:04",
-    "Finish": "0:40:03"
+    "Gun Time": "0:40:03"
   },
   {
     "Position": 240,
@@ -2157,7 +2157,7 @@
     "Club": "U.C.D.",
     "Category": "MO",
     "2 Miles": "0:15:03",
-    "Finish": "0:39:54"
+    "Gun Time": "0:39:54"
   },
   {
     "Position": 241,
@@ -2166,7 +2166,7 @@
     "Club": "Killyclogher",
     "Category": "MO",
     "2 Miles": "0:15:36",
-    "Finish": "0:40:09"
+    "Gun Time": "0:40:09"
   },
   {
     "Position": 242,
@@ -2175,7 +2175,7 @@
     "Club": "Coffin Dodgers A.C.",
     "Category": "M55",
     "2 Miles": "0:16:02",
-    "Finish": "0:39:57"
+    "Gun Time": "0:39:57"
   },
   {
     "Position": 243,
@@ -2184,7 +2184,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:16:00",
-    "Finish": "0:40:04"
+    "Gun Time": "0:40:04"
   },
   {
     "Position": 244,
@@ -2193,7 +2193,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:14:39",
-    "Finish": "0:40:28"
+    "Gun Time": "0:40:28"
   },
   {
     "Position": 245,
@@ -2202,7 +2202,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:15:26",
-    "Finish": "0:40:08"
+    "Gun Time": "0:40:08"
   },
   {
     "Position": 246,
@@ -2211,7 +2211,7 @@
     "Club": "Loughmacrory",
     "Category": "FO",
     "2 Miles": "0:15:42",
-    "Finish": "0:40:03"
+    "Gun Time": "0:40:03"
   },
   {
     "Position": 247,
@@ -2220,7 +2220,7 @@
     "Club": "Fintona Runners",
     "Category": "FO",
     "2 Miles": "0:15:33",
-    "Finish": "0:40:19"
+    "Gun Time": "0:40:19"
   },
   {
     "Position": 248,
@@ -2229,7 +2229,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:15:42",
-    "Finish": "0:40:23"
+    "Gun Time": "0:40:23"
   },
   {
     "Position": 249,
@@ -2238,7 +2238,7 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "2 Miles": "0:15:26",
-    "Finish": "0:40:06"
+    "Gun Time": "0:40:06"
   },
   {
     "Position": 250,
@@ -2247,7 +2247,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M35",
     "2 Miles": "0:15:51",
-    "Finish": "0:40:06"
+    "Gun Time": "0:40:06"
   },
   {
     "Position": 251,
@@ -2256,7 +2256,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:15:41",
-    "Finish": "0:40:18"
+    "Gun Time": "0:40:18"
   },
   {
     "Position": 252,
@@ -2265,7 +2265,7 @@
     "Club": "NICS A.C.",
     "Category": "M50",
     "2 Miles": "0:15:54",
-    "Finish": "0:40:26"
+    "Gun Time": "0:40:26"
   },
   {
     "Position": 253,
@@ -2274,7 +2274,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:16:24",
-    "Finish": "0:40:20"
+    "Gun Time": "0:40:20"
   },
   {
     "Position": 254,
@@ -2283,7 +2283,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:12",
-    "Finish": "0:40:31"
+    "Gun Time": "0:40:31"
   },
   {
     "Position": 255,
@@ -2292,7 +2292,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:16:04",
-    "Finish": "0:40:12"
+    "Gun Time": "0:40:12"
   },
   {
     "Position": 256,
@@ -2301,7 +2301,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:13:57",
-    "Finish": "0:40:47"
+    "Gun Time": "0:40:47"
   },
   {
     "Position": 257,
@@ -2310,7 +2310,7 @@
     "Club": "Kildress Wolfe Tones",
     "Category": "MO",
     "2 Miles": "0:16:04",
-    "Finish": "0:40:21"
+    "Gun Time": "0:40:21"
   },
   {
     "Position": 258,
@@ -2319,7 +2319,7 @@
     "Club": "Carmen Runners",
     "Category": "FO",
     "2 Miles": "0:15:14",
-    "Finish": "0:40:47"
+    "Gun Time": "0:40:47"
   },
   {
     "Position": 259,
@@ -2328,7 +2328,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:11",
-    "Finish": "0:40:48"
+    "Gun Time": "0:40:48"
   },
   {
     "Position": 260,
@@ -2337,7 +2337,7 @@
     "Club": "Enniskillen Running Club",
     "Category": "F40",
     "2 Miles": "0:15:47",
-    "Finish": "0:40:41"
+    "Gun Time": "0:40:41"
   },
   {
     "Position": 261,
@@ -2346,7 +2346,7 @@
     "Club": "Manhattan Gaels",
     "Category": "FO",
     "2 Miles": "0:15:33",
-    "Finish": "0:40:51"
+    "Gun Time": "0:40:51"
   },
   {
     "Position": 262,
@@ -2355,7 +2355,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:15:27",
-    "Finish": "0:40:50"
+    "Gun Time": "0:40:50"
   },
   {
     "Position": 263,
@@ -2364,7 +2364,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "M45",
     "2 Miles": "0:15:27",
-    "Finish": "0:40:49"
+    "Gun Time": "0:40:49"
   },
   {
     "Position": 264,
@@ -2373,7 +2373,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:16:37",
-    "Finish": "0:40:30"
+    "Gun Time": "0:40:30"
   },
   {
     "Position": 265,
@@ -2382,7 +2382,7 @@
     "Club": "E.R.C.",
     "Category": "F40",
     "2 Miles": "0:16:37",
-    "Finish": "0:40:30"
+    "Gun Time": "0:40:30"
   },
   {
     "Position": 266,
@@ -2391,7 +2391,7 @@
     "Club": "Loughmacrory",
     "Category": "FO",
     "2 Miles": "0:15:54",
-    "Finish": "0:40:43"
+    "Gun Time": "0:40:43"
   },
   {
     "Position": 267,
@@ -2400,7 +2400,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:49",
-    "Finish": "0:40:49"
+    "Gun Time": "0:40:49"
   },
   {
     "Position": 268,
@@ -2409,7 +2409,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:21",
-    "Finish": "0:41:15"
+    "Gun Time": "0:41:15"
   },
   {
     "Position": 269,
@@ -2418,7 +2418,7 @@
     "Club": "Knockmany Runners",
     "Category": "F35",
     "2 Miles": "0:15:57",
-    "Finish": "0:40:50"
+    "Gun Time": "0:40:50"
   },
   {
     "Position": 270,
@@ -2427,7 +2427,7 @@
     "Club": "BST",
     "Category": "M35",
     "2 Miles": "0:15:44",
-    "Finish": "0:40:58"
+    "Gun Time": "0:40:58"
   },
   {
     "Position": 271,
@@ -2436,7 +2436,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:32",
-    "Finish": "0:41:22"
+    "Gun Time": "0:41:22"
   },
   {
     "Position": 272,
@@ -2445,7 +2445,7 @@
     "Club": "R Running Club",
     "Category": "FO",
     "2 Miles": "0:16:08",
-    "Finish": "0:41:18"
+    "Gun Time": "0:41:18"
   },
   {
     "Position": 273,
@@ -2454,7 +2454,7 @@
     "Club": "Omagh St. Endas G.A.C.",
     "Category": "MO",
     "2 Miles": "0:16:38",
-    "Finish": "0:41:27"
+    "Gun Time": "0:41:27"
   },
   {
     "Position": 274,
@@ -2463,7 +2463,7 @@
     "Club": "Acorn A.C.",
     "Category": "FO",
     "2 Miles": "0:15:06",
-    "Finish": "0:41:32"
+    "Gun Time": "0:41:32"
   },
   {
     "Position": 275,
@@ -2472,7 +2472,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:16:02",
-    "Finish": "0:41:20"
+    "Gun Time": "0:41:20"
   },
   {
     "Position": 276,
@@ -2481,7 +2481,7 @@
     "Club": "Omagh Harriers",
     "Category": "F40",
     "2 Miles": "0:15:42",
-    "Finish": "0:41:17"
+    "Gun Time": "0:41:17"
   },
   {
     "Position": 277,
@@ -2490,7 +2490,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:38",
-    "Finish": "0:41:33"
+    "Gun Time": "0:41:33"
   },
   {
     "Position": 278,
@@ -2499,7 +2499,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:15:08",
-    "Finish": "0:41:40"
+    "Gun Time": "0:41:40"
   },
   {
     "Position": 279,
@@ -2508,7 +2508,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:16:53",
-    "Finish": "0:41:17"
+    "Gun Time": "0:41:17"
   },
   {
     "Position": 280,
@@ -2517,7 +2517,7 @@
     "Club": "Kildress Wolfe Tones",
     "Category": "MJ",
     "2 Miles": "0:16:19",
-    "Finish": "0:41:20"
+    "Gun Time": "0:41:20"
   },
   {
     "Position": 281,
@@ -2526,7 +2526,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:16:10",
-    "Finish": "0:41:45"
+    "Gun Time": "0:41:45"
   },
   {
     "Position": 282,
@@ -2535,7 +2535,7 @@
     "Club": "",
     "Category": "F50",
     "2 Miles": "0:16:45",
-    "Finish": "0:41:35"
+    "Gun Time": "0:41:35"
   },
   {
     "Position": 283,
@@ -2544,7 +2544,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:16:53",
-    "Finish": "0:41:22"
+    "Gun Time": "0:41:22"
   },
   {
     "Position": 284,
@@ -2553,7 +2553,7 @@
     "Club": "Clones Athletic Club",
     "Category": "M40",
     "2 Miles": "0:15:47",
-    "Finish": "0:41:42"
+    "Gun Time": "0:41:42"
   },
   {
     "Position": 285,
@@ -2562,7 +2562,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:32",
-    "Finish": "0:42:00"
+    "Gun Time": "0:42:00"
   },
   {
     "Position": 286,
@@ -2571,7 +2571,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:47",
-    "Finish": "0:41:35"
+    "Gun Time": "0:41:35"
   },
   {
     "Position": 287,
@@ -2580,7 +2580,7 @@
     "Club": "Omagh Harriers",
     "Category": "FO",
     "2 Miles": "0:16:02",
-    "Finish": "0:41:57"
+    "Gun Time": "0:41:57"
   },
   {
     "Position": 288,
@@ -2589,7 +2589,7 @@
     "Club": "Errigal Ciaran G.A.C",
     "Category": "F40",
     "2 Miles": "0:15:46",
-    "Finish": "0:42:02"
+    "Gun Time": "0:42:02"
   },
   {
     "Position": 289,
@@ -2598,7 +2598,7 @@
     "Club": "Pomeroy Runners",
     "Category": "M40",
     "2 Miles": "0:16:14",
-    "Finish": "0:41:44"
+    "Gun Time": "0:41:44"
   },
   {
     "Position": 290,
@@ -2607,7 +2607,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:16:08",
-    "Finish": "0:41:47"
+    "Gun Time": "0:41:47"
   },
   {
     "Position": 291,
@@ -2616,7 +2616,7 @@
     "Club": "Pomeroy Runners",
     "Category": "M40",
     "2 Miles": "0:16:14",
-    "Finish": "0:41:44"
+    "Gun Time": "0:41:44"
   },
   {
     "Position": 292,
@@ -2625,7 +2625,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:16:43",
-    "Finish": "0:42:06"
+    "Gun Time": "0:42:06"
   },
   {
     "Position": 293,
@@ -2634,7 +2634,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:16:46",
-    "Finish": "0:42:09"
+    "Gun Time": "0:42:09"
   },
   {
     "Position": 294,
@@ -2643,7 +2643,7 @@
     "Club": "Carmen Runners",
     "Category": "F35",
     "2 Miles": "0:16:26",
-    "Finish": "0:42:28"
+    "Gun Time": "0:42:28"
   },
   {
     "Position": 295,
@@ -2652,7 +2652,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:16:24",
-    "Finish": "0:41:57"
+    "Gun Time": "0:41:57"
   },
   {
     "Position": 296,
@@ -2661,7 +2661,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:35",
-    "Finish": "0:42:21"
+    "Gun Time": "0:42:21"
   },
   {
     "Position": 297,
@@ -2670,7 +2670,7 @@
     "Club": "Muck Hogs",
     "Category": "MO",
     "2 Miles": "0:16:10",
-    "Finish": "0:42:07"
+    "Gun Time": "0:42:07"
   },
   {
     "Position": 298,
@@ -2679,7 +2679,7 @@
     "Club": "Ballymena Runners",
     "Category": "F55",
     "2 Miles": "0:16:07",
-    "Finish": "0:42:18"
+    "Gun Time": "0:42:18"
   },
   {
     "Position": 299,
@@ -2688,7 +2688,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:15:27",
-    "Finish": "0:42:34"
+    "Gun Time": "0:42:34"
   },
   {
     "Position": 300,
@@ -2697,7 +2697,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:15:51",
-    "Finish": "0:42:11"
+    "Gun Time": "0:42:11"
   },
   {
     "Position": 301,
@@ -2706,7 +2706,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:07",
-    "Finish": "0:41:55"
+    "Gun Time": "0:41:55"
   },
   {
     "Position": 302,
@@ -2715,7 +2715,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:35",
-    "Finish": "0:42:36"
+    "Gun Time": "0:42:36"
   },
   {
     "Position": 303,
@@ -2724,7 +2724,7 @@
     "Club": "Muck Hogs",
     "Category": "MO",
     "2 Miles": "0:15:59",
-    "Finish": "0:42:26"
+    "Gun Time": "0:42:26"
   },
   {
     "Position": 304,
@@ -2733,7 +2733,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:17:09",
-    "Finish": "0:42:10"
+    "Gun Time": "0:42:10"
   },
   {
     "Position": 305,
@@ -2742,7 +2742,7 @@
     "Club": "Fintona Runners",
     "Category": "M40",
     "2 Miles": "0:17:08",
-    "Finish": "0:42:13"
+    "Gun Time": "0:42:13"
   },
   {
     "Position": 306,
@@ -2751,7 +2751,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:16:38",
-    "Finish": "0:42:35"
+    "Gun Time": "0:42:35"
   },
   {
     "Position": 307,
@@ -2760,7 +2760,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:16:39",
-    "Finish": "0:42:36"
+    "Gun Time": "0:42:36"
   },
   {
     "Position": 308,
@@ -2769,7 +2769,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:30",
-    "Finish": "0:42:55"
+    "Gun Time": "0:42:55"
   },
   {
     "Position": 309,
@@ -2778,7 +2778,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:01",
-    "Finish": "0:42:36"
+    "Gun Time": "0:42:36"
   },
   {
     "Position": 310,
@@ -2787,7 +2787,7 @@
     "Club": "Clones Athletic Club",
     "Category": "M45",
     "2 Miles": "0:17:23",
-    "Finish": "0:42:48"
+    "Gun Time": "0:42:48"
   },
   {
     "Position": 311,
@@ -2796,7 +2796,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:53",
-    "Finish": "0:42:39"
+    "Gun Time": "0:42:39"
   },
   {
     "Position": 312,
@@ -2805,7 +2805,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:53",
-    "Finish": "0:42:39"
+    "Gun Time": "0:42:39"
   },
   {
     "Position": 313,
@@ -2814,7 +2814,7 @@
     "Club": "Termoneeny",
     "Category": "M65",
     "2 Miles": "0:15:44",
-    "Finish": "0:42:51"
+    "Gun Time": "0:42:51"
   },
   {
     "Position": 314,
@@ -2823,7 +2823,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:51",
-    "Finish": "0:42:53"
+    "Gun Time": "0:42:53"
   },
   {
     "Position": 315,
@@ -2832,7 +2832,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:17:26",
-    "Finish": "0:42:57"
+    "Gun Time": "0:42:57"
   },
   {
     "Position": 316,
@@ -2841,7 +2841,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:54",
-    "Finish": "0:43:14"
+    "Gun Time": "0:43:14"
   },
   {
     "Position": 317,
@@ -2850,7 +2850,7 @@
     "Club": "Muck Hogs",
     "Category": "FO",
     "2 Miles": "0:17:05",
-    "Finish": "0:43:00"
+    "Gun Time": "0:43:00"
   },
   {
     "Position": 318,
@@ -2859,7 +2859,7 @@
     "Club": "Tattyreagh",
     "Category": "MO",
     "2 Miles": "0:15:27",
-    "Finish": "0:43:24"
+    "Gun Time": "0:43:24"
   },
   {
     "Position": 319,
@@ -2868,7 +2868,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:16:44",
-    "Finish": "0:43:04"
+    "Gun Time": "0:43:04"
   },
   {
     "Position": 320,
@@ -2877,7 +2877,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:17:13",
-    "Finish": "0:43:08"
+    "Gun Time": "0:43:08"
   },
   {
     "Position": 321,
@@ -2886,7 +2886,7 @@
     "Club": "Carmen Runners",
     "Category": "M40",
     "2 Miles": "0:16:31",
-    "Finish": "0:43:13"
+    "Gun Time": "0:43:13"
   },
   {
     "Position": 322,
@@ -2895,7 +2895,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:16:30",
-    "Finish": "0:43:20"
+    "Gun Time": "0:43:20"
   },
   {
     "Position": 323,
@@ -2904,7 +2904,7 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "2 Miles": "0:16:37",
-    "Finish": "0:43:06"
+    "Gun Time": "0:43:06"
   },
   {
     "Position": 324,
@@ -2913,7 +2913,7 @@
     "Club": "Termon",
     "Category": "M50",
     "2 Miles": "0:16:31",
-    "Finish": "0:43:15"
+    "Gun Time": "0:43:15"
   },
   {
     "Position": 325,
@@ -2922,7 +2922,7 @@
     "Club": "Ballymena Runners",
     "Category": "F65",
     "2 Miles": "0:16:50",
-    "Finish": "0:43:37"
+    "Gun Time": "0:43:37"
   },
   {
     "Position": 326,
@@ -2931,7 +2931,7 @@
     "Club": "Omagh Harriers",
     "Category": "F45",
     "2 Miles": "0:16:24",
-    "Finish": "0:43:44"
+    "Gun Time": "0:43:44"
   },
   {
     "Position": 327,
@@ -2940,7 +2940,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:16:42",
-    "Finish": "0:43:59"
+    "Gun Time": "0:43:59"
   },
   {
     "Position": 328,
@@ -2949,7 +2949,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:16:37",
-    "Finish": "0:43:57"
+    "Gun Time": "0:43:57"
   },
   {
     "Position": 329,
@@ -2958,7 +2958,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:08",
-    "Finish": "0:43:58"
+    "Gun Time": "0:43:58"
   },
   {
     "Position": 330,
@@ -2967,7 +2967,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:16:41",
-    "Finish": "0:43:50"
+    "Gun Time": "0:43:50"
   },
   {
     "Position": 331,
@@ -2976,7 +2976,7 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "2 Miles": "0:17:04",
-    "Finish": "0:43:48"
+    "Gun Time": "0:43:48"
   },
   {
     "Position": 332,
@@ -2985,7 +2985,7 @@
     "Club": "Cullion Harriers",
     "Category": "M50",
     "2 Miles": "0:16:08",
-    "Finish": "0:44:06"
+    "Gun Time": "0:44:06"
   },
   {
     "Position": 333,
@@ -2994,7 +2994,7 @@
     "Club": "Omagh St. Endas G.A.C.",
     "Category": "MO",
     "2 Miles": "0:16:39",
-    "Finish": "0:44:06"
+    "Gun Time": "0:44:06"
   },
   {
     "Position": 334,
@@ -3003,7 +3003,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:17:26",
-    "Finish": "0:43:58"
+    "Gun Time": "0:43:58"
   },
   {
     "Position": 335,
@@ -3012,7 +3012,7 @@
     "Club": "Sperrin Harriers",
     "Category": "F45",
     "2 Miles": "0:17:17",
-    "Finish": "0:43:51"
+    "Gun Time": "0:43:51"
   },
   {
     "Position": 336,
@@ -3021,7 +3021,7 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "2 Miles": "0:17:17",
-    "Finish": "0:43:52"
+    "Gun Time": "0:43:52"
   },
   {
     "Position": 337,
@@ -3030,7 +3030,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:14:17",
-    "Finish": "0:44:27"
+    "Gun Time": "0:44:27"
   },
   {
     "Position": 338,
@@ -3039,7 +3039,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "FO",
     "2 Miles": "0:16:40",
-    "Finish": "0:44:24"
+    "Gun Time": "0:44:24"
   },
   {
     "Position": 339,
@@ -3048,7 +3048,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:45",
-    "Finish": "0:43:55"
+    "Gun Time": "0:43:55"
   },
   {
     "Position": 340,
@@ -3057,7 +3057,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:19:41",
-    "Finish": "0:44:00"
+    "Gun Time": "0:44:00"
   },
   {
     "Position": 341,
@@ -3066,7 +3066,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:53",
-    "Finish": "0:44:32"
+    "Gun Time": "0:44:32"
   },
   {
     "Position": 342,
@@ -3075,7 +3075,7 @@
     "Club": "R Running Club",
     "Category": "M35",
     "2 Miles": "0:16:00",
-    "Finish": "0:44:20"
+    "Gun Time": "0:44:20"
   },
   {
     "Position": 343,
@@ -3084,7 +3084,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:17:09",
-    "Finish": "0:44:04"
+    "Gun Time": "0:44:04"
   },
   {
     "Position": 344,
@@ -3093,7 +3093,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "FO",
     "2 Miles": "0:16:21",
-    "Finish": "0:44:41"
+    "Gun Time": "0:44:41"
   },
   {
     "Position": 345,
@@ -3102,7 +3102,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:19:09",
-    "Finish": "0:44:25"
+    "Gun Time": "0:44:25"
   },
   {
     "Position": 346,
@@ -3111,7 +3111,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:16:50",
-    "Finish": "0:44:28"
+    "Gun Time": "0:44:28"
   },
   {
     "Position": 347,
@@ -3120,7 +3120,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:16:56",
-    "Finish": "0:44:53"
+    "Gun Time": "0:44:53"
   },
   {
     "Position": 348,
@@ -3129,7 +3129,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:18:26",
-    "Finish": "0:44:20"
+    "Gun Time": "0:44:20"
   },
   {
     "Position": 349,
@@ -3138,7 +3138,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:16:54",
-    "Finish": "0:44:30"
+    "Gun Time": "0:44:30"
   },
   {
     "Position": 350,
@@ -3147,7 +3147,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:16:32",
-    "Finish": "0:44:44"
+    "Gun Time": "0:44:44"
   },
   {
     "Position": 351,
@@ -3156,7 +3156,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:33",
-    "Finish": "0:44:30"
+    "Gun Time": "0:44:30"
   },
   {
     "Position": 352,
@@ -3165,7 +3165,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:16:45",
-    "Finish": "0:44:51"
+    "Gun Time": "0:44:51"
   },
   {
     "Position": 353,
@@ -3174,7 +3174,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:17:49",
-    "Finish": "0:44:59"
+    "Gun Time": "0:44:59"
   },
   {
     "Position": 354,
@@ -3183,7 +3183,7 @@
     "Club": "Muck Hogs",
     "Category": "FO",
     "2 Miles": "0:17:05",
-    "Finish": "0:44:46"
+    "Gun Time": "0:44:46"
   },
   {
     "Position": 355,
@@ -3192,7 +3192,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:17:26",
-    "Finish": "0:44:45"
+    "Gun Time": "0:44:45"
   },
   {
     "Position": 356,
@@ -3201,7 +3201,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:48",
-    "Finish": "0:45:02"
+    "Gun Time": "0:45:02"
   },
   {
     "Position": 357,
@@ -3210,7 +3210,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "",
-    "Finish": "0:45:25"
+    "Gun Time": "0:45:25"
   },
   {
     "Position": 358,
@@ -3219,7 +3219,7 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "2 Miles": "0:16:56",
-    "Finish": "0:44:59"
+    "Gun Time": "0:44:59"
   },
   {
     "Position": 359,
@@ -3228,7 +3228,7 @@
     "Club": "",
     "Category": "F55",
     "2 Miles": "0:17:18",
-    "Finish": "0:45:18"
+    "Gun Time": "0:45:18"
   },
   {
     "Position": 360,
@@ -3237,7 +3237,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:17:39",
-    "Finish": "0:45:32"
+    "Gun Time": "0:45:32"
   },
   {
     "Position": 361,
@@ -3246,7 +3246,7 @@
     "Club": "R Running Club",
     "Category": "F35",
     "2 Miles": "0:17:38",
-    "Finish": "0:45:33"
+    "Gun Time": "0:45:33"
   },
   {
     "Position": 362,
@@ -3255,7 +3255,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:16:35",
-    "Finish": "0:45:33"
+    "Gun Time": "0:45:33"
   },
   {
     "Position": 363,
@@ -3264,7 +3264,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:16:29",
-    "Finish": "0:45:35"
+    "Gun Time": "0:45:35"
   },
   {
     "Position": 364,
@@ -3273,7 +3273,7 @@
     "Club": "Greencastle A.C.",
     "Category": "F45",
     "2 Miles": "0:17:14",
-    "Finish": "0:45:19"
+    "Gun Time": "0:45:19"
   },
   {
     "Position": 365,
@@ -3282,7 +3282,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:16:39",
-    "Finish": "0:45:35"
+    "Gun Time": "0:45:35"
   },
   {
     "Position": 366,
@@ -3291,7 +3291,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:17:02",
-    "Finish": "0:45:37"
+    "Gun Time": "0:45:37"
   },
   {
     "Position": 367,
@@ -3300,7 +3300,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:17:12",
-    "Finish": "0:45:32"
+    "Gun Time": "0:45:32"
   },
   {
     "Position": 368,
@@ -3309,7 +3309,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:18:03",
-    "Finish": "0:45:26"
+    "Gun Time": "0:45:26"
   },
   {
     "Position": 369,
@@ -3318,7 +3318,7 @@
     "Club": "Drumquinn",
     "Category": "M40",
     "2 Miles": "0:18:24",
-    "Finish": "0:45:15"
+    "Gun Time": "0:45:15"
   },
   {
     "Position": 370,
@@ -3327,7 +3327,7 @@
     "Club": "Revolution Fitness",
     "Category": "F35",
     "2 Miles": "0:17:14",
-    "Finish": "0:45:32"
+    "Gun Time": "0:45:32"
   },
   {
     "Position": 371,
@@ -3336,7 +3336,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:17:16",
-    "Finish": "0:45:50"
+    "Gun Time": "0:45:50"
   },
   {
     "Position": 372,
@@ -3345,7 +3345,7 @@
     "Club": "Termoneeny",
     "Category": "FO",
     "2 Miles": "0:16:45",
-    "Finish": "0:46:02"
+    "Gun Time": "0:46:02"
   },
   {
     "Position": 373,
@@ -3354,7 +3354,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:17:25",
-    "Finish": "0:45:33"
+    "Gun Time": "0:45:33"
   },
   {
     "Position": 374,
@@ -3363,7 +3363,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:19:38",
-    "Finish": "0:46:00"
+    "Gun Time": "0:46:00"
   },
   {
     "Position": 375,
@@ -3372,7 +3372,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:17:16",
-    "Finish": "0:46:00"
+    "Gun Time": "0:46:00"
   },
   {
     "Position": 376,
@@ -3381,7 +3381,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:16:06",
-    "Finish": "0:46:52"
+    "Gun Time": "0:46:52"
   },
   {
     "Position": 377,
@@ -3390,7 +3390,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:17:26",
-    "Finish": "0:46:21"
+    "Gun Time": "0:46:21"
   },
   {
     "Position": 378,
@@ -3399,7 +3399,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:16:33",
-    "Finish": "0:46:59"
+    "Gun Time": "0:46:59"
   },
   {
     "Position": 379,
@@ -3408,7 +3408,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:17:30",
-    "Finish": "0:46:38"
+    "Gun Time": "0:46:38"
   },
   {
     "Position": 380,
@@ -3417,7 +3417,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:18:10",
-    "Finish": "0:46:29"
+    "Gun Time": "0:46:29"
   },
   {
     "Position": 381,
@@ -3426,7 +3426,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:18:28",
-    "Finish": "0:46:52"
+    "Gun Time": "0:46:52"
   },
   {
     "Position": 382,
@@ -3435,7 +3435,7 @@
     "Club": "Pensby Runners",
     "Category": "F35",
     "2 Miles": "0:17:54",
-    "Finish": "0:46:38"
+    "Gun Time": "0:46:38"
   },
   {
     "Position": 383,
@@ -3444,7 +3444,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:17:54",
-    "Finish": "0:46:37"
+    "Gun Time": "0:46:37"
   },
   {
     "Position": 384,
@@ -3453,7 +3453,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:17:24",
-    "Finish": "0:46:56"
+    "Gun Time": "0:46:56"
   },
   {
     "Position": 385,
@@ -3462,7 +3462,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:18:30",
-    "Finish": "0:46:35"
+    "Gun Time": "0:46:35"
   },
   {
     "Position": 386,
@@ -3471,7 +3471,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:18:01",
-    "Finish": "0:46:42"
+    "Gun Time": "0:46:42"
   },
   {
     "Position": 387,
@@ -3480,7 +3480,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:18:46",
-    "Finish": "0:46:59"
+    "Gun Time": "0:46:59"
   },
   {
     "Position": 388,
@@ -3489,7 +3489,7 @@
     "Club": "Pomeroy Runners",
     "Category": "F50",
     "2 Miles": "0:19:01",
-    "Finish": "0:46:55"
+    "Gun Time": "0:46:55"
   },
   {
     "Position": 389,
@@ -3498,7 +3498,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:16:51",
-    "Finish": "0:47:16"
+    "Gun Time": "0:47:16"
   },
   {
     "Position": 390,
@@ -3507,7 +3507,7 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:17:05",
-    "Finish": "0:47:16"
+    "Gun Time": "0:47:16"
   },
   {
     "Position": 391,
@@ -3516,7 +3516,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:16:53",
-    "Finish": "0:47:12"
+    "Gun Time": "0:47:12"
   },
   {
     "Position": 392,
@@ -3525,7 +3525,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:16:27",
-    "Finish": "0:47:22"
+    "Gun Time": "0:47:22"
   },
   {
     "Position": 393,
@@ -3534,7 +3534,7 @@
     "Club": "Barking Road Runners",
     "Category": "FO",
     "2 Miles": "0:18:56",
-    "Finish": "0:47:12"
+    "Gun Time": "0:47:12"
   },
   {
     "Position": 394,
@@ -3543,7 +3543,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:17:24",
-    "Finish": "0:47:17"
+    "Gun Time": "0:47:17"
   },
   {
     "Position": 395,
@@ -3552,7 +3552,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:17:23",
-    "Finish": "0:47:38"
+    "Gun Time": "0:47:38"
   },
   {
     "Position": 396,
@@ -3561,7 +3561,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:17:19",
-    "Finish": "0:47:52"
+    "Gun Time": "0:47:52"
   },
   {
     "Position": 397,
@@ -3570,7 +3570,7 @@
     "Club": "Acorn A.C.",
     "Category": "F35",
     "2 Miles": "0:17:54",
-    "Finish": "0:48:00"
+    "Gun Time": "0:48:00"
   },
   {
     "Position": 398,
@@ -3579,7 +3579,7 @@
     "Club": "Knockmany Runners",
     "Category": "FO",
     "2 Miles": "0:18:11",
-    "Finish": "0:47:43"
+    "Gun Time": "0:47:43"
   },
   {
     "Position": 399,
@@ -3588,7 +3588,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:18:51",
-    "Finish": "0:48:12"
+    "Gun Time": "0:48:12"
   },
   {
     "Position": 400,
@@ -3597,7 +3597,7 @@
     "Club": "Carmen Runners",
     "Category": "F45",
     "2 Miles": "0:18:51",
-    "Finish": "0:48:11"
+    "Gun Time": "0:48:11"
   },
   {
     "Position": 401,
@@ -3606,7 +3606,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:18:57",
-    "Finish": "0:47:44"
+    "Gun Time": "0:47:44"
   },
   {
     "Position": 402,
@@ -3615,7 +3615,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:18:52",
-    "Finish": "0:48:07"
+    "Gun Time": "0:48:07"
   },
   {
     "Position": 403,
@@ -3624,7 +3624,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:18:22",
-    "Finish": "0:48:21"
+    "Gun Time": "0:48:21"
   },
   {
     "Position": 404,
@@ -3633,7 +3633,7 @@
     "Club": "R Running Club",
     "Category": "FO",
     "2 Miles": "0:18:20",
-    "Finish": "0:48:37"
+    "Gun Time": "0:48:37"
   },
   {
     "Position": 405,
@@ -3642,7 +3642,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:18:33",
-    "Finish": "0:48:36"
+    "Gun Time": "0:48:36"
   },
   {
     "Position": 406,
@@ -3651,7 +3651,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:32",
-    "Finish": "0:48:35"
+    "Gun Time": "0:48:35"
   },
   {
     "Position": 407,
@@ -3660,7 +3660,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:18:36",
-    "Finish": "0:48:42"
+    "Gun Time": "0:48:42"
   },
   {
     "Position": 408,
@@ -3669,7 +3669,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:17:49",
-    "Finish": "0:49:10"
+    "Gun Time": "0:49:10"
   },
   {
     "Position": 409,
@@ -3678,7 +3678,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "FO",
     "2 Miles": "0:18:45",
-    "Finish": "0:48:44"
+    "Gun Time": "0:48:44"
   },
   {
     "Position": 410,
@@ -3687,7 +3687,7 @@
     "Club": "Greencastle A.C.",
     "Category": "FO",
     "2 Miles": "0:18:44",
-    "Finish": "0:48:56"
+    "Gun Time": "0:48:56"
   },
   {
     "Position": 411,
@@ -3696,7 +3696,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:18:23",
-    "Finish": "0:49:17"
+    "Gun Time": "0:49:17"
   },
   {
     "Position": 412,
@@ -3705,7 +3705,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:17:50",
-    "Finish": "0:49:18"
+    "Gun Time": "0:49:18"
   },
   {
     "Position": 413,
@@ -3714,7 +3714,7 @@
     "Club": "Loughmacrory",
     "Category": "M40",
     "2 Miles": "0:19:18",
-    "Finish": "0:49:11"
+    "Gun Time": "0:49:11"
   },
   {
     "Position": 414,
@@ -3723,7 +3723,7 @@
     "Club": "Loughmacrory",
     "Category": "MJ",
     "2 Miles": "0:19:18",
-    "Finish": "0:49:10"
+    "Gun Time": "0:49:10"
   },
   {
     "Position": 415,
@@ -3732,7 +3732,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:19:18",
-    "Finish": "0:49:11"
+    "Gun Time": "0:49:11"
   },
   {
     "Position": 416,
@@ -3741,7 +3741,7 @@
     "Club": "Revolution Fitness",
     "Category": "FO",
     "2 Miles": "0:19:22",
-    "Finish": "0:49:22"
+    "Gun Time": "0:49:22"
   },
   {
     "Position": 417,
@@ -3750,7 +3750,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:19:41",
-    "Finish": "0:49:08"
+    "Gun Time": "0:49:08"
   },
   {
     "Position": 418,
@@ -3759,7 +3759,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:39",
-    "Finish": "0:49:25"
+    "Gun Time": "0:49:25"
   },
   {
     "Position": 419,
@@ -3768,7 +3768,7 @@
     "Club": "Olympian Triathlon Club",
     "Category": "MO",
     "2 Miles": "0:18:35",
-    "Finish": "0:49:11"
+    "Gun Time": "0:49:11"
   },
   {
     "Position": 420,
@@ -3777,7 +3777,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:19:02",
-    "Finish": "0:49:33"
+    "Gun Time": "0:49:33"
   },
   {
     "Position": 421,
@@ -3786,7 +3786,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:19:02",
-    "Finish": "0:49:33"
+    "Gun Time": "0:49:33"
   },
   {
     "Position": 422,
@@ -3795,7 +3795,7 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:18:44",
-    "Finish": "0:49:16"
+    "Gun Time": "0:49:16"
   },
   {
     "Position": 423,
@@ -3804,7 +3804,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:18:29",
-    "Finish": "0:49:30"
+    "Gun Time": "0:49:30"
   },
   {
     "Position": 424,
@@ -3813,7 +3813,7 @@
     "Club": "Knockmany Runners",
     "Category": "F50",
     "2 Miles": "0:20:02",
-    "Finish": "0:49:37"
+    "Gun Time": "0:49:37"
   },
   {
     "Position": 425,
@@ -3822,7 +3822,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:19:39",
-    "Finish": "0:49:45"
+    "Gun Time": "0:49:45"
   },
   {
     "Position": 426,
@@ -3831,7 +3831,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:20:23",
-    "Finish": "0:49:44"
+    "Gun Time": "0:49:44"
   },
   {
     "Position": 427,
@@ -3840,7 +3840,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:19:18",
-    "Finish": "0:49:35"
+    "Gun Time": "0:49:35"
   },
   {
     "Position": 428,
@@ -3849,7 +3849,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:17:59",
-    "Finish": "0:50:15"
+    "Gun Time": "0:50:15"
   },
   {
     "Position": 429,
@@ -3858,7 +3858,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:18:00",
-    "Finish": "0:50:15"
+    "Gun Time": "0:50:15"
   },
   {
     "Position": 430,
@@ -3867,7 +3867,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:17:59",
-    "Finish": "0:50:15"
+    "Gun Time": "0:50:15"
   },
   {
     "Position": 431,
@@ -3876,7 +3876,7 @@
     "Club": "",
     "Category": "F50",
     "2 Miles": "0:18:50",
-    "Finish": "0:50:10"
+    "Gun Time": "0:50:10"
   },
   {
     "Position": 432,
@@ -3885,7 +3885,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:18:53",
-    "Finish": "0:50:20"
+    "Gun Time": "0:50:20"
   },
   {
     "Position": 433,
@@ -3894,7 +3894,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:19:33",
-    "Finish": "0:50:11"
+    "Gun Time": "0:50:11"
   },
   {
     "Position": 434,
@@ -3903,7 +3903,7 @@
     "Club": "R Running Club",
     "Category": "FO",
     "2 Miles": "0:19:02",
-    "Finish": "0:50:39"
+    "Gun Time": "0:50:39"
   },
   {
     "Position": 435,
@@ -3912,7 +3912,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:18:29",
-    "Finish": "0:50:35"
+    "Gun Time": "0:50:35"
   },
   {
     "Position": 436,
@@ -3921,7 +3921,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:18:51",
-    "Finish": "0:50:42"
+    "Gun Time": "0:50:42"
   },
   {
     "Position": 437,
@@ -3930,7 +3930,7 @@
     "Club": "Muck Hogs",
     "Category": "FO",
     "2 Miles": "0:19:03",
-    "Finish": "0:50:49"
+    "Gun Time": "0:50:49"
   },
   {
     "Position": 438,
@@ -3939,7 +3939,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:18:52",
-    "Finish": "0:51:17"
+    "Gun Time": "0:51:17"
   },
   {
     "Position": 439,
@@ -3948,7 +3948,7 @@
     "Club": "Carmen Runners",
     "Category": "F40",
     "2 Miles": "0:19:09",
-    "Finish": "0:51:10"
+    "Gun Time": "0:51:10"
   },
   {
     "Position": 440,
@@ -3957,7 +3957,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:42",
-    "Finish": "0:51:15"
+    "Gun Time": "0:51:15"
   },
   {
     "Position": 441,
@@ -3966,7 +3966,7 @@
     "Club": "Lagan Valley A.C.",
     "Category": "M65",
     "2 Miles": "0:18:31",
-    "Finish": "0:51:49"
+    "Gun Time": "0:51:49"
   },
   {
     "Position": 442,
@@ -3975,7 +3975,7 @@
     "Club": "",
     "Category": "FJ",
     "2 Miles": "0:19:14",
-    "Finish": "0:51:28"
+    "Gun Time": "0:51:28"
   },
   {
     "Position": 443,
@@ -3984,7 +3984,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:18:12",
-    "Finish": "0:52:01"
+    "Gun Time": "0:52:01"
   },
   {
     "Position": 444,
@@ -3993,7 +3993,7 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:19:11",
-    "Finish": "0:51:59"
+    "Gun Time": "0:51:59"
   },
   {
     "Position": 445,
@@ -4002,7 +4002,7 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:18:46",
-    "Finish": "0:51:59"
+    "Gun Time": "0:51:59"
   },
   {
     "Position": 446,
@@ -4011,7 +4011,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:19:19",
-    "Finish": "0:51:47"
+    "Gun Time": "0:51:47"
   },
   {
     "Position": 447,
@@ -4020,7 +4020,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:41",
-    "Finish": "0:51:49"
+    "Gun Time": "0:51:49"
   },
   {
     "Position": 448,
@@ -4029,7 +4029,7 @@
     "Club": "Glennelly",
     "Category": "FO",
     "2 Miles": "0:18:54",
-    "Finish": "0:52:10"
+    "Gun Time": "0:52:10"
   },
   {
     "Position": 449,
@@ -4038,7 +4038,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:19:20",
-    "Finish": "0:52:01"
+    "Gun Time": "0:52:01"
   },
   {
     "Position": 450,
@@ -4047,7 +4047,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:13",
-    "Finish": "0:51:52"
+    "Gun Time": "0:51:52"
   },
   {
     "Position": 451,
@@ -4056,7 +4056,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:10",
-    "Finish": "0:51:51"
+    "Gun Time": "0:51:51"
   },
   {
     "Position": 452,
@@ -4065,7 +4065,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:19:15",
-    "Finish": "0:52:15"
+    "Gun Time": "0:52:15"
   },
   {
     "Position": 453,
@@ -4074,7 +4074,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:16",
-    "Finish": "0:52:14"
+    "Gun Time": "0:52:14"
   },
   {
     "Position": 454,
@@ -4083,7 +4083,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:19:39",
-    "Finish": "0:52:33"
+    "Gun Time": "0:52:33"
   },
   {
     "Position": 455,
@@ -4092,7 +4092,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:16",
-    "Finish": "0:52:34"
+    "Gun Time": "0:52:34"
   },
   {
     "Position": 456,
@@ -4101,7 +4101,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:18:54",
-    "Finish": "0:52:38"
+    "Gun Time": "0:52:38"
   },
   {
     "Position": 457,
@@ -4110,7 +4110,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:15",
-    "Finish": "0:52:39"
+    "Gun Time": "0:52:39"
   },
   {
     "Position": 458,
@@ -4119,7 +4119,7 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:19:05",
-    "Finish": "0:52:40"
+    "Gun Time": "0:52:40"
   },
   {
     "Position": 459,
@@ -4128,7 +4128,7 @@
     "Club": "Greencastle A.C.",
     "Category": "FO",
     "2 Miles": "0:19:22",
-    "Finish": "0:52:49"
+    "Gun Time": "0:52:49"
   },
   {
     "Position": 460,
@@ -4137,7 +4137,7 @@
     "Club": "Fr. Rocks",
     "Category": "MO",
     "2 Miles": "0:19:13",
-    "Finish": "0:53:16"
+    "Gun Time": "0:53:16"
   },
   {
     "Position": 461,
@@ -4146,7 +4146,7 @@
     "Club": "Acorn A.C.",
     "Category": "FO",
     "2 Miles": "0:20:15",
-    "Finish": "0:53:00"
+    "Gun Time": "0:53:00"
   },
   {
     "Position": 462,
@@ -4155,7 +4155,7 @@
     "Club": "",
     "Category": "M60",
     "2 Miles": "0:19:13",
-    "Finish": "0:53:34"
+    "Gun Time": "0:53:34"
   },
   {
     "Position": 463,
@@ -4164,7 +4164,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:20:20",
-    "Finish": "0:53:18"
+    "Gun Time": "0:53:18"
   },
   {
     "Position": 464,
@@ -4173,7 +4173,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:20",
-    "Finish": "0:53:24"
+    "Gun Time": "0:53:24"
   },
   {
     "Position": 465,
@@ -4182,7 +4182,7 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:19:15",
-    "Finish": "0:53:40"
+    "Gun Time": "0:53:40"
   },
   {
     "Position": 466,
@@ -4191,7 +4191,7 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "2 Miles": "0:19:15",
-    "Finish": "0:53:42"
+    "Gun Time": "0:53:42"
   },
   {
     "Position": 467,
@@ -4200,7 +4200,7 @@
     "Club": "Loughmacrory",
     "Category": "FO",
     "2 Miles": "0:21:07",
-    "Finish": "0:53:37"
+    "Gun Time": "0:53:37"
   },
   {
     "Position": 468,
@@ -4209,7 +4209,7 @@
     "Club": "Whitecross",
     "Category": "MJ",
     "2 Miles": "0:19:32",
-    "Finish": "0:53:43"
+    "Gun Time": "0:53:43"
   },
   {
     "Position": 469,
@@ -4218,7 +4218,7 @@
     "Club": "",
     "Category": "F50",
     "2 Miles": "0:19:32",
-    "Finish": "0:54:10"
+    "Gun Time": "0:54:10"
   },
   {
     "Position": 470,
@@ -4227,7 +4227,7 @@
     "Club": "Knockmany Runners",
     "Category": "F40",
     "2 Miles": "0:20:30",
-    "Finish": "0:54:17"
+    "Gun Time": "0:54:17"
   },
   {
     "Position": 471,
@@ -4236,7 +4236,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:16",
-    "Finish": "0:54:21"
+    "Gun Time": "0:54:21"
   },
   {
     "Position": 472,
@@ -4245,7 +4245,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:20:36",
-    "Finish": "0:54:14"
+    "Gun Time": "0:54:14"
   },
   {
     "Position": 473,
@@ -4254,7 +4254,7 @@
     "Club": "Loughmacrory",
     "Category": "F45",
     "2 Miles": "0:22:22",
-    "Finish": "0:54:23"
+    "Gun Time": "0:54:23"
   },
   {
     "Position": 474,
@@ -4263,7 +4263,7 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:38",
-    "Finish": "0:56:56"
+    "Gun Time": "0:56:56"
   },
   {
     "Position": 475,
@@ -4272,7 +4272,7 @@
     "Club": "Killyclogher",
     "Category": "MJ",
     "2 Miles": "0:19:38",
-    "Finish": "0:56:56"
+    "Gun Time": "0:56:56"
   },
   {
     "Position": 476,
@@ -4281,7 +4281,7 @@
     "Club": "Omagh Triathlon Club",
     "Category": "F40",
     "2 Miles": "0:21:43",
-    "Finish": "0:57:37"
+    "Gun Time": "0:57:37"
   },
   {
     "Position": 477,
@@ -4290,7 +4290,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:54",
-    "Finish": "0:58:12"
+    "Gun Time": "0:58:12"
   },
   {
     "Position": 478,
@@ -4299,7 +4299,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:22:50",
-    "Finish": "0:58:27"
+    "Gun Time": "0:58:27"
   },
   {
     "Position": 479,
@@ -4308,7 +4308,7 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:16:22",
-    "Finish": "0:59:00"
+    "Gun Time": "0:59:00"
   },
   {
     "Position": 480,
@@ -4317,7 +4317,7 @@
     "Club": "",
     "Category": "FJ",
     "2 Miles": "0:17:16",
-    "Finish": "0:59:19"
+    "Gun Time": "0:59:19"
   },
   {
     "Position": 481,
@@ -4326,7 +4326,7 @@
     "Club": "Kildress Wolfe Tones",
     "Category": "FJ",
     "2 Miles": "0:17:16",
-    "Finish": "0:59:20"
+    "Gun Time": "0:59:20"
   },
   {
     "Position": 482,
@@ -4335,7 +4335,7 @@
     "Club": "",
     "Category": "F40",
     "2 Miles": "0:22:31",
-    "Finish": "0:58:58"
+    "Gun Time": "0:58:58"
   },
   {
     "Position": 483,
@@ -4344,7 +4344,7 @@
     "Club": "Muck Hogs",
     "Category": "FO",
     "2 Miles": "0:24:20",
-    "Finish": "1:03:20"
+    "Gun Time": "1:03:20"
   },
   {
     "Position": 484,
@@ -4353,7 +4353,7 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:22:21",
-    "Finish": "1:03:41"
+    "Gun Time": "1:03:41"
   },
   {
     "Position": 485,
@@ -4362,7 +4362,7 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:23:41",
-    "Finish": "1:04:01"
+    "Gun Time": "1:04:01"
   },
   {
     "Position": 486,
@@ -4371,7 +4371,7 @@
     "Club": "Muck Hogs",
     "Category": "MJ",
     "2 Miles": "0:23:41",
-    "Finish": "1:04:01"
+    "Gun Time": "1:04:01"
   },
   {
     "Position": 487,
@@ -4380,7 +4380,7 @@
     "Club": "",
     "Category": "FJ",
     "2 Miles": "0:25:57",
-    "Finish": "1:06:47"
+    "Gun Time": "1:06:47"
   },
   {
     "Position": 488,
@@ -4389,7 +4389,7 @@
     "Club": "",
     "Category": "F35",
     "2 Miles": "0:25:59",
-    "Finish": "1:10:24"
+    "Gun Time": "1:10:24"
   },
   {
     "Position": 489,
@@ -4398,6 +4398,6 @@
     "Club": "",
     "Category": "F55",
     "2 Miles": "0:25:59",
-    "Finish": "1:10:30"
+    "Gun Time": "1:10:30"
   }
 ]
