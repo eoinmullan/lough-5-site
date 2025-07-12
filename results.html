@@ -163,9 +163,9 @@
           window.addEventListener('resize', this.checkViewportWidth);
         },
 
-        // Check if we're in mobile view (less than 870px)
+        // Check if we're in mobile view (less than 1000px)
         checkViewportWidth() {
-          this.isMobileView = window.innerWidth < 870;
+          this.isMobileView = window.innerWidth < 1000;
         },
 
         get showLapOfLough() {
@@ -180,7 +180,7 @@
           return !['2020', '2014', '2009'].includes(this.selectedYear);
         },
 
-        // Show runner details in modal (only on mobile)
+        // Show runner details in modal (for displays under 1000px width)
         showRunnerDetails(runner) {
           if (this.isMobileView) {
             this.selectedRunner = runner;
