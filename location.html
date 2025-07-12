@@ -1,83 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lough 5 - Location</title>
-  <link rel="stylesheet" href="assets/style.css">
-  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lough 5 - Location</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body>
-  <header class="header">
+<header class="header">
     <nav class="navbar">
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="location.html" class="current">Location</a></li>
-        <li><a href="course.html">Course</a></li>
-        <li><a href="results.html">Results</a></li>
-        <li><a href="fastest-50.html">Fastest 50</a></li>
-      </ul>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="location.html" class="current">Location</a></li>
+            <li><a href="course.html">Course</a></li>
+            <li><a href="results.html">Results</a></li>
+            <li><a href="fastest-50.html">Fastest 50</a></li>
+        </ul>
     </nav>
-  </header>
+</header>
 
-  <section class="section">
+<section class="section location-section">
     <div class="container">
-      <h2 class="section-title">Race Location</h2>
-      <p class="section-text">
-        Our charity 5K race will take place at City Park, a beautiful location with ample parking and facilities for all participants and spectators.
-      </p>
-      
-      <div class="card">
-        <h3>Address</h3>
-        <p>
-          City Park<br>
-          123 Park Avenue<br>
-          Anytown, ST 12345
-        </p>
-      </div>
-      
-      <div class="card">
-        <h3>Directions</h3>
-        <p>
-          <strong>From the North:</strong> Take Highway 101 South to Exit 25. Turn right onto Park Avenue and continue for 2 miles. City Park will be on your left.
-        </p>
-        <p>
-          <strong>From the South:</strong> Take Highway 101 North to Exit 23. Turn left onto Main Street, then right onto Park Avenue. Continue for 1 mile. City Park will be on your right.
-        </p>
-        <p>
-          <strong>From the East/West:</strong> Take Interstate 80 to Highway 101 and follow the directions above.
-        </p>
-      </div>
-      
-      <div class="card">
-        <h3>Parking Information</h3>
-        <p>
-          Free parking is available in the main City Park parking lot, which can be accessed from Park Avenue. Additional parking is available at the Community Center (456 Center Street), a short 5-minute walk from the race start/finish area.
-        </p>
-        <p>
-          Please arrive early as parking spaces fill up quickly on race day. Carpooling is encouraged.
-        </p>
-      </div>
-      
-      <div class="card">
-        <h3>Public Transportation</h3>
-        <p>
-          City Bus routes 10, 15, and 22 all stop at City Park. The nearest bus stop is "Park Main Entrance" on Park Avenue.
-        </p>
-        <p>
-          The nearest train station is Anytown Central, located 1 mile from City Park. A shuttle service will run between the station and the park from 7:00 AM to 1:00 PM on race day.
-        </p>
-      </div>
-      
-      <div class="card">
-        <h3>Map</h3>
-        <div style="width: 100%; height: 400px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-          <!-- This would be replaced with an actual Google Maps embed in a production environment -->
-          <p>Google Maps Embed Placeholder</p>
-        </div>
-        <a href="https://maps.google.com/?q=City+Park,Anytown" target="_blank" class="btn">Open in Google Maps</a>
-      </div>
+        <iframe class="location-iframe"
+                width="100%"
+                height="100%"
+                frameborder="0"
+                style="border:0"
+                src="https://www.google.com/maps/embed/v1/place?q=54.626438%2C%20-7.105068&key=AIzaSyACZPv4rJcGoS7snbuwsdyC15lanG-G_5M&zoom=15"
+                allowfullscreen>
+        </iframe>
     </div>
-  </section>
+</section>
 </body>
 </html>
