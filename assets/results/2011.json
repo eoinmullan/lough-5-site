@@ -7,8 +7,8 @@
     "Category": "MO",
     "2 Miles": "0:09:50",
     "Lap of Lough": "0:05:49",
-    "Chiptime": "0:24:41",
-    "Finish": "0:24:42"
+    "Chip Time": "0:24:41",
+    "Gun Time": "0:24:42"
   },
   {
     "Position": 2,
@@ -18,8 +18,8 @@
     "Category": "MO",
     "2 Miles": "0:09:50",
     "Lap of Lough": "0:06:00",
-    "Chiptime": "0:24:52",
-    "Finish": "0:24:53"
+    "Chip Time": "0:24:52",
+    "Gun Time": "0:24:53"
   },
   {
     "Position": 3,
@@ -29,8 +29,8 @@
     "Category": "MO",
     "2 Miles": "0:09:50",
     "Lap of Lough": "0:06:16",
-    "Chiptime": "0:25:17",
-    "Finish": "0:25:19"
+    "Chip Time": "0:25:17",
+    "Gun Time": "0:25:19"
   },
   {
     "Position": 4,
@@ -40,8 +40,8 @@
     "Category": "MO",
     "2 Miles": "0:09:51",
     "Lap of Lough": "0:06:14",
-    "Chiptime": "0:25:27",
-    "Finish": "0:25:29"
+    "Chip Time": "0:25:27",
+    "Gun Time": "0:25:29"
   },
   {
     "Position": 5,
@@ -51,8 +51,8 @@
     "Category": "MO",
     "2 Miles": "0:09:55",
     "Lap of Lough": "0:06:31",
-    "Chiptime": "0:26:27",
-    "Finish": "0:26:29"
+    "Chip Time": "0:26:27",
+    "Gun Time": "0:26:29"
   },
   {
     "Position": 6,
@@ -62,8 +62,8 @@
     "Category": "MO",
     "2 Miles": "0:10:02",
     "Lap of Lough": "0:06:35",
-    "Chiptime": "0:26:43",
-    "Finish": "0:26:45"
+    "Chip Time": "0:26:43",
+    "Gun Time": "0:26:45"
   },
   {
     "Position": 7,
@@ -73,8 +73,8 @@
     "Category": "MO",
     "2 Miles": "0:10:43",
     "Lap of Lough": "0:06:49",
-    "Chiptime": "0:28:06",
-    "Finish": "0:28:08"
+    "Chip Time": "0:28:06",
+    "Gun Time": "0:28:08"
   },
   {
     "Position": 8,
@@ -84,8 +84,8 @@
     "Category": "M35",
     "2 Miles": "0:10:44",
     "Lap of Lough": "0:06:57",
-    "Chiptime": "0:28:21",
-    "Finish": "0:28:22"
+    "Chip Time": "0:28:21",
+    "Gun Time": "0:28:22"
   },
   {
     "Position": 9,
@@ -95,8 +95,8 @@
     "Category": "MO",
     "2 Miles": "0:11:20",
     "Lap of Lough": "0:07:05",
-    "Chiptime": "0:29:15",
-    "Finish": "0:29:16"
+    "Chip Time": "0:29:15",
+    "Gun Time": "0:29:16"
   },
   {
     "Position": 10,
@@ -106,8 +106,8 @@
     "Category": "MO",
     "2 Miles": "0:11:20",
     "Lap of Lough": "0:07:03",
-    "Chiptime": "0:29:14",
-    "Finish": "0:29:16"
+    "Chip Time": "0:29:14",
+    "Gun Time": "0:29:16"
   },
   {
     "Position": 11,
@@ -117,8 +117,8 @@
     "Category": "MO",
     "2 Miles": "0:11:50",
     "Lap of Lough": "0:06:57",
-    "Chiptime": "0:29:42",
-    "Finish": "0:29:43"
+    "Chip Time": "0:29:42",
+    "Gun Time": "0:29:43"
   },
   {
     "Position": 12,
@@ -128,8 +128,8 @@
     "Category": "FO",
     "2 Miles": "0:11:20",
     "Lap of Lough": "0:07:21",
-    "Chiptime": "0:30:03",
-    "Finish": "0:30:04"
+    "Chip Time": "0:30:03",
+    "Gun Time": "0:30:04"
   },
   {
     "Position": 13,
@@ -139,8 +139,8 @@
     "Category": "M40",
     "2 Miles": "0:11:50",
     "Lap of Lough": "0:07:08",
-    "Chiptime": "0:30:12",
-    "Finish": "0:30:13"
+    "Chip Time": "0:30:12",
+    "Gun Time": "0:30:13"
   },
   {
     "Position": 14,
@@ -150,8 +150,8 @@
     "Category": "M40",
     "2 Miles": "0:11:48",
     "Lap of Lough": "0:07:19",
-    "Chiptime": "0:30:22",
-    "Finish": "0:30:25"
+    "Chip Time": "0:30:22",
+    "Gun Time": "0:30:25"
   },
   {
     "Position": 15,
@@ -161,8 +161,8 @@
     "Category": "FO",
     "2 Miles": "0:11:32",
     "Lap of Lough": "0:07:33",
-    "Chiptime": "0:30:32",
-    "Finish": "0:30:37"
+    "Chip Time": "0:30:32",
+    "Gun Time": "0:30:37"
   },
   {
     "Position": 16,
@@ -172,8 +172,8 @@
     "Category": "M35",
     "2 Miles": "0:11:51",
     "Lap of Lough": "0:07:22",
-    "Chiptime": "0:30:40",
-    "Finish": "0:30:42"
+    "Chip Time": "0:30:40",
+    "Gun Time": "0:30:42"
   },
   {
     "Position": 17,
@@ -183,8 +183,8 @@
     "Category": "F35",
     "2 Miles": "0:11:36",
     "Lap of Lough": "0:07:33",
-    "Chiptime": "0:30:45",
-    "Finish": "0:30:46"
+    "Chip Time": "0:30:45",
+    "Gun Time": "0:30:46"
   },
   {
     "Position": 18,
@@ -194,8 +194,8 @@
     "Category": "M40",
     "2 Miles": "0:11:55",
     "Lap of Lough": "0:07:16",
-    "Chiptime": "0:30:44",
-    "Finish": "0:30:46"
+    "Chip Time": "0:30:44",
+    "Gun Time": "0:30:46"
   },
   {
     "Position": 19,
@@ -205,8 +205,8 @@
     "Category": "F40",
     "2 Miles": "0:11:49",
     "Lap of Lough": "0:07:38",
-    "Chiptime": "0:30:57",
-    "Finish": "0:30:59"
+    "Chip Time": "0:30:57",
+    "Gun Time": "0:30:59"
   },
   {
     "Position": 20,
@@ -216,8 +216,8 @@
     "Category": "MO",
     "2 Miles": "0:11:48",
     "Lap of Lough": "0:07:44",
-    "Chiptime": "0:31:05",
-    "Finish": "0:31:07"
+    "Chip Time": "0:31:05",
+    "Gun Time": "0:31:07"
   },
   {
     "Position": 21,
@@ -227,8 +227,8 @@
     "Category": "M40",
     "2 Miles": "0:11:48",
     "Lap of Lough": "0:07:44",
-    "Chiptime": "0:31:07",
-    "Finish": "0:31:09"
+    "Chip Time": "0:31:07",
+    "Gun Time": "0:31:09"
   },
   {
     "Position": 22,
@@ -238,8 +238,8 @@
     "Category": "MU19",
     "2 Miles": "0:11:55",
     "Lap of Lough": "0:07:40",
-    "Chiptime": "0:31:21",
-    "Finish": "0:31:23"
+    "Chip Time": "0:31:21",
+    "Gun Time": "0:31:23"
   },
   {
     "Position": 23,
@@ -249,8 +249,8 @@
     "Category": "M45",
     "2 Miles": "0:11:49",
     "Lap of Lough": "0:07:41",
-    "Chiptime": "0:31:28",
-    "Finish": "0:31:30"
+    "Chip Time": "0:31:28",
+    "Gun Time": "0:31:30"
   },
   {
     "Position": 24,
@@ -260,8 +260,8 @@
     "Category": "M45",
     "2 Miles": "0:12:16",
     "Lap of Lough": "0:07:23",
-    "Chiptime": "0:31:31",
-    "Finish": "0:31:36"
+    "Chip Time": "0:31:31",
+    "Gun Time": "0:31:36"
   },
   {
     "Position": 25,
@@ -271,8 +271,8 @@
     "Category": "M45",
     "2 Miles": "0:11:54",
     "Lap of Lough": "0:07:44",
-    "Chiptime": "0:31:39",
-    "Finish": "0:31:42"
+    "Chip Time": "0:31:39",
+    "Gun Time": "0:31:42"
   },
   {
     "Position": 26,
@@ -282,8 +282,8 @@
     "Category": "M40",
     "2 Miles": "0:12:18",
     "Lap of Lough": "0:07:38",
-    "Chiptime": "0:31:47",
-    "Finish": "0:31:52"
+    "Chip Time": "0:31:47",
+    "Gun Time": "0:31:52"
   },
   {
     "Position": 27,
@@ -293,8 +293,8 @@
     "Category": "MJ",
     "2 Miles": "0:11:47",
     "Lap of Lough": "0:07:47",
-    "Chiptime": "0:32:07",
-    "Finish": "0:32:08"
+    "Chip Time": "0:32:07",
+    "Gun Time": "0:32:08"
   },
   {
     "Position": 28,
@@ -304,8 +304,8 @@
     "Category": "M50",
     "2 Miles": "0:12:20",
     "Lap of Lough": "0:07:41",
-    "Chiptime": "0:32:08",
-    "Finish": "0:32:10"
+    "Chip Time": "0:32:08",
+    "Gun Time": "0:32:10"
   },
   {
     "Position": 29,
@@ -315,8 +315,8 @@
     "Category": "F40",
     "2 Miles": "0:12:21",
     "Lap of Lough": "0:07:48",
-    "Chiptime": "0:32:16",
-    "Finish": "0:32:18"
+    "Chip Time": "0:32:16",
+    "Gun Time": "0:32:18"
   },
   {
     "Position": 30,
@@ -326,8 +326,8 @@
     "Category": "M40",
     "2 Miles": "0:12:05",
     "Lap of Lough": "0:07:46",
-    "Chiptime": "0:32:17",
-    "Finish": "0:32:20"
+    "Chip Time": "0:32:17",
+    "Gun Time": "0:32:20"
   },
   {
     "Position": 31,
@@ -337,8 +337,8 @@
     "Category": "M40",
     "2 Miles": "0:12:19",
     "Lap of Lough": "0:07:48",
-    "Chiptime": "0:32:21",
-    "Finish": "0:32:24"
+    "Chip Time": "0:32:21",
+    "Gun Time": "0:32:24"
   },
   {
     "Position": 32,
@@ -348,8 +348,8 @@
     "Category": "MO",
     "2 Miles": "0:12:39",
     "Lap of Lough": "0:07:43",
-    "Chiptime": "0:32:25",
-    "Finish": "0:32:33"
+    "Chip Time": "0:32:25",
+    "Gun Time": "0:32:33"
   },
   {
     "Position": 33,
@@ -359,8 +359,8 @@
     "Category": "M50",
     "2 Miles": "0:12:27",
     "Lap of Lough": "0:07:55",
-    "Chiptime": "0:32:36",
-    "Finish": "0:32:39"
+    "Chip Time": "0:32:36",
+    "Gun Time": "0:32:39"
   },
   {
     "Position": 34,
@@ -370,8 +370,8 @@
     "Category": "M35",
     "2 Miles": "0:12:22",
     "Lap of Lough": "0:07:55",
-    "Chiptime": "0:32:37",
-    "Finish": "0:32:40"
+    "Chip Time": "0:32:37",
+    "Gun Time": "0:32:40"
   },
   {
     "Position": 35,
@@ -381,8 +381,8 @@
     "Category": "M40",
     "2 Miles": "0:12:19",
     "Lap of Lough": "0:08:00",
-    "Chiptime": "0:32:41",
-    "Finish": "0:32:45"
+    "Chip Time": "0:32:41",
+    "Gun Time": "0:32:45"
   },
   {
     "Position": 36,
@@ -392,8 +392,8 @@
     "Category": "M35",
     "2 Miles": "0:12:27",
     "Lap of Lough": "0:07:51",
-    "Chiptime": "0:32:46",
-    "Finish": "0:32:51"
+    "Chip Time": "0:32:46",
+    "Gun Time": "0:32:51"
   },
   {
     "Position": 37,
@@ -403,8 +403,8 @@
     "Category": "MO",
     "2 Miles": "0:12:33",
     "Lap of Lough": "0:07:55",
-    "Chiptime": "0:32:27",
-    "Finish": "0:32:57"
+    "Chip Time": "0:32:27",
+    "Gun Time": "0:32:57"
   },
   {
     "Position": 38,
@@ -414,8 +414,8 @@
     "Category": "MO",
     "2 Miles": "0:12:20",
     "Lap of Lough": "0:08:10",
-    "Chiptime": "0:32:50",
-    "Finish": "0:32:58"
+    "Chip Time": "0:32:50",
+    "Gun Time": "0:32:58"
   },
   {
     "Position": 39,
@@ -425,8 +425,8 @@
     "Category": "M45",
     "2 Miles": "0:12:25",
     "Lap of Lough": "0:08:12",
-    "Chiptime": "0:32:53",
-    "Finish": "0:33:00"
+    "Chip Time": "0:32:53",
+    "Gun Time": "0:33:00"
   },
   {
     "Position": 40,
@@ -436,8 +436,8 @@
     "Category": "M40",
     "2 Miles": "0:12:33",
     "Lap of Lough": "0:07:54",
-    "Chiptime": "0:32:53",
-    "Finish": "0:33:00"
+    "Chip Time": "0:32:53",
+    "Gun Time": "0:33:00"
   },
   {
     "Position": 41,
@@ -447,8 +447,8 @@
     "Category": "M40",
     "2 Miles": "0:12:22",
     "Lap of Lough": "0:08:01",
-    "Chiptime": "0:33:01",
-    "Finish": "0:33:06"
+    "Chip Time": "0:33:01",
+    "Gun Time": "0:33:06"
   },
   {
     "Position": 42,
@@ -458,8 +458,8 @@
     "Category": "M35",
     "2 Miles": "0:12:24",
     "Lap of Lough": "0:08:00",
-    "Chiptime": "0:32:56",
-    "Finish": "0:33:07"
+    "Chip Time": "0:32:56",
+    "Gun Time": "0:33:07"
   },
   {
     "Position": 43,
@@ -469,8 +469,8 @@
     "Category": "M40",
     "2 Miles": "0:12:57",
     "Lap of Lough": "0:07:45",
-    "Chiptime": "0:33:02",
-    "Finish": "0:33:07"
+    "Chip Time": "0:33:02",
+    "Gun Time": "0:33:07"
   },
   {
     "Position": 44,
@@ -480,8 +480,8 @@
     "Category": "MO",
     "2 Miles": "0:12:56",
     "Lap of Lough": "0:07:50",
-    "Chiptime": "0:32:58",
-    "Finish": "0:33:08"
+    "Chip Time": "0:32:58",
+    "Gun Time": "0:33:08"
   },
   {
     "Position": 45,
@@ -491,8 +491,8 @@
     "Category": "MO",
     "2 Miles": "0:12:56",
     "Lap of Lough": "0:07:51",
-    "Chiptime": "0:32:59",
-    "Finish": "0:33:08"
+    "Chip Time": "0:32:59",
+    "Gun Time": "0:33:08"
   },
   {
     "Position": 46,
@@ -502,8 +502,8 @@
     "Category": "M45",
     "2 Miles": "0:12:36",
     "Lap of Lough": "0:07:55",
-    "Chiptime": "0:33:07",
-    "Finish": "0:33:09"
+    "Chip Time": "0:33:07",
+    "Gun Time": "0:33:09"
   },
   {
     "Position": 47,
@@ -513,8 +513,8 @@
     "Category": "MO",
     "2 Miles": "0:12:31",
     "Lap of Lough": "0:08:05",
-    "Chiptime": "0:33:07",
-    "Finish": "0:33:11"
+    "Chip Time": "0:33:07",
+    "Gun Time": "0:33:11"
   },
   {
     "Position": 48,
@@ -524,8 +524,8 @@
     "Category": "MU19",
     "2 Miles": "0:12:46",
     "Lap of Lough": "0:08:06",
-    "Chiptime": "0:33:27",
-    "Finish": "0:33:34"
+    "Chip Time": "0:33:27",
+    "Gun Time": "0:33:34"
   },
   {
     "Position": 49,
@@ -535,8 +535,8 @@
     "Category": "MO",
     "2 Miles": "0:12:45",
     "Lap of Lough": "0:07:50",
-    "Chiptime": "0:33:27",
-    "Finish": "0:33:37"
+    "Chip Time": "0:33:27",
+    "Gun Time": "0:33:37"
   },
   {
     "Position": 50,
@@ -546,8 +546,8 @@
     "Category": "M35",
     "2 Miles": "0:12:29",
     "Lap of Lough": "0:08:13",
-    "Chiptime": "0:33:37",
-    "Finish": "0:33:38"
+    "Chip Time": "0:33:37",
+    "Gun Time": "0:33:38"
   },
   {
     "Position": 51,
@@ -557,8 +557,8 @@
     "Category": "MO",
     "2 Miles": "0:12:53",
     "Lap of Lough": "0:08:02",
-    "Chiptime": "0:33:33",
-    "Finish": "0:33:40"
+    "Chip Time": "0:33:33",
+    "Gun Time": "0:33:40"
   },
   {
     "Position": 52,
@@ -568,8 +568,8 @@
     "Category": "M40",
     "2 Miles": "0:12:39",
     "Lap of Lough": "0:08:06",
-    "Chiptime": "0:33:36",
-    "Finish": "0:33:41"
+    "Chip Time": "0:33:36",
+    "Gun Time": "0:33:41"
   },
   {
     "Position": 53,
@@ -579,8 +579,8 @@
     "Category": "FJ",
     "2 Miles": "0:12:29",
     "Lap of Lough": "0:08:15",
-    "Chiptime": "0:33:40",
-    "Finish": "0:33:42"
+    "Chip Time": "0:33:40",
+    "Gun Time": "0:33:42"
   },
   {
     "Position": 54,
@@ -590,8 +590,8 @@
     "Category": "M40",
     "2 Miles": "0:12:53",
     "Lap of Lough": "0:08:07",
-    "Chiptime": "0:33:27",
-    "Finish": "0:33:43"
+    "Chip Time": "0:33:27",
+    "Gun Time": "0:33:43"
   },
   {
     "Position": 55,
@@ -601,8 +601,8 @@
     "Category": "MO",
     "2 Miles": "0:13:23",
     "Lap of Lough": "0:07:41",
-    "Chiptime": "0:33:37",
-    "Finish": "0:33:43"
+    "Chip Time": "0:33:37",
+    "Gun Time": "0:33:43"
   },
   {
     "Position": 56,
@@ -612,8 +612,8 @@
     "Category": "M55",
     "2 Miles": "0:13:01",
     "Lap of Lough": "0:07:59",
-    "Chiptime": "0:33:41",
-    "Finish": "0:33:45"
+    "Chip Time": "0:33:41",
+    "Gun Time": "0:33:45"
   },
   {
     "Position": 57,
@@ -623,8 +623,8 @@
     "Category": "M40",
     "2 Miles": "0:12:53",
     "Lap of Lough": "0:08:13",
-    "Chiptime": "0:33:45",
-    "Finish": "0:33:47"
+    "Chip Time": "0:33:45",
+    "Gun Time": "0:33:47"
   },
   {
     "Position": 58,
@@ -634,8 +634,8 @@
     "Category": "MO",
     "2 Miles": "0:13:40",
     "Lap of Lough": "0:07:58",
-    "Chiptime": "0:33:16",
-    "Finish": "0:33:51"
+    "Chip Time": "0:33:16",
+    "Gun Time": "0:33:51"
   },
   {
     "Position": 59,
@@ -645,8 +645,8 @@
     "Category": "M35",
     "2 Miles": "0:13:17",
     "Lap of Lough": "0:08:06",
-    "Chiptime": "0:33:38",
-    "Finish": "0:33:58"
+    "Chip Time": "0:33:38",
+    "Gun Time": "0:33:58"
   },
   {
     "Position": 60,
@@ -656,8 +656,8 @@
     "Category": "M35",
     "2 Miles": "0:12:39",
     "Lap of Lough": "0:08:35",
-    "Chiptime": "0:34:00",
-    "Finish": "0:34:08"
+    "Chip Time": "0:34:00",
+    "Gun Time": "0:34:08"
   },
   {
     "Position": 61,
@@ -667,8 +667,8 @@
     "Category": "F45",
     "2 Miles": "0:13:06",
     "Lap of Lough": "0:08:14",
-    "Chiptime": "0:34:09",
-    "Finish": "0:34:13"
+    "Chip Time": "0:34:09",
+    "Gun Time": "0:34:13"
   },
   {
     "Position": 62,
@@ -678,8 +678,8 @@
     "Category": "M40",
     "2 Miles": "0:12:56",
     "Lap of Lough": "0:08:03",
-    "Chiptime": "0:34:09",
-    "Finish": "0:34:14"
+    "Chip Time": "0:34:09",
+    "Gun Time": "0:34:14"
   },
   {
     "Position": 63,
@@ -689,8 +689,8 @@
     "Category": "M35",
     "2 Miles": "0:12:57",
     "Lap of Lough": "0:08:32",
-    "Chiptime": "0:34:06",
-    "Finish": "0:34:17"
+    "Chip Time": "0:34:06",
+    "Gun Time": "0:34:17"
   },
   {
     "Position": 64,
@@ -700,8 +700,8 @@
     "Category": "MO",
     "2 Miles": "0:12:32",
     "Lap of Lough": "0:08:40",
-    "Chiptime": "0:34:15",
-    "Finish": "0:34:24"
+    "Chip Time": "0:34:15",
+    "Gun Time": "0:34:24"
   },
   {
     "Position": 65,
@@ -711,8 +711,8 @@
     "Category": "M40",
     "2 Miles": "0:13:39",
     "Lap of Lough": "0:07:58",
-    "Chiptime": "0:34:22",
-    "Finish": "0:34:31"
+    "Chip Time": "0:34:22",
+    "Gun Time": "0:34:31"
   },
   {
     "Position": 66,
@@ -722,8 +722,8 @@
     "Category": "M55",
     "2 Miles": "0:12:54",
     "Lap of Lough": "0:08:27",
-    "Chiptime": "0:34:33",
-    "Finish": "0:34:35"
+    "Chip Time": "0:34:33",
+    "Gun Time": "0:34:35"
   },
   {
     "Position": 67,
@@ -733,8 +733,8 @@
     "Category": "M45",
     "2 Miles": "0:13:23",
     "Lap of Lough": "0:08:12",
-    "Chiptime": "0:34:23",
-    "Finish": "0:34:38"
+    "Chip Time": "0:34:23",
+    "Gun Time": "0:34:38"
   },
   {
     "Position": 68,
@@ -744,8 +744,8 @@
     "Category": "M50",
     "2 Miles": "0:13:55",
     "Lap of Lough": "0:07:51",
-    "Chiptime": "0:34:12",
-    "Finish": "0:34:39"
+    "Chip Time": "0:34:12",
+    "Gun Time": "0:34:39"
   },
   {
     "Position": 69,
@@ -755,8 +755,8 @@
     "Category": "M45",
     "2 Miles": "0:13:26",
     "Lap of Lough": "0:08:12",
-    "Chiptime": "0:34:37",
-    "Finish": "0:34:40"
+    "Chip Time": "0:34:37",
+    "Gun Time": "0:34:40"
   },
   {
     "Position": 70,
@@ -766,8 +766,8 @@
     "Category": "M40",
     "2 Miles": "0:13:09",
     "Lap of Lough": "0:08:25",
-    "Chiptime": "0:34:33",
-    "Finish": "0:34:49"
+    "Chip Time": "0:34:33",
+    "Gun Time": "0:34:49"
   },
   {
     "Position": 71,
@@ -777,8 +777,8 @@
     "Category": "MO",
     "2 Miles": "0:13:19",
     "Lap of Lough": "0:08:23",
-    "Chiptime": "0:34:43",
-    "Finish": "0:34:52"
+    "Chip Time": "0:34:43",
+    "Gun Time": "0:34:52"
   },
   {
     "Position": 72,
@@ -788,8 +788,8 @@
     "Category": "M35",
     "2 Miles": "0:13:16",
     "Lap of Lough": "0:08:25",
-    "Chiptime": "0:34:50",
-    "Finish": "0:34:52"
+    "Chip Time": "0:34:50",
+    "Gun Time": "0:34:52"
   },
   {
     "Position": 73,
@@ -799,8 +799,8 @@
     "Category": "M35",
     "2 Miles": "0:13:16",
     "Lap of Lough": "0:08:15",
-    "Chiptime": "0:34:49",
-    "Finish": "0:34:54"
+    "Chip Time": "0:34:49",
+    "Gun Time": "0:34:54"
   },
   {
     "Position": 74,
@@ -810,8 +810,8 @@
     "Category": "F40",
     "2 Miles": "0:13:40",
     "Lap of Lough": "0:08:23",
-    "Chiptime": "0:34:55",
-    "Finish": "0:34:58"
+    "Chip Time": "0:34:55",
+    "Gun Time": "0:34:58"
   },
   {
     "Position": 75,
@@ -821,8 +821,8 @@
     "Category": "MO",
     "2 Miles": "0:13:07",
     "Lap of Lough": "0:08:35",
-    "Chiptime": "0:34:41",
-    "Finish": "0:35:00"
+    "Chip Time": "0:34:41",
+    "Gun Time": "0:35:00"
   },
   {
     "Position": 76,
@@ -832,8 +832,8 @@
     "Category": "MO",
     "2 Miles": "0:13:26",
     "Lap of Lough": "0:08:24",
-    "Chiptime": "0:35:00",
-    "Finish": "0:35:07"
+    "Chip Time": "0:35:00",
+    "Gun Time": "0:35:07"
   },
   {
     "Position": 77,
@@ -843,8 +843,8 @@
     "Category": "MO",
     "2 Miles": "0:13:24",
     "Lap of Lough": "0:08:23",
-    "Chiptime": "0:34:57",
-    "Finish": "0:35:09"
+    "Chip Time": "0:34:57",
+    "Gun Time": "0:35:09"
   },
   {
     "Position": 78,
@@ -854,8 +854,8 @@
     "Category": "M50",
     "2 Miles": "0:13:45",
     "Lap of Lough": "0:08:16",
-    "Chiptime": "0:35:03",
-    "Finish": "0:35:14"
+    "Chip Time": "0:35:03",
+    "Gun Time": "0:35:14"
   },
   {
     "Position": 79,
@@ -865,8 +865,8 @@
     "Category": "MO",
     "2 Miles": "0:13:06",
     "Lap of Lough": "0:08:40",
-    "Chiptime": "0:34:52",
-    "Finish": "0:35:22"
+    "Chip Time": "0:34:52",
+    "Gun Time": "0:35:22"
   },
   {
     "Position": 80,
@@ -876,8 +876,8 @@
     "Category": "MO",
     "2 Miles": "0:13:40",
     "Lap of Lough": "0:08:26",
-    "Chiptime": "0:35:12",
-    "Finish": "0:35:28"
+    "Chip Time": "0:35:12",
+    "Gun Time": "0:35:28"
   },
   {
     "Position": 81,
@@ -887,8 +887,8 @@
     "Category": "M40",
     "2 Miles": "0:12:55",
     "Lap of Lough": "0:08:45",
-    "Chiptime": "0:35:33",
-    "Finish": "0:35:38"
+    "Chip Time": "0:35:33",
+    "Gun Time": "0:35:38"
   },
   {
     "Position": 82,
@@ -898,8 +898,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:22",
     "Lap of Lough": "0:08:40",
-    "Chiptime": "0:35:21",
-    "Finish": "0:35:40"
+    "Chip Time": "0:35:21",
+    "Gun Time": "0:35:40"
   },
   {
     "Position": 83,
@@ -909,8 +909,8 @@
     "Category": "M40",
     "2 Miles": "0:13:52",
     "Lap of Lough": "0:08:35",
-    "Chiptime": "0:35:31",
-    "Finish": "0:35:44"
+    "Chip Time": "0:35:31",
+    "Gun Time": "0:35:44"
   },
   {
     "Position": 84,
@@ -920,8 +920,8 @@
     "Category": "M35",
     "2 Miles": "0:13:20",
     "Lap of Lough": "0:08:39",
-    "Chiptime": "0:35:42",
-    "Finish": "0:35:46"
+    "Chip Time": "0:35:42",
+    "Gun Time": "0:35:46"
   },
   {
     "Position": 85,
@@ -931,8 +931,8 @@
     "Category": "M50",
     "2 Miles": "0:13:33",
     "Lap of Lough": "0:08:34",
-    "Chiptime": "0:35:46",
-    "Finish": "0:35:49"
+    "Chip Time": "0:35:46",
+    "Gun Time": "0:35:49"
   },
   {
     "Position": 86,
@@ -942,8 +942,8 @@
     "Category": "MO",
     "2 Miles": "0:14:24",
     "Lap of Lough": "0:08:23",
-    "Chiptime": "0:35:29",
-    "Finish": "0:35:50"
+    "Chip Time": "0:35:29",
+    "Gun Time": "0:35:50"
   },
   {
     "Position": 87,
@@ -953,8 +953,8 @@
     "Category": "MO",
     "2 Miles": "0:13:44",
     "Lap of Lough": "0:08:39",
-    "Chiptime": "0:35:35",
-    "Finish": "0:35:51"
+    "Chip Time": "0:35:35",
+    "Gun Time": "0:35:51"
   },
   {
     "Position": 88,
@@ -964,8 +964,8 @@
     "Category": "M45",
     "2 Miles": "0:13:27",
     "Lap of Lough": "0:08:57",
-    "Chiptime": "0:35:41",
-    "Finish": "0:35:56"
+    "Chip Time": "0:35:41",
+    "Gun Time": "0:35:56"
   },
   {
     "Position": 89,
@@ -975,8 +975,8 @@
     "Category": "M35",
     "2 Miles": "0:13:32",
     "Lap of Lough": "0:08:46",
-    "Chiptime": "0:35:44",
-    "Finish": "0:35:59"
+    "Chip Time": "0:35:44",
+    "Gun Time": "0:35:59"
   },
   {
     "Position": 90,
@@ -986,8 +986,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:55",
     "Lap of Lough": "0:08:27",
-    "Chiptime": "0:35:45",
-    "Finish": "0:36:02"
+    "Chip Time": "0:35:45",
+    "Gun Time": "0:36:02"
   },
   {
     "Position": 91,
@@ -997,8 +997,8 @@
     "Category": "M45",
     "2 Miles": "0:13:41",
     "Lap of Lough": "0:08:36",
-    "Chiptime": "0:35:57",
-    "Finish": "0:36:03"
+    "Chip Time": "0:35:57",
+    "Gun Time": "0:36:03"
   },
   {
     "Position": 92,
@@ -1008,8 +1008,8 @@
     "Category": "MO",
     "2 Miles": "0:13:58",
     "Lap of Lough": "0:08:35",
-    "Chiptime": "0:35:41",
-    "Finish": "0:36:03"
+    "Chip Time": "0:35:41",
+    "Gun Time": "0:36:03"
   },
   {
     "Position": 93,
@@ -1019,8 +1019,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:30",
     "Lap of Lough": "0:08:47",
-    "Chiptime": "0:36:01",
-    "Finish": "0:36:05"
+    "Chip Time": "0:36:01",
+    "Gun Time": "0:36:05"
   },
   {
     "Position": 94,
@@ -1030,8 +1030,8 @@
     "Category": "M40",
     "2 Miles": "0:13:43",
     "Lap of Lough": "0:08:43",
-    "Chiptime": "0:35:45",
-    "Finish": "0:36:05"
+    "Chip Time": "0:35:45",
+    "Gun Time": "0:36:05"
   },
   {
     "Position": 95,
@@ -1041,8 +1041,8 @@
     "Category": "MO",
     "2 Miles": "0:13:42",
     "Lap of Lough": "0:08:32",
-    "Chiptime": "0:35:48",
-    "Finish": "0:36:06"
+    "Chip Time": "0:35:48",
+    "Gun Time": "0:36:06"
   },
   {
     "Position": 96,
@@ -1052,8 +1052,8 @@
     "Category": "M45",
     "2 Miles": "0:13:35",
     "Lap of Lough": "0:08:46",
-    "Chiptime": "0:36:02",
-    "Finish": "0:36:07"
+    "Chip Time": "0:36:02",
+    "Gun Time": "0:36:07"
   },
   {
     "Position": 97,
@@ -1063,8 +1063,8 @@
     "Category": "M50",
     "2 Miles": "0:13:46",
     "Lap of Lough": "0:08:39",
-    "Chiptime": "0:36:11",
-    "Finish": "0:36:15"
+    "Chip Time": "0:36:11",
+    "Gun Time": "0:36:15"
   },
   {
     "Position": 98,
@@ -1074,8 +1074,8 @@
     "Category": "MO",
     "2 Miles": "0:13:43",
     "Lap of Lough": "0:08:46",
-    "Chiptime": "0:36:06",
-    "Finish": "0:36:18"
+    "Chip Time": "0:36:06",
+    "Gun Time": "0:36:18"
   },
   {
     "Position": 99,
@@ -1085,8 +1085,8 @@
     "Category": "MO",
     "2 Miles": "0:13:49",
     "Lap of Lough": "0:08:43",
-    "Chiptime": "0:36:11",
-    "Finish": "0:36:25"
+    "Chip Time": "0:36:11",
+    "Gun Time": "0:36:25"
   },
   {
     "Position": 100,
@@ -1096,8 +1096,8 @@
     "Category": "MO",
     "2 Miles": "0:13:31",
     "Lap of Lough": "0:08:47",
-    "Chiptime": "0:36:16",
-    "Finish": "0:36:26"
+    "Chip Time": "0:36:16",
+    "Gun Time": "0:36:26"
   },
   {
     "Position": 101,
@@ -1107,8 +1107,8 @@
     "Category": "M40",
     "2 Miles": "0:13:56",
     "Lap of Lough": "0:08:32",
-    "Chiptime": "0:36:18",
-    "Finish": "0:36:26"
+    "Chip Time": "0:36:18",
+    "Gun Time": "0:36:26"
   },
   {
     "Position": 102,
@@ -1118,8 +1118,8 @@
     "Category": "FJ",
     "2 Miles": "0:13:58",
     "Lap of Lough": "0:08:44",
-    "Chiptime": "0:36:24",
-    "Finish": "0:36:27"
+    "Chip Time": "0:36:24",
+    "Gun Time": "0:36:27"
   },
   {
     "Position": 103,
@@ -1129,8 +1129,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:50",
     "Lap of Lough": "0:08:44",
-    "Chiptime": "0:36:24",
-    "Finish": "0:36:27"
+    "Chip Time": "0:36:24",
+    "Gun Time": "0:36:27"
   },
   {
     "Position": 104,
@@ -1140,8 +1140,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:50",
     "Lap of Lough": "0:08:43",
-    "Chiptime": "0:36:24",
-    "Finish": "0:36:27"
+    "Chip Time": "0:36:24",
+    "Gun Time": "0:36:27"
   },
   {
     "Position": 105,
@@ -1151,8 +1151,8 @@
     "Category": "MO",
     "2 Miles": "0:14:00",
     "Lap of Lough": "0:08:34",
-    "Chiptime": "0:36:11",
-    "Finish": "0:36:28"
+    "Chip Time": "0:36:11",
+    "Gun Time": "0:36:28"
   },
   {
     "Position": 106,
@@ -1162,8 +1162,8 @@
     "Category": "M60",
     "2 Miles": "0:13:40",
     "Lap of Lough": "0:08:50",
-    "Chiptime": "0:36:21",
-    "Finish": "0:36:30"
+    "Chip Time": "0:36:21",
+    "Gun Time": "0:36:30"
   },
   {
     "Position": 107,
@@ -1173,8 +1173,8 @@
     "Category": "F35",
     "2 Miles": "0:13:37",
     "Lap of Lough": "0:08:51",
-    "Chiptime": "0:36:30",
-    "Finish": "0:36:33"
+    "Chip Time": "0:36:30",
+    "Gun Time": "0:36:33"
   },
   {
     "Position": 108,
@@ -1184,8 +1184,8 @@
     "Category": "M45",
     "2 Miles": "0:13:47",
     "Lap of Lough": "0:08:42",
-    "Chiptime": "0:36:20",
-    "Finish": "0:36:35"
+    "Chip Time": "0:36:20",
+    "Gun Time": "0:36:35"
   },
   {
     "Position": 109,
@@ -1195,8 +1195,8 @@
     "Category": "MO",
     "2 Miles": "0:14:17",
     "Lap of Lough": "0:08:30",
-    "Chiptime": "0:36:27",
-    "Finish": "0:36:36"
+    "Chip Time": "0:36:27",
+    "Gun Time": "0:36:36"
   },
   {
     "Position": 110,
@@ -1206,8 +1206,8 @@
     "Category": "M35",
     "2 Miles": "0:13:57",
     "Lap of Lough": "0:08:30",
-    "Chiptime": "0:36:28",
-    "Finish": "0:36:38"
+    "Chip Time": "0:36:28",
+    "Gun Time": "0:36:38"
   },
   {
     "Position": 111,
@@ -1217,8 +1217,8 @@
     "Category": "M40",
     "2 Miles": "0:13:33",
     "Lap of Lough": "0:08:44",
-    "Chiptime": "0:36:34",
-    "Finish": "0:36:40"
+    "Chip Time": "0:36:34",
+    "Gun Time": "0:36:40"
   },
   {
     "Position": 112,
@@ -1228,8 +1228,8 @@
     "Category": "M50",
     "2 Miles": "0:14:17",
     "Lap of Lough": "0:08:34",
-    "Chiptime": "0:36:27",
-    "Finish": "0:36:41"
+    "Chip Time": "0:36:27",
+    "Gun Time": "0:36:41"
   },
   {
     "Position": 113,
@@ -1239,8 +1239,8 @@
     "Category": "MO",
     "2 Miles": "0:14:11",
     "Lap of Lough": "0:08:41",
-    "Chiptime": "0:36:21",
-    "Finish": "0:36:42"
+    "Chip Time": "0:36:21",
+    "Gun Time": "0:36:42"
   },
   {
     "Position": 114,
@@ -1250,8 +1250,8 @@
     "Category": "M50",
     "2 Miles": "0:14:22",
     "Lap of Lough": "0:08:37",
-    "Chiptime": "0:36:26",
-    "Finish": "0:36:43"
+    "Chip Time": "0:36:26",
+    "Gun Time": "0:36:43"
   },
   {
     "Position": 115,
@@ -1261,8 +1261,8 @@
     "Category": "M40",
     "2 Miles": "0:13:43",
     "Lap of Lough": "0:09:01",
-    "Chiptime": "0:36:31",
-    "Finish": "0:36:46"
+    "Chip Time": "0:36:31",
+    "Gun Time": "0:36:46"
   },
   {
     "Position": 116,
@@ -1272,8 +1272,8 @@
     "Category": "MO",
     "2 Miles": "0:13:57",
     "Lap of Lough": "0:08:44",
-    "Chiptime": "0:36:23",
-    "Finish": "0:36:46"
+    "Chip Time": "0:36:23",
+    "Gun Time": "0:36:46"
   },
   {
     "Position": 117,
@@ -1283,8 +1283,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:30",
     "Lap of Lough": "0:09:12",
-    "Chiptime": "0:36:45",
-    "Finish": "0:36:49"
+    "Chip Time": "0:36:45",
+    "Gun Time": "0:36:49"
   },
   {
     "Position": 118,
@@ -1294,8 +1294,8 @@
     "Category": "M40",
     "2 Miles": "0:14:17",
     "Lap of Lough": "0:08:47",
-    "Chiptime": "0:36:30",
-    "Finish": "0:36:50"
+    "Chip Time": "0:36:30",
+    "Gun Time": "0:36:50"
   },
   {
     "Position": 119,
@@ -1305,8 +1305,8 @@
     "Category": "F35",
     "2 Miles": "0:14:00",
     "Lap of Lough": "0:08:58",
-    "Chiptime": "0:36:46",
-    "Finish": "0:36:53"
+    "Chip Time": "0:36:46",
+    "Gun Time": "0:36:53"
   },
   {
     "Position": 120,
@@ -1316,8 +1316,8 @@
     "Category": "M45",
     "2 Miles": "0:13:45",
     "Lap of Lough": "0:09:10",
-    "Chiptime": "0:36:42",
-    "Finish": "0:36:56"
+    "Chip Time": "0:36:42",
+    "Gun Time": "0:36:56"
   },
   {
     "Position": 121,
@@ -1327,8 +1327,8 @@
     "Category": "M35",
     "2 Miles": "0:13:55",
     "Lap of Lough": "0:08:59",
-    "Chiptime": "0:36:39",
-    "Finish": "0:36:57"
+    "Chip Time": "0:36:39",
+    "Gun Time": "0:36:57"
   },
   {
     "Position": 122,
@@ -1338,8 +1338,8 @@
     "Category": "M35",
     "2 Miles": "0:13:51",
     "Lap of Lough": "0:09:11",
-    "Chiptime": "0:36:50",
-    "Finish": "0:37:03"
+    "Chip Time": "0:36:50",
+    "Gun Time": "0:37:03"
   },
   {
     "Position": 123,
@@ -1349,8 +1349,8 @@
     "Category": "MO",
     "2 Miles": "0:13:16",
     "Lap of Lough": "0:08:47",
-    "Chiptime": "0:36:50",
-    "Finish": "0:37:05"
+    "Chip Time": "0:36:50",
+    "Gun Time": "0:37:05"
   },
   {
     "Position": 124,
@@ -1360,8 +1360,8 @@
     "Category": "",
     "2 Miles": "0:13:59",
     "Lap of Lough": "0:08:55",
-    "Chiptime": "0:36:58",
-    "Finish": "0:37:05"
+    "Chip Time": "0:36:58",
+    "Gun Time": "0:37:05"
   },
   {
     "Position": 125,
@@ -1371,8 +1371,8 @@
     "Category": "F35",
     "2 Miles": "0:13:59",
     "Lap of Lough": "0:09:01",
-    "Chiptime": "0:36:59",
-    "Finish": "0:37:06"
+    "Chip Time": "0:36:59",
+    "Gun Time": "0:37:06"
   },
   {
     "Position": 126,
@@ -1382,8 +1382,8 @@
     "Category": "M35",
     "2 Miles": "0:14:09",
     "Lap of Lough": "0:08:47",
-    "Chiptime": "12:43:58",
-    "Finish": "0:37:08"
+    "Chip Time": "12:43:58",
+    "Gun Time": "0:37:08"
   },
   {
     "Position": 127,
@@ -1393,8 +1393,8 @@
     "Category": "M50",
     "2 Miles": "0:14:08",
     "Lap of Lough": "0:08:54",
-    "Chiptime": "0:36:55",
-    "Finish": "0:37:09"
+    "Chip Time": "0:36:55",
+    "Gun Time": "0:37:09"
   },
   {
     "Position": 128,
@@ -1404,8 +1404,8 @@
     "Category": "F35",
     "2 Miles": "0:13:46",
     "Lap of Lough": "0:09:05",
-    "Chiptime": "0:37:09",
-    "Finish": "0:37:14"
+    "Chip Time": "0:37:09",
+    "Gun Time": "0:37:14"
   },
   {
     "Position": 129,
@@ -1415,8 +1415,8 @@
     "Category": "MO",
     "2 Miles": "0:14:17",
     "Lap of Lough": "0:08:56",
-    "Chiptime": "0:37:07",
-    "Finish": "0:37:16"
+    "Chip Time": "0:37:07",
+    "Gun Time": "0:37:16"
   },
   {
     "Position": 130,
@@ -1426,8 +1426,8 @@
     "Category": "F40",
     "2 Miles": "0:14:01",
     "Lap of Lough": "0:09:08",
-    "Chiptime": "0:37:10",
-    "Finish": "0:37:19"
+    "Chip Time": "0:37:10",
+    "Gun Time": "0:37:19"
   },
   {
     "Position": 131,
@@ -1437,8 +1437,8 @@
     "Category": "M35",
     "2 Miles": "0:13:39",
     "Lap of Lough": "0:09:07",
-    "Chiptime": "0:37:15",
-    "Finish": "0:37:20"
+    "Chip Time": "0:37:15",
+    "Gun Time": "0:37:20"
   },
   {
     "Position": 132,
@@ -1448,8 +1448,8 @@
     "Category": "MO",
     "2 Miles": "0:14:33",
     "Lap of Lough": "0:08:37",
-    "Chiptime": "0:37:01",
-    "Finish": "0:37:20"
+    "Chip Time": "0:37:01",
+    "Gun Time": "0:37:20"
   },
   {
     "Position": 133,
@@ -1459,8 +1459,8 @@
     "Category": "MO",
     "2 Miles": "0:13:30",
     "Lap of Lough": "0:09:20",
-    "Chiptime": "0:37:16",
-    "Finish": "0:37:22"
+    "Chip Time": "0:37:16",
+    "Gun Time": "0:37:22"
   },
   {
     "Position": 134,
@@ -1470,8 +1470,8 @@
     "Category": "FO",
     "2 Miles": "0:13:59",
     "Lap of Lough": "0:09:12",
-    "Chiptime": "0:37:17",
-    "Finish": "0:37:23"
+    "Chip Time": "0:37:17",
+    "Gun Time": "0:37:23"
   },
   {
     "Position": 135,
@@ -1481,8 +1481,8 @@
     "Category": "M40",
     "2 Miles": "0:13:53",
     "Lap of Lough": "0:09:07",
-    "Chiptime": "0:37:21",
-    "Finish": "0:37:26"
+    "Chip Time": "0:37:21",
+    "Gun Time": "0:37:26"
   },
   {
     "Position": 136,
@@ -1492,8 +1492,8 @@
     "Category": "M50",
     "2 Miles": "0:14:13",
     "Lap of Lough": "0:08:54",
-    "Chiptime": "0:37:21",
-    "Finish": "0:37:27"
+    "Chip Time": "0:37:21",
+    "Gun Time": "0:37:27"
   },
   {
     "Position": 137,
@@ -1503,8 +1503,8 @@
     "Category": "MO",
     "2 Miles": "0:14:22",
     "Lap of Lough": "0:08:47",
-    "Chiptime": "0:37:06",
-    "Finish": "0:37:28"
+    "Chip Time": "0:37:06",
+    "Gun Time": "0:37:28"
   },
   {
     "Position": 138,
@@ -1514,8 +1514,8 @@
     "Category": "MO",
     "2 Miles": "0:13:57",
     "Lap of Lough": "0:09:13",
-    "Chiptime": "0:37:13",
-    "Finish": "0:37:28"
+    "Chip Time": "0:37:13",
+    "Gun Time": "0:37:28"
   },
   {
     "Position": 139,
@@ -1525,8 +1525,8 @@
     "Category": "MO",
     "2 Miles": "0:13:43",
     "Lap of Lough": "0:09:03",
-    "Chiptime": "0:37:21",
-    "Finish": "0:37:31"
+    "Chip Time": "0:37:21",
+    "Gun Time": "0:37:31"
   },
   {
     "Position": 140,
@@ -1536,8 +1536,8 @@
     "Category": "FJ",
     "2 Miles": "0:13:58",
     "Lap of Lough": "0:09:16",
-    "Chiptime": "0:37:17",
-    "Finish": "0:37:32"
+    "Chip Time": "0:37:17",
+    "Gun Time": "0:37:32"
   },
   {
     "Position": 141,
@@ -1547,8 +1547,8 @@
     "Category": "M35",
     "2 Miles": "0:14:19",
     "Lap of Lough": "0:08:56",
-    "Chiptime": "0:37:18",
-    "Finish": "0:37:34"
+    "Chip Time": "0:37:18",
+    "Gun Time": "0:37:34"
   },
   {
     "Position": 142,
@@ -1558,8 +1558,8 @@
     "Category": "MO",
     "2 Miles": "0:14:16",
     "Lap of Lough": "0:08:53",
-    "Chiptime": "0:37:27",
-    "Finish": "0:37:35"
+    "Chip Time": "0:37:27",
+    "Gun Time": "0:37:35"
   },
   {
     "Position": 143,
@@ -1569,8 +1569,8 @@
     "Category": "M40",
     "2 Miles": "0:13:54",
     "Lap of Lough": "0:09:15",
-    "Chiptime": "0:37:31",
-    "Finish": "0:37:36"
+    "Chip Time": "0:37:31",
+    "Gun Time": "0:37:36"
   },
   {
     "Position": 144,
@@ -1580,8 +1580,8 @@
     "Category": "M40",
     "2 Miles": "0:14:39",
     "Lap of Lough": "0:08:52",
-    "Chiptime": "0:37:24",
-    "Finish": "0:37:41"
+    "Chip Time": "0:37:24",
+    "Gun Time": "0:37:41"
   },
   {
     "Position": 145,
@@ -1591,8 +1591,8 @@
     "Category": "M50",
     "2 Miles": "0:14:01",
     "Lap of Lough": "0:09:23",
-    "Chiptime": "0:37:39",
-    "Finish": "0:37:41"
+    "Chip Time": "0:37:39",
+    "Gun Time": "0:37:41"
   },
   {
     "Position": 146,
@@ -1602,8 +1602,8 @@
     "Category": "M35",
     "2 Miles": "0:13:50",
     "Lap of Lough": "0:09:16",
-    "Chiptime": "0:37:32",
-    "Finish": "0:37:43"
+    "Chip Time": "0:37:32",
+    "Gun Time": "0:37:43"
   },
   {
     "Position": 147,
@@ -1613,8 +1613,8 @@
     "Category": "MO",
     "2 Miles": "0:14:43",
     "Lap of Lough": "0:09:11",
-    "Chiptime": "0:37:24",
-    "Finish": "0:37:46"
+    "Chip Time": "0:37:24",
+    "Gun Time": "0:37:46"
   },
   {
     "Position": 148,
@@ -1624,8 +1624,8 @@
     "Category": "M50",
     "2 Miles": "0:14:11",
     "Lap of Lough": "0:09:01",
-    "Chiptime": "0:37:36",
-    "Finish": "0:37:48"
+    "Chip Time": "0:37:36",
+    "Gun Time": "0:37:48"
   },
   {
     "Position": 149,
@@ -1635,8 +1635,8 @@
     "Category": "M35",
     "2 Miles": "0:14:34",
     "Lap of Lough": "0:08:57",
-    "Chiptime": "0:37:39",
-    "Finish": "0:37:50"
+    "Chip Time": "0:37:39",
+    "Gun Time": "0:37:50"
   },
   {
     "Position": 150,
@@ -1646,8 +1646,8 @@
     "Category": "MO",
     "2 Miles": "0:13:58",
     "Lap of Lough": "0:08:59",
-    "Chiptime": "0:37:31",
-    "Finish": "0:37:51"
+    "Chip Time": "0:37:31",
+    "Gun Time": "0:37:51"
   },
   {
     "Position": 151,
@@ -1657,8 +1657,8 @@
     "Category": "F45",
     "2 Miles": "0:14:34",
     "Lap of Lough": "0:08:59",
-    "Chiptime": "0:37:45",
-    "Finish": "0:37:54"
+    "Chip Time": "0:37:45",
+    "Gun Time": "0:37:54"
   },
   {
     "Position": 152,
@@ -1668,8 +1668,8 @@
     "Category": "MO",
     "2 Miles": "0:14:18",
     "Lap of Lough": "0:09:13",
-    "Chiptime": "0:37:43",
-    "Finish": "0:37:56"
+    "Chip Time": "0:37:43",
+    "Gun Time": "0:37:56"
   },
   {
     "Position": 153,
@@ -1679,8 +1679,8 @@
     "Category": "M45",
     "2 Miles": "0:14:06",
     "Lap of Lough": "0:09:12",
-    "Chiptime": "0:37:49",
-    "Finish": "0:37:56"
+    "Chip Time": "0:37:49",
+    "Gun Time": "0:37:56"
   },
   {
     "Position": 154,
@@ -1690,8 +1690,8 @@
     "Category": "M40",
     "2 Miles": "0:14:52",
     "Lap of Lough": "0:08:49",
-    "Chiptime": "0:37:40",
-    "Finish": "0:38:04"
+    "Chip Time": "0:37:40",
+    "Gun Time": "0:38:04"
   },
   {
     "Position": 155,
@@ -1701,8 +1701,8 @@
     "Category": "M40",
     "2 Miles": "0:14:24",
     "Lap of Lough": "0:08:51",
-    "Chiptime": "0:37:51",
-    "Finish": "0:38:04"
+    "Chip Time": "0:37:51",
+    "Gun Time": "0:38:04"
   },
   {
     "Position": 156,
@@ -1712,8 +1712,8 @@
     "Category": "MJ",
     "2 Miles": "0:13:51",
     "Lap of Lough": "0:10:05",
-    "Chiptime": "0:38:06",
-    "Finish": "0:38:09"
+    "Chip Time": "0:38:06",
+    "Gun Time": "0:38:09"
   },
   {
     "Position": 157,
@@ -1723,8 +1723,8 @@
     "Category": "M40",
     "2 Miles": "0:14:21",
     "Lap of Lough": "0:09:14",
-    "Chiptime": "0:37:59",
-    "Finish": "0:38:10"
+    "Chip Time": "0:37:59",
+    "Gun Time": "0:38:10"
   },
   {
     "Position": 158,
@@ -1734,8 +1734,8 @@
     "Category": "MO",
     "2 Miles": "0:14:58",
     "Lap of Lough": "0:08:50",
-    "Chiptime": "0:37:47",
-    "Finish": "0:38:10"
+    "Chip Time": "0:37:47",
+    "Gun Time": "0:38:10"
   },
   {
     "Position": 159,
@@ -1745,8 +1745,8 @@
     "Category": "M40",
     "2 Miles": "0:14:47",
     "Lap of Lough": "0:09:05",
-    "Chiptime": "0:37:47",
-    "Finish": "0:38:14"
+    "Chip Time": "0:37:47",
+    "Gun Time": "0:38:14"
   },
   {
     "Position": 160,
@@ -1756,8 +1756,8 @@
     "Category": "MO",
     "2 Miles": "0:14:30",
     "Lap of Lough": "0:09:07",
-    "Chiptime": "0:38:13",
-    "Finish": "0:38:21"
+    "Chip Time": "0:38:13",
+    "Gun Time": "0:38:21"
   },
   {
     "Position": 161,
@@ -1767,8 +1767,8 @@
     "Category": "FO",
     "2 Miles": "0:14:20",
     "Lap of Lough": "0:09:24",
-    "Chiptime": "0:38:13",
-    "Finish": "0:38:24"
+    "Chip Time": "0:38:13",
+    "Gun Time": "0:38:24"
   },
   {
     "Position": 162,
@@ -1778,8 +1778,8 @@
     "Category": "M45",
     "2 Miles": "0:14:42",
     "Lap of Lough": "0:09:05",
-    "Chiptime": "0:38:02",
-    "Finish": "0:38:28"
+    "Chip Time": "0:38:02",
+    "Gun Time": "0:38:28"
   },
   {
     "Position": 163,
@@ -1789,8 +1789,8 @@
     "Category": "",
     "2 Miles": "0:14:42",
     "Lap of Lough": "0:09:06",
-    "Chiptime": "0:38:04",
-    "Finish": "0:38:31"
+    "Chip Time": "0:38:04",
+    "Gun Time": "0:38:31"
   },
   {
     "Position": 164,
@@ -1800,8 +1800,8 @@
     "Category": "MO",
     "2 Miles": "0:14:05",
     "Lap of Lough": "0:09:28",
-    "Chiptime": "0:38:21",
-    "Finish": "0:38:32"
+    "Chip Time": "0:38:21",
+    "Gun Time": "0:38:32"
   },
   {
     "Position": 165,
@@ -1811,8 +1811,8 @@
     "Category": "",
     "2 Miles": "0:13:45",
     "Lap of Lough": "0:09:15",
-    "Chiptime": "0:38:25",
-    "Finish": "0:38:33"
+    "Chip Time": "0:38:25",
+    "Gun Time": "0:38:33"
   },
   {
     "Position": 166,
@@ -1822,8 +1822,8 @@
     "Category": "FO",
     "2 Miles": "0:14:41",
     "Lap of Lough": "0:08:55",
-    "Chiptime": "0:38:34",
-    "Finish": "0:38:40"
+    "Chip Time": "0:38:34",
+    "Gun Time": "0:38:40"
   },
   {
     "Position": 167,
@@ -1833,8 +1833,8 @@
     "Category": "MO",
     "2 Miles": "0:14:31",
     "Lap of Lough": "0:09:08",
-    "Chiptime": "0:38:24",
-    "Finish": "0:38:41"
+    "Chip Time": "0:38:24",
+    "Gun Time": "0:38:41"
   },
   {
     "Position": 168,
@@ -1844,8 +1844,8 @@
     "Category": "MO",
     "2 Miles": "0:14:32",
     "Lap of Lough": "0:09:28",
-    "Chiptime": "0:38:33",
-    "Finish": "0:38:47"
+    "Chip Time": "0:38:33",
+    "Gun Time": "0:38:47"
   },
   {
     "Position": 169,
@@ -1855,8 +1855,8 @@
     "Category": "M40",
     "2 Miles": "0:14:16",
     "Lap of Lough": "0:09:11",
-    "Chiptime": "0:38:42",
-    "Finish": "0:38:50"
+    "Chip Time": "0:38:42",
+    "Gun Time": "0:38:50"
   },
   {
     "Position": 170,
@@ -1866,8 +1866,8 @@
     "Category": "MU19",
     "2 Miles": "0:15:00",
     "Lap of Lough": "0:08:20",
-    "Chiptime": "0:38:33",
-    "Finish": "0:38:51"
+    "Chip Time": "0:38:33",
+    "Gun Time": "0:38:51"
   },
   {
     "Position": 171,
@@ -1877,8 +1877,8 @@
     "Category": "FJ",
     "2 Miles": "0:14:15",
     "Lap of Lough": "0:09:38",
-    "Chiptime": "0:38:46",
-    "Finish": "0:38:52"
+    "Chip Time": "0:38:46",
+    "Gun Time": "0:38:52"
   },
   {
     "Position": 172,
@@ -1888,8 +1888,8 @@
     "Category": "M45",
     "2 Miles": "0:14:42",
     "Lap of Lough": "0:09:23",
-    "Chiptime": "0:38:48",
-    "Finish": "0:39:01"
+    "Chip Time": "0:38:48",
+    "Gun Time": "0:39:01"
   },
   {
     "Position": 173,
@@ -1899,8 +1899,8 @@
     "Category": "M60",
     "2 Miles": "0:14:32",
     "Lap of Lough": "0:09:30",
-    "Chiptime": "0:38:55",
-    "Finish": "0:39:02"
+    "Chip Time": "0:38:55",
+    "Gun Time": "0:39:02"
   },
   {
     "Position": 174,
@@ -1910,8 +1910,8 @@
     "Category": "M35",
     "2 Miles": "0:14:01",
     "Lap of Lough": "0:09:38",
-    "Chiptime": "0:38:57",
-    "Finish": "0:39:04"
+    "Chip Time": "0:38:57",
+    "Gun Time": "0:39:04"
   },
   {
     "Position": 175,
@@ -1921,8 +1921,8 @@
     "Category": "MO",
     "2 Miles": "0:14:17",
     "Lap of Lough": "0:09:30",
-    "Chiptime": "0:39:01",
-    "Finish": "0:39:09"
+    "Chip Time": "0:39:01",
+    "Gun Time": "0:39:09"
   },
   {
     "Position": 176,
@@ -1932,8 +1932,8 @@
     "Category": "M40",
     "2 Miles": "0:15:05",
     "Lap of Lough": "0:09:16",
-    "Chiptime": "0:38:46",
-    "Finish": "0:39:10"
+    "Chip Time": "0:38:46",
+    "Gun Time": "0:39:10"
   },
   {
     "Position": 177,
@@ -1943,8 +1943,8 @@
     "Category": "M35",
     "2 Miles": "0:14:52",
     "Lap of Lough": "0:09:08",
-    "Chiptime": "0:38:55",
-    "Finish": "0:39:13"
+    "Chip Time": "0:38:55",
+    "Gun Time": "0:39:13"
   },
   {
     "Position": 178,
@@ -1954,8 +1954,8 @@
     "Category": "M40",
     "2 Miles": "0:14:35",
     "Lap of Lough": "0:09:47",
-    "Chiptime": "0:39:04",
-    "Finish": "0:39:13"
+    "Chip Time": "0:39:04",
+    "Gun Time": "0:39:13"
   },
   {
     "Position": 179,
@@ -1965,8 +1965,8 @@
     "Category": "MO",
     "2 Miles": "0:14:57",
     "Lap of Lough": "0:09:12",
-    "Chiptime": "0:38:51",
-    "Finish": "0:39:15"
+    "Chip Time": "0:38:51",
+    "Gun Time": "0:39:15"
   },
   {
     "Position": 180,
@@ -1976,8 +1976,8 @@
     "Category": "M35",
     "2 Miles": "0:14:40",
     "Lap of Lough": "0:09:23",
-    "Chiptime": "0:39:07",
-    "Finish": "0:39:16"
+    "Chip Time": "0:39:07",
+    "Gun Time": "0:39:16"
   },
   {
     "Position": 181,
@@ -1987,8 +1987,8 @@
     "Category": "FO",
     "2 Miles": "0:15:07",
     "Lap of Lough": "0:09:25",
-    "Chiptime": "0:39:09",
-    "Finish": "0:39:17"
+    "Chip Time": "0:39:09",
+    "Gun Time": "0:39:17"
   },
   {
     "Position": 182,
@@ -1998,8 +1998,8 @@
     "Category": "M45",
     "2 Miles": "0:14:12",
     "Lap of Lough": "0:09:38",
-    "Chiptime": "0:39:14",
-    "Finish": "0:39:18"
+    "Chip Time": "0:39:14",
+    "Gun Time": "0:39:18"
   },
   {
     "Position": 183,
@@ -2009,8 +2009,8 @@
     "Category": "M35",
     "2 Miles": "0:14:40",
     "Lap of Lough": "0:09:41",
-    "Chiptime": "0:38:56",
-    "Finish": "0:39:21"
+    "Chip Time": "0:38:56",
+    "Gun Time": "0:39:21"
   },
   {
     "Position": 184,
@@ -2020,8 +2020,8 @@
     "Category": "M45",
     "2 Miles": "0:15:06",
     "Lap of Lough": "0:09:30",
-    "Chiptime": "0:39:16",
-    "Finish": "0:39:22"
+    "Chip Time": "0:39:16",
+    "Gun Time": "0:39:22"
   },
   {
     "Position": 185,
@@ -2031,8 +2031,8 @@
     "Category": "M50",
     "2 Miles": "0:15:07",
     "Lap of Lough": "0:09:28",
-    "Chiptime": "0:39:13",
-    "Finish": "0:39:24"
+    "Chip Time": "0:39:13",
+    "Gun Time": "0:39:24"
   },
   {
     "Position": 186,
@@ -2042,8 +2042,8 @@
     "Category": "MO",
     "2 Miles": "0:13:40",
     "Lap of Lough": "0:09:48",
-    "Chiptime": "0:39:23",
-    "Finish": "0:39:29"
+    "Chip Time": "0:39:23",
+    "Gun Time": "0:39:29"
   },
   {
     "Position": 187,
@@ -2053,8 +2053,8 @@
     "Category": "F50",
     "2 Miles": "0:14:41",
     "Lap of Lough": "0:09:28",
-    "Chiptime": "0:39:27",
-    "Finish": "0:39:30"
+    "Chip Time": "0:39:27",
+    "Gun Time": "0:39:30"
   },
   {
     "Position": 188,
@@ -2064,8 +2064,8 @@
     "Category": "M45",
     "2 Miles": "0:14:52",
     "Lap of Lough": "0:09:37",
-    "Chiptime": "0:39:12",
-    "Finish": "0:39:39"
+    "Chip Time": "0:39:12",
+    "Gun Time": "0:39:39"
   },
   {
     "Position": 189,
@@ -2075,8 +2075,8 @@
     "Category": "M40",
     "2 Miles": "0:15:27",
     "Lap of Lough": "0:09:24",
-    "Chiptime": "0:39:12",
-    "Finish": "0:39:40"
+    "Chip Time": "0:39:12",
+    "Gun Time": "0:39:40"
   },
   {
     "Position": 190,
@@ -2086,8 +2086,8 @@
     "Category": "MO",
     "2 Miles": "0:14:16",
     "Lap of Lough": "0:10:00",
-    "Chiptime": "0:39:33",
-    "Finish": "0:39:41"
+    "Chip Time": "0:39:33",
+    "Gun Time": "0:39:41"
   },
   {
     "Position": 191,
@@ -2097,8 +2097,8 @@
     "Category": "M45",
     "2 Miles": "0:14:43",
     "Lap of Lough": "0:09:46",
-    "Chiptime": "0:39:18",
-    "Finish": "0:39:44"
+    "Chip Time": "0:39:18",
+    "Gun Time": "0:39:44"
   },
   {
     "Position": 192,
@@ -2108,8 +2108,8 @@
     "Category": "M45",
     "2 Miles": "0:14:59",
     "Lap of Lough": "0:09:45",
-    "Chiptime": "0:39:29",
-    "Finish": "0:39:46"
+    "Chip Time": "0:39:29",
+    "Gun Time": "0:39:46"
   },
   {
     "Position": 193,
@@ -2119,8 +2119,8 @@
     "Category": "M40",
     "2 Miles": "0:15:05",
     "Lap of Lough": "0:09:30",
-    "Chiptime": "0:39:37",
-    "Finish": "0:39:49"
+    "Chip Time": "0:39:37",
+    "Gun Time": "0:39:49"
   },
   {
     "Position": 194,
@@ -2130,8 +2130,8 @@
     "Category": "F35",
     "2 Miles": "0:14:57",
     "Lap of Lough": "0:09:56",
-    "Chiptime": "0:39:46",
-    "Finish": "0:40:00"
+    "Chip Time": "0:39:46",
+    "Gun Time": "0:40:00"
   },
   {
     "Position": 195,
@@ -2141,8 +2141,8 @@
     "Category": "MO",
     "2 Miles": "0:15:30",
     "Lap of Lough": "0:09:40",
-    "Chiptime": "0:39:38",
-    "Finish": "0:40:02"
+    "Chip Time": "0:39:38",
+    "Gun Time": "0:40:02"
   },
   {
     "Position": 196,
@@ -2152,8 +2152,8 @@
     "Category": "MO",
     "2 Miles": "0:13:37",
     "Lap of Lough": "0:10:05",
-    "Chiptime": "0:40:01",
-    "Finish": "0:40:07"
+    "Chip Time": "0:40:01",
+    "Gun Time": "0:40:07"
   },
   {
     "Position": 197,
@@ -2163,8 +2163,8 @@
     "Category": "MO",
     "2 Miles": "0:13:54",
     "Lap of Lough": "0:09:41",
-    "Chiptime": "0:39:51",
-    "Finish": "0:40:09"
+    "Chip Time": "0:39:51",
+    "Gun Time": "0:40:09"
   },
   {
     "Position": 198,
@@ -2174,8 +2174,8 @@
     "Category": "MO",
     "2 Miles": "0:15:19",
     "Lap of Lough": "0:09:43",
-    "Chiptime": "0:39:59",
-    "Finish": "0:40:12"
+    "Chip Time": "0:39:59",
+    "Gun Time": "0:40:12"
   },
   {
     "Position": 199,
@@ -2185,8 +2185,8 @@
     "Category": "MO",
     "2 Miles": "0:15:04",
     "Lap of Lough": "0:09:49",
-    "Chiptime": "0:39:51",
-    "Finish": "0:40:14"
+    "Chip Time": "0:39:51",
+    "Gun Time": "0:40:14"
   },
   {
     "Position": 200,
@@ -2196,8 +2196,8 @@
     "Category": "MO",
     "2 Miles": "0:14:31",
     "Lap of Lough": "0:09:36",
-    "Chiptime": "0:40:06",
-    "Finish": "0:40:17"
+    "Chip Time": "0:40:06",
+    "Gun Time": "0:40:17"
   },
   {
     "Position": 201,
@@ -2207,8 +2207,8 @@
     "Category": "M40",
     "2 Miles": "0:14:23",
     "Lap of Lough": "0:10:07",
-    "Chiptime": "0:40:14",
-    "Finish": "0:40:18"
+    "Chip Time": "0:40:14",
+    "Gun Time": "0:40:18"
   },
   {
     "Position": 202,
@@ -2218,8 +2218,8 @@
     "Category": "M45",
     "2 Miles": "0:15:57",
     "Lap of Lough": "0:09:13",
-    "Chiptime": "0:39:50",
-    "Finish": "0:40:18"
+    "Chip Time": "0:39:50",
+    "Gun Time": "0:40:18"
   },
   {
     "Position": 203,
@@ -2229,8 +2229,8 @@
     "Category": "M45",
     "2 Miles": "0:15:13",
     "Lap of Lough": "0:09:18",
-    "Chiptime": "0:39:56",
-    "Finish": "0:40:20"
+    "Chip Time": "0:39:56",
+    "Gun Time": "0:40:20"
   },
   {
     "Position": 204,
@@ -2240,8 +2240,8 @@
     "Category": "M50",
     "2 Miles": "0:15:09",
     "Lap of Lough": "0:09:43",
-    "Chiptime": "0:40:07",
-    "Finish": "0:40:21"
+    "Chip Time": "0:40:07",
+    "Gun Time": "0:40:21"
   },
   {
     "Position": 205,
@@ -2251,8 +2251,8 @@
     "Category": "M35",
     "2 Miles": "0:15:44",
     "Lap of Lough": "0:09:35",
-    "Chiptime": "0:40:08",
-    "Finish": "0:40:22"
+    "Chip Time": "0:40:08",
+    "Gun Time": "0:40:22"
   },
   {
     "Position": 206,
@@ -2262,8 +2262,8 @@
     "Category": "M55",
     "2 Miles": "0:15:18",
     "Lap of Lough": "0:10:00",
-    "Chiptime": "0:40:05",
-    "Finish": "0:40:25"
+    "Chip Time": "0:40:05",
+    "Gun Time": "0:40:25"
   },
   {
     "Position": 207,
@@ -2273,8 +2273,8 @@
     "Category": "MO",
     "2 Miles": "0:15:40",
     "Lap of Lough": "0:09:51",
-    "Chiptime": "0:40:01",
-    "Finish": "0:40:25"
+    "Chip Time": "0:40:01",
+    "Gun Time": "0:40:25"
   },
   {
     "Position": 208,
@@ -2284,8 +2284,8 @@
     "Category": "MJ",
     "2 Miles": "0:16:11",
     "Lap of Lough": "0:09:00",
-    "Chiptime": "0:39:51",
-    "Finish": "0:40:27"
+    "Chip Time": "0:39:51",
+    "Gun Time": "0:40:27"
   },
   {
     "Position": 209,
@@ -2295,8 +2295,8 @@
     "Category": "MO",
     "2 Miles": "0:15:41",
     "Lap of Lough": "0:09:19",
-    "Chiptime": "0:40:09",
-    "Finish": "0:40:30"
+    "Chip Time": "0:40:09",
+    "Gun Time": "0:40:30"
   },
   {
     "Position": 210,
@@ -2306,8 +2306,8 @@
     "Category": "M50",
     "2 Miles": "0:15:59",
     "Lap of Lough": "0:09:33",
-    "Chiptime": "0:40:05",
-    "Finish": "0:40:33"
+    "Chip Time": "0:40:05",
+    "Gun Time": "0:40:33"
   },
   {
     "Position": 211,
@@ -2317,8 +2317,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:00",
     "Lap of Lough": "0:10:03",
-    "Chiptime": "0:40:17",
-    "Finish": "0:40:35"
+    "Chip Time": "0:40:17",
+    "Gun Time": "0:40:35"
   },
   {
     "Position": 212,
@@ -2328,8 +2328,8 @@
     "Category": "MO",
     "2 Miles": "0:13:46",
     "Lap of Lough": "0:10:08",
-    "Chiptime": "0:40:17",
-    "Finish": "0:40:36"
+    "Chip Time": "0:40:17",
+    "Gun Time": "0:40:36"
   },
   {
     "Position": 213,
@@ -2339,8 +2339,8 @@
     "Category": "F40",
     "2 Miles": "0:15:23",
     "Lap of Lough": "0:09:31",
-    "Chiptime": "0:40:32",
-    "Finish": "0:40:38"
+    "Chip Time": "0:40:32",
+    "Gun Time": "0:40:38"
   },
   {
     "Position": 214,
@@ -2350,8 +2350,8 @@
     "Category": "M35",
     "2 Miles": "0:15:05",
     "Lap of Lough": "0:10:03",
-    "Chiptime": "0:40:30",
-    "Finish": "0:40:40"
+    "Chip Time": "0:40:30",
+    "Gun Time": "0:40:40"
   },
   {
     "Position": 215,
@@ -2361,8 +2361,8 @@
     "Category": "MO",
     "2 Miles": "0:14:11",
     "Lap of Lough": "0:10:00",
-    "Chiptime": "0:40:37",
-    "Finish": "0:40:43"
+    "Chip Time": "0:40:37",
+    "Gun Time": "0:40:43"
   },
   {
     "Position": 216,
@@ -2372,8 +2372,8 @@
     "Category": "M40",
     "2 Miles": "0:15:15",
     "Lap of Lough": "0:09:50",
-    "Chiptime": "0:40:37",
-    "Finish": "0:40:48"
+    "Chip Time": "0:40:37",
+    "Gun Time": "0:40:48"
   },
   {
     "Position": 217,
@@ -2383,8 +2383,8 @@
     "Category": "FO",
     "2 Miles": "0:15:50",
     "Lap of Lough": "0:09:42",
-    "Chiptime": "0:40:19",
-    "Finish": "0:40:48"
+    "Chip Time": "0:40:19",
+    "Gun Time": "0:40:48"
   },
   {
     "Position": 218,
@@ -2394,8 +2394,8 @@
     "Category": "M35",
     "2 Miles": "0:15:30",
     "Lap of Lough": "0:09:47",
-    "Chiptime": "0:40:43",
-    "Finish": "0:40:53"
+    "Chip Time": "0:40:43",
+    "Gun Time": "0:40:53"
   },
   {
     "Position": 219,
@@ -2405,8 +2405,8 @@
     "Category": "M50",
     "2 Miles": "0:15:25",
     "Lap of Lough": "0:09:44",
-    "Chiptime": "0:40:34",
-    "Finish": "0:40:53"
+    "Chip Time": "0:40:34",
+    "Gun Time": "0:40:53"
   },
   {
     "Position": 220,
@@ -2416,8 +2416,8 @@
     "Category": "M40",
     "2 Miles": "0:15:27",
     "Lap of Lough": "0:09:40",
-    "Chiptime": "0:40:45",
-    "Finish": "0:40:55"
+    "Chip Time": "0:40:45",
+    "Gun Time": "0:40:55"
   },
   {
     "Position": 221,
@@ -2427,8 +2427,8 @@
     "Category": "MO",
     "2 Miles": "0:15:17",
     "Lap of Lough": "0:10:00",
-    "Chiptime": "0:40:42",
-    "Finish": "0:40:56"
+    "Chip Time": "0:40:42",
+    "Gun Time": "0:40:56"
   },
   {
     "Position": 222,
@@ -2438,8 +2438,8 @@
     "Category": "M35",
     "2 Miles": "0:15:36",
     "Lap of Lough": "0:09:36",
-    "Chiptime": "0:40:34",
-    "Finish": "0:40:58"
+    "Chip Time": "0:40:34",
+    "Gun Time": "0:40:58"
   },
   {
     "Position": 223,
@@ -2449,8 +2449,8 @@
     "Category": "M40",
     "2 Miles": "0:15:41",
     "Lap of Lough": "0:09:51",
-    "Chiptime": "0:40:33",
-    "Finish": "0:41:00"
+    "Chip Time": "0:40:33",
+    "Gun Time": "0:41:00"
   },
   {
     "Position": 224,
@@ -2460,8 +2460,8 @@
     "Category": "F40",
     "2 Miles": "0:15:16",
     "Lap of Lough": "0:09:58",
-    "Chiptime": "0:40:54",
-    "Finish": "0:41:03"
+    "Chip Time": "0:40:54",
+    "Gun Time": "0:41:03"
   },
   {
     "Position": 225,
@@ -2471,8 +2471,8 @@
     "Category": "MO",
     "2 Miles": "0:15:13",
     "Lap of Lough": "0:09:43",
-    "Chiptime": "0:40:53",
-    "Finish": "0:41:10"
+    "Chip Time": "0:40:53",
+    "Gun Time": "0:41:10"
   },
   {
     "Position": 226,
@@ -2482,8 +2482,8 @@
     "Category": "F35",
     "2 Miles": "0:15:29",
     "Lap of Lough": "0:10:05",
-    "Chiptime": "0:40:57",
-    "Finish": "0:41:15"
+    "Chip Time": "0:40:57",
+    "Gun Time": "0:41:15"
   },
   {
     "Position": 227,
@@ -2493,8 +2493,8 @@
     "Category": "MO",
     "2 Miles": "0:16:36",
     "Lap of Lough": "0:09:29",
-    "Chiptime": "0:41:08",
-    "Finish": "0:41:26"
+    "Chip Time": "0:41:08",
+    "Gun Time": "0:41:26"
   },
   {
     "Position": 228,
@@ -2504,8 +2504,8 @@
     "Category": "M40",
     "2 Miles": "0:15:45",
     "Lap of Lough": "0:09:37",
-    "Chiptime": "0:41:07",
-    "Finish": "0:41:26"
+    "Chip Time": "0:41:07",
+    "Gun Time": "0:41:26"
   },
   {
     "Position": 229,
@@ -2515,8 +2515,8 @@
     "Category": "MJ",
     "2 Miles": "0:14:38",
     "Lap of Lough": "0:10:47",
-    "Chiptime": "0:41:24",
-    "Finish": "0:41:28"
+    "Chip Time": "0:41:24",
+    "Gun Time": "0:41:28"
   },
   {
     "Position": 230,
@@ -2526,8 +2526,8 @@
     "Category": "F35",
     "2 Miles": "0:16:11",
     "Lap of Lough": "0:09:48",
-    "Chiptime": "0:41:07",
-    "Finish": "0:41:28"
+    "Chip Time": "0:41:07",
+    "Gun Time": "0:41:28"
   },
   {
     "Position": 231,
@@ -2537,8 +2537,8 @@
     "Category": "MO",
     "2 Miles": "0:15:43",
     "Lap of Lough": "0:09:55",
-    "Chiptime": "0:41:17",
-    "Finish": "0:41:40"
+    "Chip Time": "0:41:17",
+    "Gun Time": "0:41:40"
   },
   {
     "Position": 232,
@@ -2548,8 +2548,8 @@
     "Category": "MU19",
     "2 Miles": "0:14:58",
     "Lap of Lough": "0:10:06",
-    "Chiptime": "0:41:38",
-    "Finish": "0:41:41"
+    "Chip Time": "0:41:38",
+    "Gun Time": "0:41:41"
   },
   {
     "Position": 233,
@@ -2559,8 +2559,8 @@
     "Category": "MO",
     "2 Miles": "0:15:49",
     "Lap of Lough": "0:09:50",
-    "Chiptime": "0:41:28",
-    "Finish": "0:41:42"
+    "Chip Time": "0:41:28",
+    "Gun Time": "0:41:42"
   },
   {
     "Position": 234,
@@ -2570,8 +2570,8 @@
     "Category": "F35",
     "2 Miles": "0:15:54",
     "Lap of Lough": "0:09:57",
-    "Chiptime": "0:41:21",
-    "Finish": "0:41:43"
+    "Chip Time": "0:41:21",
+    "Gun Time": "0:41:43"
   },
   {
     "Position": 235,
@@ -2581,8 +2581,8 @@
     "Category": "F40",
     "2 Miles": "0:15:30",
     "Lap of Lough": "0:10:14",
-    "Chiptime": "0:41:26",
-    "Finish": "0:41:44"
+    "Chip Time": "0:41:26",
+    "Gun Time": "0:41:44"
   },
   {
     "Position": 236,
@@ -2592,8 +2592,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:29",
     "Lap of Lough": "0:10:11",
-    "Chiptime": "0:41:45",
-    "Finish": "0:41:47"
+    "Chip Time": "0:41:45",
+    "Gun Time": "0:41:47"
   },
   {
     "Position": 237,
@@ -2603,8 +2603,8 @@
     "Category": "F40",
     "2 Miles": "0:15:38",
     "Lap of Lough": "0:10:13",
-    "Chiptime": "0:41:29",
-    "Finish": "0:41:49"
+    "Chip Time": "0:41:29",
+    "Gun Time": "0:41:49"
   },
   {
     "Position": 238,
@@ -2614,8 +2614,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:06",
     "Lap of Lough": "0:10:28",
-    "Chiptime": "0:41:48",
-    "Finish": "0:41:53"
+    "Chip Time": "0:41:48",
+    "Gun Time": "0:41:53"
   },
   {
     "Position": 239,
@@ -2625,8 +2625,8 @@
     "Category": "MO",
     "2 Miles": "0:15:19",
     "Lap of Lough": "0:10:27",
-    "Chiptime": "0:41:41",
-    "Finish": "0:41:54"
+    "Chip Time": "0:41:41",
+    "Gun Time": "0:41:54"
   },
   {
     "Position": 240,
@@ -2636,8 +2636,8 @@
     "Category": "M40",
     "2 Miles": "0:14:33",
     "Lap of Lough": "0:10:39",
-    "Chiptime": "0:41:54",
-    "Finish": "0:41:57"
+    "Chip Time": "0:41:54",
+    "Gun Time": "0:41:57"
   },
   {
     "Position": 241,
@@ -2647,8 +2647,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:22",
     "Lap of Lough": "0:10:18",
-    "Chiptime": "0:42:01",
-    "Finish": "0:42:07"
+    "Chip Time": "0:42:01",
+    "Gun Time": "0:42:07"
   },
   {
     "Position": 242,
@@ -2658,8 +2658,8 @@
     "Category": "MO",
     "2 Miles": "0:15:43",
     "Lap of Lough": "0:10:09",
-    "Chiptime": "0:42:03",
-    "Finish": "0:42:16"
+    "Chip Time": "0:42:03",
+    "Gun Time": "0:42:16"
   },
   {
     "Position": 243,
@@ -2669,8 +2669,8 @@
     "Category": "M35",
     "2 Miles": "0:16:12",
     "Lap of Lough": "0:10:07",
-    "Chiptime": "0:41:53",
-    "Finish": "0:42:20"
+    "Chip Time": "0:41:53",
+    "Gun Time": "0:42:20"
   },
   {
     "Position": 244,
@@ -2680,8 +2680,8 @@
     "Category": "M60",
     "2 Miles": "0:15:03",
     "Lap of Lough": "0:10:35",
-    "Chiptime": "0:42:17",
-    "Finish": "0:42:23"
+    "Chip Time": "0:42:17",
+    "Gun Time": "0:42:23"
   },
   {
     "Position": 245,
@@ -2691,8 +2691,8 @@
     "Category": "M35",
     "2 Miles": "0:15:43",
     "Lap of Lough": "0:10:25",
-    "Chiptime": "0:42:12",
-    "Finish": "0:42:25"
+    "Chip Time": "0:42:12",
+    "Gun Time": "0:42:25"
   },
   {
     "Position": 246,
@@ -2702,8 +2702,8 @@
     "Category": "MO",
     "2 Miles": "0:15:04",
     "Lap of Lough": "0:10:59",
-    "Chiptime": "0:42:04",
-    "Finish": "0:42:26"
+    "Chip Time": "0:42:04",
+    "Gun Time": "0:42:26"
   },
   {
     "Position": 247,
@@ -2713,8 +2713,8 @@
     "Category": "MO",
     "2 Miles": "0:15:31",
     "Lap of Lough": "0:09:29",
-    "Chiptime": "0:42:22",
-    "Finish": "0:42:28"
+    "Chip Time": "0:42:22",
+    "Gun Time": "0:42:28"
   },
   {
     "Position": 248,
@@ -2724,8 +2724,8 @@
     "Category": "MO",
     "2 Miles": "0:16:12",
     "Lap of Lough": "0:10:17",
-    "Chiptime": "0:42:01",
-    "Finish": "0:42:32"
+    "Chip Time": "0:42:01",
+    "Gun Time": "0:42:32"
   },
   {
     "Position": 249,
@@ -2735,8 +2735,8 @@
     "Category": "MJ",
     "2 Miles": "0:14:41",
     "Lap of Lough": "0:09:45",
-    "Chiptime": "0:42:24",
-    "Finish": "0:42:33"
+    "Chip Time": "0:42:24",
+    "Gun Time": "0:42:33"
   },
   {
     "Position": 250,
@@ -2746,8 +2746,8 @@
     "Category": "FO",
     "2 Miles": "0:16:45",
     "Lap of Lough": "0:10:11",
-    "Chiptime": "0:42:11",
-    "Finish": "0:42:34"
+    "Chip Time": "0:42:11",
+    "Gun Time": "0:42:34"
   },
   {
     "Position": 251,
@@ -2757,8 +2757,8 @@
     "Category": "M55",
     "2 Miles": "0:15:48",
     "Lap of Lough": "0:10:22",
-    "Chiptime": "0:42:22",
-    "Finish": "0:42:36"
+    "Chip Time": "0:42:22",
+    "Gun Time": "0:42:36"
   },
   {
     "Position": 252,
@@ -2768,8 +2768,8 @@
     "Category": "MO",
     "2 Miles": "0:14:31",
     "Lap of Lough": "0:10:24",
-    "Chiptime": "0:42:20",
-    "Finish": "0:42:37"
+    "Chip Time": "0:42:20",
+    "Gun Time": "0:42:37"
   },
   {
     "Position": 253,
@@ -2779,8 +2779,8 @@
     "Category": "M50",
     "2 Miles": "0:15:58",
     "Lap of Lough": "0:10:07",
-    "Chiptime": "0:42:35",
-    "Finish": "0:42:39"
+    "Chip Time": "0:42:35",
+    "Gun Time": "0:42:39"
   },
   {
     "Position": 254,
@@ -2790,8 +2790,8 @@
     "Category": "M35",
     "2 Miles": "0:14:48",
     "Lap of Lough": "0:10:46",
-    "Chiptime": "0:42:27",
-    "Finish": "0:42:41"
+    "Chip Time": "0:42:27",
+    "Gun Time": "0:42:41"
   },
   {
     "Position": 255,
@@ -2801,8 +2801,8 @@
     "Category": "FU19",
     "2 Miles": "0:15:23",
     "Lap of Lough": "0:11:04",
-    "Chiptime": "0:42:39",
-    "Finish": "0:42:42"
+    "Chip Time": "0:42:39",
+    "Gun Time": "0:42:42"
   },
   {
     "Position": 256,
@@ -2812,8 +2812,8 @@
     "Category": "M45",
     "2 Miles": "0:16:01",
     "Lap of Lough": "0:10:18",
-    "Chiptime": "0:42:26",
-    "Finish": "0:42:44"
+    "Chip Time": "0:42:26",
+    "Gun Time": "0:42:44"
   },
   {
     "Position": 257,
@@ -2823,8 +2823,8 @@
     "Category": "MO",
     "2 Miles": "0:15:35",
     "Lap of Lough": "0:10:21",
-    "Chiptime": "0:42:27",
-    "Finish": "0:42:44"
+    "Chip Time": "0:42:27",
+    "Gun Time": "0:42:44"
   },
   {
     "Position": 258,
@@ -2834,8 +2834,8 @@
     "Category": "",
     "2 Miles": "0:15:34",
     "Lap of Lough": "0:10:41",
-    "Chiptime": "0:42:44",
-    "Finish": "0:42:51"
+    "Chip Time": "0:42:44",
+    "Gun Time": "0:42:51"
   },
   {
     "Position": 259,
@@ -2845,8 +2845,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:32",
     "Lap of Lough": "0:10:14",
-    "Chiptime": "0:42:39",
-    "Finish": "0:42:51"
+    "Chip Time": "0:42:39",
+    "Gun Time": "0:42:51"
   },
   {
     "Position": 260,
@@ -2856,8 +2856,8 @@
     "Category": "M40",
     "2 Miles": "0:15:52",
     "Lap of Lough": "0:10:35",
-    "Chiptime": "0:42:37",
-    "Finish": "0:42:53"
+    "Chip Time": "0:42:37",
+    "Gun Time": "0:42:53"
   },
   {
     "Position": 261,
@@ -2867,8 +2867,8 @@
     "Category": "M40",
     "2 Miles": "0:16:01",
     "Lap of Lough": "0:10:10",
-    "Chiptime": "0:42:22",
-    "Finish": "0:42:55"
+    "Chip Time": "0:42:22",
+    "Gun Time": "0:42:55"
   },
   {
     "Position": 262,
@@ -2878,8 +2878,8 @@
     "Category": "F35",
     "2 Miles": "0:15:54",
     "Lap of Lough": "0:10:24",
-    "Chiptime": "0:42:35",
-    "Finish": "0:42:55"
+    "Chip Time": "0:42:35",
+    "Gun Time": "0:42:55"
   },
   {
     "Position": 263,
@@ -2889,8 +2889,8 @@
     "Category": "M45",
     "2 Miles": "0:17:04",
     "Lap of Lough": "0:09:43",
-    "Chiptime": "0:42:31",
-    "Finish": "0:42:56"
+    "Chip Time": "0:42:31",
+    "Gun Time": "0:42:56"
   },
   {
     "Position": 264,
@@ -2900,8 +2900,8 @@
     "Category": "M40",
     "2 Miles": "0:16:11",
     "Lap of Lough": "0:10:18",
-    "Chiptime": "0:42:43",
-    "Finish": "0:42:56"
+    "Chip Time": "0:42:43",
+    "Gun Time": "0:42:56"
   },
   {
     "Position": 265,
@@ -2911,8 +2911,8 @@
     "Category": "F60",
     "2 Miles": "0:16:38",
     "Lap of Lough": "0:10:14",
-    "Chiptime": "0:42:35",
-    "Finish": "0:43:02"
+    "Chip Time": "0:42:35",
+    "Gun Time": "0:43:02"
   },
   {
     "Position": 266,
@@ -2922,8 +2922,8 @@
     "Category": "M40",
     "2 Miles": "0:15:56",
     "Lap of Lough": "0:10:16",
-    "Chiptime": "0:42:51",
-    "Finish": "0:43:02"
+    "Chip Time": "0:42:51",
+    "Gun Time": "0:43:02"
   },
   {
     "Position": 267,
@@ -2933,8 +2933,8 @@
     "Category": "M50",
     "2 Miles": "0:15:52",
     "Lap of Lough": "0:10:23",
-    "Chiptime": "0:42:37",
-    "Finish": "0:43:03"
+    "Chip Time": "0:42:37",
+    "Gun Time": "0:43:03"
   },
   {
     "Position": 268,
@@ -2944,8 +2944,8 @@
     "Category": "MO",
     "2 Miles": "0:15:08",
     "Lap of Lough": "0:10:53",
-    "Chiptime": "0:42:56",
-    "Finish": "0:43:03"
+    "Chip Time": "0:42:56",
+    "Gun Time": "0:43:03"
   },
   {
     "Position": 269,
@@ -2955,8 +2955,8 @@
     "Category": "F45",
     "2 Miles": "0:16:34",
     "Lap of Lough": "0:10:16",
-    "Chiptime": "0:42:39",
-    "Finish": "0:43:07"
+    "Chip Time": "0:42:39",
+    "Gun Time": "0:43:07"
   },
   {
     "Position": 270,
@@ -2966,8 +2966,8 @@
     "Category": "MO",
     "2 Miles": "0:15:44",
     "Lap of Lough": "0:10:55",
-    "Chiptime": "0:42:57",
-    "Finish": "0:43:11"
+    "Chip Time": "0:42:57",
+    "Gun Time": "0:43:11"
   },
   {
     "Position": 271,
@@ -2977,8 +2977,8 @@
     "Category": "M50",
     "2 Miles": "0:16:15",
     "Lap of Lough": "0:10:28",
-    "Chiptime": "0:42:55",
-    "Finish": "0:43:11"
+    "Chip Time": "0:42:55",
+    "Gun Time": "0:43:11"
   },
   {
     "Position": 272,
@@ -2988,8 +2988,8 @@
     "Category": "MO",
     "2 Miles": "0:15:37",
     "Lap of Lough": "0:10:48",
-    "Chiptime": "0:43:00",
-    "Finish": "0:43:12"
+    "Chip Time": "0:43:00",
+    "Gun Time": "0:43:12"
   },
   {
     "Position": 273,
@@ -2999,8 +2999,8 @@
     "Category": "FO",
     "2 Miles": "0:16:19",
     "Lap of Lough": "0:10:13",
-    "Chiptime": "0:42:54",
-    "Finish": "0:43:14"
+    "Chip Time": "0:42:54",
+    "Gun Time": "0:43:14"
   },
   {
     "Position": 274,
@@ -3010,8 +3010,8 @@
     "Category": "M50",
     "2 Miles": "0:15:33",
     "Lap of Lough": "0:10:43",
-    "Chiptime": "0:43:14",
-    "Finish": "0:43:23"
+    "Chip Time": "0:43:14",
+    "Gun Time": "0:43:23"
   },
   {
     "Position": 275,
@@ -3021,8 +3021,8 @@
     "Category": "M50",
     "2 Miles": "0:15:52",
     "Lap of Lough": "0:10:46",
-    "Chiptime": "0:43:10",
-    "Finish": "0:43:24"
+    "Chip Time": "0:43:10",
+    "Gun Time": "0:43:24"
   },
   {
     "Position": 276,
@@ -3032,8 +3032,8 @@
     "Category": "MO",
     "2 Miles": "0:16:09",
     "Lap of Lough": "0:10:25",
-    "Chiptime": "0:43:04",
-    "Finish": "0:43:25"
+    "Chip Time": "0:43:04",
+    "Gun Time": "0:43:25"
   },
   {
     "Position": 277,
@@ -3043,8 +3043,8 @@
     "Category": "M45",
     "2 Miles": "0:16:22",
     "Lap of Lough": "0:10:19",
-    "Chiptime": "0:43:08",
-    "Finish": "0:43:29"
+    "Chip Time": "0:43:08",
+    "Gun Time": "0:43:29"
   },
   {
     "Position": 278,
@@ -3054,8 +3054,8 @@
     "Category": "FO",
     "2 Miles": "0:15:48",
     "Lap of Lough": "0:10:35",
-    "Chiptime": "0:43:21",
-    "Finish": "0:43:32"
+    "Chip Time": "0:43:21",
+    "Gun Time": "0:43:32"
   },
   {
     "Position": 279,
@@ -3065,8 +3065,8 @@
     "Category": "M40",
     "2 Miles": "0:16:47",
     "Lap of Lough": "0:10:11",
-    "Chiptime": "0:43:04",
-    "Finish": "0:43:32"
+    "Chip Time": "0:43:04",
+    "Gun Time": "0:43:32"
   },
   {
     "Position": 280,
@@ -3076,8 +3076,8 @@
     "Category": "M40",
     "2 Miles": "0:16:50",
     "Lap of Lough": "0:09:49",
-    "Chiptime": "0:43:17",
-    "Finish": "0:43:42"
+    "Chip Time": "0:43:17",
+    "Gun Time": "0:43:42"
   },
   {
     "Position": 281,
@@ -3087,8 +3087,8 @@
     "Category": "FO",
     "2 Miles": "0:16:00",
     "Lap of Lough": "0:10:56",
-    "Chiptime": "0:43:19",
-    "Finish": "0:43:43"
+    "Chip Time": "0:43:19",
+    "Gun Time": "0:43:43"
   },
   {
     "Position": 282,
@@ -3098,8 +3098,8 @@
     "Category": "FO",
     "2 Miles": "0:16:12",
     "Lap of Lough": "0:10:56",
-    "Chiptime": "0:43:43",
-    "Finish": "0:43:49"
+    "Chip Time": "0:43:43",
+    "Gun Time": "0:43:49"
   },
   {
     "Position": 283,
@@ -3109,8 +3109,8 @@
     "Category": "F40",
     "2 Miles": "0:16:08",
     "Lap of Lough": "0:10:59",
-    "Chiptime": "0:43:32",
-    "Finish": "0:43:56"
+    "Chip Time": "0:43:32",
+    "Gun Time": "0:43:56"
   },
   {
     "Position": 284,
@@ -3120,8 +3120,8 @@
     "Category": "FO",
     "2 Miles": "0:16:33",
     "Lap of Lough": "0:10:15",
-    "Chiptime": "0:43:51",
-    "Finish": "0:44:00"
+    "Chip Time": "0:43:51",
+    "Gun Time": "0:44:00"
   },
   {
     "Position": 285,
@@ -3131,8 +3131,8 @@
     "Category": "MO",
     "2 Miles": "0:17:08",
     "Lap of Lough": "0:10:06",
-    "Chiptime": "0:43:30",
-    "Finish": "0:44:02"
+    "Chip Time": "0:43:30",
+    "Gun Time": "0:44:02"
   },
   {
     "Position": 286,
@@ -3142,8 +3142,8 @@
     "Category": "MO",
     "2 Miles": "0:18:01",
     "Lap of Lough": "0:09:53",
-    "Chiptime": "0:43:38",
-    "Finish": "0:44:04"
+    "Chip Time": "0:43:38",
+    "Gun Time": "0:44:04"
   },
   {
     "Position": 287,
@@ -3153,8 +3153,8 @@
     "Category": "MO",
     "2 Miles": "0:16:33",
     "Lap of Lough": "0:10:44",
-    "Chiptime": "0:43:35",
-    "Finish": "0:44:06"
+    "Chip Time": "0:43:35",
+    "Gun Time": "0:44:06"
   },
   {
     "Position": 288,
@@ -3164,8 +3164,8 @@
     "Category": "MO",
     "2 Miles": "0:15:24",
     "Lap of Lough": "0:11:07",
-    "Chiptime": "0:43:58",
-    "Finish": "0:44:08"
+    "Chip Time": "0:43:58",
+    "Gun Time": "0:44:08"
   },
   {
     "Position": 289,
@@ -3175,8 +3175,8 @@
     "Category": "MO",
     "2 Miles": "0:15:41",
     "Lap of Lough": "0:10:07",
-    "Chiptime": "0:43:52",
-    "Finish": "0:44:08"
+    "Chip Time": "0:43:52",
+    "Gun Time": "0:44:08"
   },
   {
     "Position": 290,
@@ -3186,8 +3186,8 @@
     "Category": "M35",
     "2 Miles": "0:15:49",
     "Lap of Lough": "0:10:33",
-    "Chiptime": "0:44:03",
-    "Finish": "0:44:10"
+    "Chip Time": "0:44:03",
+    "Gun Time": "0:44:10"
   },
   {
     "Position": 291,
@@ -3197,8 +3197,8 @@
     "Category": "F40",
     "2 Miles": "0:16:35",
     "Lap of Lough": "0:10:45",
-    "Chiptime": "0:43:50",
-    "Finish": "0:44:11"
+    "Chip Time": "0:43:50",
+    "Gun Time": "0:44:11"
   },
   {
     "Position": 292,
@@ -3208,8 +3208,8 @@
     "Category": "FU19",
     "2 Miles": "0:15:22",
     "Lap of Lough": "0:11:30",
-    "Chiptime": "0:44:09",
-    "Finish": "0:44:13"
+    "Chip Time": "0:44:09",
+    "Gun Time": "0:44:13"
   },
   {
     "Position": 293,
@@ -3219,8 +3219,8 @@
     "Category": "M50",
     "2 Miles": "0:16:09",
     "Lap of Lough": "0:11:18",
-    "Chiptime": "0:43:56",
-    "Finish": "0:44:17"
+    "Chip Time": "0:43:56",
+    "Gun Time": "0:44:17"
   },
   {
     "Position": 294,
@@ -3230,8 +3230,8 @@
     "Category": "FO",
     "2 Miles": "0:17:23",
     "Lap of Lough": "0:10:19",
-    "Chiptime": "0:43:57",
-    "Finish": "0:44:19"
+    "Chip Time": "0:43:57",
+    "Gun Time": "0:44:19"
   },
   {
     "Position": 295,
@@ -3241,8 +3241,8 @@
     "Category": "MO",
     "2 Miles": "0:17:23",
     "Lap of Lough": "0:10:27",
-    "Chiptime": "0:44:05",
-    "Finish": "0:44:24"
+    "Chip Time": "0:44:05",
+    "Gun Time": "0:44:24"
   },
   {
     "Position": 296,
@@ -3252,8 +3252,8 @@
     "Category": "M40",
     "2 Miles": "0:15:49",
     "Lap of Lough": "0:10:47",
-    "Chiptime": "0:44:08",
-    "Finish": "0:44:27"
+    "Chip Time": "0:44:08",
+    "Gun Time": "0:44:27"
   },
   {
     "Position": 297,
@@ -3263,8 +3263,8 @@
     "Category": "M50",
     "2 Miles": "0:16:11",
     "Lap of Lough": "0:10:52",
-    "Chiptime": "0:44:18",
-    "Finish": "0:44:28"
+    "Chip Time": "0:44:18",
+    "Gun Time": "0:44:28"
   },
   {
     "Position": 298,
@@ -3274,8 +3274,8 @@
     "Category": "M45",
     "2 Miles": "0:16:12",
     "Lap of Lough": "0:10:52",
-    "Chiptime": "0:44:18",
-    "Finish": "0:44:28"
+    "Chip Time": "0:44:18",
+    "Gun Time": "0:44:28"
   },
   {
     "Position": 299,
@@ -3285,8 +3285,8 @@
     "Category": "FO",
     "2 Miles": "0:17:08",
     "Lap of Lough": "0:10:35",
-    "Chiptime": "0:44:00",
-    "Finish": "0:44:31"
+    "Chip Time": "0:44:00",
+    "Gun Time": "0:44:31"
   },
   {
     "Position": 300,
@@ -3296,8 +3296,8 @@
     "Category": "F40",
     "2 Miles": "0:16:35",
     "Lap of Lough": "0:10:53",
-    "Chiptime": "0:44:04",
-    "Finish": "0:44:32"
+    "Chip Time": "0:44:04",
+    "Gun Time": "0:44:32"
   },
   {
     "Position": 301,
@@ -3307,8 +3307,8 @@
     "Category": "MO",
     "2 Miles": "0:16:17",
     "Lap of Lough": "0:10:52",
-    "Chiptime": "0:44:05",
-    "Finish": "0:44:34"
+    "Chip Time": "0:44:05",
+    "Gun Time": "0:44:34"
   },
   {
     "Position": 302,
@@ -3318,8 +3318,8 @@
     "Category": "FO",
     "2 Miles": "0:16:36",
     "Lap of Lough": "0:10:41",
-    "Chiptime": "0:44:06",
-    "Finish": "0:44:35"
+    "Chip Time": "0:44:06",
+    "Gun Time": "0:44:35"
   },
   {
     "Position": 303,
@@ -3329,8 +3329,8 @@
     "Category": "M60",
     "2 Miles": "0:16:42",
     "Lap of Lough": "0:10:34",
-    "Chiptime": "0:44:10",
-    "Finish": "0:44:39"
+    "Chip Time": "0:44:10",
+    "Gun Time": "0:44:39"
   },
   {
     "Position": 304,
@@ -3340,8 +3340,8 @@
     "Category": "F35",
     "2 Miles": "0:16:34",
     "Lap of Lough": "0:10:55",
-    "Chiptime": "0:44:34",
-    "Finish": "0:44:46"
+    "Chip Time": "0:44:34",
+    "Gun Time": "0:44:46"
   },
   {
     "Position": 305,
@@ -3351,8 +3351,8 @@
     "Category": "MJ",
     "2 Miles": "0:17:22",
     "Lap of Lough": "0:09:47",
-    "Chiptime": "0:44:22",
-    "Finish": "0:44:48"
+    "Chip Time": "0:44:22",
+    "Gun Time": "0:44:48"
   },
   {
     "Position": 306,
@@ -3362,8 +3362,8 @@
     "Category": "FO",
     "2 Miles": "0:16:19",
     "Lap of Lough": "0:10:56",
-    "Chiptime": "0:44:22",
-    "Finish": "0:44:50"
+    "Chip Time": "0:44:22",
+    "Gun Time": "0:44:50"
   },
   {
     "Position": 307,
@@ -3373,8 +3373,8 @@
     "Category": "F50",
     "2 Miles": "0:16:46",
     "Lap of Lough": "0:10:56",
-    "Chiptime": "0:44:23",
-    "Finish": "0:44:51"
+    "Chip Time": "0:44:23",
+    "Gun Time": "0:44:51"
   },
   {
     "Position": 308,
@@ -3384,8 +3384,8 @@
     "Category": "F40",
     "2 Miles": "0:16:32",
     "Lap of Lough": "0:11:07",
-    "Chiptime": "0:44:40",
-    "Finish": "0:44:57"
+    "Chip Time": "0:44:40",
+    "Gun Time": "0:44:57"
   },
   {
     "Position": 309,
@@ -3395,8 +3395,8 @@
     "Category": "F40",
     "2 Miles": "0:17:29",
     "Lap of Lough": "0:10:46",
-    "Chiptime": "0:44:27",
-    "Finish": "0:44:58"
+    "Chip Time": "0:44:27",
+    "Gun Time": "0:44:58"
   },
   {
     "Position": 310,
@@ -3406,8 +3406,8 @@
     "Category": "FO",
     "2 Miles": "0:17:21",
     "Lap of Lough": "0:11:04",
-    "Chiptime": "0:44:30",
-    "Finish": "0:45:00"
+    "Chip Time": "0:44:30",
+    "Gun Time": "0:45:00"
   },
   {
     "Position": 311,
@@ -3417,8 +3417,8 @@
     "Category": "M50",
     "2 Miles": "0:17:08",
     "Lap of Lough": "0:10:42",
-    "Chiptime": "0:44:35",
-    "Finish": "0:45:01"
+    "Chip Time": "0:44:35",
+    "Gun Time": "0:45:01"
   },
   {
     "Position": 312,
@@ -3428,8 +3428,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:56",
     "Lap of Lough": "0:10:30",
-    "Chiptime": "0:44:55",
-    "Finish": "0:45:07"
+    "Chip Time": "0:44:55",
+    "Gun Time": "0:45:07"
   },
   {
     "Position": 313,
@@ -3439,8 +3439,8 @@
     "Category": "MJ",
     "2 Miles": "0:16:24",
     "Lap of Lough": "0:11:04",
-    "Chiptime": "0:45:12",
-    "Finish": "0:45:15"
+    "Chip Time": "0:45:12",
+    "Gun Time": "0:45:15"
   },
   {
     "Position": 314,
@@ -3450,8 +3450,8 @@
     "Category": "MJ",
     "2 Miles": "0:16:02",
     "Lap of Lough": "0:11:19",
-    "Chiptime": "0:44:55",
-    "Finish": "0:45:17"
+    "Chip Time": "0:44:55",
+    "Gun Time": "0:45:17"
   },
   {
     "Position": 315,
@@ -3461,8 +3461,8 @@
     "Category": "F35",
     "2 Miles": "0:16:58",
     "Lap of Lough": "0:10:42",
-    "Chiptime": "0:45:07",
-    "Finish": "0:45:22"
+    "Chip Time": "0:45:07",
+    "Gun Time": "0:45:22"
   },
   {
     "Position": 316,
@@ -3472,8 +3472,8 @@
     "Category": "MO",
     "2 Miles": "0:16:40",
     "Lap of Lough": "0:11:04",
-    "Chiptime": "0:45:18",
-    "Finish": "0:45:29"
+    "Chip Time": "0:45:18",
+    "Gun Time": "0:45:29"
   },
   {
     "Position": 317,
@@ -3483,8 +3483,8 @@
     "Category": "M40",
     "2 Miles": "0:16:20",
     "Lap of Lough": "0:11:19",
-    "Chiptime": "0:45:29",
-    "Finish": "0:45:37"
+    "Chip Time": "0:45:29",
+    "Gun Time": "0:45:37"
   },
   {
     "Position": 318,
@@ -3494,8 +3494,8 @@
     "Category": "",
     "2 Miles": "0:17:46",
     "Lap of Lough": "0:10:41",
-    "Chiptime": "0:45:04",
-    "Finish": "0:45:39"
+    "Chip Time": "0:45:04",
+    "Gun Time": "0:45:39"
   },
   {
     "Position": 319,
@@ -3505,8 +3505,8 @@
     "Category": "F35",
     "2 Miles": "0:16:29",
     "Lap of Lough": "0:10:59",
-    "Chiptime": "0:45:36",
-    "Finish": "0:45:45"
+    "Chip Time": "0:45:36",
+    "Gun Time": "0:45:45"
   },
   {
     "Position": 320,
@@ -3516,8 +3516,8 @@
     "Category": "F50",
     "2 Miles": "0:17:11",
     "Lap of Lough": "0:11:07",
-    "Chiptime": "0:45:32",
-    "Finish": "0:45:45"
+    "Chip Time": "0:45:32",
+    "Gun Time": "0:45:45"
   },
   {
     "Position": 321,
@@ -3527,8 +3527,8 @@
     "Category": "F35",
     "2 Miles": "0:16:46",
     "Lap of Lough": "0:11:28",
-    "Chiptime": "0:45:33",
-    "Finish": "0:45:47"
+    "Chip Time": "0:45:33",
+    "Gun Time": "0:45:47"
   },
   {
     "Position": 322,
@@ -3538,8 +3538,8 @@
     "Category": "M40",
     "2 Miles": "0:16:25",
     "Lap of Lough": "0:11:34",
-    "Chiptime": "0:45:32",
-    "Finish": "0:45:47"
+    "Chip Time": "0:45:32",
+    "Gun Time": "0:45:47"
   },
   {
     "Position": 323,
@@ -3549,8 +3549,8 @@
     "Category": "M45",
     "2 Miles": "0:17:19",
     "Lap of Lough": "0:11:03",
-    "Chiptime": "0:45:33",
-    "Finish": "0:45:51"
+    "Chip Time": "0:45:33",
+    "Gun Time": "0:45:51"
   },
   {
     "Position": 324,
@@ -3560,8 +3560,8 @@
     "Category": "MJ",
     "2 Miles": "0:15:40",
     "Lap of Lough": "0:11:24",
-    "Chiptime": "0:45:56",
-    "Finish": "0:46:01"
+    "Chip Time": "0:45:56",
+    "Gun Time": "0:46:01"
   },
   {
     "Position": 325,
@@ -3571,8 +3571,8 @@
     "Category": "",
     "2 Miles": "0:17:20",
     "Lap of Lough": "0:11:11",
-    "Chiptime": "0:45:35",
-    "Finish": "0:46:03"
+    "Chip Time": "0:45:35",
+    "Gun Time": "0:46:03"
   },
   {
     "Position": 326,
@@ -3582,8 +3582,8 @@
     "Category": "F40",
     "2 Miles": "0:16:50",
     "Lap of Lough": "0:11:16",
-    "Chiptime": "0:45:42",
-    "Finish": "0:46:04"
+    "Chip Time": "0:45:42",
+    "Gun Time": "0:46:04"
   },
   {
     "Position": 327,
@@ -3593,8 +3593,8 @@
     "Category": "FO",
     "2 Miles": "0:18:22",
     "Lap of Lough": "0:09:56",
-    "Chiptime": "0:45:41",
-    "Finish": "0:46:06"
+    "Chip Time": "0:45:41",
+    "Gun Time": "0:46:06"
   },
   {
     "Position": 328,
@@ -3604,8 +3604,8 @@
     "Category": "FO",
     "2 Miles": "0:17:46",
     "Lap of Lough": "0:10:45",
-    "Chiptime": "0:45:58",
-    "Finish": "0:46:23"
+    "Chip Time": "0:45:58",
+    "Gun Time": "0:46:23"
   },
   {
     "Position": 329,
@@ -3615,8 +3615,8 @@
     "Category": "MO",
     "2 Miles": "0:17:22",
     "Lap of Lough": "0:11:18",
-    "Chiptime": "0:45:59",
-    "Finish": "0:46:25"
+    "Chip Time": "0:45:59",
+    "Gun Time": "0:46:25"
   },
   {
     "Position": 330,
@@ -3626,8 +3626,8 @@
     "Category": "M60",
     "2 Miles": "0:17:10",
     "Lap of Lough": "0:11:20",
-    "Chiptime": "0:46:28",
-    "Finish": "0:46:30"
+    "Chip Time": "0:46:28",
+    "Gun Time": "0:46:30"
   },
   {
     "Position": 331,
@@ -3637,8 +3637,8 @@
     "Category": "F50",
     "2 Miles": "0:17:09",
     "Lap of Lough": "0:11:19",
-    "Chiptime": "0:46:25",
-    "Finish": "0:46:31"
+    "Chip Time": "0:46:25",
+    "Gun Time": "0:46:31"
   },
   {
     "Position": 332,
@@ -3648,8 +3648,8 @@
     "Category": "FO",
     "2 Miles": "0:17:29",
     "Lap of Lough": "0:11:04",
-    "Chiptime": "0:46:06",
-    "Finish": "0:46:36"
+    "Chip Time": "0:46:06",
+    "Gun Time": "0:46:36"
   },
   {
     "Position": 333,
@@ -3659,8 +3659,8 @@
     "Category": "F35",
     "2 Miles": "0:17:29",
     "Lap of Lough": "0:11:04",
-    "Chiptime": "0:46:05",
-    "Finish": "0:46:36"
+    "Chip Time": "0:46:05",
+    "Gun Time": "0:46:36"
   },
   {
     "Position": 334,
@@ -3670,8 +3670,8 @@
     "Category": "FO",
     "2 Miles": "0:17:38",
     "Lap of Lough": "0:11:16",
-    "Chiptime": "0:46:17",
-    "Finish": "0:46:39"
+    "Chip Time": "0:46:17",
+    "Gun Time": "0:46:39"
   },
   {
     "Position": 335,
@@ -3681,8 +3681,8 @@
     "Category": "F40",
     "2 Miles": "0:17:16",
     "Lap of Lough": "0:11:36",
-    "Chiptime": "0:46:31",
-    "Finish": "0:46:42"
+    "Chip Time": "0:46:31",
+    "Gun Time": "0:46:42"
   },
   {
     "Position": 336,
@@ -3692,8 +3692,8 @@
     "Category": "M45",
     "2 Miles": "0:17:10",
     "Lap of Lough": "0:11:26",
-    "Chiptime": "0:46:22",
-    "Finish": "0:46:43"
+    "Chip Time": "0:46:22",
+    "Gun Time": "0:46:43"
   },
   {
     "Position": 337,
@@ -3703,8 +3703,8 @@
     "Category": "MO",
     "2 Miles": "0:17:30",
     "Lap of Lough": "0:11:34",
-    "Chiptime": "0:46:28",
-    "Finish": "0:46:48"
+    "Chip Time": "0:46:28",
+    "Gun Time": "0:46:48"
   },
   {
     "Position": 338,
@@ -3714,8 +3714,8 @@
     "Category": "",
     "2 Miles": "0:18:30",
     "Lap of Lough": "0:10:31",
-    "Chiptime": "0:46:42",
-    "Finish": "0:46:51"
+    "Chip Time": "0:46:42",
+    "Gun Time": "0:46:51"
   },
   {
     "Position": 339,
@@ -3725,8 +3725,8 @@
     "Category": "F40",
     "2 Miles": "0:17:48",
     "Lap of Lough": "0:11:13",
-    "Chiptime": "0:46:25",
-    "Finish": "0:46:54"
+    "Chip Time": "0:46:25",
+    "Gun Time": "0:46:54"
   },
   {
     "Position": 340,
@@ -3736,8 +3736,8 @@
     "Category": "M60",
     "2 Miles": "0:17:18",
     "Lap of Lough": "0:11:32",
-    "Chiptime": "0:46:41",
-    "Finish": "0:46:55"
+    "Chip Time": "0:46:41",
+    "Gun Time": "0:46:55"
   },
   {
     "Position": 341,
@@ -3747,8 +3747,8 @@
     "Category": "FO",
     "2 Miles": "0:17:06",
     "Lap of Lough": "0:11:33",
-    "Chiptime": "0:46:39",
-    "Finish": "0:46:58"
+    "Chip Time": "0:46:39",
+    "Gun Time": "0:46:58"
   },
   {
     "Position": 342,
@@ -3758,8 +3758,8 @@
     "Category": "F40",
     "2 Miles": "0:18:05",
     "Lap of Lough": "0:11:11",
-    "Chiptime": "0:46:36",
-    "Finish": "0:47:03"
+    "Chip Time": "0:46:36",
+    "Gun Time": "0:47:03"
   },
   {
     "Position": 343,
@@ -3769,8 +3769,8 @@
     "Category": "FO",
     "2 Miles": "0:18:22",
     "Lap of Lough": "0:10:57",
-    "Chiptime": "0:46:42",
-    "Finish": "0:47:07"
+    "Chip Time": "0:46:42",
+    "Gun Time": "0:47:07"
   },
   {
     "Position": 344,
@@ -3780,8 +3780,8 @@
     "Category": "FO",
     "2 Miles": "0:17:40",
     "Lap of Lough": "0:11:08",
-    "Chiptime": "0:46:46",
-    "Finish": "0:47:08"
+    "Chip Time": "0:46:46",
+    "Gun Time": "0:47:08"
   },
   {
     "Position": 345,
@@ -3791,8 +3791,8 @@
     "Category": "MO",
     "2 Miles": "0:17:14",
     "Lap of Lough": "0:11:29",
-    "Chiptime": "0:46:58",
-    "Finish": "0:47:14"
+    "Chip Time": "0:46:58",
+    "Gun Time": "0:47:14"
   },
   {
     "Position": 346,
@@ -3802,8 +3802,8 @@
     "Category": "FO",
     "2 Miles": "0:17:18",
     "Lap of Lough": "0:11:33",
-    "Chiptime": "0:46:56",
-    "Finish": "0:47:17"
+    "Chip Time": "0:46:56",
+    "Gun Time": "0:47:17"
   },
   {
     "Position": 347,
@@ -3813,8 +3813,8 @@
     "Category": "FO",
     "2 Miles": "0:17:15",
     "Lap of Lough": "0:11:43",
-    "Chiptime": "0:47:00",
-    "Finish": "0:47:27"
+    "Chip Time": "0:47:00",
+    "Gun Time": "0:47:27"
   },
   {
     "Position": 348,
@@ -3824,8 +3824,8 @@
     "Category": "F50",
     "2 Miles": "0:17:41",
     "Lap of Lough": "0:11:29",
-    "Chiptime": "0:47:14",
-    "Finish": "0:47:29"
+    "Chip Time": "0:47:14",
+    "Gun Time": "0:47:29"
   },
   {
     "Position": 349,
@@ -3835,8 +3835,8 @@
     "Category": "F40",
     "2 Miles": "0:17:13",
     "Lap of Lough": "0:11:58",
-    "Chiptime": "0:47:20",
-    "Finish": "0:47:30"
+    "Chip Time": "0:47:20",
+    "Gun Time": "0:47:30"
   },
   {
     "Position": 350,
@@ -3846,8 +3846,8 @@
     "Category": "F45",
     "2 Miles": "0:17:18",
     "Lap of Lough": "0:11:46",
-    "Chiptime": "0:47:26",
-    "Finish": "0:47:34"
+    "Chip Time": "0:47:26",
+    "Gun Time": "0:47:34"
   },
   {
     "Position": 351,
@@ -3857,8 +3857,8 @@
     "Category": "F40",
     "2 Miles": "0:17:26",
     "Lap of Lough": "0:11:36",
-    "Chiptime": "0:47:25",
-    "Finish": "0:47:34"
+    "Chip Time": "0:47:25",
+    "Gun Time": "0:47:34"
   },
   {
     "Position": 352,
@@ -3868,8 +3868,8 @@
     "Category": "F55",
     "2 Miles": "0:17:36",
     "Lap of Lough": "0:11:35",
-    "Chiptime": "0:47:07",
-    "Finish": "0:47:35"
+    "Chip Time": "0:47:07",
+    "Gun Time": "0:47:35"
   },
   {
     "Position": 353,
@@ -3879,8 +3879,8 @@
     "Category": "M40",
     "2 Miles": "0:16:40",
     "Lap of Lough": "0:12:15",
-    "Chiptime": "0:47:10",
-    "Finish": "0:47:35"
+    "Chip Time": "0:47:10",
+    "Gun Time": "0:47:35"
   },
   {
     "Position": 354,
@@ -3890,8 +3890,8 @@
     "Category": "MJ",
     "2 Miles": "0:16:29",
     "Lap of Lough": "0:12:28",
-    "Chiptime": "0:47:14",
-    "Finish": "0:47:35"
+    "Chip Time": "0:47:14",
+    "Gun Time": "0:47:35"
   },
   {
     "Position": 355,
@@ -3901,8 +3901,8 @@
     "Category": "FO",
     "2 Miles": "0:18:03",
     "Lap of Lough": "0:11:20",
-    "Chiptime": "0:47:27",
-    "Finish": "0:47:41"
+    "Chip Time": "0:47:27",
+    "Gun Time": "0:47:41"
   },
   {
     "Position": 356,
@@ -3912,8 +3912,8 @@
     "Category": "F40",
     "2 Miles": "0:18:09",
     "Lap of Lough": "0:11:19",
-    "Chiptime": "0:47:17",
-    "Finish": "0:47:45"
+    "Chip Time": "0:47:17",
+    "Gun Time": "0:47:45"
   },
   {
     "Position": 357,
@@ -3923,8 +3923,8 @@
     "Category": "F50",
     "2 Miles": "0:17:42",
     "Lap of Lough": "0:11:21",
-    "Chiptime": "0:47:35",
-    "Finish": "0:47:46"
+    "Chip Time": "0:47:35",
+    "Gun Time": "0:47:46"
   },
   {
     "Position": 358,
@@ -3934,8 +3934,8 @@
     "Category": "F40",
     "2 Miles": "0:17:59",
     "Lap of Lough": "0:11:27",
-    "Chiptime": "0:47:42",
-    "Finish": "0:47:52"
+    "Chip Time": "0:47:42",
+    "Gun Time": "0:47:52"
   },
   {
     "Position": 359,
@@ -3945,8 +3945,8 @@
     "Category": "",
     "2 Miles": "0:18:01",
     "Lap of Lough": "0:11:27",
-    "Chiptime": "0:47:29",
-    "Finish": "0:47:52"
+    "Chip Time": "0:47:29",
+    "Gun Time": "0:47:52"
   },
   {
     "Position": 360,
@@ -3956,8 +3956,8 @@
     "Category": "F35",
     "2 Miles": "0:17:59",
     "Lap of Lough": "0:11:28",
-    "Chiptime": "0:47:34",
-    "Finish": "0:47:52"
+    "Chip Time": "0:47:34",
+    "Gun Time": "0:47:52"
   },
   {
     "Position": 361,
@@ -3967,8 +3967,8 @@
     "Category": "M40",
     "2 Miles": "0:17:32",
     "Lap of Lough": "0:11:52",
-    "Chiptime": "0:47:44",
-    "Finish": "0:48:04"
+    "Chip Time": "0:47:44",
+    "Gun Time": "0:48:04"
   },
   {
     "Position": 362,
@@ -3978,8 +3978,8 @@
     "Category": "FO",
     "2 Miles": "0:17:57",
     "Lap of Lough": "0:11:50",
-    "Chiptime": "0:47:38",
-    "Finish": "0:48:08"
+    "Chip Time": "0:47:38",
+    "Gun Time": "0:48:08"
   },
   {
     "Position": 363,
@@ -3989,8 +3989,8 @@
     "Category": "MJ",
     "2 Miles": "0:17:37",
     "Lap of Lough": "0:12:04",
-    "Chiptime": "0:48:17",
-    "Finish": "0:48:20"
+    "Chip Time": "0:48:17",
+    "Gun Time": "0:48:20"
   },
   {
     "Position": 364,
@@ -4000,8 +4000,8 @@
     "Category": "MU19",
     "2 Miles": "0:16:54",
     "Lap of Lough": "0:12:21",
-    "Chiptime": "0:48:16",
-    "Finish": "0:48:20"
+    "Chip Time": "0:48:16",
+    "Gun Time": "0:48:20"
   },
   {
     "Position": 365,
@@ -4011,8 +4011,8 @@
     "Category": "F40",
     "2 Miles": "0:17:45",
     "Lap of Lough": "0:12:04",
-    "Chiptime": "0:48:13",
-    "Finish": "0:48:24"
+    "Chip Time": "0:48:13",
+    "Gun Time": "0:48:24"
   },
   {
     "Position": 366,
@@ -4022,8 +4022,8 @@
     "Category": "F45",
     "2 Miles": "0:17:28",
     "Lap of Lough": "0:12:02",
-    "Chiptime": "0:48:16",
-    "Finish": "0:48:27"
+    "Chip Time": "0:48:16",
+    "Gun Time": "0:48:27"
   },
   {
     "Position": 367,
@@ -4033,8 +4033,8 @@
     "Category": "M35",
     "2 Miles": "0:17:25",
     "Lap of Lough": "0:12:04",
-    "Chiptime": "0:48:15",
-    "Finish": "0:48:33"
+    "Chip Time": "0:48:15",
+    "Gun Time": "0:48:33"
   },
   {
     "Position": 368,
@@ -4044,8 +4044,8 @@
     "Category": "F35",
     "2 Miles": "0:17:26",
     "Lap of Lough": "0:12:05",
-    "Chiptime": "0:48:17",
-    "Finish": "0:48:33"
+    "Chip Time": "0:48:17",
+    "Gun Time": "0:48:33"
   },
   {
     "Position": 369,
@@ -4055,8 +4055,8 @@
     "Category": "M40",
     "2 Miles": "0:17:16",
     "Lap of Lough": "0:12:02",
-    "Chiptime": "0:48:09",
-    "Finish": "0:48:34"
+    "Chip Time": "0:48:09",
+    "Gun Time": "0:48:34"
   },
   {
     "Position": 370,
@@ -4066,8 +4066,8 @@
     "Category": "FO",
     "2 Miles": "0:17:25",
     "Lap of Lough": "0:11:36",
-    "Chiptime": "0:48:18",
-    "Finish": "0:48:36"
+    "Chip Time": "0:48:18",
+    "Gun Time": "0:48:36"
   },
   {
     "Position": 371,
@@ -4077,8 +4077,8 @@
     "Category": "MJ",
     "2 Miles": "0:08:10",
     "Lap of Lough": "0:12:46",
-    "Chiptime": "12:55:38",
-    "Finish": "0:48:48"
+    "Chip Time": "12:55:38",
+    "Gun Time": "0:48:48"
   },
   {
     "Position": 372,
@@ -4088,8 +4088,8 @@
     "Category": "M40",
     "2 Miles": "0:17:37",
     "Lap of Lough": "0:11:54",
-    "Chiptime": "0:48:35",
-    "Finish": "0:49:00"
+    "Chip Time": "0:48:35",
+    "Gun Time": "0:49:00"
   },
   {
     "Position": 373,
@@ -4099,8 +4099,8 @@
     "Category": "MO",
     "2 Miles": "0:17:31",
     "Lap of Lough": "0:11:34",
-    "Chiptime": "0:49:08",
-    "Finish": "0:49:13"
+    "Chip Time": "0:49:08",
+    "Gun Time": "0:49:13"
   },
   {
     "Position": 374,
@@ -4110,8 +4110,8 @@
     "Category": "F55",
     "2 Miles": "0:18:14",
     "Lap of Lough": "0:12:01",
-    "Chiptime": "0:49:11",
-    "Finish": "0:49:23"
+    "Chip Time": "0:49:11",
+    "Gun Time": "0:49:23"
   },
   {
     "Position": 375,
@@ -4121,8 +4121,8 @@
     "Category": "F55",
     "2 Miles": "0:18:46",
     "Lap of Lough": "0:11:54",
-    "Chiptime": "0:48:58",
-    "Finish": "0:49:27"
+    "Chip Time": "0:48:58",
+    "Gun Time": "0:49:27"
   },
   {
     "Position": 376,
@@ -4132,8 +4132,8 @@
     "Category": "MO",
     "2 Miles": "0:18:01",
     "Lap of Lough": "0:12:18",
-    "Chiptime": "0:49:18",
-    "Finish": "0:49:43"
+    "Chip Time": "0:49:18",
+    "Gun Time": "0:49:43"
   },
   {
     "Position": 377,
@@ -4143,8 +4143,8 @@
     "Category": "F40",
     "2 Miles": "0:18:23",
     "Lap of Lough": "0:12:12",
-    "Chiptime": "0:49:32",
-    "Finish": "0:49:51"
+    "Chip Time": "0:49:32",
+    "Gun Time": "0:49:51"
   },
   {
     "Position": 378,
@@ -4154,8 +4154,8 @@
     "Category": "FO",
     "2 Miles": "0:18:48",
     "Lap of Lough": "0:12:01",
-    "Chiptime": "0:49:48",
-    "Finish": "0:50:17"
+    "Chip Time": "0:49:48",
+    "Gun Time": "0:50:17"
   },
   {
     "Position": 379,
@@ -4165,8 +4165,8 @@
     "Category": "FO",
     "2 Miles": "0:19:03",
     "Lap of Lough": "0:12:19",
-    "Chiptime": "0:50:03",
-    "Finish": "0:50:29"
+    "Chip Time": "0:50:03",
+    "Gun Time": "0:50:29"
   },
   {
     "Position": 380,
@@ -4176,8 +4176,8 @@
     "Category": "F40",
     "2 Miles": "0:18:48",
     "Lap of Lough": "0:12:20",
-    "Chiptime": "0:50:42",
-    "Finish": "0:50:54"
+    "Chip Time": "0:50:42",
+    "Gun Time": "0:50:54"
   },
   {
     "Position": 381,
@@ -4187,8 +4187,8 @@
     "Category": "F50",
     "2 Miles": "0:18:42",
     "Lap of Lough": "0:12:08",
-    "Chiptime": "0:50:59",
-    "Finish": "0:51:03"
+    "Chip Time": "0:50:59",
+    "Gun Time": "0:51:03"
   },
   {
     "Position": 382,
@@ -4198,8 +4198,8 @@
     "Category": "MO",
     "2 Miles": "0:18:28",
     "Lap of Lough": "0:12:34",
-    "Chiptime": "0:50:42",
-    "Finish": "0:51:04"
+    "Chip Time": "0:50:42",
+    "Gun Time": "0:51:04"
   },
   {
     "Position": 383,
@@ -4209,8 +4209,8 @@
     "Category": "F45",
     "2 Miles": "0:18:02",
     "Lap of Lough": "0:12:44",
-    "Chiptime": "0:50:57",
-    "Finish": "0:51:08"
+    "Chip Time": "0:50:57",
+    "Gun Time": "0:51:08"
   },
   {
     "Position": 384,
@@ -4220,8 +4220,8 @@
     "Category": "F40",
     "2 Miles": "0:17:53",
     "Lap of Lough": "0:12:31",
-    "Chiptime": "0:50:46",
-    "Finish": "0:51:13"
+    "Chip Time": "0:50:46",
+    "Gun Time": "0:51:13"
   },
   {
     "Position": 385,
@@ -4231,8 +4231,8 @@
     "Category": "F50",
     "2 Miles": "0:18:57",
     "Lap of Lough": "0:12:29",
-    "Chiptime": "0:51:19",
-    "Finish": "0:51:31"
+    "Chip Time": "0:51:19",
+    "Gun Time": "0:51:31"
   },
   {
     "Position": 386,
@@ -4242,8 +4242,8 @@
     "Category": "F35",
     "2 Miles": "0:18:25",
     "Lap of Lough": "0:12:43",
-    "Chiptime": "0:51:16",
-    "Finish": "0:51:36"
+    "Chip Time": "0:51:16",
+    "Gun Time": "0:51:36"
   },
   {
     "Position": 387,
@@ -4253,8 +4253,8 @@
     "Category": "MJ",
     "2 Miles": "0:18:01",
     "Lap of Lough": "0:12:57",
-    "Chiptime": "0:51:44",
-    "Finish": "0:51:49"
+    "Chip Time": "0:51:44",
+    "Gun Time": "0:51:49"
   },
   {
     "Position": 388,
@@ -4264,8 +4264,8 @@
     "Category": "MO",
     "2 Miles": "0:17:25",
     "Lap of Lough": "0:12:03",
-    "Chiptime": "0:51:23",
-    "Finish": "0:51:54"
+    "Chip Time": "0:51:23",
+    "Gun Time": "0:51:54"
   },
   {
     "Position": 389,
@@ -4275,8 +4275,8 @@
     "Category": "FO",
     "2 Miles": "0:19:55",
     "Lap of Lough": "0:12:14",
-    "Chiptime": "0:51:57",
-    "Finish": "0:52:28"
+    "Chip Time": "0:51:57",
+    "Gun Time": "0:52:28"
   },
   {
     "Position": 390,
@@ -4286,8 +4286,8 @@
     "Category": "MO",
     "2 Miles": "0:19:55",
     "Lap of Lough": "0:12:14",
-    "Chiptime": "0:51:57",
-    "Finish": "0:52:29"
+    "Chip Time": "0:51:57",
+    "Gun Time": "0:52:29"
   },
   {
     "Position": 391,
@@ -4297,8 +4297,8 @@
     "Category": "MU19",
     "2 Miles": "0:18:03",
     "Lap of Lough": "0:12:08",
-    "Chiptime": "0:52:07",
-    "Finish": "0:52:30"
+    "Chip Time": "0:52:07",
+    "Gun Time": "0:52:30"
   },
   {
     "Position": 392,
@@ -4308,8 +4308,8 @@
     "Category": "M40",
     "2 Miles": "0:20:48",
     "Lap of Lough": "0:11:38",
-    "Chiptime": "0:52:01",
-    "Finish": "0:52:34"
+    "Chip Time": "0:52:01",
+    "Gun Time": "0:52:34"
   },
   {
     "Position": 393,
@@ -4319,8 +4319,8 @@
     "Category": "FJ",
     "2 Miles": "0:20:42",
     "Lap of Lough": "0:12:09",
-    "Chiptime": "0:52:34",
-    "Finish": "0:53:08"
+    "Chip Time": "0:52:34",
+    "Gun Time": "0:53:08"
   },
   {
     "Position": 394,
@@ -4330,8 +4330,8 @@
     "Category": "F40",
     "2 Miles": "0:19:04",
     "Lap of Lough": "0:13:09",
-    "Chiptime": "0:52:56",
-    "Finish": "0:53:22"
+    "Chip Time": "0:52:56",
+    "Gun Time": "0:53:22"
   },
   {
     "Position": 395,
@@ -4341,8 +4341,8 @@
     "Category": "MJ",
     "2 Miles": "0:18:17",
     "Lap of Lough": "0:13:02",
-    "Chiptime": "0:53:22",
-    "Finish": "0:53:25"
+    "Chip Time": "0:53:22",
+    "Gun Time": "0:53:25"
   },
   {
     "Position": 396,
@@ -4352,8 +4352,8 @@
     "Category": "M40",
     "2 Miles": "0:18:12",
     "Lap of Lough": "0:13:55",
-    "Chiptime": "0:53:46",
-    "Finish": "0:53:55"
+    "Chip Time": "0:53:46",
+    "Gun Time": "0:53:55"
   },
   {
     "Position": 397,
@@ -4363,8 +4363,8 @@
     "Category": "F40",
     "2 Miles": "0:19:31",
     "Lap of Lough": "0:13:18",
-    "Chiptime": "0:53:58",
-    "Finish": "0:54:08"
+    "Chip Time": "0:53:58",
+    "Gun Time": "0:54:08"
   },
   {
     "Position": 398,
@@ -4374,8 +4374,8 @@
     "Category": "M60",
     "2 Miles": "0:19:35",
     "Lap of Lough": "0:13:46",
-    "Chiptime": "0:53:59",
-    "Finish": "0:54:13"
+    "Chip Time": "0:53:59",
+    "Gun Time": "0:54:13"
   },
   {
     "Position": 399,
@@ -4385,8 +4385,8 @@
     "Category": "FU19",
     "2 Miles": "0:19:20",
     "Lap of Lough": "0:14:17",
-    "Chiptime": "0:54:56",
-    "Finish": "0:55:16"
+    "Chip Time": "0:54:56",
+    "Gun Time": "0:55:16"
   },
   {
     "Position": 400,
@@ -4396,8 +4396,8 @@
     "Category": "F40",
     "2 Miles": "0:21:40",
     "Lap of Lough": "0:13:25",
-    "Chiptime": "0:55:46",
-    "Finish": "0:56:13"
+    "Chip Time": "0:55:46",
+    "Gun Time": "0:56:13"
   },
   {
     "Position": 401,
@@ -4407,8 +4407,8 @@
     "Category": "F50",
     "2 Miles": "0:21:12",
     "Lap of Lough": "0:13:51",
-    "Chiptime": "0:55:49",
-    "Finish": "0:56:22"
+    "Chip Time": "0:55:49",
+    "Gun Time": "0:56:22"
   },
   {
     "Position": 402,
@@ -4418,8 +4418,8 @@
     "Category": "M40",
     "2 Miles": "0:20:19",
     "Lap of Lough": "0:12:11",
-    "Chiptime": "0:56:44",
-    "Finish": "0:57:16"
+    "Chip Time": "0:56:44",
+    "Gun Time": "0:57:16"
   },
   {
     "Position": 403,
@@ -4429,8 +4429,8 @@
     "Category": "M50",
     "2 Miles": "0:20:13",
     "Lap of Lough": "0:14:35",
-    "Chiptime": "0:57:03",
-    "Finish": "0:57:31"
+    "Chip Time": "0:57:03",
+    "Gun Time": "0:57:31"
   },
   {
     "Position": 404,
@@ -4440,8 +4440,8 @@
     "Category": "FJ",
     "2 Miles": "0:22:18",
     "Lap of Lough": "0:14:15",
-    "Chiptime": "0:58:30",
-    "Finish": "0:58:32"
+    "Chip Time": "0:58:30",
+    "Gun Time": "0:58:32"
   },
   {
     "Position": 405,
@@ -4451,8 +4451,8 @@
     "Category": "F40",
     "2 Miles": "0:20:42",
     "Lap of Lough": "0:13:34",
-    "Chiptime": "0:58:06",
-    "Finish": "0:58:38"
+    "Chip Time": "0:58:06",
+    "Gun Time": "0:58:38"
   },
   {
     "Position": 406,
@@ -4462,8 +4462,8 @@
     "Category": "F55",
     "2 Miles": "0:22:08",
     "Lap of Lough": "0:14:19",
-    "Chiptime": "0:58:23",
-    "Finish": "0:58:57"
+    "Chip Time": "0:58:23",
+    "Gun Time": "0:58:57"
   },
   {
     "Position": 407,
@@ -4473,8 +4473,8 @@
     "Category": "F35",
     "2 Miles": "0:21:34",
     "Lap of Lough": "0:14:27",
-    "Chiptime": "0:58:47",
-    "Finish": "0:59:07"
+    "Chip Time": "0:58:47",
+    "Gun Time": "0:59:07"
   },
   {
     "Position": 408,
@@ -4484,8 +4484,8 @@
     "Category": "FO",
     "2 Miles": "0:21:56",
     "Lap of Lough": "0:15:51",
-    "Chiptime": "1:00:38",
-    "Finish": "1:00:44"
+    "Chip Time": "1:00:38",
+    "Gun Time": "1:00:44"
   },
   {
     "Position": 409,
@@ -4495,8 +4495,8 @@
     "Category": "FO",
     "2 Miles": "0:24:34",
     "Lap of Lough": "0:12:42",
-    "Chiptime": "1:01:24",
-    "Finish": "1:01:31"
+    "Chip Time": "1:01:24",
+    "Gun Time": "1:01:31"
   },
   {
     "Position": 410,
@@ -4506,8 +4506,8 @@
     "Category": "FO",
     "2 Miles": "0:24:34",
     "Lap of Lough": "0:12:42",
-    "Chiptime": "1:01:24",
-    "Finish": "1:01:31"
+    "Chip Time": "1:01:24",
+    "Gun Time": "1:01:31"
   },
   {
     "Position": 411,
@@ -4517,8 +4517,8 @@
     "Category": "FJ",
     "2 Miles": "0:23:13",
     "Lap of Lough": "0:15:10",
-    "Chiptime": "1:01:37",
-    "Finish": "1:01:39"
+    "Chip Time": "1:01:37",
+    "Gun Time": "1:01:39"
   },
   {
     "Position": 412,
@@ -4528,8 +4528,8 @@
     "Category": "FO",
     "2 Miles": "0:23:14",
     "Lap of Lough": "0:15:11",
-    "Chiptime": "1:01:08",
-    "Finish": "1:01:39"
+    "Chip Time": "1:01:08",
+    "Gun Time": "1:01:39"
   },
   {
     "Position": 413,
@@ -4539,8 +4539,8 @@
     "Category": "F40",
     "2 Miles": "0:23:48",
     "Lap of Lough": "0:15:04",
-    "Chiptime": "1:02:16",
-    "Finish": "1:02:41"
+    "Chip Time": "1:02:16",
+    "Gun Time": "1:02:41"
   },
   {
     "Position": 414,
@@ -4550,8 +4550,8 @@
     "Category": "MU19",
     "2 Miles": "0:23:53",
     "Lap of Lough": "0:17:38",
-    "Chiptime": "1:04:25",
-    "Finish": "1:04:28"
+    "Chip Time": "1:04:25",
+    "Gun Time": "1:04:28"
   },
   {
     "Position": 415,
@@ -4561,8 +4561,8 @@
     "Category": "MO",
     "2 Miles": "0:23:53",
     "Lap of Lough": "0:17:39",
-    "Chiptime": "1:04:25",
-    "Finish": "1:04:29"
+    "Chip Time": "1:04:25",
+    "Gun Time": "1:04:29"
   },
   {
     "Position": 416,
@@ -4572,8 +4572,8 @@
     "Category": "M40",
     "2 Miles": "0:29:35",
     "Lap of Lough": "0:13:53",
-    "Chiptime": "1:09:12",
-    "Finish": "1:09:45"
+    "Chip Time": "1:09:12",
+    "Gun Time": "1:09:45"
   },
   {
     "Position": 417,
@@ -4583,8 +4583,8 @@
     "Category": "MJ",
     "2 Miles": "0:24:37",
     "Lap of Lough": "0:17:10",
-    "Chiptime": "1:09:23",
-    "Finish": "1:09:50"
+    "Chip Time": "1:09:23",
+    "Gun Time": "1:09:50"
   },
   {
     "Position": 418,
@@ -4594,8 +4594,8 @@
     "Category": "MO",
     "2 Miles": "0:27:52",
     "Lap of Lough": "0:16:37",
-    "Chiptime": "1:09:28",
-    "Finish": "1:10:02"
+    "Chip Time": "1:09:28",
+    "Gun Time": "1:10:02"
   },
   {
     "Position": 419,
@@ -4605,8 +4605,8 @@
     "Category": "MO",
     "2 Miles": "0:27:52",
     "Lap of Lough": "0:16:38",
-    "Chiptime": "1:09:29",
-    "Finish": "1:10:02"
+    "Chip Time": "1:09:29",
+    "Gun Time": "1:10:02"
   },
   {
     "Position": 420,
@@ -4616,8 +4616,8 @@
     "Category": "M55",
     "2 Miles": "0:27:51",
     "Lap of Lough": "0:16:39",
-    "Chiptime": "1:09:30",
-    "Finish": "1:10:03"
+    "Chip Time": "1:09:30",
+    "Gun Time": "1:10:03"
   },
   {
     "Position": 421,
@@ -4627,8 +4627,8 @@
     "Category": "M50",
     "2 Miles": "0:27:51",
     "Lap of Lough": "0:16:40",
-    "Chiptime": "1:09:30",
-    "Finish": "1:10:04"
+    "Chip Time": "1:09:30",
+    "Gun Time": "1:10:04"
   },
   {
     "Position": 422,
@@ -4638,8 +4638,8 @@
     "Category": "FO",
     "2 Miles": "0:29:14",
     "Lap of Lough": "0:18:35",
-    "Chiptime": "1:15:34",
-    "Finish": "1:16:07"
+    "Chip Time": "1:15:34",
+    "Gun Time": "1:16:07"
   },
   {
     "Position": 423,
@@ -4649,7 +4649,7 @@
     "Category": "M50",
     "2 Miles": "0:34:27",
     "Lap of Lough": "0:22:47",
-    "Chiptime": "1:29:05",
-    "Finish": "1:29:43"
+    "Chip Time": "1:29:05",
+    "Gun Time": "1:29:43"
   }
 ]
