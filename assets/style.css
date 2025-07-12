@@ -314,10 +314,32 @@ table tr:hover {
 }
 
 /* Responsive */
+@media (max-width: 870px) {
+  table th:nth-child(2),
+  table th:nth-child(6),
+  table th:nth-child(8),
+  table td:nth-child(2),
+  table td:nth-child(6),
+  table td:nth-child(8) {
+    display: none;
+  }
+}
+@media (max-width: 480px) {
+  table th:nth-child(4),
+  table td:nth-child(4) {
+    display: none;
+  }
+}
+
 @media (max-width: 768px) {
+  .container {
+    padding: 0 1rem; /* Reduced container padding */
+  }
+
   .navbar {
     flex-direction: column;
     text-align: center;
+    padding: 0.7rem 1rem; /* Reduced navbar padding */
   }
 
   .navbar ul {
@@ -330,5 +352,26 @@ table tr:hover {
 
   .main-section p {
     font-size: 1.2rem;
+  }
+
+  .card {
+    padding: 1.5rem 1rem; /* Reduced card padding */
+  }
+
+  .year-dropdown, .search-input {
+    padding: 0.6rem; /* Reduced input padding */
+  }
+
+  table th, table td {
+    padding: 0.5rem 0.3rem; /* Reduced table cell padding */
+  }
+
+  /* Reduce border widths */
+  .container {
+    border-left-width: 1px; /* Thinner left border */
+  }
+
+  .card {
+    border-top-width: 1px; /* Thinner top border */
   }
 }

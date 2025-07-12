@@ -61,10 +61,10 @@
           <table>
             <thead>
               <tr>
-                <th>Position</th>
+                <th>Pos.</th>
                 <th>Bib</th>
                 <th>Name</th>
-                <th>Category</th>
+                <th>Cat.</th>
                 <th>Club</th>
                 <th>Lap of Lough</th>
                 <th>Chip Time</th>
@@ -74,14 +74,14 @@
             <tbody>
               <template x-for="runner in filteredResults" :key="runner.position">
                 <tr>
-                  <td x-text="runner.position"></td>
-                  <td x-text="runner.bib"></td>
-                  <td x-text="runner.name"></td>
-                  <td x-text="runner.age_group"></td>
-                  <td x-text="runner.club"></td>
-                  <td x-text="runner.lap_of_lough"></td>
-                  <td x-text="runner.chip_time"></td>
-                  <td x-text="runner.gun_time"></td>
+                  <td data-label="Pos." x-text="runner.position"></td>
+                  <td data-label="Bib" x-text="runner.bib"></td>
+                  <td data-label="Name" x-text="runner.name"></td>
+                  <td data-label="Cat." x-text="runner.age_group"></td>
+                  <td data-label="Club" x-text="runner.club"></td>
+                  <td data-label="Lap of Lough" x-text="runner.lap_of_lough"></td>
+                  <td data-label="Chip Time" x-text="runner.chip_time"></td>
+                  <td data-label="Gun Time" x-text="runner.gun_time"></td>
                 </tr>
               </template>
             </tbody>
@@ -89,7 +89,7 @@
         </div>
 
         <div x-show="filteredResults.length === 0" style="text-align: center; padding: 20px;">
-          <p>No results found. Please try a different search term.</p>
+          <p>No results found. Try a different search.</p>
         </div>
       </div>
     </div>
