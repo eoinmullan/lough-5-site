@@ -21,13 +21,9 @@
   </header>
 
   <section class="section">
-    <div class="container">
-      <h2 class="section-title">Race Results</h2>
-      <p class="section-text">
-        Complete results from the Charity 5K Race. Use the search box to find specific runners.
-      </p>
-
-      <div class="card" x-data="resultsApp()">
+    <div class="container" x-data="resultsApp()">
+      <h2 class="section-title"><span x-text="selectedYear"></span> Results</h2>
+      <div class="card">
         <div class="search-container">
           <div class="filter-row">
             <select x-model="selectedYear" class="year-dropdown">
