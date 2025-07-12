@@ -81,7 +81,7 @@
                 <span class="detail-label">Club:</span>
                 <span class="detail-value" x-text="selectedRunner.club"></span>
               </div>
-              <div class="runner-detail">
+              <div class="runner-detail" x-show="!is2016">
                 <span class="detail-label">Lap of Lough:</span>
                 <span class="detail-value" x-text="selectedRunner.lap_of_lough"></span>
               </div>
@@ -109,7 +109,7 @@
                 <th>Name</th>
                 <th>Cat.</th>
                 <th>Club</th>
-                <th>Lap of Lough</th>
+                <th x-show="!is2016">Lap of Lough</th>
                 <th>Chip Time</th>
                 <th>Gun Time</th>
               </tr>
@@ -122,7 +122,7 @@
                   <td data-label="Name" x-text="runner.name"></td>
                   <td data-label="Cat." x-text="runner.age_group"></td>
                   <td data-label="Club" x-text="runner.club"></td>
-                  <td data-label="Lap of Lough" x-text="runner.lap_of_lough"></td>
+                  <td data-label="Lap of Lough" x-show="!is2016" x-text="runner.lap_of_lough"></td>
                   <td data-label="Chip Time" x-text="runner.chip_time"></td>
                   <td data-label="Gun Time" x-text="runner.gun_time"></td>
                 </tr>
@@ -166,6 +166,11 @@
           this.isMobileView = window.innerWidth < 870;
         },
 
+        // Check if the current year is 2016 (which doesn't have Lap of Lough data)
+        get is2016() {
+          return this.selectedYear === '2016';
+        },
+
         // Show runner details in modal (only on mobile)
         showRunnerDetails(runner) {
           if (this.isMobileView) {
@@ -186,7 +191,7 @@
                   name: runner.Name,
                   age_group: runner.Category,
                   club: runner.Club,
-                  lap_of_lough: runner["Lap of Lough"],
+                  lap_of_lough: this.selectedYear === '2016' ? null : runner["Lap of Lough"],
                   chip_time: runner["Chip Time"],
                   gun_time: runner["Gun Time"],
                 };
