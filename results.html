@@ -180,19 +180,15 @@
             .then(data => {
               // Transform the data to match the expected format
               this.results = data.map(runner => {
-                // Extract gender from age group (first character)
-                const gender = runner.AG.charAt(0);
-
                 return {
-                  position: runner.Place,
-                  bib: runner.Bib,
+                  position: runner.Position,
+                  bib: runner["Bib no."],
                   name: runner.Name,
-                  gender: gender,
-                  age_group: runner.AG,
+                  age_group: runner.Category,
                   club: runner.Club,
                   lap_of_lough: runner["Lap of Lough"],
-                  chip_time: runner.ChipTime,
-                  gun_time: runner.GunTime,
+                  chip_time: runner["Chip Time"],
+                  gun_time: runner["Gun Time"],
                 };
               });
             })
