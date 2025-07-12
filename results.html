@@ -26,17 +26,37 @@
       <p class="section-text">
         Complete results from the Charity 5K Race. Use the search box to find specific runners.
       </p>
-      
+
       <div class="card" x-data="resultsApp()">
         <div class="search-container">
-          <input 
-            type="text" 
-            x-model="searchTerm" 
-            placeholder="Search by name, bib number, or age group..." 
-            class="search-input"
-          >
+          <div class="filter-row">
+            <select x-model="selectedYear" class="year-dropdown">
+              <option value="2024">2024</option>
+              <option value="2023">2023</option>
+              <option value="2022">2022</option>
+              <option value="2021">2021</option>
+              <option value="2020">2020</option>
+              <option value="2019">2019</option>
+              <option value="2018">2018</option>
+              <option value="2017">2017</option>
+              <option value="2016">2016</option>
+              <option value="2015">2015</option>
+              <option value="2014">2014</option>
+              <option value="2013">2013</option>
+              <option value="2012">2012</option>
+              <option value="2011">2011</option>
+              <option value="2010">2010</option>
+              <option value="2009">2009</option>
+            </select>
+            <input 
+              type="text" 
+              x-model="searchTerm" 
+              placeholder="Search by bib, name, category, or club..."
+              class="search-input"
+            >
+          </div>
         </div>
-        
+
         <div class="table-container">
           <table>
             <thead>
@@ -44,10 +64,11 @@
                 <th>Position</th>
                 <th>Bib</th>
                 <th>Name</th>
-                <th>Gender</th>
-                <th>Age Group</th>
-                <th>Finish Time</th>
-                <th>Pace</th>
+                <th>Category</th>
+                <th>Club</th>
+                <th>Lap of Lough</th>
+                <th>Chip Time</th>
+                <th>Gun Time</th>
               </tr>
             </thead>
             <tbody>
@@ -56,16 +77,17 @@
                   <td x-text="runner.position"></td>
                   <td x-text="runner.bib"></td>
                   <td x-text="runner.name"></td>
-                  <td x-text="runner.gender"></td>
                   <td x-text="runner.age_group"></td>
-                  <td x-text="runner.finish_time"></td>
-                  <td x-text="runner.pace"></td>
+                  <td x-text="runner.club"></td>
+                  <td x-text="runner.lap_of_lough"></td>
+                  <td x-text="runner.chip_time"></td>
+                  <td x-text="runner.gun_time"></td>
                 </tr>
               </template>
             </tbody>
           </table>
         </div>
-        
+
         <div x-show="filteredResults.length === 0" style="text-align: center; padding: 20px;">
           <p>No results found. Please try a different search term.</p>
         </div>
@@ -77,35 +99,58 @@
     function resultsApp() {
       return {
         searchTerm: '',
+        selectedYear: '2024',
         results: [],
-        
+
         init() {
-          fetch('assets/results.json')
+          this.loadResultsForYear();
+
+          this.$watch('selectedYear', () => {
+            this.loadResultsForYear();
+          });
+        },
+
+        loadResultsForYear() {
+          fetch(`assets/results/${this.selectedYear}.json`)
             .then(response => response.json())
             .then(data => {
-              this.results = data.results;
+              // Transform the data to match the expected format
+              this.results = data.map(runner => {
+                // Extract gender from age group (first character)
+                const gender = runner.AG.charAt(0);
+
+                return {
+                  position: runner.Place,
+                  bib: runner.Bib,
+                  name: runner.Name,
+                  gender: gender,
+                  age_group: runner.AG,
+                  club: runner.Club,
+                  lap_of_lough: runner["Lap of Lough"],
+                  chip_time: runner.ChipTime,
+                  gun_time: runner.GunTime,
+                };
+              });
             })
             .catch(error => {
-              console.error('Error loading results:', error);
+              console.error(`Error loading results for ${this.selectedYear}:`, error);
+              this.results = [];
             });
         },
-        
+
         get filteredResults() {
           if (!this.searchTerm.trim()) {
             return this.results;
           }
-          
+
           const term = this.searchTerm.toLowerCase().trim();
-          
+
           return this.results.filter(runner => {
             return (
               runner.name.toLowerCase().includes(term) ||
               runner.bib.toString().includes(term) ||
               runner.age_group.toLowerCase().includes(term) ||
-              runner.gender.toLowerCase().includes(term) ||
-              runner.finish_time.toLowerCase().includes(term) ||
-              runner.pace.toLowerCase().includes(term) ||
-              runner.position.toString().includes(term)
+              runner.club.toLowerCase().includes(term)
             );
           });
         }
