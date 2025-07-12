@@ -57,6 +57,49 @@
           </div>
         </div>
 
+        <!-- Runner Details Modal -->
+        <div class="modal" x-show="showModal" x-cloak>
+          <div class="modal-content">
+            <div class="modal-header">
+              <h3 x-text="selectedRunner.name"></h3>
+              <span class="close-btn" @click="showModal = false">&times;</span>
+            </div>
+            <div class="modal-body">
+              <div class="runner-detail">
+                <span class="detail-label">Position:</span>
+                <span class="detail-value" x-text="selectedRunner.position"></span>
+              </div>
+              <div class="runner-detail">
+                <span class="detail-label">Bib Number:</span>
+                <span class="detail-value" x-text="selectedRunner.bib"></span>
+              </div>
+              <div class="runner-detail">
+                <span class="detail-label">Category:</span>
+                <span class="detail-value" x-text="selectedRunner.age_group"></span>
+              </div>
+              <div class="runner-detail">
+                <span class="detail-label">Club:</span>
+                <span class="detail-value" x-text="selectedRunner.club"></span>
+              </div>
+              <div class="runner-detail">
+                <span class="detail-label">Lap of Lough:</span>
+                <span class="detail-value" x-text="selectedRunner.lap_of_lough"></span>
+              </div>
+              <div class="runner-detail">
+                <span class="detail-label">Chip Time:</span>
+                <span class="detail-value" x-text="selectedRunner.chip_time"></span>
+              </div>
+              <div class="runner-detail">
+                <span class="detail-label">Gun Time:</span>
+                <span class="detail-value" x-text="selectedRunner.gun_time"></span>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button class="btn btn-secondary" @click="showModal = false">Close</button>
+            </div>
+          </div>
+        </div>
+
         <div class="table-container">
           <table>
             <thead>
@@ -73,7 +116,7 @@
             </thead>
             <tbody>
               <template x-for="runner in filteredResults" :key="runner.position">
-                <tr>
+                <tr @click="showRunnerDetails(runner)">
                   <td data-label="Pos." x-text="runner.position"></td>
                   <td data-label="Bib" x-text="runner.bib"></td>
                   <td data-label="Name" x-text="runner.name"></td>
@@ -101,13 +144,34 @@
         searchTerm: '',
         selectedYear: '2024',
         results: [],
+        showModal: false,
+        selectedRunner: {},
+        isMobileView: false,
 
         init() {
           this.loadResultsForYear();
+          this.checkViewportWidth();
 
+          // Watch for changes to the selected year
           this.$watch('selectedYear', () => {
             this.loadResultsForYear();
           });
+
+          // Check viewport width on resize
+          window.addEventListener('resize', this.checkViewportWidth);
+        },
+
+        // Check if we're in mobile view (less than 870px)
+        checkViewportWidth() {
+          this.isMobileView = window.innerWidth < 870;
+        },
+
+        // Show runner details in modal (only on mobile)
+        showRunnerDetails(runner) {
+          if (this.isMobileView) {
+            this.selectedRunner = runner;
+            this.showModal = true;
+          }
         },
 
         loadResultsForYear() {
