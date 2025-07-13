@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lough 5 - Fastest 50</title>
+  <title>Lough 5 - Records</title>
   <link rel="stylesheet" href="assets/style.css">
   <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
@@ -15,7 +15,7 @@
         <li><a href="location.html">Location</a></li>
         <li><a href="course.html">Course</a></li>
         <li><a href="results.html">Results</a></li>
-        <li><a href="fastest-50.html" class="current">Fastest 50</a></li>
+        <li><a href="fastest-50.html" class="current">Records</a></li>
       </ul>
     </nav>
   </header>
@@ -86,7 +86,7 @@
               this.results = data.fastest50;
             })
             .catch(error => {
-              console.error('Error loading fastest 50 results:', error);
+              console.error('Error loading records results:', error);
             });
         },
         

@@ -10,7 +10,7 @@ This website provides information about a local charity 5K race, including:
 - Location details with Google Maps integration
 - Course information and map
 - Complete race results with searchable table
-- Fastest 50 runners with searchable table
+- Records runners with searchable table
 
 ## Project Structure
 
@@ -23,7 +23,7 @@ This website provides information about a local charity 5K race, including:
 ├── assets/
 │   ├── style.css         # CSS styles
 │   ├── results.json      # JSON data for full results
-│   └── fastest50.json    # JSON data for fastest 50
+│   └── fastest50.json    # JSON data for Records
 ├── package.json          # NPM configuration
 └── README.md             # Project documentation
 ```
@@ -95,7 +95,7 @@ This will serve the files from the current directory at http://localhost:5000 (o
 
 ### Modifying Race Data
 
-To update the race results or fastest 50 data, edit the JSON files in the `assets` directory:
+To update the race results or Records data, edit the JSON files in the `assets` directory:
 
 - `assets/results.json` - Full race results
 - `assets/fastest50.json` - Top 50 fastest runners
