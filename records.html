@@ -23,7 +23,7 @@
 
   <section class="section">
     <div class="container" x-data="recordsApp()">
-      <h2 class="section-title"><span x-text="selectedCategory"></span> Records</h2>
+      <h2 class="section-title"><span x-text="selectedCategory"></span></h2>
       <div class="card">
         <div class="search-container">
           <div class="filter-row">
@@ -117,7 +117,7 @@
     function recordsApp() {
       return {
         searchTerm: '',
-        selectedCategory: 'Fastest 50 Male',
+        selectedCategory: Math.random() < 0.5 ? 'Fastest 50 Male' : 'Fastest 50 Female',
         results: [],
         showModal: false,
         selectedRunner: {},
