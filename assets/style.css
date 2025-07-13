@@ -88,7 +88,7 @@ ul {
     height: 70vh;
     color: #fff;
     position: relative;
-    @media(max-width: 400px) {
+    @media (max-width: 400px) {
         height: 80vh;
     }
 }
@@ -246,6 +246,18 @@ ul {
     transition: all 0.3s ease;
     background-color: #FFFCF5; /* Even lighter amber, almost white */
     min-width: 100px;
+    cursor: pointer;
+    font-family: 'Arial', sans-serif;
+    color: var(--dark-color);
+}
+
+.records-dropdown {
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-left: 2px solid rgba(255, 202, 40, 0.6); /* Thinner, more transparent amber left border */
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    background-color: #FFFCF5; /* Even lighter amber, almost white */
     cursor: pointer;
     font-family: 'Arial', sans-serif;
     color: var(--dark-color);
@@ -446,13 +458,51 @@ table tr:hover {
     text-align: right;
 }
 
+/* Hide table columns for small screens */
+.results-table {
+    @media (max-width: 1000px) {
+        table th:nth-child(6),
+        table td:nth-child(6) {
+            display: none;
+        }
+    }
+    @media (max-width: 870px) {
+        table th:nth-child(2),
+        table th:nth-child(6),
+        table th:nth-child(9),
+        table td:nth-child(2),
+        table td:nth-child(6),
+        table td:nth-child(9) {
+            display: none;
+        }
+    }
+    @media (max-width: 600px) {
+        table th:nth-child(4),
+        table th:nth-child(7),
+        table td:nth-child(4),
+        table td:nth-child(7) {
+            display: none;
+        }
+    }
+}
+
+.records-table {
+    @media (max-width: 600px) {
+        table th:nth-child(5),
+        table td:nth-child(5) {
+            display: none;
+        }
+    }
+    @media (max-width: 500px) {
+        table th:nth-child(4),
+        table td:nth-child(4) {
+            display: none;
+        }
+    }
+}
+
 /* Responsive */
 @media (max-width: 1000px) {
-    table th:nth-child(6),
-    table td:nth-child(6) {
-        display: none;
-    }
-
     /* Make table rows clickable on mobile */
     table tbody tr {
         cursor: pointer;
@@ -460,26 +510,6 @@ table tr:hover {
 
     table tbody tr:hover {
         background-color: rgba(255, 202, 40, 0.2);
-    }
-}
-
-@media (max-width: 870px) {
-    table th:nth-child(2),
-    table th:nth-child(6),
-    table th:nth-child(9),
-    table td:nth-child(2),
-    table td:nth-child(6),
-    table td:nth-child(9) {
-        display: none;
-    }
-}
-
-@media (max-width: 600px) {
-    table th:nth-child(4),
-    table th:nth-child(7),
-    table td:nth-child(4),
-    table td:nth-child(7) {
-        display: none;
     }
 }
 

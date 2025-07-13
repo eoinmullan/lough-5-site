@@ -1,0 +1,402 @@
+[
+  {
+    "Position": 1,
+    "Year": 2021,
+    "Name": "Ciara Mageean",
+    "Club": "Team NB MCR/ City of Lisburn AC",
+    "Category": "FO",
+    "Finish Time": "0:26:07"
+  },
+  {
+    "Position": 2,
+    "Year": 2016,
+    "Name": "Catherine Whoriskey",
+    "Club": "City of Derry",
+    "Category": "FO",
+    "Finish Time": "0:28:07"
+  },
+  {
+    "Position": 3,
+    "Year": 2021,
+    "Name": "Natasha Adams",
+    "Club": "Letterkenny AC",
+    "Category": "FO",
+    "Finish Time": "0:28:18"
+  },
+  {
+    "Position": 4,
+    "Year": 2016,
+    "Name": "Ann-Marie McGlynn",
+    "Club": "Letterkenny AC",
+    "Category": "FO",
+    "Finish Time": "0:28:22"
+  },
+  {
+    "Position": 5,
+    "Year": 2010,
+    "Name": "Gladys Ganiel O'Neill",
+    "Club": "Abbey",
+    "Category": "FO",
+    "Finish Time": "0:29:04"
+  },
+  {
+    "Position": 6,
+    "Year": 2021,
+    "Name": "Christine Russell",
+    "Club": "Letterkenny AC",
+    "Category": "FO",
+    "Finish Time": "0:29:17"
+  },
+  {
+    "Position": 7,
+    "Year": 2023,
+    "Name": "Edel Monaghan",
+    "Club": "Dublin City Harriers",
+    "Category": "FO",
+    "Finish Time": "0:29:19"
+  },
+  {
+    "Position": 8,
+    "Year": 2014,
+    "Name": "Breege Connolly",
+    "Club": "North Belfast Harriers",
+    "Category": "FO",
+    "Finish Time": "0:29:20"
+  },
+  {
+    "Position": 9,
+    "Year": 2021,
+    "Name": "Rebecca Rossiter",
+    "Club": "Loughview Athletics Club",
+    "Category": "FJ",
+    "Finish Time": "0:29:22"
+  },
+  {
+    "Position": 10,
+    "Year": 2019,
+    "Name": "Hannah Oldroyd",
+    "Club": "Don Greig Racing Stables",
+    "Category": "FO",
+    "Finish Time": "0:30:02"
+  },
+  {
+    "Position": 11,
+    "Year": 2010,
+    "Name": "Cathy McCourt",
+    "Club": "Lisburn",
+    "Category": "FO",
+    "Finish Time": "0:30:04"
+  },
+  {
+    "Position": 11,
+    "Year": 2011,
+    "Name": "Kelly McNeice",
+    "Club": "City of Lisburn AC",
+    "Category": "FO",
+    "Finish Time": "0:30:04"
+  },
+  {
+    "Position": 13,
+    "Year": 2023,
+    "Name": "Nadine McIntyre",
+    "Club": "",
+    "Category": "FO",
+    "Finish Time": "0:30:29"
+  },
+  {
+    "Position": 14,
+    "Year": 2011,
+    "Name": "Eilis McKechanie",
+    "Club": "Hunters Bog Trotters",
+    "Category": "FO",
+    "Finish Time": "0:30:37"
+  },
+  {
+    "Position": 14,
+    "Year": 2024,
+    "Name": "Ciara Cunningham",
+    "Club": "Tír Chonaill AC",
+    "Category": "FO",
+    "Finish Time": "0:30:37"
+  },
+  {
+    "Position": 16,
+    "Year": 2021,
+    "Name": "Lucy Thompson",
+    "Club": "Tonbridge Athletics Club",
+    "Category": "FO",
+    "Finish Time": "0:30:39"
+  },
+  {
+    "Position": 17,
+    "Year": 2022,
+    "Name": "Grainne O'Hagan",
+    "Club": "Knockmany Runners",
+    "Category": "FO",
+    "Finish Time": "0:30:40"
+  },
+  {
+    "Position": 18,
+    "Year": 2015,
+    "Name": "Julie Butler",
+    "Club": "Omagh Harriers",
+    "Category": "F40",
+    "Finish Time": "0:30:41"
+  },
+  {
+    "Position": 19,
+    "Year": 2013,
+    "Name": "Heather Foley",
+    "Club": "",
+    "Category": "FO",
+    "Finish Time": "0:30:44"
+  },
+  {
+    "Position": 20,
+    "Year": 2021,
+    "Name": "Gillian McCrory",
+    "Club": "St Peter's AC",
+    "Category": "F40",
+    "Finish Time": "0:30:45"
+  },
+  {
+    "Position": 21,
+    "Year": 2019,
+    "Name": "Natalie Hall",
+    "Club": "Armagh AC",
+    "Category": "FO",
+    "Finish Time": "0:30:48"
+  },
+  {
+    "Position": 22,
+    "Year": 2012,
+    "Name": "Patricia O'Hagan",
+    "Club": "St. Peter's AC",
+    "Category": "FO",
+    "Finish Time": "0:30:51"
+  },
+  {
+    "Position": 23,
+    "Year": 2016,
+    "Name": "Michelle Sturm",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish Time": "0:30:55"
+  },
+  {
+    "Position": 24,
+    "Year": 2024,
+    "Name": "Cora Scullion",
+    "Club": "Omagh Harriers",
+    "Category": "FU19",
+    "Finish Time": "0:01:08"
+  },
+  {
+    "Position": 25,
+    "Year": 2016,
+    "Name": "Sara Moore",
+    "Club": "",
+    "Category": "FO",
+    "Finish Time": "0:31:15"
+  },
+  {
+    "Position": 25,
+    "Year": 2019,
+    "Name": "Cassie Lagan",
+    "Club": "Finn Valley AC",
+    "Category": "FO",
+    "Finish Time": "0:31:15"
+  },
+  {
+    "Position": 27,
+    "Year": 2016,
+    "Name": "Karen Alexander",
+    "Club": "Acorns AC",
+    "Category": "F35",
+    "Finish Time": "0:31:18"
+  },
+  {
+    "Position": 28,
+    "Year": 2012,
+    "Name": "Donna Evans",
+    "Club": "Monaghan Phoenix",
+    "Category": "F45",
+    "Finish Time": "0:31:21"
+  },
+  {
+    "Position": 29,
+    "Year": 2024,
+    "Name": "Aimee Mullan",
+    "Club": "Galbally Runners",
+    "Category": "FO",
+    "Finish Time": "0:31:24"
+  },
+  {
+    "Position": 30,
+    "Year": 2021,
+    "Name": "Niamh Heaney",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish Time": "0:31:26"
+  },
+  {
+    "Position": 31,
+    "Year": 2019,
+    "Name": "Pauline McGurren",
+    "Club": "",
+    "Category": "F40",
+    "Finish Time": "0:31:28"
+  },
+  {
+    "Position": 32,
+    "Year": 2019,
+    "Name": "Amy Bulman",
+    "Club": "Willowfield Harriers",
+    "Category": "F35",
+    "Finish Time": "0:31:34"
+  },
+  {
+    "Position": 33,
+    "Year": 2018,
+    "Name": "Sorcha Mullan",
+    "Club": "Omagh Harriers",
+    "Category": "FJ",
+    "Finish Time": "0:31:45"
+  },
+  {
+    "Position": 34,
+    "Year": 2022,
+    "Name": "Niamh Heaney",
+    "Club": "Omagh Harriers",
+    "Category": "FO",
+    "Finish Time": "0:32:00"
+  },
+  {
+    "Position": 35,
+    "Year": 2021,
+    "Name": "Eimear Gormley",
+    "Club": "Letterkenny AC",
+    "Category": "FO",
+    "Finish Time": "0:32:12"
+  },
+  {
+    "Position": 36,
+    "Year": 2024,
+    "Name": "Kirsty Downey",
+    "Club": "Inishowen A.C.",
+    "Category": "FO",
+    "Finish Time": "0:32:14"
+  },
+  {
+    "Position": 37,
+    "Year": 2024,
+    "Name": "Karen Wilton",
+    "Club": "Jog Lisburn",
+    "Category": "F50",
+    "Finish Time": "0:32:16"
+  },
+  {
+    "Position": 38,
+    "Year": 2016,
+    "Name": "Pauline Thoron",
+    "Club": "Ballymena Runners",
+    "Category": "F45",
+    "Finish Time": "0:32:17"
+  },
+  {
+    "Position": 39,
+    "Year": 2018,
+    "Name": "Denise Ward",
+    "Club": "Foyle Valley AC",
+    "Category": "F35",
+    "Finish Time": "0:32:19"
+  },
+  {
+    "Position": 40,
+    "Year": 2022,
+    "Name": "Eimear McCarroll",
+    "Club": "Finn Valley AC",
+    "Category": "FO",
+    "Finish Time": "0:32:25"
+  },
+  {
+    "Position": 41,
+    "Year": 2012,
+    "Name": "Helen Stockdale",
+    "Club": "Clones AC",
+    "Category": "F45",
+    "Finish Time": "0:32:39"
+  },
+  {
+    "Position": 42,
+    "Year": 2019,
+    "Name": "Lauren Molloy",
+    "Club": "Omagh Harriers",
+    "Category": "FJ",
+    "Finish Time": "0:32:45"
+  },
+  {
+    "Position": 43,
+    "Year": 2019,
+    "Name": "Monica McGranaghan",
+    "Club": "Letterkenny AC",
+    "Category": "F40",
+    "Finish Time": "0:32:49"
+  },
+  {
+    "Position": 43,
+    "Year": 2023,
+    "Name": "Brenda Mullan",
+    "Club": "Carmen Runners",
+    "Category": "FO",
+    "Finish Time": "0:32:49"
+  },
+  {
+    "Position": 45,
+    "Year": 2018,
+    "Name": "Niamh Donnelly",
+    "Club": "Armagh AC",
+    "Category": "FO",
+    "Finish Time": "0:32:59"
+  },
+  {
+    "Position": 46,
+    "Year": 2017,
+    "Name": "Helena Quinn",
+    "Club": "Termoneeny",
+    "Category": "FO",
+    "Finish Time": "0:33:07"
+  },
+  {
+    "Position": 46,
+    "Year": 2024,
+    "Name": "Joan Maguire",
+    "Club": "Dromore Runners",
+    "Category": "F40",
+    "Finish Time": "0:33:07"
+  },
+  {
+    "Position": 48,
+    "Year": 2023,
+    "Name": "Elaine McGuckin",
+    "Club": "Keep ’er lit",
+    "Category": "F40",
+    "Finish Time": "0:33:08"
+  },
+  {
+    "Position": 49,
+    "Year": 2022,
+    "Name": "Denise McCann",
+    "Club": "Galbally Runners",
+    "Category": "F35",
+    "Finish Time": "0:33:14"
+  },
+  {
+    "Position": 50,
+    "Year": 2021,
+    "Name": "Barbara Murray",
+    "Club": "",
+    "Category": "F45",
+    "Finish Time": "0:33:16"
+  }
+]

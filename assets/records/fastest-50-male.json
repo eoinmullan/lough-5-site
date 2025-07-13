@@ -1,0 +1,402 @@
+[
+  {
+    "Position": 1,
+    "Year": 2018,
+    "Name": "Mark McKinstry",
+    "Club": "North Belfast Harriers",
+    "Category": "M35",
+    "Finish Time": "0:24:38"
+  },
+  {
+    "Position": 2,
+    "Year": 2011,
+    "Name": "Eddie McGinley",
+    "Club": "Annadale Striders",
+    "Category": "MO",
+    "Finish Time": "0:24:42"
+  },
+  {
+    "Position": 3,
+    "Year": 2011,
+    "Name": "Paddy Hamilton",
+    "Club": "Annadale Striders",
+    "Category": "MO",
+    "Finish Time": "0:24:53"
+  },
+  {
+    "Position": 4,
+    "Year": 2019,
+    "Name": "Matthew Neill",
+    "Club": "Acorns AC",
+    "Category": "MJ",
+    "Finish Time": "0:25:00"
+  },
+  {
+    "Position": 5,
+    "Year": 2021,
+    "Name": "Andrew Annett",
+    "Club": "Mourne Runners",
+    "Category": "MO",
+    "Finish Time": "0:25:02"
+  },
+  {
+    "Position": 6,
+    "Year": 2019,
+    "Name": "Eoin Mullan",
+    "Club": "Omagh Harriers",
+    "Category": "M35",
+    "Finish Time": "0:25:04"
+  },
+  {
+    "Position": 7,
+    "Year": 2017,
+    "Name": "Scott Rankin",
+    "Club": "Foyle Valley AC",
+    "Category": "MO",
+    "Finish Time": "0:25:17"
+  },
+  {
+    "Position": 8,
+    "Year": 2011,
+    "Name": "Andrew Agnew",
+    "Club": "Annadale Striders",
+    "Category": "MO",
+    "Finish Time": "0:25:19"
+  },
+  {
+    "Position": 9,
+    "Year": 2024,
+    "Name": "John Joe Doherty",
+    "Club": "Finn Valley AC",
+    "Category": "M35",
+    "Finish Time": "0:25:22"
+  },
+  {
+    "Position": 10,
+    "Year": 2010,
+    "Name": "Stephen Duncan",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Finish Time": "0:25:28"
+  },
+  {
+    "Position": 10,
+    "Year": 2024,
+    "Name": "Kieran Kelly",
+    "Club": "Raheny Shamrocks AC",
+    "Category": "M35",
+    "Finish Time": "0:25:28"
+  },
+  {
+    "Position": 12,
+    "Year": 2018,
+    "Name": "Eoin Hughes",
+    "Club": "Acorns AC",
+    "Category": "MO",
+    "Finish Time": "0:25:41"
+  },
+  {
+    "Position": 13,
+    "Year": 2018,
+    "Name": "Conan McCaughey",
+    "Club": "North Belfast Harriers",
+    "Category": "MO",
+    "Finish Time": "0:25:42"
+  },
+  {
+    "Position": 14,
+    "Year": 2017,
+    "Name": "Danny Mooney",
+    "Club": "Letterkenny AC",
+    "Category": "MO",
+    "Finish Time": "0:25:48"
+  },
+  {
+    "Position": 15,
+    "Year": 2012,
+    "Name": "Keith Shiels",
+    "Club": "Foyle Valley",
+    "Category": "M35",
+    "Finish Time": "0:25:50"
+  },
+  {
+    "Position": 16,
+    "Year": 2015,
+    "Name": "Christopher Madden",
+    "Club": "City of Lisburn AC",
+    "Category": "MO",
+    "Finish Time": "0:25:51"
+  },
+  {
+    "Position": 17,
+    "Year": 2024,
+    "Name": "Tom Fleming",
+    "Club": "Loughview AC",
+    "Category": "MU19",
+    "Finish Time": "0:26:00"
+  },
+  {
+    "Position": 18,
+    "Year": 2015,
+    "Name": "Gareth Hill",
+    "Club": "Ballymena & Antrim",
+    "Category": "MO",
+    "Finish Time": "0:26:07"
+  },
+  {
+    "Position": 19,
+    "Year": 2021,
+    "Name": "Thomas Moran",
+    "Club": "Dunshaughlan AC",
+    "Category": "MO",
+    "Finish Time": "0:26:09"
+  },
+  {
+    "Position": 20,
+    "Year": 2022,
+    "Name": "Peter Donnelly",
+    "Club": "North Belfast Harriers",
+    "Category": "MO",
+    "Finish Time": "0:26:16"
+  },
+  {
+    "Position": 21,
+    "Year": 2014,
+    "Name": "Stephen Prentice",
+    "Club": "Annadale Striders",
+    "Category": "MO",
+    "Finish Time": "0:26:23"
+  },
+  {
+    "Position": 22,
+    "Year": 2021,
+    "Name": "Michael Crawley",
+    "Club": "Strive Racing Club",
+    "Category": "MO",
+    "Finish Time": "0:26:31"
+  },
+  {
+    "Position": 23,
+    "Year": 2010,
+    "Name": "Noel Collins",
+    "Club": "Finn Valley",
+    "Category": "MO",
+    "Finish Time": "0:26:39"
+  },
+  {
+    "Position": 23,
+    "Year": 2014,
+    "Name": "Paul Barbour",
+    "Club": "Omagh Harriers",
+    "Category": "MO",
+    "Finish Time": "0:26:39"
+  },
+  {
+    "Position": 25,
+    "Year": 2023,
+    "Name": "Tristan Kelly",
+    "Club": "Finn Valley AC",
+    "Category": "MO",
+    "Finish Time": "0:26:40"
+  },
+  {
+    "Position": 26,
+    "Year": 2016,
+    "Name": "Emmett McGinty",
+    "Club": "City of Derry",
+    "Category": "MO",
+    "Finish Time": "0:26:44"
+  },
+  {
+    "Position": 27,
+    "Year": 2023,
+    "Name": "Ethan Dunn",
+    "Club": "Loughview",
+    "Category": "MO",
+    "Finish Time": "0:26:51"
+  },
+  {
+    "Position": 28,
+    "Year": 2017,
+    "Name": "Greg Roberts",
+    "Club": "",
+    "Category": "MO",
+    "Finish Time": "0:26:54"
+  },
+  {
+    "Position": 29,
+    "Year": 2018,
+    "Name": "Stephen Cassidy",
+    "Club": "Enniskillen Running Club",
+    "Category": "M35",
+    "Finish Time": "0:26:56"
+  },
+  {
+    "Position": 30,
+    "Year": 2022,
+    "Name": "Kyle Thompson",
+    "Club": "Loughview",
+    "Category": "MJ",
+    "Finish Time": "0:26:59"
+  },
+  {
+    "Position": 31,
+    "Year": 2012,
+    "Name": "James Speight",
+    "Club": "Finn Valley",
+    "Category": "MO",
+    "Finish Time": "0:27:01"
+  },
+  {
+    "Position": 31,
+    "Year": 2022,
+    "Name": "Colin Griffin",
+    "Club": "Ballinamore AC",
+    "Category": "M35",
+    "Finish Time": "0:27:01"
+  },
+  {
+    "Position": 33,
+    "Year": 2018,
+    "Name": "Eoin Hughes",
+    "Club": "Letterkenny Athletic Club",
+    "Category": "MJ",
+    "Finish Time": "0:27:04"
+  },
+  {
+    "Position": 34,
+    "Year": 2021,
+    "Name": "Johnny Canning",
+    "Club": "Foyle Valley AC",
+    "Category": "MO",
+    "Finish Time": "0:27:14"
+  },
+  {
+    "Position": 35,
+    "Year": 2024,
+    "Name": "Luke Donnelly",
+    "Club": "Carmen Runners",
+    "Category": "MO",
+    "Finish Time": "0:27:18"
+  },
+  {
+    "Position": 36,
+    "Year": 2019,
+    "Name": "Pius McIntyre",
+    "Club": "Foyle Valley AC",
+    "Category": "M35",
+    "Finish Time": "0:27:25"
+  },
+  {
+    "Position": 37,
+    "Year": 2021,
+    "Name": "Matthew McLaughlin",
+    "Club": "Foyle Valley AC",
+    "Category": "M40",
+    "Finish Time": "0:27:26"
+  },
+  {
+    "Position": 38,
+    "Year": 2019,
+    "Name": "Tommy Hughes",
+    "Club": "Termoneeny Running Club",
+    "Category": "M55",
+    "Finish Time": "0:27:27"
+  },
+  {
+    "Position": 39,
+    "Year": 2024,
+    "Name": "James Monaghan",
+    "Club": "",
+    "Category": "MO",
+    "Finish Time": "0:27:29"
+  },
+  {
+    "Position": 40,
+    "Year": 2015,
+    "Name": "Ciaran Collins",
+    "Club": "Carmen Runners",
+    "Category": "MO",
+    "Finish Time": "0:27:30"
+  },
+  {
+    "Position": 41,
+    "Year": 2019,
+    "Name": "Adrian Scullion",
+    "Club": "Knockmany Running Club",
+    "Category": "M35",
+    "Finish Time": "0:27:31"
+  },
+  {
+    "Position": 42,
+    "Year": 2023,
+    "Name": "Philip McHugh",
+    "Club": "Letterkenny AC",
+    "Category": "MO",
+    "Finish Time": "0:27:35"
+  },
+  {
+    "Position": 43,
+    "Year": 2018,
+    "Name": "Jarlath Hughes",
+    "Club": "Termoneeny RC",
+    "Category": "MJ",
+    "Finish Time": "0:27:36"
+  },
+  {
+    "Position": 44,
+    "Year": 2015,
+    "Name": "Noel Lagan",
+    "Club": "City of Derry",
+    "Category": "MO",
+    "Finish Time": "0:27:37"
+  },
+  {
+    "Position": 44,
+    "Year": 2024,
+    "Name": "Tristan Kelly",
+    "Club": "Finn Valley AC",
+    "Category": "MO",
+    "Finish Time": "0:27:37"
+  },
+  {
+    "Position": 46,
+    "Year": 2019,
+    "Name": "Enda McKaigue",
+    "Club": "Acorns AC",
+    "Category": "MO",
+    "Finish Time": "0:27:42"
+  },
+  {
+    "Position": 47,
+    "Year": 2021,
+    "Name": "Aidan O' Hagan",
+    "Club": "Strive Racing Club",
+    "Category": "M40",
+    "Finish Time": "0:27:43"
+  },
+  {
+    "Position": 48,
+    "Year": 2013,
+    "Name": "Ivan Toner",
+    "Club": "Letterkenny",
+    "Category": "M35",
+    "Finish Time": "0:27:44"
+  },
+  {
+    "Position": 49,
+    "Year": 2023,
+    "Name": "Matthew McCullagh",
+    "Club": "Birmingham run & tri",
+    "Category": "MO",
+    "Finish Time": "0:27:45"
+  },
+  {
+    "Position": 50,
+    "Year": 2012,
+    "Name": "Kris Muldoon",
+    "Club": "Armagh AC",
+    "Category": "MO",
+    "Finish Time": "0:27:51"
+  }
+]
