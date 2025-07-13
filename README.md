@@ -19,7 +19,7 @@ This website provides information about a local charity 5K race, including:
 ├── location.html         # Race location information
 ├── course.html           # Course details and map
 ├── results.html          # Complete race results
-├── fastest-50.html       # Top 50 fastest runners
+├── records.html          # Top 50 fastest runners & masters records
 ├── assets/
 │   ├── style.css         # CSS styles
 │   ├── results.json      # JSON data for full results
