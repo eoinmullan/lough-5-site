@@ -85,9 +85,12 @@ ul {
 
 /* Main section */
 .main-section {
-    height: 60vh;
+    height: 70vh;
     color: #fff;
     position: relative;
+    @media(max-width: 400px) {
+        height: 80vh;
+    }
 }
 
 .main-section .overlay {
@@ -195,6 +198,11 @@ ul {
     margin-bottom: 2rem;
     text-align: center;
     color: #555; /* Slightly darker text for better readability */
+}
+
+.card-section-text {
+    font-style: italic;
+    padding-top: 0.5rem;
 }
 
 /* Card styling */
@@ -454,6 +462,7 @@ table tr:hover {
         background-color: rgba(255, 202, 40, 0.2);
     }
 }
+
 @media (max-width: 870px) {
     table th:nth-child(2),
     table th:nth-child(6),
@@ -464,6 +473,7 @@ table tr:hover {
         display: none;
     }
 }
+
 @media (max-width: 600px) {
     table th:nth-child(4),
     table th:nth-child(7),
