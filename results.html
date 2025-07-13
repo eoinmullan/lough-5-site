@@ -24,6 +24,7 @@
   <section class="section">
     <div class="container" x-data="resultsApp()">
       <h2 class="section-title"><span x-text="selectedYear"></span> Results</h2>
+      <p class="card-section-text" x-show="selectedYear === '2020'">Note, the 2020 race was virtual because of COVID</p>
       <div class="card">
         <div class="search-container">
           <div class="filter-row">
@@ -66,7 +67,7 @@
                 <span class="detail-label">Position:</span>
                 <span class="detail-value" x-text="selectedRunner.position"></span>
               </div>
-              <div class="runner-detail">
+              <div class="runner-detail" x-show="showBibNumber">
                 <span class="detail-label">Bib Number:</span>
                 <span class="detail-value" x-text="selectedRunner.bib"></span>
               </div>
@@ -90,7 +91,7 @@
                 <span class="detail-label">Chip Time:</span>
                 <span class="detail-value" x-text="selectedRunner.chip_time"></span>
               </div>
-              <div class="runner-detail">
+              <div class="runner-detail" x-show="showGunTime">
                 <span class="detail-label">Gun Time:</span>
                 <span class="detail-value" x-text="selectedRunner.gun_time"></span>
               </div>
@@ -106,28 +107,28 @@
             <thead>
               <tr>
                 <th>Pos.</th>
-                <th>Bib</th>
+                <th x-show="showBibNumber">Bib</th>
                 <th>Name</th>
                 <th>Cat.</th>
                 <th>Club</th>
                 <th x-show="showTwoMiles">2 Miles</th>
                 <th x-show="showLapOfLough">Lap of Lough</th>
                 <th x-show="showChipTime">Chip Time</th>
-                <th>Gun Time</th>
+                <th x-show="showGunTime">Gun Time</th>
               </tr>
             </thead>
             <tbody>
               <template x-for="runner in filteredResults" :key="runner.position">
                 <tr @click="showRunnerDetails(runner)">
                   <td data-label="Pos." x-text="runner.position"></td>
-                  <td data-label="Bib" x-text="runner.bib"></td>
+                  <td data-label="Bib" x-show="showBibNumber" x-text="runner.bib"></td>
                   <td data-label="Name" x-text="runner.name"></td>
                   <td data-label="Cat." x-text="runner.age_group"></td>
                   <td data-label="Club" x-text="runner.club"></td>
                   <td data-label="2 Miles" x-show="showTwoMiles" x-text="runner.two_miles"></td>
                   <td data-label="Lap of Lough" x-show="showLapOfLough" x-text="runner.lap_of_lough"></td>
                   <td data-label="Chip Time" x-show="showChipTime" x-text="runner.chip_time"></td>
-                  <td data-label="Gun Time" x-text="runner.gun_time"></td>
+                  <td data-label="Gun Time" x-show="showGunTime" x-text="runner.gun_time"></td>
                 </tr>
               </template>
             </tbody>
@@ -169,6 +170,10 @@
           this.isMobileView = window.innerWidth < 1000;
         },
 
+        get showBibNumber() {
+          return !['2020'].includes(this.selectedYear);
+        },
+
         get showLapOfLough() {
           return !['2020', '2016', '2014', '2009'].includes(this.selectedYear);
         },
@@ -178,7 +183,11 @@
         },
 
         get showChipTime() {
-          return !['2020', '2014', '2009'].includes(this.selectedYear);
+          return !['2014', '2009'].includes(this.selectedYear);
+        },
+
+        get showGunTime() {
+          return !['2020'].includes(this.selectedYear);
         },
 
         // Show runner details in modal (for displays under 1000px width)
@@ -204,7 +213,7 @@
                   two_miles: this.showTwoMiles ? runner["2 Miles"] || '' : null,
                   lap_of_lough: this.showLapOfLough ? runner["Lap of Lough"] || '' : null,
                   chip_time: this.showChipTime ? runner["Chip Time"] || '' : null,
-                  gun_time: runner["Gun Time"] || '',
+                  gun_time: this.showGunTime ? runner["Gun Time"] || '' : null,
                 };
               }).filter(runner => runner !== null);
             })
