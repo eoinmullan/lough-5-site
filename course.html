@@ -23,15 +23,22 @@
 
   <section class="section course-section">
     <div class="container">
-      <iframe class="course-iframe"
+      <iframe id="course-map" 
+              class="course-iframe"
               width="100%"
               height="100%"
               frameborder="0"
               style="border:0"
-              src="https://www.plotaroute.com/embedmap/332770?maptype=paths"
               allowfullscreen>
       </iframe>
     </div>
   </section>
+
+  <script>
+    // Add a 20ms delay before loading the iframe
+    setTimeout(function() {
+      document.getElementById('course-map').src = "https://www.plotaroute.com/embedmap/332770?maptype=paths";
+    }, 0);
+  </script>
 </body>
 </html>
