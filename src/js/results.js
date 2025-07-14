@@ -38,11 +38,11 @@ export function resultsApp() {
     },
 
     get showChipTime() {
-      return !['2014', '2009'].includes(this.selectedYear);
+      return ![].includes(this.selectedYear);
     },
 
     get showGunTime() {
-      return !['2020'].includes(this.selectedYear);
+      return !['2020', '2014', '2009'].includes(this.selectedYear);
     },
 
     // Show runner details in modal (for displays under 1000px width)
