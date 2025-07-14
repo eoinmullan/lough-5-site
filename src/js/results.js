@@ -8,16 +8,66 @@ export function resultsApp() {
     isMobileView: false,
 
     init() {
+      // Read URL parameters on page load
+      this.readUrlParams();
+
       this.loadResultsForYear();
       this.checkViewportWidth();
 
       // Watch for changes to the selected year
       this.$watch('selectedYear', () => {
         this.loadResultsForYear();
+        this.updateUrlParams();
+      });
+
+      // Watch for changes to the search term
+      this.$watch('searchTerm', () => {
+        this.updateUrlParams();
       });
 
       // Check viewport width on resize
       window.addEventListener('resize', this.checkViewportWidth);
+    },
+
+    // Read year and search parameters from URL
+    readUrlParams() {
+      const urlParams = new URLSearchParams(window.location.search);
+
+      // Set selectedYear from URL parameter if it exists
+      const yearParam = urlParams.get('year');
+      if (yearParam && ['2024', '2023', '2022', '2021', '2020', '2019', '2018', 
+                        '2017', '2016', '2015', '2014', '2013', '2012', '2011', 
+                        '2010', '2009'].includes(yearParam)) {
+        this.selectedYear = yearParam;
+      }
+
+      // Set searchTerm from URL parameter if it exists
+      const searchParam = urlParams.get('search');
+      if (searchParam) {
+        this.searchTerm = searchParam;
+      }
+    },
+
+    // Update URL parameters based on current state
+    updateUrlParams() {
+      const urlParams = new URLSearchParams();
+
+      // Add year parameter if not the default
+      if (this.selectedYear !== '2024') {
+        urlParams.set('year', this.selectedYear);
+      }
+
+      // Add search parameter if not empty
+      if (this.searchTerm.trim()) {
+        urlParams.set('search', this.searchTerm);
+      }
+
+      // Update URL without reloading the page
+      const newUrl = urlParams.toString() 
+        ? `${window.location.pathname}?${urlParams.toString()}` 
+        : window.location.pathname;
+
+      window.history.replaceState({}, '', newUrl);
     },
 
     // Check if we're in mobile view (less than 1000px)
