@@ -6,3 +6,4 @@ coverage/
 .tmp/
 dist/
 .git-credentials
+assets/js/bundle.js
