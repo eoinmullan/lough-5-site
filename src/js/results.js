@@ -6,6 +6,7 @@ export function resultsApp() {
     showModal: false,
     selectedRunner: {},
     isMobileView: false,
+    isLoading: true,
 
     init() {
       // Read URL parameters on page load
@@ -104,6 +105,7 @@ export function resultsApp() {
     },
 
     loadResultsForYear() {
+      this.isLoading = true;
       fetch(`assets/results/${this.selectedYear}.json`)
         .then(response => response.json())
         .then(data => {
@@ -121,10 +123,12 @@ export function resultsApp() {
               gun_time: this.showGunTime ? runner["Gun Time"] || '' : null,
             };
           }).filter(runner => runner !== null);
+          this.isLoading = false;
         })
         .catch(error => {
           console.error(`Error loading results for ${this.selectedYear}:`, error);
           this.results = [];
+          this.isLoading = false;
         });
     },
 

@@ -6,6 +6,7 @@ export function recordsApp() {
     showModal: false,
     selectedRunner: {},
     isMobileView: false,
+    isLoading: true,
 
     init() {
       // Check URL parameters for category
@@ -55,6 +56,7 @@ export function recordsApp() {
     },
 
     loadRecordsForCategory() {
+      this.isLoading = true;
       let filename = '';
 
       // Determine which file to load based on the selected category
@@ -82,10 +84,12 @@ export function recordsApp() {
               finish_time: record["Finish Time"] || '',
             };
           }).filter(record => record !== null);
+          this.isLoading = false;
         })
         .catch(error => {
           console.error(`Error loading records for ${this.selectedCategory}:`, error);
           this.results = [];
+          this.isLoading = false;
         });
     },
 

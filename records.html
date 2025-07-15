@@ -81,7 +81,12 @@
           </div>
         </div>
 
-        <div class="table-container records-table">
+        <div x-show="isLoading" class="loading-spinner-container">
+          <div class="loading-spinner"></div>
+          <p>Loading records...</p>
+        </div>
+
+        <div x-show="!isLoading" class="table-container records-table">
           <table>
             <thead>
               <tr>
@@ -112,7 +117,7 @@
           </table>
         </div>
 
-        <div x-show="filteredResults.length === 0" style="text-align: center; padding: 20px;">
+        <div x-show="!isLoading && filteredResults.length === 0" style="text-align: center; padding: 20px;">
           <p>No records found. Try a different search.</p>
         </div>
       </div>
