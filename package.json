@@ -6,7 +6,8 @@
   "scripts": {
     "start": "serve dist",
     "build": "mkdir -p dist/assets/js && cp -r index.html location.html course.html results.html records.html assets dist/ && npx esbuild src/js/main.js --bundle --minify --outfile=dist/assets/js/bundle.js",
-    "dev": "npx esbuild src/js/main.js --bundle --watch --outfile=assets/js/bundle.js & browser-sync start --server --files '**/*'",
+    "dev-js": "npx esbuild src/js/main.js --bundle --watch --outfile=assets/js/bundle.js",
+    "dev": "browser-sync start --server --files '**/*'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

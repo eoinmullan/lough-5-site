@@ -79,6 +79,7 @@ This website provides information about the Lough 5 Road Race, including:
 To run the development server with live reloading:
 
 ```
+npm run dev-js
 npm run dev
 ```
 
