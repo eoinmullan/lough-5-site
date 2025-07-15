@@ -37,7 +37,7 @@ ul {
     margin: 0 auto;
     padding: 0 2rem;
     overflow: hidden;
-    background-color: rgba(255, 250, 240, 0.85); /* Very subtle amber tint with lower opacity */
+    background-color: rgba(255, 250, 240, 0.7); /* Very subtle amber tint with lower opacity */
     border-radius: 5px;
     border-left: 2px solid rgba(255, 202, 40, 0.6); /* Thinner, more transparent amber accent border */
 }
