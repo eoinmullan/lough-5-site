@@ -97,6 +97,10 @@ This will create a `dist` directory with all the necessary files for deployment.
 2. Copies all HTML files and assets to the dist directory
 3. Bundles and minifies all JavaScript files into a single bundle.js file using esbuild
 
+### Deploying to Production
+
+aws s3 sync dist/ s3://<bucket-name>/ --acl public-read --cache-control max-age=3600 --profile <profile-name> --delete
+
 ### Serving the Production Build
 
 To serve the production build locally:
