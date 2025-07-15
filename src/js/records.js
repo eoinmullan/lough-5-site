@@ -8,12 +8,29 @@ export function recordsApp() {
     isMobileView: false,
 
     init() {
+      // Check URL parameters for category
+      const urlParams = new URLSearchParams(window.location.search);
+      const categoryParam = urlParams.get('category');
+
+      // Set the category from URL parameter if it exists and is valid
+      if (categoryParam) {
+        const validCategories = ['Fastest 50 Male', 'Fastest 50 Female', 'Masters Records'];
+        if (validCategories.includes(categoryParam)) {
+          this.selectedCategory = categoryParam;
+        }
+      }
+
       this.loadRecordsForCategory();
       this.checkViewportWidth();
 
       // Watch for changes to the selected category
       this.$watch('selectedCategory', () => {
         this.loadRecordsForCategory();
+
+        // Update URL when category changes
+        const url = new URL(window.location);
+        url.searchParams.set('category', this.selectedCategory);
+        window.history.pushState({}, '', url);
       });
 
       // Check viewport width on resize
