@@ -165,8 +165,7 @@ async function findFastestTimes() {
           return;
         }
 
-        // Use only Gun Time as per requirements
-        const timeStr = runner["Gun Time"];
+        const timeStr = runner["Chip Time"];
         if (!timeStr) return;
 
         const timeInSeconds = timeToSeconds(timeStr);

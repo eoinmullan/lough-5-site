@@ -21,7 +21,7 @@
     "Name": "Natasha Adams",
     "Club": "Letterkenny AC",
     "Category": "F45",
-    "Finish Time": "0:28:18"
+    "Finish Time": "0:28:16"
   },
   {
     "Position": 4,
@@ -29,7 +29,7 @@
     "Name": "Karen Wilton",
     "Club": "Jog Lisburn",
     "Category": "F50",
-    "Finish Time": "0:32:16"
+    "Finish Time": "0:32:12"
   },
   {
     "Position": 5,
@@ -37,7 +37,7 @@
     "Name": "Irene Clements",
     "Club": "1ZERO1",
     "Category": "F55",
-    "Finish Time": "0:35:38"
+    "Finish Time": "0:35:34"
   },
   {
     "Position": 6,
@@ -45,7 +45,7 @@
     "Name": "Irene Clements",
     "Club": "Clones AC",
     "Category": "F60",
-    "Finish Time": "0:33:45"
+    "Finish Time": "0:33:42"
   },
   {
     "Position": 7,
@@ -61,7 +61,7 @@
     "Name": "Roisin Doyle",
     "Club": "Pace",
     "Category": "F70",
-    "Finish Time": "0:55:59"
+    "Finish Time": "0:54:50"
   },
   {
     "Position": 9,
@@ -69,7 +69,7 @@
     "Name": "Brigid Quinn",
     "Club": "Ballymena Running Club",
     "Category": "F75",
-    "Finish Time": "0:48:37"
+    "Finish Time": "0:48:08"
   },
   {
     "Position": 10,
@@ -77,6 +77,6 @@
     "Name": "Brigid Quinn",
     "Club": "Ballymena Runners",
     "Category": "F80",
-    "Finish Time": "1:00:59"
+    "Finish Time": "1:00:02"
   }
 ]
