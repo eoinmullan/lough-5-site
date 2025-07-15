@@ -83,6 +83,7 @@
           <table>
             <thead>
               <tr>
+                <th></th>
                 <th>Pos.</th>
                 <th>Year</th>
                 <th>Name</th>
@@ -94,6 +95,7 @@
             <tbody>
               <template x-for="runner in filteredResults">
                 <tr @click="showRunnerDetails(runner)">
+                  <td class="chevron-cell" x-show="isMobileView"><span class="right-chevron">›</span></td>
                   <td data-label="Pos." x-text="runner.position"></td>
                   <td data-label="Year" x-text="runner.year"></td>
                   <td data-label="Name" x-text="runner.name"></td>

@@ -68,7 +68,7 @@ ul {
     color: #fff;
     padding: 0.45rem;
     margin: 0 0.25rem;
-    @media(max-width: 385px) {
+    @media (max-width: 385px) {
         padding: 0.35rem;
         margin: 0 0.15rem;
     }
@@ -330,10 +330,10 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 1rem;
-    @media (max-width: 400px) {
+    @media (max-width: 420px) {
         font-size: 0.9rem;
     }
-    @media (max-width: 370px) {
+    @media (max-width: 400px) {
         font-size: 0.85rem;
     }
 }
@@ -342,6 +342,13 @@ table th, table td {
     padding: 0.75rem;
     text-align: left;
     border-bottom: 1px solid #ddd;
+
+    @media (max-width: 640px) {
+        padding: 0.5rem 0.2rem;
+    }
+    @media (max-width: 400px) {
+        padding: 0.5rem 0.1rem;
+    }
 }
 
 table th {
@@ -507,45 +514,69 @@ table tr:hover {
 
 /* Hide table columns for small screens */
 .results-table {
+    @media (min-width: 870px) {
+        table th:nth-child(1),
+        table td:nth-child(1) {
+            display: none;
+        }
+    }
     @media (max-width: 1000px) {
-        table th:nth-child(6),
-        table td:nth-child(6) {
+        table th:nth-child(7),
+        table td:nth-child(7) {
             display: none;
         }
     }
     @media (max-width: 870px) {
-        table th:nth-child(2),
-        table th:nth-child(6),
-        table th:nth-child(9),
-        table td:nth-child(2),
-        table td:nth-child(6),
-        table td:nth-child(9) {
+        table th:nth-child(3),
+        table th:nth-child(10),
+        table td:nth-child(3),
+        table td:nth-child(10) {
             display: none;
         }
     }
     @media (max-width: 600px) {
-        table th:nth-child(4),
-        table th:nth-child(7),
-        table td:nth-child(4),
-        table td:nth-child(7) {
+        table th:nth-child(5),
+        table th:nth-child(8),
+        table td:nth-child(5),
+        table td:nth-child(8) {
             display: none;
         }
     }
 }
 
 .records-table {
+    @media (min-width: 600px) {
+        table th:nth-child(1),
+        table td:nth-child(1) {
+            display: none;
+        }
+    }
+
     @media (max-width: 600px) {
+        table th:nth-child(6),
+        table td:nth-child(6) {
+            display: none;
+        }
+    }
+    @media (max-width: 500px) {
         table th:nth-child(5),
         table td:nth-child(5) {
             display: none;
         }
     }
-    @media (max-width: 500px) {
-        table th:nth-child(4),
-        table td:nth-child(4) {
-            display: none;
-        }
-    }
+}
+
+/* Chevron for touch devices */
+.chevron-cell {
+    width: 30px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.right-chevron {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--primary-color);
 }
 
 /* Responsive */
@@ -611,10 +642,6 @@ table tr:hover {
 
     .year-dropdown, .search-input {
         padding: 0.6rem; /* Reduced input padding */
-    }
-
-    table th, table td {
-        padding: 0.5rem 0.3rem; /* Reduced table cell padding */
     }
 
     /* Reduce border widths */
