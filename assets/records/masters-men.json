@@ -1,0 +1,74 @@
+[
+  {
+    "Position": 1,
+    "Year": 2012,
+    "Name": "Keith Shiels",
+    "Club": "Foyle Valley",
+    "Category": "M35",
+    "Finish Time": "0:25:50"
+  },
+  {
+    "Position": 2,
+    "Year": 2022,
+    "Name": "Colin Griffin",
+    "Club": "Ballinamore ac",
+    "Category": "M40",
+    "Finish Time": "0:27:01"
+  },
+  {
+    "Position": 3,
+    "Year": 2015,
+    "Name": "Paul McCafferty",
+    "Club": "City of Derry",
+    "Category": "M45",
+    "Finish Time": "0:28:08"
+  },
+  {
+    "Position": 4,
+    "Year": 2023,
+    "Name": "Stephen Duncan",
+    "Club": "Omagh Harriers",
+    "Category": "M50",
+    "Finish Time": "0:27:57"
+  },
+  {
+    "Position": 5,
+    "Year": 2019,
+    "Name": "Tommy Hughes",
+    "Club": "Termoneeny Running Club",
+    "Category": "M55",
+    "Finish Time": "0:27:27"
+  },
+  {
+    "Position": 6,
+    "Year": 2021,
+    "Name": "Tommy Hughes",
+    "Club": "Strive Racing Club",
+    "Category": "M60",
+    "Finish Time": "0:27:31"
+  },
+  {
+    "Position": 7,
+    "Year": 2023,
+    "Name": "Peter O'Hara",
+    "Club": "Flying Machine",
+    "Category": "M65",
+    "Finish Time": "0:34:25"
+  },
+  {
+    "Position": 8,
+    "Year": 2022,
+    "Name": "Brian McBride",
+    "Club": "Letterkenny AC",
+    "Category": "M70",
+    "Finish Time": "0:37:19"
+  },
+  {
+    "Position": 9,
+    "Year": 2024,
+    "Name": "O'Driscoll, Pat",
+    "Club": "North Down AC",
+    "Category": "M75",
+    "Finish Time": "0:59:42"
+  }
+]

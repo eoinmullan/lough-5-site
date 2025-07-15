@@ -30,6 +30,8 @@
             <select x-model="selectedCategory" class="records-dropdown">
               <option value="Fastest 50 Male">Fastest 50 Male</option>
               <option value="Fastest 50 Female">Fastest 50 Female</option>
+              <option value="Masters Men">Masters Men</option>
+              <option value="Masters Women">Masters Women</option>
             </select>
             <input
               type="text"
@@ -84,11 +86,12 @@
             <thead>
               <tr>
                 <th></th>
-                <th>Pos.</th>
+                <th x-show="isMastersRecords">Cat</th>
+                <th x-show="!isMastersRecords">Pos.</th>
                 <th>Year</th>
                 <th>Name</th>
                 <th>Club</th>
-                <th>Cat.</th>
+                <th x-show="!isMastersRecords">Cat.</th>
                 <th>Finish Time</th>
               </tr>
             </thead>
@@ -96,11 +99,12 @@
               <template x-for="runner in filteredResults">
                 <tr @click="showRunnerDetails(runner)">
                   <td class="chevron-cell" x-show="isMobileView"><span class="right-chevron">›</span></td>
-                  <td data-label="Pos." x-text="runner.position"></td>
+                  <td data-label="Cat." x-show="isMastersRecords" x-text="runner.category"></td>
+                  <td data-label="Pos." x-show="!isMastersRecords" x-text="runner.position"></td>
                   <td data-label="Year" x-text="runner.year"></td>
                   <td data-label="Name" x-text="runner.name"></td>
                   <td data-label="Club" x-text="runner.club"></td>
-                  <td data-label="Cat." x-text="runner.category"></td>
+                  <td data-label="Cat." x-show="!isMastersRecords" x-text="runner.category"></td>
                   <td data-label="Finish Time" x-text="runner.finish_time"></td>
                 </tr>
               </template>

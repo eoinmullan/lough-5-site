@@ -14,7 +14,7 @@ export function recordsApp() {
 
       // Set the category from URL parameter if it exists and is valid
       if (categoryParam) {
-        const validCategories = ['Fastest 50 Male', 'Fastest 50 Female', 'Masters Records'];
+        const validCategories = ['Fastest 50 Male', 'Fastest 50 Female', 'Masters Men', 'Masters Women'];
         if (validCategories.includes(categoryParam)) {
           this.selectedCategory = categoryParam;
         }
@@ -50,6 +50,10 @@ export function recordsApp() {
       }
     },
 
+    get isMastersRecords() {
+      return ['Masters Men', 'Masters Women'].includes(this.selectedCategory);
+    },
+
     loadRecordsForCategory() {
       let filename = '';
 
@@ -58,8 +62,10 @@ export function recordsApp() {
         filename = 'fastest-50-male.json';
       } else if (this.selectedCategory === 'Fastest 50 Female') {
         filename = 'fastest-50-female.json';
-      } else if (this.selectedCategory === 'Masters Records') {
-        filename = 'masters-records.json';
+      } else if (this.selectedCategory === 'Masters Men') {
+        filename = 'masters-men.json';
+      } else if (this.selectedCategory === 'Masters Women') {
+        filename = 'masters-women.json';
       }
 
       fetch(`assets/records/${filename}`)

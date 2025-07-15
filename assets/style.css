@@ -547,14 +547,14 @@ table tr:hover {
     }
 
     @media (max-width: 600px) {
-        table th:nth-child(6),
-        table td:nth-child(6) {
+        table th:nth-child(7),
+        table td:nth-child(7) {
             display: none;
         }
     }
-    @media (max-width: 500px) {
-        table th:nth-child(5),
-        table td:nth-child(5) {
+    @media (max-width: 530px) {
+        table th:nth-child(6),
+        table td:nth-child(6) {
             display: none;
         }
     }

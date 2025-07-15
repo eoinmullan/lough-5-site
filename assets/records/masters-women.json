@@ -1,0 +1,82 @@
+[
+  {
+    "Position": 1,
+    "Year": 2011,
+    "Name": "Cathy McCourt",
+    "Club": "North Belfast Harriers",
+    "Category": "F35",
+    "Finish Time": "0:30:46"
+  },
+  {
+    "Position": 2,
+    "Year": 2013,
+    "Name": "Cathy McCourt",
+    "Club": "North Belfast Harriers",
+    "Category": "F40",
+    "Finish Time": "0:30:15"
+  },
+  {
+    "Position": 3,
+    "Year": 2012,
+    "Name": "Donna Evans",
+    "Club": "Monaghan Phoenix",
+    "Category": "F45",
+    "Finish Time": "0:31:21"
+  },
+  {
+    "Position": 4,
+    "Year": 2024,
+    "Name": "Karen Wilton",
+    "Club": "Jog Lisburn",
+    "Category": "F50",
+    "Finish Time": "0:32:16"
+  },
+  {
+    "Position": 5,
+    "Year": 2018,
+    "Name": "Irene Clements",
+    "Club": "1ZERO1",
+    "Category": "F55",
+    "Finish Time": "0:35:38"
+  },
+  {
+    "Position": 6,
+    "Year": 2021,
+    "Name": "Irene Clements",
+    "Club": "Clones AC",
+    "Category": "F60",
+    "Finish Time": "0:33:45"
+  },
+  {
+    "Position": 7,
+    "Year": 2013,
+    "Name": "Bridgid Quinn",
+    "Club": "Ballymena Runners",
+    "Category": "F65",
+    "Finish Time": "0:41:10"
+  },
+  {
+    "Position": 8,
+    "Year": 2023,
+    "Name": "Roisin Doyle",
+    "Club": "Pace",
+    "Category": "F70",
+    "Finish Time": "0:55:59"
+  },
+  {
+    "Position": 9,
+    "Year": 2021,
+    "Name": "Brigid Quinn",
+    "Club": "Ballymena Running Club",
+    "Category": "F75",
+    "Finish Time": "0:48:37"
+  },
+  {
+    "Position": 10,
+    "Year": 2024,
+    "Name": "Quinn, Brigid",
+    "Club": "Ballymena Runners",
+    "Category": "F80",
+    "Finish Time": "1:00:59"
+  }
+]
