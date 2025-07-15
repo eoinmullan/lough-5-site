@@ -11,6 +11,8 @@ const path = require('path');
 
 // Path to results directory
 const resultsDir = path.join(__dirname, '..', 'assets', 'results');
+// Path to missing masters times CSV file
+const missingTimesPath = path.join(__dirname, 'missing-masters-times.csv');
 
 // Function to convert time string to seconds
 function timeToSeconds(timeStr) {
@@ -44,6 +46,23 @@ function secondsToTime(seconds) {
 
   // Always use H:MM:SS format
   return `${hours}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+}
+
+// Function to parse CSV data
+function parseCSV(csvData) {
+  const lines = csvData.split('\n');
+  const headers = lines[0].split(',');
+
+  return lines.slice(1).filter(line => line.trim()).map(line => {
+    const values = line.split(',');
+    const record = {};
+
+    headers.forEach((header, index) => {
+      record[header] = values[index];
+    });
+
+    return record;
+  });
 }
 
 // Function to normalize category names for consistent capitalization
@@ -166,6 +185,43 @@ async function findFastestTimes() {
           };
         }
       });
+    }
+
+    // Process missing masters times from CSV file
+    console.log('Processing missing masters times from CSV file...');
+    if (fs.existsSync(missingTimesPath)) {
+      const csvData = fs.readFileSync(missingTimesPath, 'utf8');
+      const missingTimes = parseCSV(csvData);
+
+      missingTimes.forEach(runner => {
+        const category = normalizeCategory(runner.Category);
+
+        // Check if this is one of our target categories
+        if (!targetAges.some(age => category === `M${age}` || category === `F${age}`)) {
+          return;
+        }
+
+        const timeStr = runner["Finish Time"];
+        if (!timeStr) return;
+
+        const timeInSeconds = timeToSeconds(timeStr);
+
+        // Determine which collection to use based on gender
+        const collection = category.startsWith('M') ? fastestTimesMale : fastestTimesFemale;
+
+        // Update if this is the fastest time for the category
+        if (timeInSeconds < collection[category].time) {
+          collection[category] = {
+            time: timeInSeconds,
+            timeStr: secondsToTime(timeInSeconds), // Use consistent H:MM:SS format
+            runner: runner.Name,
+            club: runner.Club || '',
+            year: runner.Year
+          };
+        }
+      });
+    } else {
+      console.log('Missing masters times CSV file not found.');
     }
 
     // Create separate arrays for male and female records
