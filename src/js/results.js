@@ -47,8 +47,8 @@ export function resultsApp() {
         const oneYearInMilliseconds = 365 * 24 * 60 * 60 * 1000; // 365 days in milliseconds
 
         // Show popup if it's never been dismissed or if it's been more than a year
-        const shouldShowPopup = !popupDismissedTimestamp || 
-                               (currentTime - parseInt(popupDismissedTimestamp) > oneYearInMilliseconds);
+        const shouldShowPopup = !popupDismissedTimestamp ||
+          (currentTime - parseInt(popupDismissedTimestamp) > oneYearInMilliseconds);
 
         if (shouldShowPopup) {
           // Show the popup after a short delay
@@ -142,10 +142,6 @@ export function resultsApp() {
       return ['2014', '2013', '2012', '2011', '2010'].includes(this.selectedYear);
     },
 
-    get showChipTime() {
-      return ![].includes(this.selectedYear);
-    },
-
     get showGunTime() {
       return !['2020', '2014', '2009'].includes(this.selectedYear);
     },
@@ -173,7 +169,7 @@ export function resultsApp() {
               club: runner.Club || '',
               two_miles: this.showTwoMiles ? runner["2 Miles"] || '' : null,
               lap_of_lough: this.showLapOfLough ? runner["Lap of Lough"] || '' : null,
-              chip_time: this.showChipTime ? runner["Chip Time"] || '' : null,
+              chip_time: runner["Chip Time"] || '',
               gun_time: this.showGunTime ? runner["Gun Time"] || '' : null,
             };
           }).filter(runner => runner !== null);

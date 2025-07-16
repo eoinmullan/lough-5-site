@@ -87,7 +87,7 @@
                 <span class="detail-label">Lap of Lough:</span>
                 <span class="detail-value" x-text="selectedRunner.lap_of_lough"></span>
               </div>
-              <div class="runner-detail" x-show="showChipTime">
+              <div class="runner-detail">
                 <span class="detail-label">Chip Time:</span>
                 <span class="detail-value" x-text="selectedRunner.chip_time"></span>
               </div>
@@ -119,7 +119,7 @@
                 <th>Club</th>
                 <th x-show="showTwoMiles">2 Miles</th>
                 <th x-show="showLapOfLough">Lap of Lough</th>
-                <th x-show="showChipTime">Chip Time</th>
+                <th>Chip Time</th>
                 <th x-show="showGunTime">Gun Time</th>
               </tr>
             </thead>
@@ -134,7 +134,7 @@
                   <td data-label="Club" x-text="runner.club"></td>
                   <td data-label="2 Miles" x-show="showTwoMiles" x-text="runner.two_miles"></td>
                   <td data-label="Lap of Lough" x-show="showLapOfLough" x-text="runner.lap_of_lough"></td>
-                  <td data-label="Chip Time" x-show="showChipTime" x-text="runner.chip_time"></td>
+                  <td data-label="Chip Time" x-text="runner.chip_time"></td>
                   <td data-label="Gun Time" x-show="showGunTime" x-text="runner.gun_time"></td>
                 </tr>
               </template>
