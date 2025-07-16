@@ -604,6 +604,47 @@ table tr:hover {
     }
 }
 
+/* Popup Notification */
+.popup-notification {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--dark-color);
+    color: #fff;
+    padding: 1rem;
+    z-index: 900;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(100%);
+    transition: transform 0.3s ease-in-out;
+    border-top: 2px solid rgba(255, 202, 40, 0.6);
+}
+
+.popup-notification.show {
+    transform: translateY(0);
+}
+
+.popup-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+    margin: 0 0.5rem;
+}
+
+.popup-notification p {
+    margin: 0;
+    padding: 0 1rem;
+}
+
+.popup-notification .btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
 /* Responsive */
 @media (max-width: 1000px) {
     /* Make table rows clickable on mobile */

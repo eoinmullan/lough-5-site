@@ -7,6 +7,8 @@ export function resultsApp() {
     selectedRunner: {},
     isMobileView: false,
     isLoading: true,
+    showPopupNotification: false,
+    popupTimer: null,
 
     init() {
       // Read URL parameters on page load
@@ -28,6 +30,52 @@ export function resultsApp() {
 
       // Check viewport width on resize
       window.addEventListener('resize', this.checkViewportWidth);
+
+      // Check if we should show the popup notification
+      this.$nextTick(() => {
+        this.checkPopupNotification();
+      });
+    },
+
+    // Check if we should show the popup notification
+    checkPopupNotification() {
+      // Only show the popup on mobile view
+      if (this.isMobileView) {
+        // Check if the user has already dismissed the popup
+        const popupDismissedTimestamp = localStorage.getItem('popupDismissed');
+        const currentTime = Date.now();
+        const oneYearInMilliseconds = 365 * 24 * 60 * 60 * 1000; // 365 days in milliseconds
+
+        // Show popup if it's never been dismissed or if it's been more than a year
+        const shouldShowPopup = !popupDismissedTimestamp || 
+                               (currentTime - parseInt(popupDismissedTimestamp) > oneYearInMilliseconds);
+
+        if (shouldShowPopup) {
+          // Show the popup after a short delay
+          setTimeout(() => {
+            this.showPopupNotification = true;
+
+            // Auto-hide the popup after 15 seconds
+            this.popupTimer = setTimeout(() => {
+              this.dismissPopupNotification();
+            }, 15000);
+          }, 1500);
+        }
+      }
+    },
+
+    // Dismiss the popup notification
+    dismissPopupNotification() {
+      this.showPopupNotification = false;
+
+      // Clear the auto-hide timer if it exists
+      if (this.popupTimer) {
+        clearTimeout(this.popupTimer);
+        this.popupTimer = null;
+      }
+
+      // Remember when the user dismissed the popup by storing the current timestamp
+      localStorage.setItem('popupDismissed', Date.now().toString());
     },
 
     // Read year and search parameters from URL
@@ -73,7 +121,13 @@ export function resultsApp() {
 
     // Check if we're in mobile view (less than 1000px)
     checkViewportWidth() {
+      const wasMobileView = this.isMobileView;
       this.isMobileView = window.innerWidth < 1000;
+
+      // If we've switched to mobile view, check if we should show the popup
+      if (!wasMobileView && this.isMobileView) {
+        this.checkPopupNotification();
+      }
     },
 
     get showBibNumber() {
