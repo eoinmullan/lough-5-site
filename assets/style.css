@@ -645,6 +645,10 @@ table tr:hover {
     white-space: nowrap;
 }
 
+.popup-notification .right-chevron {
+    padding-right: 0.725rem;
+}
+
 /* Responsive */
 @media (max-width: 1000px) {
     /* Make table rows clickable on mobile */
