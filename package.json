@@ -8,7 +8,11 @@
     "build": "mkdir -p dist/assets/js && cp -r index.html location.html course.html results.html records.html assets dist/ && npx esbuild src/js/main.js --bundle --minify --outfile=dist/assets/js/bundle.js",
     "dev-js": "npx esbuild src/js/main.js --bundle --watch --outfile=assets/js/bundle.js",
     "dev": "browser-sync start --server --files '**/*'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run",
+    "test:open": "cypress open",
+    "test:headed": "cypress run --headed",
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox"
   },
   "keywords": [
     "charity",
@@ -21,6 +25,7 @@
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.29.3",
+    "cypress": "^15.5.0",
     "esbuild": "^0.19.5",
     "serve": "^14.2.1"
   },

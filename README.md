@@ -205,13 +205,39 @@ This is only present during development and is not included in the production bu
 
 ### Testing
 
-The project includes Cypress for end-to-end testing. Test files are located in the `cypress/` directory.
+The project includes a comprehensive Cypress e2e test suite with smoke tests for all pages. Test files are located in the `cypress/e2e/` directory.
+
+**Running Tests:**
+
+The development server must be running before executing tests. In a separate terminal, start the dev server:
 
 ```bash
-npm test
+npm run dev
 ```
 
-**Note**: Test suite is currently not fully implemented.
+Then run the tests:
+
+```bash
+# Run all tests in headless mode (CI-friendly)
+npm test
+
+# Open Cypress Test Runner (interactive mode)
+npm run test:open
+
+# Run tests with browser visible
+npm run test:headed
+
+# Run tests in specific browsers
+npm run test:chrome
+npm run test:firefox
+```
+
+**Test Coverage:**
+
+- **home.cy.js** - Home page smoke tests (navigation, content, responsiveness)
+- **results.cy.js** - Results page tests (search, filtering, year selection, URL parameters)
+- **records.cy.js** - Records page tests (category switching, search, filtering)
+- **course-and-location.cy.js** - Map pages tests (iframe loading, navigation)
 
 ### URL Parameters
 

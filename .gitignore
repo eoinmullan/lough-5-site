@@ -7,3 +7,7 @@ coverage/
 dist/
 .git-credentials
 assets/js/bundle.js
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
