@@ -1,11 +1,11 @@
 {
   "name": "lough-5-site",
   "version": "1.0.0",
-  "description": "A simple website for a local charity 5K race",
+  "description": "A comprehensive website for a local charity 5 mile race with runner database, statistics, and records tracking",
   "main": "index.html",
   "scripts": {
     "start": "serve dist",
-    "build": "mkdir -p dist/assets/js && cp -r index.html location.html course.html results.html records.html assets dist/ && npx esbuild src/js/main.js --bundle --minify --outfile=dist/assets/js/bundle.js",
+    "build": "mkdir -p dist/assets/js && cp -r index.html location.html course.html results.html records.html runner-search.html runner-stats.html assets dist/ && npx esbuild src/js/main.js --bundle --minify --outfile=dist/assets/js/bundle.js",
     "dev-js": "npx esbuild src/js/main.js --bundle --watch --outfile=assets/js/bundle.js",
     "dev": "browser-sync start --server --files '**/*'",
     "test": "cypress run",
@@ -27,7 +27,7 @@
   "keywords": [
     "charity",
     "race",
-    "5k",
+    "5 mile",
     "running",
     "alpine.js"
   ],
