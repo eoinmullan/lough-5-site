@@ -5,7 +5,8 @@
     "Name": "Mark McKinstry",
     "Club": "North Belfast Harriers",
     "Category": "M35",
-    "Finish Time": "0:24:38"
+    "Finish Time": "0:24:38",
+    "runner_id": "mark-mckinstry"
   },
   {
     "Position": 2,
@@ -13,7 +14,8 @@
     "Name": "Eddie McGinley",
     "Club": "Annadale Striders",
     "Category": "MO",
-    "Finish Time": "0:24:42"
+    "Finish Time": "0:24:42",
+    "runner_id": "eddie-mcginley"
   },
   {
     "Position": 3,
@@ -21,7 +23,8 @@
     "Name": "Paddy Hamilton",
     "Club": "Annadale Striders",
     "Category": "MO",
-    "Finish Time": "0:24:53"
+    "Finish Time": "0:24:53",
+    "runner_id": "paddy-hamilton"
   },
   {
     "Position": 4,
@@ -29,7 +32,8 @@
     "Name": "Matthew Neill",
     "Club": "Acorns AC",
     "Category": "MJ",
-    "Finish Time": "0:25:00"
+    "Finish Time": "0:25:00",
+    "runner_id": "matthew-neill"
   },
   {
     "Position": 5,
@@ -37,7 +41,8 @@
     "Name": "Andrew Annett",
     "Club": "Mourne Runners",
     "Category": "MO",
-    "Finish Time": "0:25:02"
+    "Finish Time": "0:25:02",
+    "runner_id": "andrew-annett"
   },
   {
     "Position": 6,
@@ -45,7 +50,8 @@
     "Name": "Eoin Mullan",
     "Club": "Omagh Harriers",
     "Category": "M35",
-    "Finish Time": "0:25:04"
+    "Finish Time": "0:25:04",
+    "runner_id": "eoin-mullan"
   },
   {
     "Position": 7,
@@ -53,7 +59,8 @@
     "Name": "Scott Rankin",
     "Club": "Foyle Valley AC",
     "Category": "MO",
-    "Finish Time": "0:25:17"
+    "Finish Time": "0:25:17",
+    "runner_id": "scott-rankin"
   },
   {
     "Position": 8,
@@ -61,7 +68,8 @@
     "Name": "Andrew Agnew",
     "Club": "Annadale Striders",
     "Category": "MO",
-    "Finish Time": "0:25:19"
+    "Finish Time": "0:25:19",
+    "runner_id": "andrew-agnew"
   },
   {
     "Position": 9,
@@ -69,7 +77,8 @@
     "Name": "John Joe Doherty",
     "Club": "Finn Valley AC",
     "Category": "M35",
-    "Finish Time": "0:25:22"
+    "Finish Time": "0:25:22",
+    "runner_id": "john-joe-doherty"
   },
   {
     "Position": 10,
@@ -77,7 +86,8 @@
     "Name": "Stephen Duncan",
     "Club": "Omagh Harriers",
     "Category": "MO",
-    "Finish Time": "0:25:28"
+    "Finish Time": "0:25:28",
+    "runner_id": "stephen-duncan-omagh"
   },
   {
     "Position": 10,
@@ -85,7 +95,8 @@
     "Name": "Kieran Kelly",
     "Club": "Raheny Shamrocks AC",
     "Category": "M35",
-    "Finish Time": "0:25:28"
+    "Finish Time": "0:25:28",
+    "runner_id": "kieran-kelly"
   },
   {
     "Position": 12,
@@ -93,7 +104,8 @@
     "Name": "Eoin Hughes",
     "Club": "Acorns AC",
     "Category": "MO",
-    "Finish Time": "0:25:41"
+    "Finish Time": "0:25:41",
+    "runner_id": "eoin-hughes"
   },
   {
     "Position": 13,
@@ -101,7 +113,8 @@
     "Name": "Conan McCaughey",
     "Club": "North Belfast Harriers",
     "Category": "MO",
-    "Finish Time": "0:25:42"
+    "Finish Time": "0:25:42",
+    "runner_id": "conan-mccaughey"
   },
   {
     "Position": 14,
@@ -109,15 +122,17 @@
     "Name": "Danny Mooney",
     "Club": "Letterkenny AC",
     "Category": "MO",
-    "Finish Time": "0:25:48"
+    "Finish Time": "0:25:48",
+    "runner_id": "danny-mooney"
   },
   {
     "Position": 15,
     "Year": 2012,
-    "Name": "Keith Shiels",
+    "Name": "Keith Shields",
     "Club": "Foyle Valley",
     "Category": "M35",
-    "Finish Time": "0:25:50"
+    "Finish Time": "0:25:50",
+    "runner_id": "keith-shields"
   },
   {
     "Position": 16,
@@ -125,7 +140,8 @@
     "Name": "Christopher Madden",
     "Club": "City of Lisburn AC",
     "Category": "MO",
-    "Finish Time": "0:25:51"
+    "Finish Time": "0:25:51",
+    "runner_id": "christopher-madden"
   },
   {
     "Position": 17,
@@ -133,7 +149,8 @@
     "Name": "Tom Fleming",
     "Club": "Loughview AC",
     "Category": "MU19",
-    "Finish Time": "0:26:00"
+    "Finish Time": "0:26:00",
+    "runner_id": "tom-fleming"
   },
   {
     "Position": 18,
@@ -141,7 +158,8 @@
     "Name": "Gareth Hill",
     "Club": "Ballymena & Antrim",
     "Category": "MO",
-    "Finish Time": "0:26:07"
+    "Finish Time": "0:26:07",
+    "runner_id": "gareth-hill"
   },
   {
     "Position": 19,
@@ -149,7 +167,8 @@
     "Name": "Thomas Moran",
     "Club": "Dunshaughlan AC",
     "Category": "MO",
-    "Finish Time": "0:26:09"
+    "Finish Time": "0:26:09",
+    "runner_id": "thomas-moran"
   },
   {
     "Position": 20,
@@ -157,7 +176,8 @@
     "Name": "Peter Donnelly",
     "Club": "North Belfast Harriers",
     "Category": "MO",
-    "Finish Time": "0:26:16"
+    "Finish Time": "0:26:16",
+    "runner_id": "peter-donnelly"
   },
   {
     "Position": 21,
@@ -165,7 +185,8 @@
     "Name": "Stephen Prentice",
     "Club": "Annadale Striders",
     "Category": "MO",
-    "Finish Time": "0:26:23"
+    "Finish Time": "0:26:23",
+    "runner_id": "stephen-prentice"
   },
   {
     "Position": 22,
@@ -173,7 +194,8 @@
     "Name": "Michael Crawley",
     "Club": "Strive Racing Club",
     "Category": "MO",
-    "Finish Time": "0:26:31"
+    "Finish Time": "0:26:31",
+    "runner_id": "michael-crawley"
   },
   {
     "Position": 23,
@@ -181,7 +203,8 @@
     "Name": "Noel Collins",
     "Club": "Finn Valley",
     "Category": "MO",
-    "Finish Time": "0:26:39"
+    "Finish Time": "0:26:39",
+    "runner_id": "noel-collins"
   },
   {
     "Position": 23,
@@ -189,7 +212,8 @@
     "Name": "Paul Barbour",
     "Club": "Omagh Harriers",
     "Category": "MO",
-    "Finish Time": "0:26:39"
+    "Finish Time": "0:26:39",
+    "runner_id": "paul-barbour"
   },
   {
     "Position": 25,
@@ -197,7 +221,8 @@
     "Name": "Tristan Kelly",
     "Club": "Finn Valley AC",
     "Category": "MO",
-    "Finish Time": "0:26:40"
+    "Finish Time": "0:26:40",
+    "runner_id": "tristan-kelly"
   },
   {
     "Position": 26,
@@ -205,7 +230,8 @@
     "Name": "Emmett McGinty",
     "Club": "City of Derry",
     "Category": "MO",
-    "Finish Time": "0:26:44"
+    "Finish Time": "0:26:44",
+    "runner_id": "emmett-mcginty"
   },
   {
     "Position": 27,
@@ -213,7 +239,8 @@
     "Name": "Ethan Dunn",
     "Club": "Loughview",
     "Category": "MO",
-    "Finish Time": "0:26:51"
+    "Finish Time": "0:26:51",
+    "runner_id": "ethan-dunn"
   },
   {
     "Position": 28,
@@ -221,7 +248,8 @@
     "Name": "Greg Roberts",
     "Club": "",
     "Category": "MO",
-    "Finish Time": "0:26:54"
+    "Finish Time": "0:26:54",
+    "runner_id": "greg-roberts"
   },
   {
     "Position": 29,
@@ -229,7 +257,8 @@
     "Name": "Stephen Cassidy",
     "Club": "Enniskillen Running Club",
     "Category": "M35",
-    "Finish Time": "0:26:56"
+    "Finish Time": "0:26:56",
+    "runner_id": "stephen-cassidy"
   },
   {
     "Position": 30,
@@ -237,7 +266,8 @@
     "Name": "Kyle Thompson",
     "Club": "Loughview",
     "Category": "MJ",
-    "Finish Time": "0:26:59"
+    "Finish Time": "0:26:59",
+    "runner_id": "kyle-thompson"
   },
   {
     "Position": 31,
@@ -245,7 +275,8 @@
     "Name": "James Speight",
     "Club": "Finn Valley",
     "Category": "MO",
-    "Finish Time": "0:27:01"
+    "Finish Time": "0:27:01",
+    "runner_id": "james-speight"
   },
   {
     "Position": 31,
@@ -253,7 +284,8 @@
     "Name": "Colin Griffin",
     "Club": "Ballinamore AC",
     "Category": "M35",
-    "Finish Time": "0:27:01"
+    "Finish Time": "0:27:01",
+    "runner_id": "colin-griffin"
   },
   {
     "Position": 33,
@@ -261,7 +293,8 @@
     "Name": "Eoin Hughes",
     "Club": "Letterkenny Athletic Club",
     "Category": "MJ",
-    "Finish Time": "0:27:04"
+    "Finish Time": "0:27:04",
+    "runner_id": "eoin-hughes"
   },
   {
     "Position": 34,
@@ -269,7 +302,8 @@
     "Name": "Johnny Canning",
     "Club": "Foyle Valley AC",
     "Category": "MO",
-    "Finish Time": "0:27:14"
+    "Finish Time": "0:27:14",
+    "runner_id": "johnny-canning"
   },
   {
     "Position": 35,
@@ -277,7 +311,8 @@
     "Name": "Luke Donnelly",
     "Club": "Carmen Runners",
     "Category": "MO",
-    "Finish Time": "0:27:18"
+    "Finish Time": "0:27:18",
+    "runner_id": "luke-donnelly"
   },
   {
     "Position": 36,
@@ -285,7 +320,8 @@
     "Name": "Pius McIntyre",
     "Club": "Foyle Valley AC",
     "Category": "M35",
-    "Finish Time": "0:27:25"
+    "Finish Time": "0:27:25",
+    "runner_id": "pius-mcintyre"
   },
   {
     "Position": 37,
@@ -293,7 +329,8 @@
     "Name": "Matthew McLaughlin",
     "Club": "Foyle Valley AC",
     "Category": "M40",
-    "Finish Time": "0:27:26"
+    "Finish Time": "0:27:26",
+    "runner_id": "matthew-mclaughlin"
   },
   {
     "Position": 38,
@@ -301,7 +338,8 @@
     "Name": "Tommy Hughes",
     "Club": "Termoneeny Running Club",
     "Category": "M55",
-    "Finish Time": "0:27:27"
+    "Finish Time": "0:27:27",
+    "runner_id": "tommy-hughes"
   },
   {
     "Position": 39,
@@ -309,7 +347,8 @@
     "Name": "James Monaghan",
     "Club": "",
     "Category": "MO",
-    "Finish Time": "0:27:29"
+    "Finish Time": "0:27:29",
+    "runner_id": "james-monaghan"
   },
   {
     "Position": 40,
@@ -317,7 +356,8 @@
     "Name": "Ciaran Collins",
     "Club": "Carmen Runners",
     "Category": "MO",
-    "Finish Time": "0:27:30"
+    "Finish Time": "0:27:30",
+    "runner_id": "ciaran-collins"
   },
   {
     "Position": 41,
@@ -325,7 +365,8 @@
     "Name": "Adrian Scullion",
     "Club": "Knockmany Running Club",
     "Category": "M35",
-    "Finish Time": "0:27:31"
+    "Finish Time": "0:27:31",
+    "runner_id": "adrian-scullion"
   },
   {
     "Position": 42,
@@ -333,7 +374,8 @@
     "Name": "Philip McHugh",
     "Club": "Letterkenny AC",
     "Category": "MO",
-    "Finish Time": "0:27:35"
+    "Finish Time": "0:27:35",
+    "runner_id": "philip-mchugh"
   },
   {
     "Position": 43,
@@ -341,7 +383,8 @@
     "Name": "Jarlath Hughes",
     "Club": "Termoneeny RC",
     "Category": "MJ",
-    "Finish Time": "0:27:36"
+    "Finish Time": "0:27:36",
+    "runner_id": "jarlath-hughes"
   },
   {
     "Position": 44,
@@ -349,7 +392,8 @@
     "Name": "Noel Lagan",
     "Club": "City of Derry",
     "Category": "MO",
-    "Finish Time": "0:27:37"
+    "Finish Time": "0:27:37",
+    "runner_id": "noel-lagan"
   },
   {
     "Position": 44,
@@ -357,7 +401,8 @@
     "Name": "Tristan Kelly",
     "Club": "Finn Valley AC",
     "Category": "MO",
-    "Finish Time": "0:27:37"
+    "Finish Time": "0:27:37",
+    "runner_id": "tristan-kelly"
   },
   {
     "Position": 46,
@@ -365,7 +410,8 @@
     "Name": "Enda McKaigue",
     "Club": "Acorns AC",
     "Category": "MO",
-    "Finish Time": "0:27:42"
+    "Finish Time": "0:27:42",
+    "runner_id": "enda-mckaigue"
   },
   {
     "Position": 47,
@@ -373,7 +419,8 @@
     "Name": "Aidan O' Hagan",
     "Club": "Strive Racing Club",
     "Category": "M40",
-    "Finish Time": "0:27:43"
+    "Finish Time": "0:27:43",
+    "runner_id": "aidan-ohagan"
   },
   {
     "Position": 48,
@@ -381,7 +428,8 @@
     "Name": "Ivan Toner",
     "Club": "Letterkenny",
     "Category": "M35",
-    "Finish Time": "0:27:44"
+    "Finish Time": "0:27:44",
+    "runner_id": "ivan-toner"
   },
   {
     "Position": 49,
@@ -389,7 +437,8 @@
     "Name": "Matthew McCullagh",
     "Club": "Birmingham run & tri",
     "Category": "MO",
-    "Finish Time": "0:27:45"
+    "Finish Time": "0:27:45",
+    "runner_id": "matthew-mccullagh"
   },
   {
     "Position": 50,
@@ -397,6 +446,7 @@
     "Name": "Kris Muldoon",
     "Club": "Armagh AC",
     "Category": "MO",
-    "Finish Time": "0:27:51"
+    "Finish Time": "0:27:51",
+    "runner_id": "kris-muldoon"
   }
 ]

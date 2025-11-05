@@ -5,7 +5,8 @@
     "Name": "Ann-Marie McGlynn",
     "Club": "Letterkenny AC",
     "Category": "F35",
-    "Finish Time": "0:28:21"
+    "Finish Time": "0:28:21",
+    "runner_id": "annmarie-mcglynn"
   },
   {
     "Position": 2,
@@ -13,7 +14,8 @@
     "Name": "Cathy McCourt",
     "Club": "North Belfast Harriers",
     "Category": "F40",
-    "Finish Time": "0:30:15"
+    "Finish Time": "0:30:15",
+    "runner_id": "cathy-mccourt"
   },
   {
     "Position": 3,
@@ -21,7 +23,8 @@
     "Name": "Natasha Adams",
     "Club": "Letterkenny AC",
     "Category": "F45",
-    "Finish Time": "0:28:16"
+    "Finish Time": "0:28:16",
+    "runner_id": "natasha-adams"
   },
   {
     "Position": 4,
@@ -29,7 +32,8 @@
     "Name": "Karen Wilton",
     "Club": "Jog Lisburn",
     "Category": "F50",
-    "Finish Time": "0:32:12"
+    "Finish Time": "0:32:12",
+    "runner_id": "karen-wilton"
   },
   {
     "Position": 5,
@@ -37,7 +41,8 @@
     "Name": "Irene Clements",
     "Club": "1ZERO1",
     "Category": "F55",
-    "Finish Time": "0:35:34"
+    "Finish Time": "0:35:34",
+    "runner_id": "irene-clements"
   },
   {
     "Position": 6,
@@ -45,7 +50,8 @@
     "Name": "Irene Clements",
     "Club": "Clones AC",
     "Category": "F60",
-    "Finish Time": "0:33:42"
+    "Finish Time": "0:33:42",
+    "runner_id": "irene-clements"
   },
   {
     "Position": 7,
@@ -53,7 +59,8 @@
     "Name": "Brigid Quinn",
     "Club": "Ballymena Runners",
     "Category": "F65",
-    "Finish Time": "0:41:10"
+    "Finish Time": "0:41:10",
+    "runner_id": "brigid-quinn"
   },
   {
     "Position": 8,
@@ -61,7 +68,8 @@
     "Name": "Roisin Doyle",
     "Club": "Pace",
     "Category": "F70",
-    "Finish Time": "0:54:50"
+    "Finish Time": "0:54:50",
+    "runner_id": "roisin-doyle"
   },
   {
     "Position": 9,
@@ -69,7 +77,8 @@
     "Name": "Brigid Quinn",
     "Club": "Ballymena Running Club",
     "Category": "F75",
-    "Finish Time": "0:48:08"
+    "Finish Time": "0:48:08",
+    "runner_id": "brigid-quinn"
   },
   {
     "Position": 10,
@@ -77,6 +86,7 @@
     "Name": "Brigid Quinn",
     "Club": "Ballymena Runners",
     "Category": "F80",
-    "Finish Time": "1:00:02"
+    "Finish Time": "1:00:02",
+    "runner_id": "brigid-quinn"
   }
 ]

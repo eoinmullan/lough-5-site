@@ -5,7 +5,8 @@
     "Name": "Ciara Mageean",
     "Club": "Team NB MCR/ City of Lisburn AC",
     "Category": "FO",
-    "Finish Time": "0:26:07"
+    "Finish Time": "0:26:07",
+    "runner_id": "ciara-mageean"
   },
   {
     "Position": 2,
@@ -13,7 +14,8 @@
     "Name": "Catherine Whoriskey",
     "Club": "City of Derry",
     "Category": "FO",
-    "Finish Time": "0:28:07"
+    "Finish Time": "0:28:07",
+    "runner_id": "catherine-whoriskey"
   },
   {
     "Position": 3,
@@ -21,7 +23,8 @@
     "Name": "Natasha Adams",
     "Club": "Letterkenny AC",
     "Category": "FO",
-    "Finish Time": "0:28:18"
+    "Finish Time": "0:28:18",
+    "runner_id": "natasha-adams"
   },
   {
     "Position": 4,
@@ -29,7 +32,8 @@
     "Name": "Ann-Marie McGlynn",
     "Club": "Letterkenny AC",
     "Category": "FO",
-    "Finish Time": "0:28:22"
+    "Finish Time": "0:28:22",
+    "runner_id": "annmarie-mcglynn"
   },
   {
     "Position": 5,
@@ -37,7 +41,8 @@
     "Name": "Gladys Ganiel O'Neill",
     "Club": "Abbey",
     "Category": "FO",
-    "Finish Time": "0:29:04"
+    "Finish Time": "0:29:04",
+    "runner_id": "gladys-ganiel-oneill"
   },
   {
     "Position": 6,
@@ -45,7 +50,8 @@
     "Name": "Christine Russell",
     "Club": "Letterkenny AC",
     "Category": "FO",
-    "Finish Time": "0:29:17"
+    "Finish Time": "0:29:17",
+    "runner_id": "christine-russell"
   },
   {
     "Position": 7,
@@ -53,7 +59,8 @@
     "Name": "Edel Monaghan",
     "Club": "Dublin City Harriers",
     "Category": "FO",
-    "Finish Time": "0:29:19"
+    "Finish Time": "0:29:19",
+    "runner_id": "edel-monaghan"
   },
   {
     "Position": 8,
@@ -61,7 +68,8 @@
     "Name": "Breege Connolly",
     "Club": "North Belfast Harriers",
     "Category": "FO",
-    "Finish Time": "0:29:20"
+    "Finish Time": "0:29:20",
+    "runner_id": "breege-connolly"
   },
   {
     "Position": 9,
@@ -69,7 +77,8 @@
     "Name": "Rebecca Rossiter",
     "Club": "Loughview Athletics Club",
     "Category": "FJ",
-    "Finish Time": "0:29:22"
+    "Finish Time": "0:29:22",
+    "runner_id": "rebecca-rossiter"
   },
   {
     "Position": 10,
@@ -77,7 +86,8 @@
     "Name": "Hannah Oldroyd",
     "Club": "Don Greig Racing Stables",
     "Category": "FO",
-    "Finish Time": "0:30:02"
+    "Finish Time": "0:30:02",
+    "runner_id": "hannah-oldroyd"
   },
   {
     "Position": 11,
@@ -85,7 +95,8 @@
     "Name": "Cathy McCourt",
     "Club": "Lisburn",
     "Category": "FO",
-    "Finish Time": "0:30:04"
+    "Finish Time": "0:30:04",
+    "runner_id": "cathy-mccourt"
   },
   {
     "Position": 11,
@@ -93,7 +104,8 @@
     "Name": "Kelly McNeice",
     "Club": "City of Lisburn AC",
     "Category": "FO",
-    "Finish Time": "0:30:04"
+    "Finish Time": "0:30:04",
+    "runner_id": "kelly-mcneice"
   },
   {
     "Position": 13,
@@ -101,7 +113,8 @@
     "Name": "Nadine McIntyre",
     "Club": "",
     "Category": "FO",
-    "Finish Time": "0:30:29"
+    "Finish Time": "0:30:29",
+    "runner_id": "nadine-mcintyre"
   },
   {
     "Position": 14,
@@ -109,7 +122,8 @@
     "Name": "Eilis McKechanie",
     "Club": "Hunters Bog Trotters",
     "Category": "FO",
-    "Finish Time": "0:30:37"
+    "Finish Time": "0:30:37",
+    "runner_id": "eilis-mckechanie"
   },
   {
     "Position": 14,
@@ -117,7 +131,8 @@
     "Name": "Ciara Cunningham",
     "Club": "Tír Chonaill AC",
     "Category": "FO",
-    "Finish Time": "0:30:37"
+    "Finish Time": "0:30:37",
+    "runner_id": "ciara-cunningham"
   },
   {
     "Position": 16,
@@ -125,7 +140,8 @@
     "Name": "Lucy Thompson",
     "Club": "Tonbridge Athletics Club",
     "Category": "FO",
-    "Finish Time": "0:30:39"
+    "Finish Time": "0:30:39",
+    "runner_id": "lucy-thompson"
   },
   {
     "Position": 17,
@@ -133,7 +149,8 @@
     "Name": "Grainne O'Hagan",
     "Club": "Knockmany Runners",
     "Category": "FO",
-    "Finish Time": "0:30:40"
+    "Finish Time": "0:30:40",
+    "runner_id": "grainne-ohagan"
   },
   {
     "Position": 18,
@@ -141,7 +158,8 @@
     "Name": "Julie Butler",
     "Club": "Omagh Harriers",
     "Category": "F40",
-    "Finish Time": "0:30:41"
+    "Finish Time": "0:30:41",
+    "runner_id": "julie-butler"
   },
   {
     "Position": 19,
@@ -149,7 +167,8 @@
     "Name": "Heather Foley",
     "Club": "",
     "Category": "FO",
-    "Finish Time": "0:30:44"
+    "Finish Time": "0:30:44",
+    "runner_id": "heather-foley"
   },
   {
     "Position": 20,
@@ -157,7 +176,8 @@
     "Name": "Gillian McCrory",
     "Club": "St Peter's AC",
     "Category": "F40",
-    "Finish Time": "0:30:45"
+    "Finish Time": "0:30:45",
+    "runner_id": "gillian-mccrory"
   },
   {
     "Position": 21,
@@ -165,7 +185,8 @@
     "Name": "Natalie Hall",
     "Club": "Armagh AC",
     "Category": "FO",
-    "Finish Time": "0:30:48"
+    "Finish Time": "0:30:48",
+    "runner_id": "natalie-hall"
   },
   {
     "Position": 22,
@@ -173,7 +194,8 @@
     "Name": "Patricia O'Hagan",
     "Club": "St. Peter's AC",
     "Category": "FO",
-    "Finish Time": "0:30:51"
+    "Finish Time": "0:30:51",
+    "runner_id": "patricia-ohagan"
   },
   {
     "Position": 23,
@@ -181,7 +203,8 @@
     "Name": "Michelle Sturm",
     "Club": "Omagh Harriers",
     "Category": "FO",
-    "Finish Time": "0:30:55"
+    "Finish Time": "0:30:55",
+    "runner_id": "michelle-sturm"
   },
   {
     "Position": 24,
@@ -189,7 +212,8 @@
     "Name": "Cora Scullion",
     "Club": "Omagh Harriers",
     "Category": "FU19",
-    "Finish Time": "0:01:08"
+    "Finish Time": "0:01:08",
+    "runner_id": "cora-scullion"
   },
   {
     "Position": 25,
@@ -197,7 +221,8 @@
     "Name": "Sara Moore",
     "Club": "",
     "Category": "FO",
-    "Finish Time": "0:31:15"
+    "Finish Time": "0:31:15",
+    "runner_id": "sara-moore"
   },
   {
     "Position": 25,
@@ -205,7 +230,8 @@
     "Name": "Cassie Lagan",
     "Club": "Finn Valley AC",
     "Category": "FO",
-    "Finish Time": "0:31:15"
+    "Finish Time": "0:31:15",
+    "runner_id": "cassie-lagan"
   },
   {
     "Position": 27,
@@ -213,7 +239,8 @@
     "Name": "Karen Alexander",
     "Club": "Acorns AC",
     "Category": "F35",
-    "Finish Time": "0:31:18"
+    "Finish Time": "0:31:18",
+    "runner_id": "karen-alexander"
   },
   {
     "Position": 28,
@@ -221,15 +248,17 @@
     "Name": "Donna Evans",
     "Club": "Monaghan Phoenix",
     "Category": "F45",
-    "Finish Time": "0:31:21"
+    "Finish Time": "0:31:21",
+    "runner_id": "donna-evans"
   },
   {
     "Position": 29,
     "Year": 2024,
-    "Name": "Aimee Mullan",
+    "Name": "Aimee Mullin",
     "Club": "Galbally Runners",
     "Category": "FO",
-    "Finish Time": "0:31:24"
+    "Finish Time": "0:31:24",
+    "runner_id": "aimee-mullin"
   },
   {
     "Position": 30,
@@ -237,7 +266,8 @@
     "Name": "Niamh Heaney",
     "Club": "Omagh Harriers",
     "Category": "FO",
-    "Finish Time": "0:31:26"
+    "Finish Time": "0:31:26",
+    "runner_id": "niamh-heaney"
   },
   {
     "Position": 31,
@@ -245,7 +275,8 @@
     "Name": "Pauline McGurren",
     "Club": "",
     "Category": "F40",
-    "Finish Time": "0:31:28"
+    "Finish Time": "0:31:28",
+    "runner_id": "pauline-mcgurren"
   },
   {
     "Position": 32,
@@ -253,7 +284,8 @@
     "Name": "Amy Bulman",
     "Club": "Willowfield Harriers",
     "Category": "F35",
-    "Finish Time": "0:31:34"
+    "Finish Time": "0:31:34",
+    "runner_id": "amy-bulman"
   },
   {
     "Position": 33,
@@ -261,7 +293,8 @@
     "Name": "Sorcha Mullan",
     "Club": "Omagh Harriers",
     "Category": "FJ",
-    "Finish Time": "0:31:45"
+    "Finish Time": "0:31:45",
+    "runner_id": "sorcha-mullan"
   },
   {
     "Position": 34,
@@ -269,7 +302,8 @@
     "Name": "Niamh Heaney",
     "Club": "Omagh Harriers",
     "Category": "FO",
-    "Finish Time": "0:32:00"
+    "Finish Time": "0:32:00",
+    "runner_id": "niamh-heaney"
   },
   {
     "Position": 35,
@@ -277,7 +311,8 @@
     "Name": "Eimear Gormley",
     "Club": "Letterkenny AC",
     "Category": "FO",
-    "Finish Time": "0:32:12"
+    "Finish Time": "0:32:12",
+    "runner_id": "eimear-gormley"
   },
   {
     "Position": 36,
@@ -285,7 +320,8 @@
     "Name": "Kirsty Downey",
     "Club": "Inishowen A.C.",
     "Category": "FO",
-    "Finish Time": "0:32:14"
+    "Finish Time": "0:32:14",
+    "runner_id": "kirsty-downey"
   },
   {
     "Position": 37,
@@ -293,7 +329,8 @@
     "Name": "Karen Wilton",
     "Club": "Jog Lisburn",
     "Category": "F50",
-    "Finish Time": "0:32:16"
+    "Finish Time": "0:32:16",
+    "runner_id": "karen-wilton"
   },
   {
     "Position": 38,
@@ -301,7 +338,8 @@
     "Name": "Pauline Thoron",
     "Club": "Ballymena Runners",
     "Category": "F45",
-    "Finish Time": "0:32:17"
+    "Finish Time": "0:32:17",
+    "runner_id": "pauline-thoron"
   },
   {
     "Position": 39,
@@ -309,7 +347,8 @@
     "Name": "Denise Ward",
     "Club": "Foyle Valley AC",
     "Category": "F35",
-    "Finish Time": "0:32:19"
+    "Finish Time": "0:32:19",
+    "runner_id": "denise-ward"
   },
   {
     "Position": 40,
@@ -317,7 +356,8 @@
     "Name": "Eimear McCarroll",
     "Club": "Finn Valley AC",
     "Category": "FO",
-    "Finish Time": "0:32:25"
+    "Finish Time": "0:32:25",
+    "runner_id": "eimear-mccarroll"
   },
   {
     "Position": 41,
@@ -325,7 +365,8 @@
     "Name": "Helen Stockdale",
     "Club": "Clones AC",
     "Category": "F45",
-    "Finish Time": "0:32:39"
+    "Finish Time": "0:32:39",
+    "runner_id": "helen-stockdale"
   },
   {
     "Position": 42,
@@ -333,7 +374,8 @@
     "Name": "Lauren Molloy",
     "Club": "Omagh Harriers",
     "Category": "FJ",
-    "Finish Time": "0:32:45"
+    "Finish Time": "0:32:45",
+    "runner_id": "lauren-molloy"
   },
   {
     "Position": 43,
@@ -341,7 +383,8 @@
     "Name": "Monica McGranaghan",
     "Club": "Letterkenny AC",
     "Category": "F40",
-    "Finish Time": "0:32:49"
+    "Finish Time": "0:32:49",
+    "runner_id": "monica-mcgranaghan"
   },
   {
     "Position": 43,
@@ -349,7 +392,8 @@
     "Name": "Brenda Mullan",
     "Club": "Carmen Runners",
     "Category": "FO",
-    "Finish Time": "0:32:49"
+    "Finish Time": "0:32:49",
+    "runner_id": "brenda-mullan"
   },
   {
     "Position": 45,
@@ -357,7 +401,8 @@
     "Name": "Niamh Donnelly",
     "Club": "Armagh AC",
     "Category": "FO",
-    "Finish Time": "0:32:59"
+    "Finish Time": "0:32:59",
+    "runner_id": "niamh-donnelly"
   },
   {
     "Position": 46,
@@ -365,7 +410,8 @@
     "Name": "Helena Quinn",
     "Club": "Termoneeny",
     "Category": "FO",
-    "Finish Time": "0:33:07"
+    "Finish Time": "0:33:07",
+    "runner_id": "helena-quinn"
   },
   {
     "Position": 46,
@@ -373,7 +419,8 @@
     "Name": "Joan Maguire",
     "Club": "Dromore Runners",
     "Category": "F40",
-    "Finish Time": "0:33:07"
+    "Finish Time": "0:33:07",
+    "runner_id": "joan-maguire"
   },
   {
     "Position": 48,
@@ -381,7 +428,8 @@
     "Name": "Elaine McGuckin",
     "Club": "Keep ’er lit",
     "Category": "F40",
-    "Finish Time": "0:33:08"
+    "Finish Time": "0:33:08",
+    "runner_id": "elaine-mcguckin"
   },
   {
     "Position": 49,
@@ -389,7 +437,8 @@
     "Name": "Denise McCann",
     "Club": "Galbally Runners",
     "Category": "F35",
-    "Finish Time": "0:33:14"
+    "Finish Time": "0:33:14",
+    "runner_id": "denise-mccann"
   },
   {
     "Position": 50,
@@ -397,6 +446,7 @@
     "Name": "Barbara Murray",
     "Club": "",
     "Category": "F45",
-    "Finish Time": "0:33:16"
+    "Finish Time": "0:33:16",
+    "runner_id": "barbara-murray"
   }
 ]
