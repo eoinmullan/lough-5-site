@@ -4,168 +4,192 @@
     "Name": "Chris McGuigan",
     "Club": "Omagh Triathlon Club",
     "Category": "M",
-    "Chip Time": "0:30:15"
+    "Chip Time": "0:30:15",
+    "runner_id": "chris-mc-guigan"
   },
   {
     "Position": 2,
     "Name": "Adrian Martin",
     "Club": "Carmen Runners",
     "Category": "M",
-    "Chip Time": "0:32:01"
+    "Chip Time": "0:32:01",
+    "runner_id": "adrian-martin"
   },
   {
     "Position": 3,
     "Name": "Malachy Rafferty",
     "Club": "Carmen Runners",
     "Category": "M",
-    "Chip Time": "0:32:43"
+    "Chip Time": "0:32:43",
+    "runner_id": "malachy-rafferty"
   },
   {
     "Position": 4,
     "Name": "Martin Cochrane",
     "Club": "Omagh Harriers",
     "Category": "M",
-    "Chip Time": "0:33:00"
+    "Chip Time": "0:33:00",
+    "runner_id": "martin-cochrane"
   },
   {
     "Position": 5,
     "Name": "Stuart Morrow",
     "Club": "Carmen Runners",
     "Category": "M",
-    "Chip Time": "0:33:07"
+    "Chip Time": "0:33:07",
+    "runner_id": "stuart-morrow"
   },
   {
     "Position": 6,
     "Name": "Barry McElduff",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:33:23"
+    "Chip Time": "0:33:23",
+    "runner_id": "barry-mcelduff"
   },
   {
     "Position": 7,
     "Name": "Kevin Conroy",
     "Club": "Omagh Harriers",
     "Category": "M",
-    "Chip Time": "0:33:29"
+    "Chip Time": "0:33:29",
+    "runner_id": "kevin-conroy"
   },
   {
     "Position": 8,
     "Name": "Paul McAleer",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:34:21"
+    "Chip Time": "0:34:21",
+    "runner_id": "paul-mc-aleer"
   },
   {
     "Position": 9,
     "Name": "Neil Donnelly",
     "Club": "Carmen Runners",
     "Category": "M",
-    "Chip Time": "0:34:34"
+    "Chip Time": "0:34:34",
+    "runner_id": "neil-donnelly"
   },
   {
     "Position": 10,
     "Name": "Aideen Casey",
     "Club": "Omagh Harriers",
     "Category": "F",
-    "Chip Time": "0:35:02"
+    "Chip Time": "0:35:02",
+    "runner_id": "aideen-casey"
   },
   {
     "Position": 11,
     "Name": "Ciaran Loughran",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:35:12"
+    "Chip Time": "0:35:12",
+    "runner_id": "ciaran-loughran"
   },
   {
     "Position": 12,
     "Name": "Rory O'Brien",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:36:16"
+    "Chip Time": "0:36:16",
+    "runner_id": "rory-obrien"
   },
   {
     "Position": 13,
     "Name": "Dara Sweeney",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:36:58"
+    "Chip Time": "0:36:58",
+    "runner_id": "dara-sweeney"
   },
   {
     "Position": 14,
     "Name": "Cormac McElhom",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:37:45"
+    "Chip Time": "0:37:45",
+    "runner_id": "cormac-mcelhom"
   },
   {
     "Position": 15,
     "Name": "Oran McAleer",
     "Club": "Omagh Triathlon Club",
     "Category": "M",
-    "Chip Time": "0:37:49"
+    "Chip Time": "0:37:49",
+    "runner_id": "oran-mcaleer"
   },
   {
     "Position": 16,
     "Name": "Vincent Bradley",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:37:58"
+    "Chip Time": "0:37:58",
+    "runner_id": "vincent-bradley"
   },
   {
     "Position": 17,
     "Name": "Jennifer Morrow",
     "Club": "Carmen Runners",
     "Category": "F",
-    "Chip Time": "0:38:51"
+    "Chip Time": "0:38:51",
+    "runner_id": "jennifer-morrow"
   },
   {
     "Position": 18,
     "Name": "David Quinn",
     "Club": "Omagh Harriers",
     "Category": "M",
-    "Chip Time": "0:38:51"
+    "Chip Time": "0:38:51",
+    "runner_id": "david-quinn"
   },
   {
     "Position": 19,
     "Name": "Andrew Muir",
     "Club": "North Down AC",
     "Category": "M",
-    "Chip Time": "0:39:07"
+    "Chip Time": "0:39:07",
+    "runner_id": "andrew-muir"
   },
   {
     "Position": 20,
     "Name": "Denise McCann",
     "Club": "Galbally Runners",
     "Category": "F",
-    "Chip Time": "0:39:24"
+    "Chip Time": "0:39:24",
+    "runner_id": "denise-mccann"
   },
   {
     "Position": 21,
     "Name": "Tanya Kelly",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:39:31"
+    "Chip Time": "0:39:31",
+    "runner_id": "tanya-kelly"
   },
   {
     "Position": 22,
     "Name": "Eamon Holland",
     "Club": "Galbally Runners",
     "Category": "M",
-    "Chip Time": "0:39:45"
+    "Chip Time": "0:39:45",
+    "runner_id": "eamon-holland"
   },
   {
     "Position": 23,
     "Name": "Alana Casey",
     "Club": "Omagh Harriers",
     "Category": "F",
-    "Chip Time": "0:39:49"
+    "Chip Time": "0:39:49",
+    "runner_id": "alana-casey"
   },
   {
     "Position": 24,
     "Name": "Owen Falconer",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:40:24"
+    "Chip Time": "0:40:24",
+    "runner_id": "owen-falconer"
   },
   {
     "Position": 25,
@@ -179,63 +203,72 @@
     "Name": "Bobby Collins",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:40:36"
+    "Chip Time": "0:40:36",
+    "runner_id": "bobby-collins"
   },
   {
     "Position": 27,
     "Name": "Sean Gallagher",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:40:49"
+    "Chip Time": "0:40:49",
+    "runner_id": "sean-gallagher"
   },
   {
     "Position": 28,
     "Name": "Damien Coey",
     "Club": "Sperrin harriers",
     "Category": "M",
-    "Chip Time": "0:40:58"
+    "Chip Time": "0:40:58",
+    "runner_id": "damien-coey"
   },
   {
     "Position": 29,
     "Name": "Pauric Quinn",
     "Club": "Omagh Tri Club",
     "Category": "M",
-    "Chip Time": "0:41:07"
+    "Chip Time": "0:41:07",
+    "runner_id": "pauric-quinn"
   },
   {
     "Position": 30,
     "Name": "Liam Curran",
     "Club": "Omagh Tri Club",
     "Category": "M",
-    "Chip Time": "0:41:17"
+    "Chip Time": "0:41:17",
+    "runner_id": "liam-curran"
   },
   {
     "Position": 31,
     "Name": "Joey Kelly",
     "Club": "Loughmacrory",
     "Category": "M",
-    "Chip Time": "0:41:21"
+    "Chip Time": "0:41:21",
+    "runner_id": "joey-kelly"
   },
   {
     "Position": 32,
     "Name": "Joe McNulty",
     "Club": "Strabane health improvement project",
     "Category": "M",
-    "Chip Time": "0:41:30"
+    "Chip Time": "0:41:30",
+    "runner_id": "joe-mcnulty"
   },
   {
     "Position": 33,
     "Name": "Sandra Dunseath",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:41:30"
+    "Chip Time": "0:41:30",
+    "runner_id": "sandra-dunseath"
   },
   {
     "Position": 34,
     "Name": "Dominic Teague",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:41:36"
+    "Chip Time": "0:41:36",
+    "runner_id": "dominic-teague"
   },
   {
     "Position": 35,
@@ -249,77 +282,88 @@
     "Name": "Clare McGuire",
     "Club": "Run for Enda",
     "Category": "F",
-    "Chip Time": "0:42:30"
+    "Chip Time": "0:42:30",
+    "runner_id": "clare-maguire"
   },
   {
     "Position": 37,
     "Name": "Mark McConville",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:42:30"
+    "Chip Time": "0:42:30",
+    "runner_id": "mark-mcconville"
   },
   {
     "Position": 38,
     "Name": "David Loughran",
     "Club": "Madden Raparees",
     "Category": "M",
-    "Chip Time": "0:43:53"
+    "Chip Time": "0:43:53",
+    "runner_id": "david-loughran"
   },
   {
     "Position": 39,
     "Name": "Orlagh McAnespie",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:44:17"
+    "Chip Time": "0:44:17",
+    "runner_id": "orlagh-mcanespie"
   },
   {
     "Position": 40,
     "Name": "Paddy Mullan",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:44:23"
+    "Chip Time": "0:44:23",
+    "runner_id": "paddy-mullan"
   },
   {
     "Position": 41,
     "Name": "Niamh Heaney",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:44:23"
+    "Chip Time": "0:44:23",
+    "runner_id": "niamh-heaney"
   },
   {
     "Position": 42,
     "Name": "Bernie McQuade",
     "Club": "Run for Enda",
     "Category": "F",
-    "Chip Time": "0:44:23"
+    "Chip Time": "0:44:23",
+    "runner_id": "bernie-mcquade"
   },
   {
     "Position": 43,
     "Name": "Meabh Bradley",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:44:27"
+    "Chip Time": "0:44:27",
+    "runner_id": "meabh-bradley"
   },
   {
     "Position": 44,
     "Name": "Therese Connery",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:45:09"
+    "Chip Time": "0:45:09",
+    "runner_id": "therese-connery"
   },
   {
     "Position": 45,
     "Name": "Shannon Grimes",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:45:16"
+    "Chip Time": "0:45:16",
+    "runner_id": "shannon-grimes"
   },
   {
     "Position": 46,
     "Name": "Joseph Clancy",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:45:24"
+    "Chip Time": "0:45:24",
+    "runner_id": "joseph-clancy"
   },
   {
     "Position": 47,
@@ -333,21 +377,24 @@
     "Name": "Maria Curran",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:47:21"
+    "Chip Time": "0:47:21",
+    "runner_id": "maria-curran"
   },
   {
     "Position": 49,
     "Name": "Michelle O'Neill",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:47:24"
+    "Chip Time": "0:47:24",
+    "runner_id": "michelle-oneill"
   },
   {
     "Position": 50,
     "Name": "Ciara Gallagher",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:47:35"
+    "Chip Time": "0:47:35",
+    "runner_id": "ciara-gallagher"
   },
   {
     "Position": 51,
@@ -361,272 +408,311 @@
     "Name": "Mairead Sweeney",
     "Club": "Run for Enda",
     "Category": "F",
-    "Chip Time": "0:47:55"
+    "Chip Time": "0:47:55",
+    "runner_id": "mairead-sweeney"
   },
   {
     "Position": 53,
     "Name": "Alison Monteith",
     "Club": "Run for Enda",
     "Category": "F",
-    "Chip Time": "0:47:57"
+    "Chip Time": "0:47:57",
+    "runner_id": "alison-monteith"
   },
   {
     "Position": 54,
     "Name": "Ann Mellon",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:48:03"
+    "Chip Time": "0:48:03",
+    "runner_id": "ann-mellon"
   },
   {
     "Position": 55,
     "Name": "Ailish Taggart",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:49:34"
+    "Chip Time": "0:49:34",
+    "runner_id": "ailish-taggart"
   },
   {
     "Position": 56,
     "Name": "Gerry McDermot",
     "Club": "Run for Enda",
     "Category": "M",
-    "Chip Time": "0:50:00"
+    "Chip Time": "0:50:00",
+    "runner_id": "gerry-mcdermott"
   },
   {
     "Position": 57,
     "Name": "Jessica Harkness",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:50:10"
+    "Chip Time": "0:50:10",
+    "runner_id": "jessica-harkness"
   },
   {
     "Position": 58,
     "Name": "Alyson Noone",
     "Club": "Run for Enda",
     "Category": "F",
-    "Chip Time": "0:50:30"
+    "Chip Time": "0:50:30",
+    "runner_id": "alyson-noone"
   },
   {
     "Position": 59,
     "Name": "Leona Moxon",
     "Club": "Carmen Runners",
     "Category": "F",
-    "Chip Time": "0:50:49"
+    "Chip Time": "0:50:49",
+    "runner_id": "leona-moxon"
   },
   {
     "Position": 60,
     "Name": "Roger Harkness",
     "Club": "Wednesday Club",
     "Category": "M",
-    "Chip Time": "0:51:24"
+    "Chip Time": "0:51:24",
+    "runner_id": "roger-harkness"
   },
   {
     "Position": 61,
     "Name": "Reanna Harkness",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:51:26"
+    "Chip Time": "0:51:26",
+    "runner_id": "reanna-harkness"
   },
   {
     "Position": 62,
     "Name": "Sean Curran",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:51:53"
+    "Chip Time": "0:51:53",
+    "runner_id": "sean-curran"
   },
   {
     "Position": 63,
     "Name": "Maeve McCullagh",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:51:54"
+    "Chip Time": "0:51:54",
+    "runner_id": "maeve-mc-cullagh"
   },
   {
     "Position": 64,
     "Name": "Caoimhe Clancey",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:51:59"
+    "Chip Time": "0:51:59",
+    "runner_id": "caoimhe-clancy"
   },
   {
     "Position": 65,
     "Name": "Jane Kelly",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:52:00"
+    "Chip Time": "0:52:00",
+    "runner_id": "jane-kelly"
   },
   {
     "Position": 66,
     "Name": "Geraldine Donnelly",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:52:00"
+    "Chip Time": "0:52:00",
+    "runner_id": "geraldine-donnelly"
   },
   {
     "Position": 67,
     "Name": "Siobhan McDaid",
     "Club": "Carmen Runners",
     "Category": "F",
-    "Chip Time": "0:52:38"
+    "Chip Time": "0:52:38",
+    "runner_id": "siobhan-mcdaid"
   },
   {
     "Position": 68,
     "Name": "Cathal McElhone",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:52:42"
+    "Chip Time": "0:52:42",
+    "runner_id": "cathal-mc-elhone"
   },
   {
     "Position": 69,
     "Name": "Kieran McHugh",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:52:46"
+    "Chip Time": "0:52:46",
+    "runner_id": "kieran-mchugh"
   },
   {
     "Position": 70,
     "Name": "Anne Matterson",
     "Club": "Magherafelt harriers",
     "Category": "F",
-    "Chip Time": "0:53:01"
+    "Chip Time": "0:53:01",
+    "runner_id": "anne-masterson"
   },
   {
     "Position": 71,
     "Name": "Orla McCullagh",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:53:55"
+    "Chip Time": "0:53:55",
+    "runner_id": "orla-mc-cullagh"
   },
   {
     "Position": 72,
     "Name": "Gemma O'Brien",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:54:02"
+    "Chip Time": "0:54:02",
+    "runner_id": "gemma-obrien"
   },
   {
     "Position": 73,
     "Name": "Terri Herron",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:54:54"
+    "Chip Time": "0:54:54",
+    "runner_id": "terri-herron"
   },
   {
     "Position": 74,
     "Name": "Carmel Leonard",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:55:13"
+    "Chip Time": "0:55:13",
+    "runner_id": "carmel-leonard"
   },
   {
     "Position": 75,
     "Name": "Donna Wiggett",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:55:30"
+    "Chip Time": "0:55:30",
+    "runner_id": "donna-wiggett"
   },
   {
     "Position": 76,
     "Name": "Mary Strudley",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:56:33"
+    "Chip Time": "0:56:33",
+    "runner_id": "mary-strudley"
   },
   {
     "Position": 77,
     "Name": "Catherine McCallan",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:57:00"
+    "Chip Time": "0:57:00",
+    "runner_id": "catherine-mccallan"
   },
   {
     "Position": 78,
     "Name": "Maureen Ennis",
     "Club": "",
     "Category": "F",
-    "Chip Time": "0:57:00"
+    "Chip Time": "0:57:00",
+    "runner_id": "maureen-ennis"
   },
   {
     "Position": 79,
     "Name": "Greg McMullan",
     "Club": "Knockmany Running Club",
     "Category": "M",
-    "Chip Time": "0:58:09"
+    "Chip Time": "0:58:09",
+    "runner_id": "greg-mc-mullan"
   },
   {
     "Position": 80,
     "Name": "Margaret Moxon",
     "Club": "Run For Enda",
     "Category": "F",
-    "Chip Time": "0:58:38"
+    "Chip Time": "0:58:38",
+    "runner_id": "margaret-moxon"
   },
   {
     "Position": 81,
     "Name": "Brigid Keenan",
     "Club": "Run For Enda",
     "Category": "F",
-    "Chip Time": "0:58:38"
+    "Chip Time": "0:58:38",
+    "runner_id": "brigid-keenan"
   },
   {
     "Position": 82,
     "Name": "Raymond Gallagher",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:58:47"
+    "Chip Time": "0:58:47",
+    "runner_id": "raymond-gallagher"
   },
   {
     "Position": 83,
     "Name": "Irene Mallon",
     "Club": "Galbally",
     "Category": "F",
-    "Chip Time": "0:59:42"
+    "Chip Time": "0:59:42",
+    "runner_id": "irene-mallon"
   },
   {
     "Position": 84,
     "Name": "Siobhan Sweeney",
     "Club": "",
     "Category": "F",
-    "Chip Time": "1:01:34"
+    "Chip Time": "1:01:34",
+    "runner_id": "siobhan-sweeney"
   },
   {
     "Position": 85,
     "Name": "Yvonne Gavin Rogers",
     "Club": "",
     "Category": "F",
-    "Chip Time": "1:04:02"
+    "Chip Time": "1:04:02",
+    "runner_id": "yvonne-gavin-rogers"
   },
   {
     "Position": 86,
     "Name": "Mackie Family",
     "Club": "",
     "Category": "",
-    "Chip Time": "1:40:00"
+    "Chip Time": "1:40:00",
+    "runner_id": "mackie-family"
   },
   {
     "Position": 87,
     "Name": "Evie McGuinness",
     "Club": "",
     "Category": "F",
-    "Chip Time": "1:48:00"
+    "Chip Time": "1:48:00",
+    "runner_id": "evie-mcguinness"
   },
   {
     "Position": 88,
     "Name": "Marian Bradley",
     "Club": "",
     "Category": "F",
-    "Chip Time": "2:00:02"
+    "Chip Time": "2:00:02",
+    "runner_id": "marian-bradley"
   },
   {
     "Position": 89,
     "Name": "Finola Bradley",
     "Club": "",
     "Category": "F",
-    "Chip Time": "2:00:02"
+    "Chip Time": "2:00:02",
+    "runner_id": "finola-bradley"
   },
   {
     "Position": 90,
     "Name": "Ronan Bradley",
     "Club": "",
     "Category": "M",
-    "Chip Time": "2:00:02"
+    "Chip Time": "2:00:02",
+    "runner_id": "ronan-bradley"
   }
 ]

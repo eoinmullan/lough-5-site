@@ -6,7 +6,8 @@
     "Club": "City of Derry",
     "Category": "MO",
     "Chip Time": "0:26:43",
-    "Gun Time": "0:26:43"
+    "Gun Time": "0:26:43",
+    "runner_id": "emmett-mcginty"
   },
   {
     "Position": 2,
@@ -24,7 +25,8 @@
     "Club": "Foyle Valley",
     "Category": "MO",
     "Chip Time": "0:27:51",
-    "Gun Time": "0:27:51"
+    "Gun Time": "0:27:51",
+    "runner_id": "mark-long"
   },
   {
     "Position": 4,
@@ -33,7 +35,8 @@
     "Club": "City of Derry",
     "Category": "MO",
     "Chip Time": "0:27:54",
-    "Gun Time": "0:27:54"
+    "Gun Time": "0:27:54",
+    "runner_id": "brendan-murphy"
   },
   {
     "Position": 5,
@@ -42,7 +45,8 @@
     "Club": "City of Derry",
     "Category": "FO",
     "Chip Time": "0:28:06",
-    "Gun Time": "0:28:07"
+    "Gun Time": "0:28:07",
+    "runner_id": "catherine-whoriskey"
   },
   {
     "Position": 6,
@@ -51,7 +55,8 @@
     "Club": "City of Derry",
     "Category": "M45",
     "Chip Time": "0:28:19",
-    "Gun Time": "0:28:19"
+    "Gun Time": "0:28:19",
+    "runner_id": "paul-mccafferty"
   },
   {
     "Position": 7,
@@ -60,7 +65,8 @@
     "Club": "Letterkenny AC",
     "Category": "FO",
     "Chip Time": "0:28:21",
-    "Gun Time": "0:28:21"
+    "Gun Time": "0:28:21",
+    "runner_id": "annmarie-mcglynn"
   },
   {
     "Position": 8,
@@ -69,7 +75,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:28:58",
-    "Gun Time": "0:28:59"
+    "Gun Time": "0:28:59",
+    "runner_id": "delfim-pimentel"
   },
   {
     "Position": 9,
@@ -78,7 +85,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:29:03",
-    "Gun Time": "0:29:04"
+    "Gun Time": "0:29:04",
+    "runner_id": "paul-kelly"
   },
   {
     "Position": 10,
@@ -87,7 +95,8 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "Chip Time": "0:29:07",
-    "Gun Time": "0:29:08"
+    "Gun Time": "0:29:08",
+    "runner_id": "chris-mc-guigan"
   },
   {
     "Position": 11,
@@ -96,7 +105,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M35",
     "Chip Time": "0:29:28",
-    "Gun Time": "0:29:29"
+    "Gun Time": "0:29:29",
+    "runner_id": "brian-taggart"
   },
   {
     "Position": 12,
@@ -105,7 +115,8 @@
     "Club": "Omagh Harriers",
     "Category": "MU19",
     "Chip Time": "0:29:35",
-    "Gun Time": "0:29:35"
+    "Gun Time": "0:29:35",
+    "runner_id": "matthew-neill"
   },
   {
     "Position": 13,
@@ -114,7 +125,8 @@
     "Club": "Omagh Harriers",
     "Category": "M35",
     "Chip Time": "0:29:38",
-    "Gun Time": "0:29:38"
+    "Gun Time": "0:29:38",
+    "runner_id": "martin-mcivor"
   },
   {
     "Position": 14,
@@ -123,7 +135,8 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "Chip Time": "0:29:52",
-    "Gun Time": "0:29:52"
+    "Gun Time": "0:29:52",
+    "runner_id": "seanie-meyler"
   },
   {
     "Position": 15,
@@ -132,7 +145,8 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "Chip Time": "0:30:05",
-    "Gun Time": "0:30:05"
+    "Gun Time": "0:30:05",
+    "runner_id": "pete-neill"
   },
   {
     "Position": 16,
@@ -141,7 +155,8 @@
     "Club": "Omagh Tri Club",
     "Category": "MO",
     "Chip Time": "0:30:08",
-    "Gun Time": "0:30:11"
+    "Gun Time": "0:30:11",
+    "runner_id": "lorcan-healy"
   },
   {
     "Position": 17,
@@ -150,7 +165,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "Chip Time": "0:30:10",
-    "Gun Time": "0:30:12"
+    "Gun Time": "0:30:12",
+    "runner_id": "marty-mcdermott"
   },
   {
     "Position": 18,
@@ -159,7 +175,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:30:37",
-    "Gun Time": "0:30:39"
+    "Gun Time": "0:30:39",
+    "runner_id": "martin-loughran"
   },
   {
     "Position": 19,
@@ -168,7 +185,8 @@
     "Club": "Omagh Harriers",
     "Category": "FO",
     "Chip Time": "0:30:53",
-    "Gun Time": "0:30:54"
+    "Gun Time": "0:30:54",
+    "runner_id": "michelle-sturm"
   },
   {
     "Position": 20,
@@ -186,7 +204,8 @@
     "Club": "Croydon Harriers",
     "Category": "MO",
     "Chip Time": "0:31:04",
-    "Gun Time": "0:31:05"
+    "Gun Time": "0:31:05",
+    "runner_id": "david-brown"
   },
   {
     "Position": 22,
@@ -204,7 +223,8 @@
     "Club": "Dromore Running Club",
     "Category": "MO",
     "Chip Time": "0:31:14",
-    "Gun Time": "0:31:14"
+    "Gun Time": "0:31:14",
+    "runner_id": "conor-maguire"
   },
   {
     "Position": 24,
@@ -213,7 +233,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:31:14",
-    "Gun Time": "0:31:14"
+    "Gun Time": "0:31:14",
+    "runner_id": "sara-moore"
   },
   {
     "Position": 25,
@@ -222,7 +243,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "MU19",
     "Chip Time": "0:31:10",
-    "Gun Time": "0:31:15"
+    "Gun Time": "0:31:15",
+    "runner_id": "brandon-mcgrinder"
   },
   {
     "Position": 26,
@@ -231,7 +253,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "M35",
     "Chip Time": "0:31:14",
-    "Gun Time": "0:31:16"
+    "Gun Time": "0:31:16",
+    "runner_id": "james-johnson"
   },
   {
     "Position": 27,
@@ -240,7 +263,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "M35",
     "Chip Time": "0:31:16",
-    "Gun Time": "0:31:17"
+    "Gun Time": "0:31:17",
+    "runner_id": "damien-holleran"
   },
   {
     "Position": 28,
@@ -249,7 +273,8 @@
     "Club": "Acorns AC",
     "Category": "F35",
     "Chip Time": "0:31:16",
-    "Gun Time": "0:31:18"
+    "Gun Time": "0:31:18",
+    "runner_id": "karen-alexander"
   },
   {
     "Position": 29,
@@ -258,7 +283,8 @@
     "Club": "Sperrin Harriers",
     "Category": "MO",
     "Chip Time": "0:31:18",
-    "Gun Time": "0:31:22"
+    "Gun Time": "0:31:22",
+    "runner_id": "connor-martin"
   },
   {
     "Position": 30,
@@ -267,7 +293,8 @@
     "Club": "Acorns AC",
     "Category": "M35",
     "Chip Time": "0:31:42",
-    "Gun Time": "0:31:45"
+    "Gun Time": "0:31:45",
+    "runner_id": "enda-daly"
   },
   {
     "Position": 31,
@@ -276,7 +303,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "M35",
     "Chip Time": "0:31:54",
-    "Gun Time": "0:31:56"
+    "Gun Time": "0:31:56",
+    "runner_id": "david-somerville"
   },
   {
     "Position": 32,
@@ -294,7 +322,8 @@
     "Club": "Sperrin Harriers",
     "Category": "FO",
     "Chip Time": "0:31:57",
-    "Gun Time": "0:31:59"
+    "Gun Time": "0:31:59",
+    "runner_id": "pauline-mcgurren"
   },
   {
     "Position": 34,
@@ -303,7 +332,8 @@
     "Club": "Rock St. Patricks",
     "Category": "MO",
     "Chip Time": "0:31:51",
-    "Gun Time": "0:32:04"
+    "Gun Time": "0:32:04",
+    "runner_id": "john-mcgarrity"
   },
   {
     "Position": 35,
@@ -312,7 +342,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M45",
     "Chip Time": "0:32:07",
-    "Gun Time": "0:32:07"
+    "Gun Time": "0:32:07",
+    "runner_id": "michael-mcgrinder"
   },
   {
     "Position": 36,
@@ -321,7 +352,8 @@
     "Club": "Ballymena Runners",
     "Category": "F45",
     "Chip Time": "0:32:14",
-    "Gun Time": "0:32:16"
+    "Gun Time": "0:32:16",
+    "runner_id": "pauline-thoron"
   },
   {
     "Position": 37,
@@ -339,7 +371,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M45",
     "Chip Time": "0:32:39",
-    "Gun Time": "0:32:41"
+    "Gun Time": "0:32:41",
+    "runner_id": "shane-mcgale"
   },
   {
     "Position": 39,
@@ -348,7 +381,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:32:50",
-    "Gun Time": "0:32:50"
+    "Gun Time": "0:32:50",
+    "runner_id": "conor-fullen"
   },
   {
     "Position": 40,
@@ -357,7 +391,8 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "Chip Time": "0:32:50",
-    "Gun Time": "0:32:52"
+    "Gun Time": "0:32:52",
+    "runner_id": "terry-canning"
   },
   {
     "Position": 41,
@@ -375,7 +410,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:32:55",
-    "Gun Time": "0:32:57"
+    "Gun Time": "0:32:57",
+    "runner_id": "robert-gallagher"
   },
   {
     "Position": 43,
@@ -384,7 +420,8 @@
     "Club": "JOG LISBURN RUNNING CLUB",
     "Category": "M45",
     "Chip Time": "0:32:53",
-    "Gun Time": "0:32:58"
+    "Gun Time": "0:32:58",
+    "runner_id": "david-wright"
   },
   {
     "Position": 44,
@@ -393,7 +430,8 @@
     "Club": "Greencastle AC",
     "Category": "M45",
     "Chip Time": "0:33:05",
-    "Gun Time": "0:33:05"
+    "Gun Time": "0:33:05",
+    "runner_id": "vincy-hollywood"
   },
   {
     "Position": 45,
@@ -402,7 +440,8 @@
     "Club": "Muck Hogs",
     "Category": "M35",
     "Chip Time": "0:33:07",
-    "Gun Time": "0:33:10"
+    "Gun Time": "0:33:10",
+    "runner_id": "jokey-mcsorley"
   },
   {
     "Position": 46,
@@ -411,7 +450,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:33:04",
-    "Gun Time": "0:33:13"
+    "Gun Time": "0:33:13",
+    "runner_id": "dylan-sloan"
   },
   {
     "Position": 47,
@@ -420,7 +460,8 @@
     "Club": "Omagh Harriers",
     "Category": "M45",
     "Chip Time": "0:33:12",
-    "Gun Time": "0:33:14"
+    "Gun Time": "0:33:14",
+    "runner_id": "barry-mcelduff"
   },
   {
     "Position": 48,
@@ -429,7 +470,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M40",
     "Chip Time": "0:33:29",
-    "Gun Time": "0:33:32"
+    "Gun Time": "0:33:32",
+    "runner_id": "geoff-sproule"
   },
   {
     "Position": 49,
@@ -438,7 +480,8 @@
     "Club": "Blood Sweat and Tears",
     "Category": "MO",
     "Chip Time": "0:33:18",
-    "Gun Time": "0:33:33"
+    "Gun Time": "0:33:33",
+    "runner_id": "steven-cairns"
   },
   {
     "Position": 50,
@@ -447,7 +490,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:33:18",
-    "Gun Time": "0:33:36"
+    "Gun Time": "0:33:36",
+    "runner_id": "ben-mccrory"
   },
   {
     "Position": 51,
@@ -456,7 +500,8 @@
     "Club": "Carrickmore",
     "Category": "M55",
     "Chip Time": "0:33:41",
-    "Gun Time": "0:33:42"
+    "Gun Time": "0:33:42",
+    "runner_id": "dominic-mccartan"
   },
   {
     "Position": 52,
@@ -474,7 +519,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M45",
     "Chip Time": "0:33:43",
-    "Gun Time": "0:33:46"
+    "Gun Time": "0:33:46",
+    "runner_id": "raymond-hoynes"
   },
   {
     "Position": 54,
@@ -483,7 +529,8 @@
     "Club": "Kildress",
     "Category": "MO",
     "Chip Time": "0:33:38",
-    "Gun Time": "0:33:51"
+    "Gun Time": "0:33:51",
+    "runner_id": "michael-gillespie"
   },
   {
     "Position": 55,
@@ -492,7 +539,8 @@
     "Club": "Omagh Harriers",
     "Category": "M35",
     "Chip Time": "0:33:49",
-    "Gun Time": "0:33:51"
+    "Gun Time": "0:33:51",
+    "runner_id": "mark-mc-connell"
   },
   {
     "Position": 56,
@@ -501,7 +549,8 @@
     "Club": "Knockmany Runners",
     "Category": "MO",
     "Chip Time": "0:33:56",
-    "Gun Time": "0:33:56"
+    "Gun Time": "0:33:56",
+    "runner_id": "joe-mccarroll"
   },
   {
     "Position": 57,
@@ -510,7 +559,8 @@
     "Club": "Old Timers",
     "Category": "MO",
     "Chip Time": "0:33:53",
-    "Gun Time": "0:33:59"
+    "Gun Time": "0:33:59",
+    "runner_id": "kieran-edgetron"
   },
   {
     "Position": 58,
@@ -519,7 +569,8 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "Chip Time": "0:33:57",
-    "Gun Time": "0:33:59"
+    "Gun Time": "0:33:59",
+    "runner_id": "james-mccrory"
   },
   {
     "Position": 59,
@@ -528,7 +579,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:33:54",
-    "Gun Time": "0:34:00"
+    "Gun Time": "0:34:00",
+    "runner_id": "paul-mcgirr"
   },
   {
     "Position": 60,
@@ -537,7 +589,8 @@
     "Club": "Blood Sweat and Tears",
     "Category": "MO",
     "Chip Time": "0:34:02",
-    "Gun Time": "0:34:04"
+    "Gun Time": "0:34:04",
+    "runner_id": "peadar-mccaul"
   },
   {
     "Position": 61,
@@ -546,7 +599,8 @@
     "Club": "Gortin",
     "Category": "MO",
     "Chip Time": "0:34:10",
-    "Gun Time": "0:34:10"
+    "Gun Time": "0:34:10",
+    "runner_id": "fearghal-ward"
   },
   {
     "Position": 62,
@@ -555,7 +609,8 @@
     "Club": "Omagh Harriers",
     "Category": "M60",
     "Chip Time": "0:34:15",
-    "Gun Time": "0:34:15"
+    "Gun Time": "0:34:15",
+    "runner_id": "brendan-montague"
   },
   {
     "Position": 63,
@@ -564,7 +619,8 @@
     "Club": "Sperrin Harriers",
     "Category": "MO",
     "Chip Time": "0:34:05",
-    "Gun Time": "0:34:16"
+    "Gun Time": "0:34:16",
+    "runner_id": "steven-fearon"
   },
   {
     "Position": 64,
@@ -573,7 +629,8 @@
     "Club": "Team McCarten",
     "Category": "MO",
     "Chip Time": "0:34:14",
-    "Gun Time": "0:34:16"
+    "Gun Time": "0:34:16",
+    "runner_id": "kevin-mccartan"
   },
   {
     "Position": 65,
@@ -582,7 +639,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:34:19",
-    "Gun Time": "0:34:19"
+    "Gun Time": "0:34:19",
+    "runner_id": "emma-rice"
   },
   {
     "Position": 66,
@@ -591,7 +649,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:34:10",
-    "Gun Time": "0:34:21"
+    "Gun Time": "0:34:21",
+    "runner_id": "oliver-donnelly"
   },
   {
     "Position": 67,
@@ -600,7 +659,8 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "Chip Time": "0:34:14",
-    "Gun Time": "0:34:22"
+    "Gun Time": "0:34:22",
+    "runner_id": "daryl-kelly"
   },
   {
     "Position": 68,
@@ -609,7 +669,8 @@
     "Club": "North Down AC",
     "Category": "M35",
     "Chip Time": "0:34:10",
-    "Gun Time": "0:34:22"
+    "Gun Time": "0:34:22",
+    "runner_id": "andrew-muir"
   },
   {
     "Position": 69,
@@ -618,7 +679,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:34:20",
-    "Gun Time": "0:34:24"
+    "Gun Time": "0:34:24",
+    "runner_id": "paul-harley"
   },
   {
     "Position": 70,
@@ -627,7 +689,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M45",
     "Chip Time": "0:34:23",
-    "Gun Time": "0:34:29"
+    "Gun Time": "0:34:29",
+    "runner_id": "roger-harkness"
   },
   {
     "Position": 71,
@@ -636,7 +699,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:34:14",
-    "Gun Time": "0:34:32"
+    "Gun Time": "0:34:32",
+    "runner_id": "darren-carter"
   },
   {
     "Position": 72,
@@ -645,7 +709,8 @@
     "Club": "Omagh St Enda's",
     "Category": "M35",
     "Chip Time": "0:34:33",
-    "Gun Time": "0:34:35"
+    "Gun Time": "0:34:35",
+    "runner_id": "hugh-sally"
   },
   {
     "Position": 73,
@@ -654,7 +719,8 @@
     "Club": "Carmen Runners",
     "Category": "MU19",
     "Chip Time": "0:34:37",
-    "Gun Time": "0:34:40"
+    "Gun Time": "0:34:40",
+    "runner_id": "darren-beattie"
   },
   {
     "Position": 74,
@@ -663,7 +729,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M40",
     "Chip Time": "0:34:38",
-    "Gun Time": "0:34:43"
+    "Gun Time": "0:34:43",
+    "runner_id": "owen-falconer"
   },
   {
     "Position": 75,
@@ -672,7 +739,8 @@
     "Club": "Run For Enda",
     "Category": "FU19",
     "Chip Time": "0:34:45",
-    "Gun Time": "0:34:45"
+    "Gun Time": "0:34:45",
+    "runner_id": "toni-moore"
   },
   {
     "Position": 76,
@@ -681,7 +749,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M40",
     "Chip Time": "0:34:25",
-    "Gun Time": "0:34:48"
+    "Gun Time": "0:34:48",
+    "runner_id": "oliver-barrett"
   },
   {
     "Position": 77,
@@ -690,7 +759,8 @@
     "Club": "Omagh Harriers",
     "Category": "M45",
     "Chip Time": "0:34:51",
-    "Gun Time": "0:34:53"
+    "Gun Time": "0:34:53",
+    "runner_id": "proinsias-mc-caughey"
   },
   {
     "Position": 78,
@@ -699,7 +769,8 @@
     "Club": "Moneyglass & District Runners",
     "Category": "M40",
     "Chip Time": "0:34:46",
-    "Gun Time": "0:34:55"
+    "Gun Time": "0:34:55",
+    "runner_id": "dominic-gribbon"
   },
   {
     "Position": 79,
@@ -708,7 +779,8 @@
     "Club": "Old Timers",
     "Category": "MO",
     "Chip Time": "0:34:51",
-    "Gun Time": "0:34:59"
+    "Gun Time": "0:34:59",
+    "runner_id": "damien-mc-kenna"
   },
   {
     "Position": 80,
@@ -717,7 +789,8 @@
     "Club": "Magherafelt Harriers",
     "Category": "M45",
     "Chip Time": "0:34:46",
-    "Gun Time": "0:34:59"
+    "Gun Time": "0:34:59",
+    "runner_id": "martin-conway"
   },
   {
     "Position": 81,
@@ -726,7 +799,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "Chip Time": "0:35:04",
-    "Gun Time": "0:35:04"
+    "Gun Time": "0:35:04",
+    "runner_id": "kevin-devlin"
   },
   {
     "Position": 82,
@@ -735,7 +809,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:34:55",
-    "Gun Time": "0:35:05"
+    "Gun Time": "0:35:05",
+    "runner_id": "terry-mccullagh"
   },
   {
     "Position": 83,
@@ -744,7 +819,8 @@
     "Club": "Blood Sweat and Tears",
     "Category": "M45",
     "Chip Time": "0:34:58",
-    "Gun Time": "0:35:06"
+    "Gun Time": "0:35:06",
+    "runner_id": "keith-hardy"
   },
   {
     "Position": 84,
@@ -753,7 +829,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:34:53",
-    "Gun Time": "0:35:09"
+    "Gun Time": "0:35:09",
+    "runner_id": "cathal-armstrong"
   },
   {
     "Position": 85,
@@ -762,7 +839,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "MO",
     "Chip Time": "0:34:57",
-    "Gun Time": "0:35:10"
+    "Gun Time": "0:35:10",
+    "runner_id": "stephen-dickson"
   },
   {
     "Position": 86,
@@ -771,7 +849,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:35:09",
-    "Gun Time": "0:35:13"
+    "Gun Time": "0:35:13",
+    "runner_id": "scott-mcivor"
   },
   {
     "Position": 87,
@@ -780,7 +859,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:34:54",
-    "Gun Time": "0:35:14"
+    "Gun Time": "0:35:14",
+    "runner_id": "padraig-donovan"
   },
   {
     "Position": 88,
@@ -789,7 +869,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:35:12",
-    "Gun Time": "0:35:14"
+    "Gun Time": "0:35:14",
+    "runner_id": "helena-quinn"
   },
   {
     "Position": 89,
@@ -798,7 +879,8 @@
     "Club": "Carmen Runners",
     "Category": "M55",
     "Chip Time": "0:35:13",
-    "Gun Time": "0:35:15"
+    "Gun Time": "0:35:15",
+    "runner_id": "bobby-collins"
   },
   {
     "Position": 90,
@@ -807,7 +889,8 @@
     "Club": "Run For Enda",
     "Category": "FU19",
     "Chip Time": "0:35:10",
-    "Gun Time": "0:35:15"
+    "Gun Time": "0:35:15",
+    "runner_id": "aideen-casey"
   },
   {
     "Position": 91,
@@ -825,7 +908,8 @@
     "Club": "Acorns AC",
     "Category": "M35",
     "Chip Time": "0:35:16",
-    "Gun Time": "0:35:19"
+    "Gun Time": "0:35:19",
+    "runner_id": "niall-hassan"
   },
   {
     "Position": 93,
@@ -834,7 +918,8 @@
     "Club": "Omagh Harriers",
     "Category": "M40",
     "Chip Time": "0:35:20",
-    "Gun Time": "0:35:22"
+    "Gun Time": "0:35:22",
+    "runner_id": "james-mc-cabe"
   },
   {
     "Position": 94,
@@ -843,7 +928,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M35",
     "Chip Time": "0:35:21",
-    "Gun Time": "0:35:24"
+    "Gun Time": "0:35:24",
+    "runner_id": "david-mcnulty"
   },
   {
     "Position": 95,
@@ -861,7 +947,8 @@
     "Club": "Acorns AC",
     "Category": "FO",
     "Chip Time": "0:35:21",
-    "Gun Time": "0:35:28"
+    "Gun Time": "0:35:28",
+    "runner_id": "leanne-sands"
   },
   {
     "Position": 97,
@@ -879,7 +966,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:35:15",
-    "Gun Time": "0:35:32"
+    "Gun Time": "0:35:32",
+    "runner_id": "shane-coyle"
   },
   {
     "Position": 99,
@@ -888,7 +976,8 @@
     "Club": "Enniskillen Running Club",
     "Category": "M40",
     "Chip Time": "0:35:27",
-    "Gun Time": "0:35:33"
+    "Gun Time": "0:35:33",
+    "runner_id": "stephen-mcelroy"
   },
   {
     "Position": 100,
@@ -897,7 +986,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:35:23",
-    "Gun Time": "0:35:40"
+    "Gun Time": "0:35:40",
+    "runner_id": "joe-wilson"
   },
   {
     "Position": 101,
@@ -906,7 +996,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:35:42",
-    "Gun Time": "0:35:43"
+    "Gun Time": "0:35:43",
+    "runner_id": "cathair-gallagher"
   },
   {
     "Position": 102,
@@ -915,7 +1006,8 @@
     "Club": "Loughmacrory",
     "Category": "MU19",
     "Chip Time": "0:35:43",
-    "Gun Time": "0:35:45"
+    "Gun Time": "0:35:45",
+    "runner_id": "shane-grimes"
   },
   {
     "Position": 103,
@@ -924,7 +1016,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:35:41",
-    "Gun Time": "0:35:45"
+    "Gun Time": "0:35:45",
+    "runner_id": "alexandre-pimentel"
   },
   {
     "Position": 104,
@@ -933,7 +1026,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:35:42",
-    "Gun Time": "0:35:46"
+    "Gun Time": "0:35:46",
+    "runner_id": "paul-hughes"
   },
   {
     "Position": 105,
@@ -942,7 +1036,8 @@
     "Club": "Omagh Tri Club",
     "Category": "F40",
     "Chip Time": "0:35:40",
-    "Gun Time": "0:35:47"
+    "Gun Time": "0:35:47",
+    "runner_id": "sinead-mccann"
   },
   {
     "Position": 106,
@@ -951,7 +1046,8 @@
     "Club": "University of Nottingham AC",
     "Category": "MO",
     "Chip Time": "0:35:35",
-    "Gun Time": "0:35:49"
+    "Gun Time": "0:35:49",
+    "runner_id": "allan-wilson"
   },
   {
     "Position": 107,
@@ -960,7 +1056,8 @@
     "Club": "Pace Running Club",
     "Category": "MO",
     "Chip Time": "0:35:47",
-    "Gun Time": "0:35:50"
+    "Gun Time": "0:35:50",
+    "runner_id": "aidan-doyle"
   },
   {
     "Position": 108,
@@ -969,7 +1066,8 @@
     "Club": "Knockmany Runners",
     "Category": "M60",
     "Chip Time": "0:35:40",
-    "Gun Time": "0:35:51"
+    "Gun Time": "0:35:51",
+    "runner_id": "tommy-gartland"
   },
   {
     "Position": 109,
@@ -978,7 +1076,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:35:44",
-    "Gun Time": "0:35:53"
+    "Gun Time": "0:35:53",
+    "runner_id": "daniel-fox"
   },
   {
     "Position": 110,
@@ -987,7 +1086,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:35:55",
-    "Gun Time": "0:35:55"
+    "Gun Time": "0:35:55",
+    "runner_id": "finbar-kelly"
   },
   {
     "Position": 111,
@@ -996,7 +1096,8 @@
     "Club": "Pomeroy Runners",
     "Category": "M50",
     "Chip Time": "0:35:49",
-    "Gun Time": "0:35:56"
+    "Gun Time": "0:35:56",
+    "runner_id": "seamus-mcgarvey"
   },
   {
     "Position": 112,
@@ -1005,7 +1106,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "F45",
     "Chip Time": "0:35:55",
-    "Gun Time": "0:35:58"
+    "Gun Time": "0:35:58",
+    "runner_id": "ita-kelly"
   },
   {
     "Position": 113,
@@ -1014,7 +1116,8 @@
     "Club": "Acorns AC",
     "Category": "M45",
     "Chip Time": "0:35:55",
-    "Gun Time": "0:35:59"
+    "Gun Time": "0:35:59",
+    "runner_id": "barry-loughran"
   },
   {
     "Position": 114,
@@ -1023,7 +1126,8 @@
     "Club": "Carmen Runners",
     "Category": "FO",
     "Chip Time": "0:35:52",
-    "Gun Time": "0:35:59"
+    "Gun Time": "0:35:59",
+    "runner_id": "ciara-coyle"
   },
   {
     "Position": 115,
@@ -1032,7 +1136,8 @@
     "Club": "Omagh Harriers",
     "Category": "FU19",
     "Chip Time": "0:35:54",
-    "Gun Time": "0:35:59"
+    "Gun Time": "0:35:59",
+    "runner_id": "sorcha-mullan"
   },
   {
     "Position": 116,
@@ -1041,7 +1146,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M55",
     "Chip Time": "0:35:52",
-    "Gun Time": "0:36:00"
+    "Gun Time": "0:36:00",
+    "runner_id": "barry-mccann"
   },
   {
     "Position": 117,
@@ -1050,7 +1156,8 @@
     "Club": "Dregish GAC",
     "Category": "MO",
     "Chip Time": "0:35:27",
-    "Gun Time": "0:36:07"
+    "Gun Time": "0:36:07",
+    "runner_id": "jordan-quinn"
   },
   {
     "Position": 118,
@@ -1059,7 +1166,8 @@
     "Club": "Loughmacrory",
     "Category": "MU19",
     "Chip Time": "0:36:10",
-    "Gun Time": "0:36:12"
+    "Gun Time": "0:36:12",
+    "runner_id": "ronan-curran"
   },
   {
     "Position": 119,
@@ -1077,7 +1185,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:36:00",
-    "Gun Time": "0:36:17"
+    "Gun Time": "0:36:17",
+    "runner_id": "john-mchugh"
   },
   {
     "Position": 121,
@@ -1086,7 +1195,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "MO",
     "Chip Time": "0:36:17",
-    "Gun Time": "0:36:17"
+    "Gun Time": "0:36:17",
+    "runner_id": "albert-little"
   },
   {
     "Position": 122,
@@ -1095,7 +1205,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M45",
     "Chip Time": "0:36:16",
-    "Gun Time": "0:36:19"
+    "Gun Time": "0:36:19",
+    "runner_id": "dominic-carlin"
   },
   {
     "Position": 123,
@@ -1113,7 +1224,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "Chip Time": "0:36:13",
-    "Gun Time": "0:36:22"
+    "Gun Time": "0:36:22",
+    "runner_id": "jason-oneill"
   },
   {
     "Position": 125,
@@ -1131,7 +1243,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:36:00",
-    "Gun Time": "0:36:24"
+    "Gun Time": "0:36:24",
+    "runner_id": "johnny-feenan"
   },
   {
     "Position": 127,
@@ -1140,7 +1253,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:36:09",
-    "Gun Time": "0:36:28"
+    "Gun Time": "0:36:28",
+    "runner_id": "martin-fox"
   },
   {
     "Position": 128,
@@ -1149,7 +1263,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:36:29",
-    "Gun Time": "0:36:33"
+    "Gun Time": "0:36:33",
+    "runner_id": "thomas-hamilton"
   },
   {
     "Position": 129,
@@ -1158,7 +1273,8 @@
     "Club": "Sperrin Harriers",
     "Category": "F40",
     "Chip Time": "0:36:28",
-    "Gun Time": "0:36:38"
+    "Gun Time": "0:36:38",
+    "runner_id": "angela-oneill"
   },
   {
     "Position": 130,
@@ -1167,7 +1283,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:36:14",
-    "Gun Time": "0:36:39"
+    "Gun Time": "0:36:39",
+    "runner_id": "art-cook"
   },
   {
     "Position": 131,
@@ -1176,7 +1293,8 @@
     "Club": "Kildress",
     "Category": "MO",
     "Chip Time": "0:36:32",
-    "Gun Time": "0:36:45"
+    "Gun Time": "0:36:45",
+    "runner_id": "eoghan-mcelduff"
   },
   {
     "Position": 132,
@@ -1185,7 +1303,8 @@
     "Club": "",
     "Category": "F50",
     "Chip Time": "0:36:40",
-    "Gun Time": "0:36:51"
+    "Gun Time": "0:36:51",
+    "runner_id": "francie-gallagher"
   },
   {
     "Position": 133,
@@ -1203,7 +1322,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "Chip Time": "0:36:44",
-    "Gun Time": "0:36:54"
+    "Gun Time": "0:36:54",
+    "runner_id": "damien-mccaffrey"
   },
   {
     "Position": 135,
@@ -1212,7 +1332,8 @@
     "Club": "Knockmany Runners",
     "Category": "M45",
     "Chip Time": "0:36:48",
-    "Gun Time": "0:36:55"
+    "Gun Time": "0:36:55",
+    "runner_id": "brian-neill"
   },
   {
     "Position": 136,
@@ -1221,7 +1342,8 @@
     "Club": "Omagh Harriers",
     "Category": "F45",
     "Chip Time": "0:36:56",
-    "Gun Time": "0:37:00"
+    "Gun Time": "0:37:00",
+    "runner_id": "aileen-mc-cann"
   },
   {
     "Position": 137,
@@ -1230,7 +1352,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:36:52",
-    "Gun Time": "0:37:01"
+    "Gun Time": "0:37:01",
+    "runner_id": "catherine-oneill"
   },
   {
     "Position": 138,
@@ -1239,7 +1362,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:36:58",
-    "Gun Time": "0:37:01"
+    "Gun Time": "0:37:01",
+    "runner_id": "enda-harpur"
   },
   {
     "Position": 139,
@@ -1248,7 +1372,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "F55",
     "Chip Time": "0:36:59",
-    "Gun Time": "0:37:03"
+    "Gun Time": "0:37:03",
+    "runner_id": "irene-clements"
   },
   {
     "Position": 140,
@@ -1257,7 +1382,8 @@
     "Club": "OSE",
     "Category": "M35",
     "Chip Time": "0:37:04",
-    "Gun Time": "0:37:10"
+    "Gun Time": "0:37:10",
+    "runner_id": "aaron-mcenhill"
   },
   {
     "Position": 141,
@@ -1266,7 +1392,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:36:50",
-    "Gun Time": "0:37:11"
+    "Gun Time": "0:37:11",
+    "runner_id": "eoghan-mcgarvey"
   },
   {
     "Position": 142,
@@ -1284,7 +1411,8 @@
     "Club": "Sperrin Harriers",
     "Category": "FO",
     "Chip Time": "0:37:02",
-    "Gun Time": "0:37:15"
+    "Gun Time": "0:37:15",
+    "runner_id": "emily-mcgowan"
   },
   {
     "Position": 144,
@@ -1293,7 +1421,8 @@
     "Club": "Muck Hogs",
     "Category": "M50",
     "Chip Time": "0:37:06",
-    "Gun Time": "0:37:16"
+    "Gun Time": "0:37:16",
+    "runner_id": "cathal-mc-enhill"
   },
   {
     "Position": 145,
@@ -1302,7 +1431,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:37:14",
-    "Gun Time": "0:37:18"
+    "Gun Time": "0:37:18",
+    "runner_id": "philip-mcardle"
   },
   {
     "Position": 146,
@@ -1311,7 +1441,8 @@
     "Club": "Knockmany Runners",
     "Category": "M50",
     "Chip Time": "0:37:19",
-    "Gun Time": "0:37:19"
+    "Gun Time": "0:37:19",
+    "runner_id": "seamus-arkinson"
   },
   {
     "Position": 147,
@@ -1320,7 +1451,8 @@
     "Club": "Ballymena Runners",
     "Category": "F50",
     "Chip Time": "0:37:12",
-    "Gun Time": "0:37:19"
+    "Gun Time": "0:37:19",
+    "runner_id": "linsa-petticrew"
   },
   {
     "Position": 148,
@@ -1329,7 +1461,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:37:14",
-    "Gun Time": "0:37:21"
+    "Gun Time": "0:37:21",
+    "runner_id": "seamus-kelly"
   },
   {
     "Position": 149,
@@ -1338,7 +1471,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M40",
     "Chip Time": "0:36:59",
-    "Gun Time": "0:37:27"
+    "Gun Time": "0:37:27",
+    "runner_id": "paul-fearon"
   },
   {
     "Position": 150,
@@ -1347,7 +1481,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:37:19",
-    "Gun Time": "0:37:28"
+    "Gun Time": "0:37:28",
+    "runner_id": "caolan-daly"
   },
   {
     "Position": 151,
@@ -1356,7 +1491,8 @@
     "Club": "Omagh Tri Club",
     "Category": "MO",
     "Chip Time": "0:37:24",
-    "Gun Time": "0:37:29"
+    "Gun Time": "0:37:29",
+    "runner_id": "padraig-mcdermott"
   },
   {
     "Position": 152,
@@ -1365,7 +1501,8 @@
     "Club": "Knockmany Runners",
     "Category": "F35",
     "Chip Time": "0:37:18",
-    "Gun Time": "0:37:29"
+    "Gun Time": "0:37:29",
+    "runner_id": "oonagh-maguire"
   },
   {
     "Position": 153,
@@ -1374,7 +1511,8 @@
     "Club": "Carrickmore",
     "Category": "MO",
     "Chip Time": "0:37:05",
-    "Gun Time": "0:37:30"
+    "Gun Time": "0:37:30",
+    "runner_id": "brendan-martin"
   },
   {
     "Position": 154,
@@ -1383,7 +1521,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M35",
     "Chip Time": "0:37:18",
-    "Gun Time": "0:37:31"
+    "Gun Time": "0:37:31",
+    "runner_id": "michael-phillips"
   },
   {
     "Position": 155,
@@ -1392,7 +1531,8 @@
     "Club": "Sperrin Harriers",
     "Category": "F35",
     "Chip Time": "0:37:20",
-    "Gun Time": "0:37:32"
+    "Gun Time": "0:37:32",
+    "runner_id": "nicola-gillespie"
   },
   {
     "Position": 156,
@@ -1410,7 +1550,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:37:13",
-    "Gun Time": "0:37:33"
+    "Gun Time": "0:37:33",
+    "runner_id": "alana-mcmullan"
   },
   {
     "Position": 158,
@@ -1419,7 +1560,8 @@
     "Club": "Carmen Runners",
     "Category": "F35",
     "Chip Time": "0:37:26",
-    "Gun Time": "0:37:35"
+    "Gun Time": "0:37:35",
+    "runner_id": "lorraine-cullen"
   },
   {
     "Position": 159,
@@ -1428,7 +1570,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M60",
     "Chip Time": "0:37:33",
-    "Gun Time": "0:37:36"
+    "Gun Time": "0:37:36",
+    "runner_id": "gerard-turbitt"
   },
   {
     "Position": 160,
@@ -1437,7 +1580,8 @@
     "Club": "Omagh Harriers",
     "Category": "M55",
     "Chip Time": "0:37:08",
-    "Gun Time": "0:37:37"
+    "Gun Time": "0:37:37",
+    "runner_id": "john-mcginn"
   },
   {
     "Position": 161,
@@ -1446,7 +1590,8 @@
     "Club": "Rock St. Patricks",
     "Category": "MO",
     "Chip Time": "0:37:18",
-    "Gun Time": "0:37:38"
+    "Gun Time": "0:37:38",
+    "runner_id": "peter-girvan"
   },
   {
     "Position": 162,
@@ -1455,7 +1600,8 @@
     "Club": "Omagh Tri Club",
     "Category": "FO",
     "Chip Time": "0:37:34",
-    "Gun Time": "0:37:39"
+    "Gun Time": "0:37:39",
+    "runner_id": "lucy-mc-dermott"
   },
   {
     "Position": 163,
@@ -1464,7 +1610,8 @@
     "Club": "Sigersons",
     "Category": "MU19",
     "Chip Time": "0:37:26",
-    "Gun Time": "0:37:41"
+    "Gun Time": "0:37:41",
+    "runner_id": "eoin-barkley"
   },
   {
     "Position": 164,
@@ -1473,7 +1620,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:37:35",
-    "Gun Time": "0:37:41"
+    "Gun Time": "0:37:41",
+    "runner_id": "terrence-miehan"
   },
   {
     "Position": 165,
@@ -1482,7 +1630,8 @@
     "Club": "Sigersons",
     "Category": "M40",
     "Chip Time": "0:37:29",
-    "Gun Time": "0:37:43"
+    "Gun Time": "0:37:43",
+    "runner_id": "sean-barkley"
   },
   {
     "Position": 166,
@@ -1491,7 +1640,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:37:25",
-    "Gun Time": "0:37:46"
+    "Gun Time": "0:37:46",
+    "runner_id": "barry-maguire"
   },
   {
     "Position": 167,
@@ -1500,7 +1650,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M50",
     "Chip Time": "0:37:44",
-    "Gun Time": "0:37:47"
+    "Gun Time": "0:37:47",
+    "runner_id": "paul-mcnamee"
   },
   {
     "Position": 168,
@@ -1509,7 +1660,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:37:28",
-    "Gun Time": "0:37:51"
+    "Gun Time": "0:37:51",
+    "runner_id": "iggy-houston"
   },
   {
     "Position": 169,
@@ -1518,7 +1670,8 @@
     "Club": "Island Triathlon Club",
     "Category": "M45",
     "Chip Time": "0:37:36",
-    "Gun Time": "0:37:53"
+    "Gun Time": "0:37:53",
+    "runner_id": "edward-hazelton"
   },
   {
     "Position": 170,
@@ -1527,7 +1680,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M40",
     "Chip Time": "0:37:40",
-    "Gun Time": "0:37:54"
+    "Gun Time": "0:37:54",
+    "runner_id": "joe-deans"
   },
   {
     "Position": 171,
@@ -1536,7 +1690,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M45",
     "Chip Time": "0:37:55",
-    "Gun Time": "0:37:55"
+    "Gun Time": "0:37:55",
+    "runner_id": "joe-mcnulty"
   },
   {
     "Position": 172,
@@ -1545,7 +1700,8 @@
     "Club": "Maguiresbridge Running Club",
     "Category": "F35",
     "Chip Time": "0:37:51",
-    "Gun Time": "0:37:57"
+    "Gun Time": "0:37:57",
+    "runner_id": "karen-green"
   },
   {
     "Position": 173,
@@ -1554,7 +1710,8 @@
     "Club": "Omagh Tri Club",
     "Category": "MO",
     "Chip Time": "0:37:52",
-    "Gun Time": "0:37:59"
+    "Gun Time": "0:37:59",
+    "runner_id": "colin-harkness"
   },
   {
     "Position": 174,
@@ -1563,7 +1720,8 @@
     "Club": "Dromore GAC",
     "Category": "MO",
     "Chip Time": "0:37:49",
-    "Gun Time": "0:37:59"
+    "Gun Time": "0:37:59",
+    "runner_id": "darragh-oneill"
   },
   {
     "Position": 175,
@@ -1572,7 +1730,8 @@
     "Club": "Swa",
     "Category": "M50",
     "Chip Time": "0:37:51",
-    "Gun Time": "0:38:03"
+    "Gun Time": "0:38:03",
+    "runner_id": "colum-okane"
   },
   {
     "Position": 176,
@@ -1581,7 +1740,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "Chip Time": "0:37:53",
-    "Gun Time": "0:38:03"
+    "Gun Time": "0:38:03",
+    "runner_id": "roddy-mcivor"
   },
   {
     "Position": 177,
@@ -1590,7 +1750,8 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "Chip Time": "0:38:07",
-    "Gun Time": "0:38:07"
+    "Gun Time": "0:38:07",
+    "runner_id": "joey-kelly"
   },
   {
     "Position": 178,
@@ -1599,7 +1760,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M40",
     "Chip Time": "0:38:02",
-    "Gun Time": "0:38:08"
+    "Gun Time": "0:38:08",
+    "runner_id": "dominic-teague"
   },
   {
     "Position": 179,
@@ -1608,7 +1770,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M50",
     "Chip Time": "0:37:58",
-    "Gun Time": "0:38:12"
+    "Gun Time": "0:38:12",
+    "runner_id": "sean-carlin"
   },
   {
     "Position": 180,
@@ -1617,7 +1780,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:37:46",
-    "Gun Time": "0:38:14"
+    "Gun Time": "0:38:14",
+    "runner_id": "gary-fitzpatrick"
   },
   {
     "Position": 181,
@@ -1626,7 +1790,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:38:00",
-    "Gun Time": "0:38:16"
+    "Gun Time": "0:38:16",
+    "runner_id": "ciara-largey"
   },
   {
     "Position": 182,
@@ -1635,7 +1800,8 @@
     "Club": "Omagh Tri Club",
     "Category": "F45",
     "Chip Time": "0:38:11",
-    "Gun Time": "0:38:23"
+    "Gun Time": "0:38:23",
+    "runner_id": "clare-maguire"
   },
   {
     "Position": 183,
@@ -1644,7 +1810,8 @@
     "Club": "Lagan Valley AC",
     "Category": "M65",
     "Chip Time": "0:38:12",
-    "Gun Time": "0:38:24"
+    "Gun Time": "0:38:24",
+    "runner_id": "francis-boal-lagan"
   },
   {
     "Position": 184,
@@ -1653,7 +1820,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:38:05",
-    "Gun Time": "0:38:30"
+    "Gun Time": "0:38:30",
+    "runner_id": "damian-mcaleer"
   },
   {
     "Position": 185,
@@ -1662,7 +1830,8 @@
     "Club": "Pomeroy Runners",
     "Category": "M40",
     "Chip Time": "0:38:25",
-    "Gun Time": "0:38:32"
+    "Gun Time": "0:38:32",
+    "runner_id": "paul-mc-cullagh"
   },
   {
     "Position": 186,
@@ -1671,7 +1840,8 @@
     "Club": "Team Wallace",
     "Category": "M35",
     "Chip Time": "0:38:21",
-    "Gun Time": "0:38:33"
+    "Gun Time": "0:38:33",
+    "runner_id": "gary-wallace"
   },
   {
     "Position": 187,
@@ -1680,7 +1850,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:38:23",
-    "Gun Time": "0:38:33"
+    "Gun Time": "0:38:33",
+    "runner_id": "david-hetherington"
   },
   {
     "Position": 188,
@@ -1689,7 +1860,8 @@
     "Club": "Omagh Harriers",
     "Category": "MO",
     "Chip Time": "0:38:30",
-    "Gun Time": "0:38:36"
+    "Gun Time": "0:38:36",
+    "runner_id": "ben-mcmackin"
   },
   {
     "Position": 189,
@@ -1698,7 +1870,8 @@
     "Club": "Ardboe",
     "Category": "MO",
     "Chip Time": "0:38:27",
-    "Gun Time": "0:38:36"
+    "Gun Time": "0:38:36",
+    "runner_id": "thomas-wylie"
   },
   {
     "Position": 190,
@@ -1707,7 +1880,8 @@
     "Club": "Carmen Runners",
     "Category": "M40",
     "Chip Time": "0:38:18",
-    "Gun Time": "0:38:36"
+    "Gun Time": "0:38:36",
+    "runner_id": "barry-morris"
   },
   {
     "Position": 191,
@@ -1716,7 +1890,8 @@
     "Club": "Kildress C25K",
     "Category": "M45",
     "Chip Time": "0:38:34",
-    "Gun Time": "0:38:37"
+    "Gun Time": "0:38:37",
+    "runner_id": "damian-kearney"
   },
   {
     "Position": 192,
@@ -1743,7 +1918,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:38:04",
-    "Gun Time": "0:38:38"
+    "Gun Time": "0:38:38",
+    "runner_id": "ruairi-conlan"
   },
   {
     "Position": 195,
@@ -1752,7 +1928,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:38:35",
-    "Gun Time": "0:38:41"
+    "Gun Time": "0:38:41",
+    "runner_id": "darren-lawther"
   },
   {
     "Position": 196,
@@ -1761,7 +1938,8 @@
     "Club": "Carmen Runners",
     "Category": "FO",
     "Chip Time": "0:38:36",
-    "Gun Time": "0:38:43"
+    "Gun Time": "0:38:43",
+    "runner_id": "catriona-gillen"
   },
   {
     "Position": 197,
@@ -1770,7 +1948,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:38:18",
-    "Gun Time": "0:38:43"
+    "Gun Time": "0:38:43",
+    "runner_id": "diane-coyle"
   },
   {
     "Position": 198,
@@ -1779,7 +1958,8 @@
     "Club": "Magherafelt Harriers",
     "Category": "M55",
     "Chip Time": "0:38:29",
-    "Gun Time": "0:38:44"
+    "Gun Time": "0:38:44",
+    "runner_id": "paul-doc-martin"
   },
   {
     "Position": 199,
@@ -1788,7 +1968,8 @@
     "Club": "Termoneeny RC",
     "Category": "M45",
     "Chip Time": "0:38:40",
-    "Gun Time": "0:38:46"
+    "Gun Time": "0:38:46",
+    "runner_id": "darren-oneill"
   },
   {
     "Position": 200,
@@ -1797,7 +1978,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "Chip Time": "0:38:28",
-    "Gun Time": "0:38:46"
+    "Gun Time": "0:38:46",
+    "runner_id": "kevin-heenan"
   },
   {
     "Position": 201,
@@ -1806,7 +1988,8 @@
     "Club": "Run For Enda",
     "Category": "MU19",
     "Chip Time": "0:38:40",
-    "Gun Time": "0:38:47"
+    "Gun Time": "0:38:47",
+    "runner_id": "ben-dolan"
   },
   {
     "Position": 202,
@@ -1815,7 +1998,8 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "Chip Time": "0:38:27",
-    "Gun Time": "0:38:50"
+    "Gun Time": "0:38:50",
+    "runner_id": "patrick-woods"
   },
   {
     "Position": 203,
@@ -1824,7 +2008,8 @@
     "Club": "Omagh Tri Club",
     "Category": "F35",
     "Chip Time": "0:38:40",
-    "Gun Time": "0:38:51"
+    "Gun Time": "0:38:51",
+    "runner_id": "una-corrigan"
   },
   {
     "Position": 204,
@@ -1833,7 +2018,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M45",
     "Chip Time": "0:38:53",
-    "Gun Time": "0:38:56"
+    "Gun Time": "0:38:56",
+    "runner_id": "glenn-junk"
   },
   {
     "Position": 205,
@@ -1842,7 +2028,8 @@
     "Club": "Ormeau Runners",
     "Category": "M45",
     "Chip Time": "0:38:31",
-    "Gun Time": "0:38:58"
+    "Gun Time": "0:38:58",
+    "runner_id": "marius-mulligan"
   },
   {
     "Position": 206,
@@ -1860,7 +2047,8 @@
     "Club": "Loughmacrory",
     "Category": "M35",
     "Chip Time": "0:38:28",
-    "Gun Time": "0:39:00"
+    "Gun Time": "0:39:00",
+    "runner_id": "neil-mullan"
   },
   {
     "Position": 208,
@@ -1869,7 +2057,8 @@
     "Club": "Pomeroy Runners",
     "Category": "M40",
     "Chip Time": "0:38:32",
-    "Gun Time": "0:39:02"
+    "Gun Time": "0:39:02",
+    "runner_id": "liam-harvey"
   },
   {
     "Position": 209,
@@ -1887,7 +2076,8 @@
     "Club": "Termoneeny RC",
     "Category": "M55",
     "Chip Time": "0:38:59",
-    "Gun Time": "0:39:09"
+    "Gun Time": "0:39:09",
+    "runner_id": "damian-oboyle"
   },
   {
     "Position": 211,
@@ -1914,7 +2104,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:39:07",
-    "Gun Time": "0:39:15"
+    "Gun Time": "0:39:15",
+    "runner_id": "niall-lawlor"
   },
   {
     "Position": 214,
@@ -1923,7 +2114,8 @@
     "Club": "Tafelta AC",
     "Category": "M60",
     "Chip Time": "0:39:15",
-    "Gun Time": "0:39:17"
+    "Gun Time": "0:39:17",
+    "runner_id": "john-knocker"
   },
   {
     "Position": 215,
@@ -1932,7 +2124,8 @@
     "Club": "Carmen Runners",
     "Category": "MO",
     "Chip Time": "0:39:17",
-    "Gun Time": "0:39:22"
+    "Gun Time": "0:39:22",
+    "runner_id": "martin-mcgirr"
   },
   {
     "Position": 216,
@@ -1941,7 +2134,8 @@
     "Club": "Tafelta AC",
     "Category": "F55",
     "Chip Time": "0:39:21",
-    "Gun Time": "0:39:24"
+    "Gun Time": "0:39:24",
+    "runner_id": "rosemary-hargan"
   },
   {
     "Position": 217,
@@ -1959,7 +2153,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:39:12",
-    "Gun Time": "0:39:25"
+    "Gun Time": "0:39:25",
+    "runner_id": "stephen-cross"
   },
   {
     "Position": 219,
@@ -1968,7 +2163,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:39:23",
-    "Gun Time": "0:39:33"
+    "Gun Time": "0:39:33",
+    "runner_id": "simon-teague"
   },
   {
     "Position": 220,
@@ -1977,7 +2173,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:39:02",
-    "Gun Time": "0:39:34"
+    "Gun Time": "0:39:34",
+    "runner_id": "malachy-mcgarrity"
   },
   {
     "Position": 221,
@@ -1986,7 +2183,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:39:29",
-    "Gun Time": "0:39:34"
+    "Gun Time": "0:39:34",
+    "runner_id": "fiona-mcilvar"
   },
   {
     "Position": 222,
@@ -1995,7 +2193,8 @@
     "Club": "Acorns AC",
     "Category": "F35",
     "Chip Time": "0:39:19",
-    "Gun Time": "0:39:36"
+    "Gun Time": "0:39:36",
+    "runner_id": "shauna-young"
   },
   {
     "Position": 223,
@@ -2004,7 +2203,8 @@
     "Club": "Termoneeny RC",
     "Category": "M60",
     "Chip Time": "0:39:19",
-    "Gun Time": "0:39:36"
+    "Gun Time": "0:39:36",
+    "runner_id": "brian-young"
   },
   {
     "Position": 224,
@@ -2013,7 +2213,8 @@
     "Club": "Maguiresbridge Running Club",
     "Category": "F45",
     "Chip Time": "0:39:33",
-    "Gun Time": "0:39:38"
+    "Gun Time": "0:39:38",
+    "runner_id": "aravon-mccann"
   },
   {
     "Position": 225,
@@ -2022,7 +2223,8 @@
     "Club": "Knockmany Runners",
     "Category": "M35",
     "Chip Time": "0:39:32",
-    "Gun Time": "0:39:42"
+    "Gun Time": "0:39:42",
+    "runner_id": "ivor-russell"
   },
   {
     "Position": 226,
@@ -2031,7 +2233,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:39:30",
-    "Gun Time": "0:39:42"
+    "Gun Time": "0:39:42",
+    "runner_id": "peter-dolan"
   },
   {
     "Position": 227,
@@ -2049,7 +2252,8 @@
     "Club": "Omagh Harriers",
     "Category": "M35",
     "Chip Time": "0:39:39",
-    "Gun Time": "0:39:46"
+    "Gun Time": "0:39:46",
+    "runner_id": "damien-o-neill"
   },
   {
     "Position": 229,
@@ -2067,7 +2271,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:39:47",
-    "Gun Time": "0:39:53"
+    "Gun Time": "0:39:53",
+    "runner_id": "mark-beatty"
   },
   {
     "Position": 231,
@@ -2076,7 +2281,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:39:21",
-    "Gun Time": "0:39:53"
+    "Gun Time": "0:39:53",
+    "runner_id": "shane-donnelly"
   },
   {
     "Position": 232,
@@ -2085,7 +2291,8 @@
     "Club": "Magherafelt Harriers",
     "Category": "F40",
     "Chip Time": "0:39:40",
-    "Gun Time": "0:39:55"
+    "Gun Time": "0:39:55",
+    "runner_id": "karen-mcelroy"
   },
   {
     "Position": 233,
@@ -2094,7 +2301,8 @@
     "Club": "East Down AC",
     "Category": "M50",
     "Chip Time": "0:39:35",
-    "Gun Time": "0:39:57"
+    "Gun Time": "0:39:57",
+    "runner_id": "tom-mcclean"
   },
   {
     "Position": 234,
@@ -2103,7 +2311,8 @@
     "Club": "Pomeroy Runners",
     "Category": "M50",
     "Chip Time": "0:39:50",
-    "Gun Time": "0:39:59"
+    "Gun Time": "0:39:59",
+    "runner_id": "michael-molloy-pomeroy"
   },
   {
     "Position": 235,
@@ -2121,7 +2330,8 @@
     "Club": "Acorns AC",
     "Category": "M35",
     "Chip Time": "0:39:52",
-    "Gun Time": "0:40:05"
+    "Gun Time": "0:40:05",
+    "runner_id": "martin-oneill"
   },
   {
     "Position": 237,
@@ -2130,7 +2340,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:39:50",
-    "Gun Time": "0:40:05"
+    "Gun Time": "0:40:05",
+    "runner_id": "bronagh-clarke"
   },
   {
     "Position": 238,
@@ -2139,7 +2350,8 @@
     "Club": "Gortin",
     "Category": "M40",
     "Chip Time": "0:39:30",
-    "Gun Time": "0:40:05"
+    "Gun Time": "0:40:05",
+    "runner_id": "julian-mckeown"
   },
   {
     "Position": 239,
@@ -2148,7 +2360,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:39:39",
-    "Gun Time": "0:40:07"
+    "Gun Time": "0:40:07",
+    "runner_id": "dessie-rooney"
   },
   {
     "Position": 240,
@@ -2157,7 +2370,8 @@
     "Club": "Omagh Harriers",
     "Category": "F50",
     "Chip Time": "0:39:43",
-    "Gun Time": "0:40:08"
+    "Gun Time": "0:40:08",
+    "runner_id": "jennifer-morton"
   },
   {
     "Position": 241,
@@ -2166,7 +2380,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:39:49",
-    "Gun Time": "0:40:09"
+    "Gun Time": "0:40:09",
+    "runner_id": "barry-corrigan"
   },
   {
     "Position": 242,
@@ -2175,7 +2390,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:39:38",
-    "Gun Time": "0:40:10"
+    "Gun Time": "0:40:10",
+    "runner_id": "steven-dornan"
   },
   {
     "Position": 243,
@@ -2184,7 +2400,8 @@
     "Club": "Galbally Runners",
     "Category": "M35",
     "Chip Time": "0:40:05",
-    "Gun Time": "0:40:14"
+    "Gun Time": "0:40:14",
+    "runner_id": "francis-mcveigh"
   },
   {
     "Position": 244,
@@ -2193,7 +2410,8 @@
     "Club": "Carmen Runners",
     "Category": "M40",
     "Chip Time": "0:40:05",
-    "Gun Time": "0:40:15"
+    "Gun Time": "0:40:15",
+    "runner_id": "joe-mckee"
   },
   {
     "Position": 245,
@@ -2202,7 +2420,8 @@
     "Club": "",
     "Category": "F50",
     "Chip Time": "0:39:52",
-    "Gun Time": "0:40:16"
+    "Gun Time": "0:40:16",
+    "runner_id": "anne-cook"
   },
   {
     "Position": 246,
@@ -2211,7 +2430,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:40:02",
-    "Gun Time": "0:40:17"
+    "Gun Time": "0:40:17",
+    "runner_id": "russell-lucas"
   },
   {
     "Position": 247,
@@ -2220,7 +2440,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "Chip Time": "0:40:07",
-    "Gun Time": "0:40:18"
+    "Gun Time": "0:40:18",
+    "runner_id": "anthony-oneill"
   },
   {
     "Position": 248,
@@ -2229,7 +2450,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:39:55",
-    "Gun Time": "0:40:21"
+    "Gun Time": "0:40:21",
+    "runner_id": "mark-mccullagh"
   },
   {
     "Position": 249,
@@ -2238,7 +2460,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:40:18",
-    "Gun Time": "0:40:22"
+    "Gun Time": "0:40:22",
+    "runner_id": "raymond-hempton"
   },
   {
     "Position": 250,
@@ -2247,7 +2470,8 @@
     "Club": "County Antrim Harriers",
     "Category": "F45",
     "Chip Time": "0:40:13",
-    "Gun Time": "0:40:24"
+    "Gun Time": "0:40:24",
+    "runner_id": "christine-murray"
   },
   {
     "Position": 251,
@@ -2256,7 +2480,8 @@
     "Club": "",
     "Category": "M65",
     "Chip Time": "0:40:16",
-    "Gun Time": "0:40:26"
+    "Gun Time": "0:40:26",
+    "runner_id": "john-mc-cann"
   },
   {
     "Position": 252,
@@ -2265,7 +2490,8 @@
     "Club": "Killyclogher",
     "Category": "M50",
     "Chip Time": "0:40:13",
-    "Gun Time": "0:40:27"
+    "Gun Time": "0:40:27",
+    "runner_id": "pauric-quinn"
   },
   {
     "Position": 253,
@@ -2274,7 +2500,8 @@
     "Club": "Beragh Red Knights",
     "Category": "M45",
     "Chip Time": "0:40:23",
-    "Gun Time": "0:40:28"
+    "Gun Time": "0:40:28",
+    "runner_id": "mickey-mccann"
   },
   {
     "Position": 254,
@@ -2283,7 +2510,8 @@
     "Club": "The Flaming Gooches",
     "Category": "FO",
     "Chip Time": "0:40:13",
-    "Gun Time": "0:40:30"
+    "Gun Time": "0:40:30",
+    "runner_id": "dervla-weir"
   },
   {
     "Position": 255,
@@ -2292,7 +2520,8 @@
     "Club": "",
     "Category": "WCH",
     "Chip Time": "0:40:32",
-    "Gun Time": "0:40:32"
+    "Gun Time": "0:40:32",
+    "runner_id": "karl-doherty"
   },
   {
     "Position": 256,
@@ -2301,7 +2530,8 @@
     "Club": "Omagh Harriers",
     "Category": "M50",
     "Chip Time": "0:40:10",
-    "Gun Time": "0:40:34"
+    "Gun Time": "0:40:34",
+    "runner_id": "ivor-morton"
   },
   {
     "Position": 257,
@@ -2310,7 +2540,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:40:27",
-    "Gun Time": "0:40:36"
+    "Gun Time": "0:40:36",
+    "runner_id": "john-kearney"
   },
   {
     "Position": 258,
@@ -2319,7 +2550,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:40:13",
-    "Gun Time": "0:40:37"
+    "Gun Time": "0:40:37",
+    "runner_id": "niall-maguire"
   },
   {
     "Position": 259,
@@ -2328,7 +2560,8 @@
     "Club": "Clann na nGael",
     "Category": "F35",
     "Chip Time": "0:40:33",
-    "Gun Time": "0:40:38"
+    "Gun Time": "0:40:38",
+    "runner_id": "anne-daly"
   },
   {
     "Position": 260,
@@ -2337,7 +2570,8 @@
     "Club": "Clann na nGael",
     "Category": "MO",
     "Chip Time": "0:40:33",
-    "Gun Time": "0:40:39"
+    "Gun Time": "0:40:39",
+    "runner_id": "conor-sproule"
   },
   {
     "Position": 261,
@@ -2346,7 +2580,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:40:08",
-    "Gun Time": "0:40:43"
+    "Gun Time": "0:40:43",
+    "runner_id": "tiernan-conlon"
   },
   {
     "Position": 262,
@@ -2364,7 +2599,8 @@
     "Club": "Enniskillen Running Club",
     "Category": "F40",
     "Chip Time": "0:40:30",
-    "Gun Time": "0:40:44"
+    "Gun Time": "0:40:44",
+    "runner_id": "oonagh-fitzpatrick"
   },
   {
     "Position": 264,
@@ -2373,7 +2609,8 @@
     "Club": "Starbreakers",
     "Category": "M50",
     "Chip Time": "0:40:11",
-    "Gun Time": "0:40:46"
+    "Gun Time": "0:40:46",
+    "runner_id": "john-corey"
   },
   {
     "Position": 265,
@@ -2382,7 +2619,8 @@
     "Club": "Moneyglass & District Runners",
     "Category": "MO",
     "Chip Time": "0:40:38",
-    "Gun Time": "0:40:48"
+    "Gun Time": "0:40:48",
+    "runner_id": "david-griffin"
   },
   {
     "Position": 266,
@@ -2391,7 +2629,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:40:29",
-    "Gun Time": "0:40:53"
+    "Gun Time": "0:40:53",
+    "runner_id": "lorraine-mckeown"
   },
   {
     "Position": 267,
@@ -2400,7 +2639,8 @@
     "Club": "Dromore AC",
     "Category": "M50",
     "Chip Time": "0:40:41",
-    "Gun Time": "0:40:58"
+    "Gun Time": "0:40:58",
+    "runner_id": "richard-hand"
   },
   {
     "Position": 268,
@@ -2409,7 +2649,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:40:45",
-    "Gun Time": "0:41:02"
+    "Gun Time": "0:41:02",
+    "runner_id": "cristoir-mac-nia"
   },
   {
     "Position": 269,
@@ -2418,7 +2659,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:40:49",
-    "Gun Time": "0:41:04"
+    "Gun Time": "0:41:04",
+    "runner_id": "dermot-mitchell"
   },
   {
     "Position": 270,
@@ -2427,7 +2669,8 @@
     "Club": "",
     "Category": "M60",
     "Chip Time": "0:41:04",
-    "Gun Time": "0:41:08"
+    "Gun Time": "0:41:08",
+    "runner_id": "albert-law"
   },
   {
     "Position": 271,
@@ -2436,7 +2679,8 @@
     "Club": "Omagh Harriers",
     "Category": "MU19",
     "Chip Time": "0:41:06",
-    "Gun Time": "0:41:10"
+    "Gun Time": "0:41:10",
+    "runner_id": "matthew-hempton"
   },
   {
     "Position": 272,
@@ -2445,7 +2689,8 @@
     "Club": "Termoneeny RC",
     "Category": "F35",
     "Chip Time": "0:41:00",
-    "Gun Time": "0:41:11"
+    "Gun Time": "0:41:11",
+    "runner_id": "anne-marie-pickering"
   },
   {
     "Position": 273,
@@ -2454,7 +2699,8 @@
     "Club": "Moneyglass & District Runners",
     "Category": "MO",
     "Chip Time": "0:40:58",
-    "Gun Time": "0:41:13"
+    "Gun Time": "0:41:13",
+    "runner_id": "sean-laverty"
   },
   {
     "Position": 274,
@@ -2463,7 +2709,8 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "Chip Time": "0:40:53",
-    "Gun Time": "0:41:16"
+    "Gun Time": "0:41:16",
+    "runner_id": "ryan-grimley"
   },
   {
     "Position": 275,
@@ -2472,7 +2719,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:40:51",
-    "Gun Time": "0:41:17"
+    "Gun Time": "0:41:17",
+    "runner_id": "gemma-skeath"
   },
   {
     "Position": 276,
@@ -2481,7 +2729,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:41:00",
-    "Gun Time": "0:41:20"
+    "Gun Time": "0:41:20",
+    "runner_id": "gerard-magee"
   },
   {
     "Position": 277,
@@ -2490,7 +2739,8 @@
     "Club": "1ZER01 Athletes",
     "Category": "MO",
     "Chip Time": "0:41:27",
-    "Gun Time": "0:41:27"
+    "Gun Time": "0:41:27",
+    "runner_id": "ciaran-mccaffrey"
   },
   {
     "Position": 278,
@@ -2499,7 +2749,8 @@
     "Club": "Spa Striders",
     "Category": "M40",
     "Chip Time": "0:40:52",
-    "Gun Time": "0:41:29"
+    "Gun Time": "0:41:29",
+    "runner_id": "steve-pope"
   },
   {
     "Position": 279,
@@ -2508,7 +2759,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:41:16",
-    "Gun Time": "0:41:29"
+    "Gun Time": "0:41:29",
+    "runner_id": "rory-sheehan"
   },
   {
     "Position": 280,
@@ -2517,7 +2769,8 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "Chip Time": "0:41:09",
-    "Gun Time": "0:41:35"
+    "Gun Time": "0:41:35",
+    "runner_id": "ciaran-ward"
   },
   {
     "Position": 281,
@@ -2526,7 +2779,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:41:02",
-    "Gun Time": "0:41:37"
+    "Gun Time": "0:41:37",
+    "runner_id": "niall-barker"
   },
   {
     "Position": 282,
@@ -2535,7 +2789,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:41:14",
-    "Gun Time": "0:41:37"
+    "Gun Time": "0:41:37",
+    "runner_id": "andrew-fitzmartin"
   },
   {
     "Position": 283,
@@ -2544,7 +2799,8 @@
     "Club": "Termoneeny RC",
     "Category": "M50",
     "Chip Time": "0:41:26",
-    "Gun Time": "0:41:37"
+    "Gun Time": "0:41:37",
+    "runner_id": "gerard-henry"
   },
   {
     "Position": 284,
@@ -2562,7 +2818,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:41:18",
-    "Gun Time": "0:41:38"
+    "Gun Time": "0:41:38",
+    "runner_id": "ciaran-donovan"
   },
   {
     "Position": 286,
@@ -2571,7 +2828,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:41:27",
-    "Gun Time": "0:41:39"
+    "Gun Time": "0:41:39",
+    "runner_id": "niall-mcclements"
   },
   {
     "Position": 287,
@@ -2580,7 +2838,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M45",
     "Chip Time": "0:41:24",
-    "Gun Time": "0:41:40"
+    "Gun Time": "0:41:40",
+    "runner_id": "nigel-mullan"
   },
   {
     "Position": 288,
@@ -2589,7 +2848,8 @@
     "Club": "Merchantstown harriers",
     "Category": "M40",
     "Chip Time": "0:41:36",
-    "Gun Time": "0:41:42"
+    "Gun Time": "0:41:42",
+    "runner_id": "michael-toner"
   },
   {
     "Position": 289,
@@ -2598,7 +2858,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M50",
     "Chip Time": "0:41:26",
-    "Gun Time": "0:41:44"
+    "Gun Time": "0:41:44",
+    "runner_id": "dessie-mcaleer"
   },
   {
     "Position": 290,
@@ -2607,7 +2868,8 @@
     "Club": "Omagh Tri Club",
     "Category": "F40",
     "Chip Time": "0:41:26",
-    "Gun Time": "0:41:44"
+    "Gun Time": "0:41:44",
+    "runner_id": "catriona-mcaleer"
   },
   {
     "Position": 291,
@@ -2616,7 +2878,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M55",
     "Chip Time": "0:41:45",
-    "Gun Time": "0:41:45"
+    "Gun Time": "0:41:45",
+    "runner_id": "adrian-mckinney"
   },
   {
     "Position": 292,
@@ -2625,7 +2888,8 @@
     "Club": "Acorns AC",
     "Category": "F40",
     "Chip Time": "0:41:37",
-    "Gun Time": "0:41:46"
+    "Gun Time": "0:41:46",
+    "runner_id": "kate-semple"
   },
   {
     "Position": 293,
@@ -2634,7 +2898,8 @@
     "Club": "Acorns AC",
     "Category": "M45",
     "Chip Time": "0:41:32",
-    "Gun Time": "0:41:46"
+    "Gun Time": "0:41:46",
+    "runner_id": "paul-bradley"
   },
   {
     "Position": 294,
@@ -2652,7 +2917,8 @@
     "Club": "Pomeroy Runners",
     "Category": "M35",
     "Chip Time": "0:41:52",
-    "Gun Time": "0:41:59"
+    "Gun Time": "0:41:59",
+    "runner_id": "gabriel-brogan"
   },
   {
     "Position": 296,
@@ -2661,7 +2927,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:41:41",
-    "Gun Time": "0:42:00"
+    "Gun Time": "0:42:00",
+    "runner_id": "mark-orr"
   },
   {
     "Position": 297,
@@ -2670,7 +2937,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M50",
     "Chip Time": "0:41:55",
-    "Gun Time": "0:42:01"
+    "Gun Time": "0:42:01",
+    "runner_id": "barry-oneill"
   },
   {
     "Position": 298,
@@ -2679,7 +2947,8 @@
     "Club": "",
     "Category": "M60",
     "Chip Time": "0:41:48",
-    "Gun Time": "0:42:04"
+    "Gun Time": "0:42:04",
+    "runner_id": "seamus-quinn"
   },
   {
     "Position": 299,
@@ -2697,7 +2966,8 @@
     "Club": "Ballydrain Harriers",
     "Category": "M45",
     "Chip Time": "0:41:42",
-    "Gun Time": "0:42:05"
+    "Gun Time": "0:42:05",
+    "runner_id": "leigh-stirrup"
   },
   {
     "Position": 301,
@@ -2706,7 +2976,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:41:34",
-    "Gun Time": "0:42:13"
+    "Gun Time": "0:42:13",
+    "runner_id": "colm-mcgurk"
   },
   {
     "Position": 302,
@@ -2715,7 +2986,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:42:03",
-    "Gun Time": "0:42:16"
+    "Gun Time": "0:42:16",
+    "runner_id": "pauline-quinn"
   },
   {
     "Position": 303,
@@ -2724,7 +2996,8 @@
     "Club": "Blood Sweat and Tears",
     "Category": "FO",
     "Chip Time": "0:42:06",
-    "Gun Time": "0:42:23"
+    "Gun Time": "0:42:23",
+    "runner_id": "pamela-mcnally"
   },
   {
     "Position": 304,
@@ -2733,7 +3006,8 @@
     "Club": "Blood Sweat and Tears",
     "Category": "F35",
     "Chip Time": "0:42:06",
-    "Gun Time": "0:42:23"
+    "Gun Time": "0:42:23",
+    "runner_id": "alison-farquhar"
   },
   {
     "Position": 305,
@@ -2742,7 +3016,8 @@
     "Club": "Clann na nGael",
     "Category": "FO",
     "Chip Time": "0:42:22",
-    "Gun Time": "0:42:27"
+    "Gun Time": "0:42:27",
+    "runner_id": "fionnuala-conwell"
   },
   {
     "Position": 306,
@@ -2751,7 +3026,8 @@
     "Club": "Killyclogher GAC",
     "Category": "MU19",
     "Chip Time": "0:42:06",
-    "Gun Time": "0:42:34"
+    "Gun Time": "0:42:34",
+    "runner_id": "jack-carland"
   },
   {
     "Position": 307,
@@ -2769,7 +3045,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:42:20",
-    "Gun Time": "0:42:39"
+    "Gun Time": "0:42:39",
+    "runner_id": "cheryl-briggs"
   },
   {
     "Position": 309,
@@ -2778,7 +3055,8 @@
     "Club": "Acorns AC",
     "Category": "F40",
     "Chip Time": "0:42:33",
-    "Gun Time": "0:42:42"
+    "Gun Time": "0:42:42",
+    "runner_id": "edel-kidd"
   },
   {
     "Position": 310,
@@ -2796,7 +3074,8 @@
     "Club": "Fintona Pearces",
     "Category": "MU19",
     "Chip Time": "0:42:31",
-    "Gun Time": "0:42:51"
+    "Gun Time": "0:42:51",
+    "runner_id": "padraig-mcdermott"
   },
   {
     "Position": 312,
@@ -2805,7 +3084,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:42:26",
-    "Gun Time": "0:42:52"
+    "Gun Time": "0:42:52",
+    "runner_id": "laura-maguire"
   },
   {
     "Position": 313,
@@ -2814,7 +3094,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M40",
     "Chip Time": "0:42:42",
-    "Gun Time": "0:42:53"
+    "Gun Time": "0:42:53",
+    "runner_id": "richard-fox"
   },
   {
     "Position": 314,
@@ -2823,7 +3104,8 @@
     "Club": "Pomeroy Runners",
     "Category": "F50",
     "Chip Time": "0:42:45",
-    "Gun Time": "0:42:54"
+    "Gun Time": "0:42:54",
+    "runner_id": "martina-molloy"
   },
   {
     "Position": 315,
@@ -2832,7 +3114,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:42:29",
-    "Gun Time": "0:42:54"
+    "Gun Time": "0:42:54",
+    "runner_id": "orla-mcsorley"
   },
   {
     "Position": 316,
@@ -2841,7 +3124,8 @@
     "Club": "Dromore Sports Complex",
     "Category": "MO",
     "Chip Time": "0:42:30",
-    "Gun Time": "0:42:58"
+    "Gun Time": "0:42:58",
+    "runner_id": "barry-campbell"
   },
   {
     "Position": 317,
@@ -2859,7 +3143,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:43:01",
-    "Gun Time": "0:43:07"
+    "Gun Time": "0:43:07",
+    "runner_id": "orlagh-mcelhone"
   },
   {
     "Position": 319,
@@ -2868,7 +3153,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:42:48",
-    "Gun Time": "0:43:17"
+    "Gun Time": "0:43:17",
+    "runner_id": "ronan-fox"
   },
   {
     "Position": 320,
@@ -2877,7 +3163,8 @@
     "Club": "Mary Anderson Foundation",
     "Category": "M45",
     "Chip Time": "0:42:55",
-    "Gun Time": "0:43:19"
+    "Gun Time": "0:43:19",
+    "runner_id": "philip-anderson"
   },
   {
     "Position": 321,
@@ -2886,7 +3173,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:42:51",
-    "Gun Time": "0:43:22"
+    "Gun Time": "0:43:22",
+    "runner_id": "kevin-campbell"
   },
   {
     "Position": 322,
@@ -2895,7 +3183,8 @@
     "Club": "Knockmany Runners",
     "Category": "M55",
     "Chip Time": "0:43:05",
-    "Gun Time": "0:43:23"
+    "Gun Time": "0:43:23",
+    "runner_id": "hugh-mcaleer"
   },
   {
     "Position": 323,
@@ -2904,7 +3193,8 @@
     "Club": "Finn Valley AC",
     "Category": "F55",
     "Chip Time": "0:43:07",
-    "Gun Time": "0:43:24"
+    "Gun Time": "0:43:24",
+    "runner_id": "gloria-donaghy"
   },
   {
     "Position": 324,
@@ -2922,7 +3212,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:43:14",
-    "Gun Time": "0:43:29"
+    "Gun Time": "0:43:29",
+    "runner_id": "shauna-mckeown"
   },
   {
     "Position": 326,
@@ -2931,7 +3222,8 @@
     "Club": "R Running Club",
     "Category": "F35",
     "Chip Time": "0:43:09",
-    "Gun Time": "0:43:29"
+    "Gun Time": "0:43:29",
+    "runner_id": "lyndsey-mcginty"
   },
   {
     "Position": 327,
@@ -2940,7 +3232,8 @@
     "Club": "R Running Club",
     "Category": "F35",
     "Chip Time": "0:43:10",
-    "Gun Time": "0:43:30"
+    "Gun Time": "0:43:30",
+    "runner_id": "leona-carson"
   },
   {
     "Position": 328,
@@ -2949,7 +3242,8 @@
     "Club": "Knockmany Runners",
     "Category": "M55",
     "Chip Time": "0:43:04",
-    "Gun Time": "0:43:35"
+    "Gun Time": "0:43:35",
+    "runner_id": "greg-mc-mullan"
   },
   {
     "Position": 329,
@@ -2958,7 +3252,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:43:13",
-    "Gun Time": "0:43:38"
+    "Gun Time": "0:43:38",
+    "runner_id": "declan-reilly"
   },
   {
     "Position": 330,
@@ -2967,7 +3262,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:43:10",
-    "Gun Time": "0:43:43"
+    "Gun Time": "0:43:43",
+    "runner_id": "kieran-muldoon"
   },
   {
     "Position": 331,
@@ -2976,7 +3272,8 @@
     "Club": "Omagh Harriers",
     "Category": "FU19",
     "Chip Time": "0:43:31",
-    "Gun Time": "0:43:47"
+    "Gun Time": "0:43:47",
+    "runner_id": "rory-dolan"
   },
   {
     "Position": 332,
@@ -2985,7 +3282,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:43:30",
-    "Gun Time": "0:43:53"
+    "Gun Time": "0:43:53",
+    "runner_id": "fergal-mccann"
   },
   {
     "Position": 333,
@@ -2994,7 +3292,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:43:31",
-    "Gun Time": "0:43:53"
+    "Gun Time": "0:43:53",
+    "runner_id": "shane-mckenna"
   },
   {
     "Position": 334,
@@ -3003,7 +3302,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:43:25",
-    "Gun Time": "0:43:53"
+    "Gun Time": "0:43:53",
+    "runner_id": "ronan-sheehy"
   },
   {
     "Position": 335,
@@ -3021,7 +3321,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:43:22",
-    "Gun Time": "0:43:55"
+    "Gun Time": "0:43:55",
+    "runner_id": "stuart-morrow"
   },
   {
     "Position": 337,
@@ -3030,7 +3331,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:44:01",
-    "Gun Time": "0:44:01"
+    "Gun Time": "0:44:01",
+    "runner_id": "fergal-gormley"
   },
   {
     "Position": 338,
@@ -3039,7 +3341,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:43:38",
-    "Gun Time": "0:44:02"
+    "Gun Time": "0:44:02",
+    "runner_id": "declan-cathcart"
   },
   {
     "Position": 339,
@@ -3048,7 +3351,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "M45",
     "Chip Time": "0:43:48",
-    "Gun Time": "0:44:12"
+    "Gun Time": "0:44:12",
+    "runner_id": "aidan-mcgrath"
   },
   {
     "Position": 340,
@@ -3066,7 +3370,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:43:51",
-    "Gun Time": "0:44:18"
+    "Gun Time": "0:44:18",
+    "runner_id": "gerard-mccrory"
   },
   {
     "Position": 342,
@@ -3075,7 +3380,8 @@
     "Club": "Ballymena Runners",
     "Category": "F55",
     "Chip Time": "0:44:01",
-    "Gun Time": "0:44:20"
+    "Gun Time": "0:44:20",
+    "runner_id": "mabel-mc-fall"
   },
   {
     "Position": 343,
@@ -3084,7 +3390,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:43:50",
-    "Gun Time": "0:44:21"
+    "Gun Time": "0:44:21",
+    "runner_id": "duncan-motherwell"
   },
   {
     "Position": 344,
@@ -3093,7 +3400,8 @@
     "Club": "Clann na nGael",
     "Category": "FO",
     "Chip Time": "0:44:16",
-    "Gun Time": "0:44:22"
+    "Gun Time": "0:44:22",
+    "runner_id": "mary-dooher"
   },
   {
     "Position": 345,
@@ -3102,7 +3410,8 @@
     "Club": "St. Teresa's P.S.",
     "Category": "MU19",
     "Chip Time": "0:44:22",
-    "Gun Time": "0:44:32"
+    "Gun Time": "0:44:32",
+    "runner_id": "conor-collins"
   },
   {
     "Position": 346,
@@ -3111,7 +3420,8 @@
     "Club": "Eglish",
     "Category": "M35",
     "Chip Time": "0:44:19",
-    "Gun Time": "0:44:40"
+    "Gun Time": "0:44:40",
+    "runner_id": "gerard-jones"
   },
   {
     "Position": 347,
@@ -3120,7 +3430,8 @@
     "Club": "Sperrin Harriers",
     "Category": "F40",
     "Chip Time": "0:44:19",
-    "Gun Time": "0:44:40"
+    "Gun Time": "0:44:40",
+    "runner_id": "catherine-farley"
   },
   {
     "Position": 348,
@@ -3129,7 +3440,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:44:15",
-    "Gun Time": "0:44:43"
+    "Gun Time": "0:44:43",
+    "runner_id": "paul-coyle"
   },
   {
     "Position": 349,
@@ -3138,7 +3450,8 @@
     "Club": "Rods Rockets",
     "Category": "F35",
     "Chip Time": "0:44:35",
-    "Gun Time": "0:44:44"
+    "Gun Time": "0:44:44",
+    "runner_id": "ciara-oneill"
   },
   {
     "Position": 350,
@@ -3147,7 +3460,8 @@
     "Club": "Carmen Runners",
     "Category": "F35",
     "Chip Time": "0:44:15",
-    "Gun Time": "0:44:46"
+    "Gun Time": "0:44:46",
+    "runner_id": "margaret-kerr"
   },
   {
     "Position": 351,
@@ -3156,7 +3470,8 @@
     "Club": "Run For Enda",
     "Category": "MO",
     "Chip Time": "0:44:27",
-    "Gun Time": "0:44:49"
+    "Gun Time": "0:44:49",
+    "runner_id": "declan-mcginn"
   },
   {
     "Position": 352,
@@ -3165,7 +3480,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:44:24",
-    "Gun Time": "0:44:50"
+    "Gun Time": "0:44:50",
+    "runner_id": "gerard-donaghy"
   },
   {
     "Position": 353,
@@ -3183,7 +3499,8 @@
     "Club": "Run For Enda",
     "Category": "M45",
     "Chip Time": "0:44:26",
-    "Gun Time": "0:44:53"
+    "Gun Time": "0:44:53",
+    "runner_id": "austin-mcgrath"
   },
   {
     "Position": 355,
@@ -3210,7 +3527,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:44:23",
-    "Gun Time": "0:45:03"
+    "Gun Time": "0:45:03",
+    "runner_id": "damien-mccorry"
   },
   {
     "Position": 358,
@@ -3219,7 +3537,8 @@
     "Club": "Loughmacrory",
     "Category": "M60",
     "Chip Time": "0:44:57",
-    "Gun Time": "0:45:04"
+    "Gun Time": "0:45:04",
+    "runner_id": "pat-donnelly"
   },
   {
     "Position": 359,
@@ -3228,7 +3547,8 @@
     "Club": "Blood Sweat and Tears",
     "Category": "F45",
     "Chip Time": "0:44:54",
-    "Gun Time": "0:45:06"
+    "Gun Time": "0:45:06",
+    "runner_id": "esther-hardy"
   },
   {
     "Position": 360,
@@ -3237,7 +3557,8 @@
     "Club": "Glenelly",
     "Category": "F45",
     "Chip Time": "0:44:48",
-    "Gun Time": "0:45:08"
+    "Gun Time": "0:45:08",
+    "runner_id": "sharon-mccullagh"
   },
   {
     "Position": 361,
@@ -3246,7 +3567,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:44:47",
-    "Gun Time": "0:45:17"
+    "Gun Time": "0:45:17",
+    "runner_id": "nuala-carlin"
   },
   {
     "Position": 362,
@@ -3255,7 +3577,8 @@
     "Club": "Dromore",
     "Category": "M40",
     "Chip Time": "0:45:06",
-    "Gun Time": "0:45:27"
+    "Gun Time": "0:45:27",
+    "runner_id": "catherine-goodwin"
   },
   {
     "Position": 363,
@@ -3264,7 +3587,8 @@
     "Club": "Glenhull harriers",
     "Category": "M35",
     "Chip Time": "0:45:15",
-    "Gun Time": "0:45:28"
+    "Gun Time": "0:45:28",
+    "runner_id": "vincent-mcaleer"
   },
   {
     "Position": 364,
@@ -3273,7 +3597,8 @@
     "Club": "Galbally Runners",
     "Category": "F35",
     "Chip Time": "0:45:13",
-    "Gun Time": "0:45:33"
+    "Gun Time": "0:45:33",
+    "runner_id": "patsy-rafferty"
   },
   {
     "Position": 365,
@@ -3291,7 +3616,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:45:27",
-    "Gun Time": "0:45:35"
+    "Gun Time": "0:45:35",
+    "runner_id": "gareth-thompson"
   },
   {
     "Position": 367,
@@ -3300,7 +3626,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:45:30",
-    "Gun Time": "0:45:36"
+    "Gun Time": "0:45:36",
+    "runner_id": "leroy-mills"
   },
   {
     "Position": 368,
@@ -3318,7 +3645,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:45:04",
-    "Gun Time": "0:45:39"
+    "Gun Time": "0:45:39",
+    "runner_id": "aidan-donnelly"
   },
   {
     "Position": 370,
@@ -3327,7 +3655,8 @@
     "Club": "Loughmacrory",
     "Category": "MO",
     "Chip Time": "0:45:14",
-    "Gun Time": "0:45:40"
+    "Gun Time": "0:45:40",
+    "runner_id": "karl-logue"
   },
   {
     "Position": 371,
@@ -3336,7 +3665,8 @@
     "Club": "Loughmacrory",
     "Category": "FO",
     "Chip Time": "0:45:40",
-    "Gun Time": "0:45:40"
+    "Gun Time": "0:45:40",
+    "runner_id": "aisling-logue"
   },
   {
     "Position": 372,
@@ -3345,7 +3675,8 @@
     "Club": "Rods Rockets",
     "Category": "FO",
     "Chip Time": "0:45:31",
-    "Gun Time": "0:45:40"
+    "Gun Time": "0:45:40",
+    "runner_id": "michaela-quinn"
   },
   {
     "Position": 373,
@@ -3363,7 +3694,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:45:44",
-    "Gun Time": "0:45:44"
+    "Gun Time": "0:45:44",
+    "runner_id": "cathal-logue"
   },
   {
     "Position": 375,
@@ -3372,7 +3704,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:45:16",
-    "Gun Time": "0:45:45"
+    "Gun Time": "0:45:45",
+    "runner_id": "kevin-gormley"
   },
   {
     "Position": 376,
@@ -3381,7 +3714,8 @@
     "Club": "Sperrin Harriers",
     "Category": "F40",
     "Chip Time": "0:45:31",
-    "Gun Time": "0:45:45"
+    "Gun Time": "0:45:45",
+    "runner_id": "karen-thom"
   },
   {
     "Position": 377,
@@ -3390,7 +3724,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M35",
     "Chip Time": "0:45:31",
-    "Gun Time": "0:45:46"
+    "Gun Time": "0:45:46",
+    "runner_id": "mark-thom"
   },
   {
     "Position": 378,
@@ -3399,7 +3734,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:45:53",
-    "Gun Time": "0:46:06"
+    "Gun Time": "0:46:06",
+    "runner_id": "michael-lawlor"
   },
   {
     "Position": 379,
@@ -3408,7 +3744,8 @@
     "Club": "",
     "Category": "M65",
     "Chip Time": "0:45:55",
-    "Gun Time": "0:46:08"
+    "Gun Time": "0:46:08",
+    "runner_id": "jude-collins"
   },
   {
     "Position": 380,
@@ -3417,7 +3754,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:45:57",
-    "Gun Time": "0:46:08"
+    "Gun Time": "0:46:08",
+    "runner_id": "orlagh-brownlow"
   },
   {
     "Position": 381,
@@ -3426,7 +3764,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:46:00",
-    "Gun Time": "0:46:09"
+    "Gun Time": "0:46:09",
+    "runner_id": "stephen-curran"
   },
   {
     "Position": 382,
@@ -3435,7 +3774,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:45:52",
-    "Gun Time": "0:46:11"
+    "Gun Time": "0:46:11",
+    "runner_id": "cathryn-girvan"
   },
   {
     "Position": 383,
@@ -3453,7 +3793,8 @@
     "Club": "Lough Forever",
     "Category": "M50",
     "Chip Time": "0:46:06",
-    "Gun Time": "0:46:14"
+    "Gun Time": "0:46:14",
+    "runner_id": "sean-curran"
   },
   {
     "Position": 385,
@@ -3462,7 +3803,8 @@
     "Club": "Knockmany Runners",
     "Category": "FO",
     "Chip Time": "0:45:38",
-    "Gun Time": "0:46:14"
+    "Gun Time": "0:46:14",
+    "runner_id": "bronagh-mcaleer"
   },
   {
     "Position": 386,
@@ -3471,7 +3813,8 @@
     "Club": "",
     "Category": "F45",
     "Chip Time": "0:46:00",
-    "Gun Time": "0:46:16"
+    "Gun Time": "0:46:16",
+    "runner_id": "paula-smithson"
   },
   {
     "Position": 387,
@@ -3480,7 +3823,8 @@
     "Club": "Killeeshil Runners",
     "Category": "F35",
     "Chip Time": "0:45:53",
-    "Gun Time": "0:46:19"
+    "Gun Time": "0:46:19",
+    "runner_id": "edell-nugent"
   },
   {
     "Position": 388,
@@ -3489,7 +3833,8 @@
     "Club": "Mary Anderson Foundation",
     "Category": "F35",
     "Chip Time": "0:45:57",
-    "Gun Time": "0:46:22"
+    "Gun Time": "0:46:22",
+    "runner_id": "eleanor-fox"
   },
   {
     "Position": 389,
@@ -3498,7 +3843,8 @@
     "Club": "Acorns AC",
     "Category": "F35",
     "Chip Time": "0:46:18",
-    "Gun Time": "0:46:23"
+    "Gun Time": "0:46:23",
+    "runner_id": "elaine-hargan"
   },
   {
     "Position": 390,
@@ -3507,7 +3853,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:46:06",
-    "Gun Time": "0:46:30"
+    "Gun Time": "0:46:30",
+    "runner_id": "gerard-treacy"
   },
   {
     "Position": 391,
@@ -3525,7 +3872,8 @@
     "Club": "Ballymena Runners",
     "Category": "F65",
     "Chip Time": "0:46:16",
-    "Gun Time": "0:46:36"
+    "Gun Time": "0:46:36",
+    "runner_id": "brigid-quinn"
   },
   {
     "Position": 393,
@@ -3534,7 +3882,8 @@
     "Club": "",
     "Category": "F45",
     "Chip Time": "0:46:26",
-    "Gun Time": "0:46:38"
+    "Gun Time": "0:46:38",
+    "runner_id": "moira-quinn"
   },
   {
     "Position": 394,
@@ -3543,7 +3892,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:46:39",
-    "Gun Time": "0:46:39"
+    "Gun Time": "0:46:39",
+    "runner_id": "kevin-forde"
   },
   {
     "Position": 395,
@@ -3552,7 +3902,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:46:13",
-    "Gun Time": "0:46:41"
+    "Gun Time": "0:46:41",
+    "runner_id": "beth-bradley"
   },
   {
     "Position": 396,
@@ -3570,7 +3921,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:46:32",
-    "Gun Time": "0:46:49"
+    "Gun Time": "0:46:49",
+    "runner_id": "martin-quinn"
   },
   {
     "Position": 398,
@@ -3579,7 +3931,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:46:24",
-    "Gun Time": "0:46:51"
+    "Gun Time": "0:46:51",
+    "runner_id": "claire-gallagher"
   },
   {
     "Position": 399,
@@ -3588,7 +3941,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:46:24",
-    "Gun Time": "0:46:52"
+    "Gun Time": "0:46:52",
+    "runner_id": "carmel-mccrystal"
   },
   {
     "Position": 400,
@@ -3597,7 +3951,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "F40",
     "Chip Time": "0:46:44",
-    "Gun Time": "0:46:58"
+    "Gun Time": "0:46:58",
+    "runner_id": "brigid-mccloskey"
   },
   {
     "Position": 401,
@@ -3606,7 +3961,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:46:23",
-    "Gun Time": "0:46:59"
+    "Gun Time": "0:46:59",
+    "runner_id": "raymond-lowry"
   },
   {
     "Position": 402,
@@ -3624,7 +3980,8 @@
     "Club": "Knockmany Runners",
     "Category": "F35",
     "Chip Time": "0:46:36",
-    "Gun Time": "0:47:00"
+    "Gun Time": "0:47:00",
+    "runner_id": "oonagh-armstrong"
   },
   {
     "Position": 404,
@@ -3633,7 +3990,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:46:28",
-    "Gun Time": "0:47:06"
+    "Gun Time": "0:47:06",
+    "runner_id": "loretta-heaney"
   },
   {
     "Position": 405,
@@ -3642,7 +4000,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:46:55",
-    "Gun Time": "0:47:22"
+    "Gun Time": "0:47:22",
+    "runner_id": "oisin-clarke"
   },
   {
     "Position": 406,
@@ -3660,7 +4019,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:46:53",
-    "Gun Time": "0:47:28"
+    "Gun Time": "0:47:28",
+    "runner_id": "fiona-mckenna"
   },
   {
     "Position": 408,
@@ -3669,7 +4029,8 @@
     "Club": "Acorns AC",
     "Category": "F40",
     "Chip Time": "0:47:20",
-    "Gun Time": "0:47:31"
+    "Gun Time": "0:47:31",
+    "runner_id": "bronagh-stockman"
   },
   {
     "Position": 409,
@@ -3678,7 +4039,8 @@
     "Club": "",
     "Category": "M35",
     "Chip Time": "0:47:02",
-    "Gun Time": "0:47:33"
+    "Gun Time": "0:47:33",
+    "runner_id": "barry-mccullagh"
   },
   {
     "Position": 410,
@@ -3687,7 +4049,8 @@
     "Club": "Run For Enda",
     "Category": "FU19",
     "Chip Time": "0:47:29",
-    "Gun Time": "0:47:37"
+    "Gun Time": "0:47:37",
+    "runner_id": "dervla-dolan"
   },
   {
     "Position": 411,
@@ -3696,7 +4059,8 @@
     "Club": "Knockmany Runners",
     "Category": "M50",
     "Chip Time": "0:47:04",
-    "Gun Time": "0:47:44"
+    "Gun Time": "0:47:44",
+    "runner_id": "aiden-mcnelis"
   },
   {
     "Position": 412,
@@ -3705,7 +4069,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:47:38",
-    "Gun Time": "0:47:46"
+    "Gun Time": "0:47:46",
+    "runner_id": "martina-lawlor"
   },
   {
     "Position": 413,
@@ -3714,7 +4079,8 @@
     "Club": "Killeeshil Runners",
     "Category": "F55",
     "Chip Time": "0:47:19",
-    "Gun Time": "0:47:46"
+    "Gun Time": "0:47:46",
+    "runner_id": "brigid-hamill"
   },
   {
     "Position": 414,
@@ -3723,7 +4089,8 @@
     "Club": "R Running Club",
     "Category": "FO",
     "Chip Time": "0:47:19",
-    "Gun Time": "0:47:49"
+    "Gun Time": "0:47:49",
+    "runner_id": "korina-carson"
   },
   {
     "Position": 415,
@@ -3741,7 +4108,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:47:24",
-    "Gun Time": "0:47:54"
+    "Gun Time": "0:47:54",
+    "runner_id": "sean-doran"
   },
   {
     "Position": 417,
@@ -3750,7 +4118,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:47:22",
-    "Gun Time": "0:47:56"
+    "Gun Time": "0:47:56",
+    "runner_id": "tanya-kelly"
   },
   {
     "Position": 418,
@@ -3759,7 +4128,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:47:48",
-    "Gun Time": "0:47:57"
+    "Gun Time": "0:47:57",
+    "runner_id": "micky-collins"
   },
   {
     "Position": 419,
@@ -3768,7 +4138,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M60",
     "Chip Time": "0:47:43",
-    "Gun Time": "0:47:59"
+    "Gun Time": "0:47:59",
+    "runner_id": "thomas-mcdonad"
   },
   {
     "Position": 420,
@@ -3777,7 +4148,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:47:33",
-    "Gun Time": "0:47:59"
+    "Gun Time": "0:47:59",
+    "runner_id": "ryan-lucas"
   },
   {
     "Position": 421,
@@ -3786,7 +4158,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:48:01",
-    "Gun Time": "0:48:12"
+    "Gun Time": "0:48:12",
+    "runner_id": "peter-mitchell"
   },
   {
     "Position": 422,
@@ -3795,7 +4168,8 @@
     "Club": "Cappagh",
     "Category": "MO",
     "Chip Time": "0:48:15",
-    "Gun Time": "0:48:15"
+    "Gun Time": "0:48:15",
+    "runner_id": "corrie-mc-girrr"
   },
   {
     "Position": 423,
@@ -3804,7 +4178,8 @@
     "Club": "",
     "Category": "F50",
     "Chip Time": "0:47:48",
-    "Gun Time": "0:48:15"
+    "Gun Time": "0:48:15",
+    "runner_id": "mark-cregan"
   },
   {
     "Position": 424,
@@ -3813,7 +4188,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:48:16",
-    "Gun Time": "0:48:16"
+    "Gun Time": "0:48:16",
+    "runner_id": "lisa-service"
   },
   {
     "Position": 425,
@@ -3822,7 +4198,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:48:07",
-    "Gun Time": "0:48:16"
+    "Gun Time": "0:48:16",
+    "runner_id": "aishling-service"
   },
   {
     "Position": 426,
@@ -3831,7 +4208,8 @@
     "Club": "Cappagh",
     "Category": "F35",
     "Chip Time": "0:48:16",
-    "Gun Time": "0:48:16"
+    "Gun Time": "0:48:16",
+    "runner_id": "mary-mc-girr"
   },
   {
     "Position": 427,
@@ -3840,7 +4218,8 @@
     "Club": "Magherafelt Harriers",
     "Category": "F40",
     "Chip Time": "0:48:01",
-    "Gun Time": "0:48:18"
+    "Gun Time": "0:48:18",
+    "runner_id": "jayne-higgins"
   },
   {
     "Position": 428,
@@ -3849,7 +4228,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:47:54",
-    "Gun Time": "0:48:20"
+    "Gun Time": "0:48:20",
+    "runner_id": "ciara-clarke"
   },
   {
     "Position": 429,
@@ -3858,7 +4238,8 @@
     "Club": "",
     "Category": "M45",
     "Chip Time": "0:47:53",
-    "Gun Time": "0:48:20"
+    "Gun Time": "0:48:20",
+    "runner_id": "stephen-clarke"
   },
   {
     "Position": 430,
@@ -3876,7 +4257,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:47:54",
-    "Gun Time": "0:48:27"
+    "Gun Time": "0:48:27",
+    "runner_id": "orla-crehan"
   },
   {
     "Position": 432,
@@ -3885,7 +4267,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:48:19",
-    "Gun Time": "0:48:27"
+    "Gun Time": "0:48:27",
+    "runner_id": "kerriann-mclaughlin"
   },
   {
     "Position": 433,
@@ -3894,7 +4277,8 @@
     "Club": "Knockmany Runners",
     "Category": "F55",
     "Chip Time": "0:47:50",
-    "Gun Time": "0:48:30"
+    "Gun Time": "0:48:30",
+    "runner_id": "pauline-mcaleer"
   },
   {
     "Position": 434,
@@ -3903,7 +4287,8 @@
     "Club": "Muck Hogs",
     "Category": "M40",
     "Chip Time": "0:48:18",
-    "Gun Time": "0:48:38"
+    "Gun Time": "0:48:38",
+    "runner_id": "kevin-kearns"
   },
   {
     "Position": 435,
@@ -3912,7 +4297,8 @@
     "Club": "R Running Club",
     "Category": "F40",
     "Chip Time": "0:48:38",
-    "Gun Time": "0:48:38"
+    "Gun Time": "0:48:38",
+    "runner_id": "kerryanne-mcalynn"
   },
   {
     "Position": 436,
@@ -3921,7 +4307,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:48:15",
-    "Gun Time": "0:48:47"
+    "Gun Time": "0:48:47",
+    "runner_id": "eimear-kelly"
   },
   {
     "Position": 437,
@@ -3939,7 +4326,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:48:22",
-    "Gun Time": "0:48:53"
+    "Gun Time": "0:48:53",
+    "runner_id": "kerry-quinn"
   },
   {
     "Position": 439,
@@ -3948,7 +4336,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:48:19",
-    "Gun Time": "0:48:53"
+    "Gun Time": "0:48:53",
+    "runner_id": "cathal-obrien"
   },
   {
     "Position": 440,
@@ -3957,7 +4346,8 @@
     "Club": "",
     "Category": "F50",
     "Chip Time": "0:48:33",
-    "Gun Time": "0:48:59"
+    "Gun Time": "0:48:59",
+    "runner_id": "adelaide-strain"
   },
   {
     "Position": 441,
@@ -3966,7 +4356,8 @@
     "Club": "Carmen Runners",
     "Category": "F40",
     "Chip Time": "0:48:51",
-    "Gun Time": "0:49:02"
+    "Gun Time": "0:49:02",
+    "runner_id": "oonagh-bradley"
   },
   {
     "Position": 442,
@@ -3975,7 +4366,8 @@
     "Club": "Armagh Park Run",
     "Category": "M50",
     "Chip Time": "0:48:31",
-    "Gun Time": "0:49:07"
+    "Gun Time": "0:49:07",
+    "runner_id": "philip-mallon"
   },
   {
     "Position": 443,
@@ -3984,7 +4376,8 @@
     "Club": "Pomeroy Runners",
     "Category": "F50",
     "Chip Time": "0:48:42",
-    "Gun Time": "0:49:10"
+    "Gun Time": "0:49:10",
+    "runner_id": "rose-corr"
   },
   {
     "Position": 444,
@@ -3993,7 +4386,8 @@
     "Club": "",
     "Category": "M65",
     "Chip Time": "0:48:49",
-    "Gun Time": "0:49:23"
+    "Gun Time": "0:49:23",
+    "runner_id": "thomas-wilson"
   },
   {
     "Position": 445,
@@ -4002,7 +4396,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:49:06",
-    "Gun Time": "0:49:30"
+    "Gun Time": "0:49:30",
+    "runner_id": "amanda-boyd"
   },
   {
     "Position": 446,
@@ -4011,7 +4406,8 @@
     "Club": "Tri Limits",
     "Category": "M40",
     "Chip Time": "0:49:05",
-    "Gun Time": "0:49:34"
+    "Gun Time": "0:49:34",
+    "runner_id": "sarah-halliony"
   },
   {
     "Position": 447,
@@ -4020,7 +4416,8 @@
     "Club": "Ballymena Runners",
     "Category": "FO",
     "Chip Time": "0:49:11",
-    "Gun Time": "0:49:41"
+    "Gun Time": "0:49:41",
+    "runner_id": "mary-duffin"
   },
   {
     "Position": 448,
@@ -4029,7 +4426,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:49:22",
-    "Gun Time": "0:49:42"
+    "Gun Time": "0:49:42",
+    "runner_id": "michelle-oneill"
   },
   {
     "Position": 449,
@@ -4038,7 +4436,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:49:09",
-    "Gun Time": "0:49:48"
+    "Gun Time": "0:49:48",
+    "runner_id": "cathal-mc-elhone"
   },
   {
     "Position": 450,
@@ -4047,7 +4446,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:49:14",
-    "Gun Time": "0:49:51"
+    "Gun Time": "0:49:51",
+    "runner_id": "natalia-campbell"
   },
   {
     "Position": 451,
@@ -4056,7 +4456,8 @@
     "Club": "Knockmany Runners",
     "Category": "F50",
     "Chip Time": "0:49:17",
-    "Gun Time": "0:49:57"
+    "Gun Time": "0:49:57",
+    "runner_id": "angela-arkinson"
   },
   {
     "Position": 452,
@@ -4065,7 +4466,8 @@
     "Club": "Knockmany Runners",
     "Category": "F45",
     "Chip Time": "0:49:37",
-    "Gun Time": "0:49:57"
+    "Gun Time": "0:49:57",
+    "runner_id": "teresa-meegan"
   },
   {
     "Position": 453,
@@ -4074,7 +4476,8 @@
     "Club": "Revolution Fitness",
     "Category": "FO",
     "Chip Time": "0:49:49",
-    "Gun Time": "0:50:24"
+    "Gun Time": "0:50:24",
+    "runner_id": "theresa-mcaleer"
   },
   {
     "Position": 454,
@@ -4083,7 +4486,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:49:50",
-    "Gun Time": "0:50:24"
+    "Gun Time": "0:50:24",
+    "runner_id": "kelly-shields"
   },
   {
     "Position": 455,
@@ -4092,7 +4496,8 @@
     "Club": "Drumragh G4M'S",
     "Category": "F35",
     "Chip Time": "0:50:10",
-    "Gun Time": "0:50:28"
+    "Gun Time": "0:50:28",
+    "runner_id": "brenda-breen"
   },
   {
     "Position": 456,
@@ -4101,7 +4506,8 @@
     "Club": "",
     "Category": "F45",
     "Chip Time": "0:50:11",
-    "Gun Time": "0:50:28"
+    "Gun Time": "0:50:28",
+    "runner_id": "roisin-mccrory"
   },
   {
     "Position": 457,
@@ -4110,7 +4516,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:49:54",
-    "Gun Time": "0:50:30"
+    "Gun Time": "0:50:30",
+    "runner_id": "kelly-fegan"
   },
   {
     "Position": 458,
@@ -4119,7 +4526,8 @@
     "Club": "East Down AC",
     "Category": "MO",
     "Chip Time": "0:49:55",
-    "Gun Time": "0:50:30"
+    "Gun Time": "0:50:30",
+    "runner_id": "gareth-fegan"
   },
   {
     "Position": 459,
@@ -4128,7 +4536,8 @@
     "Club": "North Down AC",
     "Category": "M65",
     "Chip Time": "0:50:23",
-    "Gun Time": "0:50:38"
+    "Gun Time": "0:50:38",
+    "runner_id": "pat-odriscoll"
   },
   {
     "Position": 460,
@@ -4137,7 +4546,8 @@
     "Club": "Badoney Runners",
     "Category": "F50",
     "Chip Time": "0:50:31",
-    "Gun Time": "0:50:52"
+    "Gun Time": "0:50:52",
+    "runner_id": "rosaleen-mcaleer"
   },
   {
     "Position": 461,
@@ -4146,7 +4556,8 @@
     "Club": "Badoney Runners",
     "Category": "FO",
     "Chip Time": "0:50:30",
-    "Gun Time": "0:50:52"
+    "Gun Time": "0:50:52",
+    "runner_id": "teresa-mcgarvey"
   },
   {
     "Position": 462,
@@ -4155,7 +4566,8 @@
     "Club": "Omagh Tri Club",
     "Category": "M40",
     "Chip Time": "0:50:23",
-    "Gun Time": "0:50:54"
+    "Gun Time": "0:50:54",
+    "runner_id": "conor-eannetta"
   },
   {
     "Position": 463,
@@ -4164,7 +4576,8 @@
     "Club": "Team Wallace",
     "Category": "FO",
     "Chip Time": "0:51:03",
-    "Gun Time": "0:51:15"
+    "Gun Time": "0:51:15",
+    "runner_id": "fiona-wallace"
   },
   {
     "Position": 464,
@@ -4173,7 +4586,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:50:55",
-    "Gun Time": "0:51:20"
+    "Gun Time": "0:51:20",
+    "runner_id": "wendy-mclean"
   },
   {
     "Position": 465,
@@ -4182,7 +4596,8 @@
     "Club": "Omagh St Enda's",
     "Category": "F45",
     "Chip Time": "0:50:52",
-    "Gun Time": "0:51:25"
+    "Gun Time": "0:51:25",
+    "runner_id": "dympna-mcclements"
   },
   {
     "Position": 466,
@@ -4191,7 +4606,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:51:13",
-    "Gun Time": "0:51:29"
+    "Gun Time": "0:51:29",
+    "runner_id": "claire-doran"
   },
   {
     "Position": 467,
@@ -4200,7 +4616,8 @@
     "Club": "Sperrin Harriers",
     "Category": "F50",
     "Chip Time": "0:51:01",
-    "Gun Time": "0:51:31"
+    "Gun Time": "0:51:31",
+    "runner_id": "linda-heenan"
   },
   {
     "Position": 468,
@@ -4218,7 +4635,8 @@
     "Club": "Carmen Runners",
     "Category": "F35",
     "Chip Time": "0:51:33",
-    "Gun Time": "0:51:39"
+    "Gun Time": "0:51:39",
+    "runner_id": "carmel-stewart"
   },
   {
     "Position": 470,
@@ -4236,7 +4654,8 @@
     "Club": "Omagh Harriers",
     "Category": "F60",
     "Chip Time": "0:51:09",
-    "Gun Time": "0:51:41"
+    "Gun Time": "0:51:41",
+    "runner_id": "brid-mccann"
   },
   {
     "Position": 472,
@@ -4245,7 +4664,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "F40",
     "Chip Time": "0:51:40",
-    "Gun Time": "0:51:54"
+    "Gun Time": "0:51:54",
+    "runner_id": "lorraine-mcgrinder"
   },
   {
     "Position": 473,
@@ -4254,7 +4674,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:51:17",
-    "Gun Time": "0:51:54"
+    "Gun Time": "0:51:54",
+    "runner_id": "ailish-mullan"
   },
   {
     "Position": 474,
@@ -4263,7 +4684,8 @@
     "Club": "R Running Club",
     "Category": "FO",
     "Chip Time": "0:51:46",
-    "Gun Time": "0:52:07"
+    "Gun Time": "0:52:07",
+    "runner_id": "jolene-breydin"
   },
   {
     "Position": 475,
@@ -4272,7 +4694,8 @@
     "Club": "Lagan Valley AC",
     "Category": "M65",
     "Chip Time": "0:52:05",
-    "Gun Time": "0:52:09"
+    "Gun Time": "0:52:09",
+    "runner_id": "desmond-brownlie"
   },
   {
     "Position": 476,
@@ -4281,7 +4704,8 @@
     "Club": "",
     "Category": "F50",
     "Chip Time": "0:51:42",
-    "Gun Time": "0:52:11"
+    "Gun Time": "0:52:11",
+    "runner_id": "joan-bradley"
   },
   {
     "Position": 477,
@@ -4299,7 +4723,8 @@
     "Club": "Loughmacrory",
     "Category": "MU19",
     "Chip Time": "0:51:52",
-    "Gun Time": "0:52:25"
+    "Gun Time": "0:52:25",
+    "runner_id": "conor-fox"
   },
   {
     "Position": 479,
@@ -4308,7 +4733,8 @@
     "Club": "Killeeshil Runners",
     "Category": "FO",
     "Chip Time": "0:52:05",
-    "Gun Time": "0:52:31"
+    "Gun Time": "0:52:31",
+    "runner_id": "danuta-mcgahan"
   },
   {
     "Position": 480,
@@ -4317,7 +4743,8 @@
     "Club": "",
     "Category": "F45",
     "Chip Time": "0:52:04",
-    "Gun Time": "0:52:41"
+    "Gun Time": "0:52:41",
+    "runner_id": "paula-mcnamee"
   },
   {
     "Position": 481,
@@ -4326,7 +4753,8 @@
     "Club": "Pace Running Club",
     "Category": "MO",
     "Chip Time": "0:52:46",
-    "Gun Time": "0:52:49"
+    "Gun Time": "0:52:49",
+    "runner_id": "malachy-doyle"
   },
   {
     "Position": 482,
@@ -4344,7 +4772,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:52:32",
-    "Gun Time": "0:52:52"
+    "Gun Time": "0:52:52",
+    "runner_id": "donna-porter"
   },
   {
     "Position": 484,
@@ -4362,7 +4791,8 @@
     "Club": "Revolution Fitness",
     "Category": "FO",
     "Chip Time": "0:52:36",
-    "Gun Time": "0:52:58"
+    "Gun Time": "0:52:58",
+    "runner_id": "briege-nugent"
   },
   {
     "Position": 486,
@@ -4371,7 +4801,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:52:19",
-    "Gun Time": "0:52:58"
+    "Gun Time": "0:52:58",
+    "runner_id": "diarmaid-mcgurk"
   },
   {
     "Position": 487,
@@ -4380,7 +4811,8 @@
     "Club": "Termoneeny RC",
     "Category": "M65",
     "Chip Time": "0:52:42",
-    "Gun Time": "0:53:01"
+    "Gun Time": "0:53:01",
+    "runner_id": "tom-halferty"
   },
   {
     "Position": 488,
@@ -4398,7 +4830,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:53:19",
-    "Gun Time": "0:53:24"
+    "Gun Time": "0:53:24",
+    "runner_id": "brian-donnelly"
   },
   {
     "Position": 490,
@@ -4407,7 +4840,8 @@
     "Club": "Ormeau Runners",
     "Category": "F35",
     "Chip Time": "0:52:57",
-    "Gun Time": "0:53:26"
+    "Gun Time": "0:53:26",
+    "runner_id": "ciara-mulligan"
   },
   {
     "Position": 491,
@@ -4416,7 +4850,8 @@
     "Club": "Badoney Runners",
     "Category": "FO",
     "Chip Time": "0:53:06",
-    "Gun Time": "0:53:27"
+    "Gun Time": "0:53:27",
+    "runner_id": "maggie-mccrory"
   },
   {
     "Position": 492,
@@ -4425,7 +4860,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "F45",
     "Chip Time": "0:53:03",
-    "Gun Time": "0:53:33"
+    "Gun Time": "0:53:33",
+    "runner_id": "karen-carlin"
   },
   {
     "Position": 493,
@@ -4434,7 +4870,8 @@
     "Club": "Pomeroy Runners",
     "Category": "F35",
     "Chip Time": "0:53:15",
-    "Gun Time": "0:53:40"
+    "Gun Time": "0:53:40",
+    "runner_id": "elaine-mallaghan"
   },
   {
     "Position": 494,
@@ -4443,7 +4880,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:53:42",
-    "Gun Time": "0:53:46"
+    "Gun Time": "0:53:46",
+    "runner_id": "john-kerlin"
   },
   {
     "Position": 495,
@@ -4452,7 +4890,8 @@
     "Club": "Carmen Runners",
     "Category": "F35",
     "Chip Time": "0:53:47",
-    "Gun Time": "0:53:55"
+    "Gun Time": "0:53:55",
+    "runner_id": "nicola-kelly"
   },
   {
     "Position": 496,
@@ -4461,7 +4900,8 @@
     "Club": "Loughmacrory",
     "Category": "FO",
     "Chip Time": "0:53:29",
-    "Gun Time": "0:54:03"
+    "Gun Time": "0:54:03",
+    "runner_id": "niamh-keyes"
   },
   {
     "Position": 497,
@@ -4470,7 +4910,8 @@
     "Club": "",
     "Category": "M60",
     "Chip Time": "0:53:38",
-    "Gun Time": "0:54:16"
+    "Gun Time": "0:54:16",
+    "runner_id": "hugh-mullin"
   },
   {
     "Position": 498,
@@ -4479,7 +4920,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "0:53:44",
-    "Gun Time": "0:54:21"
+    "Gun Time": "0:54:21",
+    "runner_id": "alan-mitchell"
   },
   {
     "Position": 499,
@@ -4488,7 +4930,8 @@
     "Club": "Loch Mhic Ruairi",
     "Category": "MU19",
     "Chip Time": "0:53:52",
-    "Gun Time": "0:54:21"
+    "Gun Time": "0:54:21",
+    "runner_id": "conor-kelly"
   },
   {
     "Position": 500,
@@ -4497,7 +4940,8 @@
     "Club": "",
     "Category": "F55",
     "Chip Time": "0:54:33",
-    "Gun Time": "0:54:46"
+    "Gun Time": "0:54:46",
+    "runner_id": "claire-mclaughlin"
   },
   {
     "Position": 501,
@@ -4506,7 +4950,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "0:54:51",
-    "Gun Time": "0:54:57"
+    "Gun Time": "0:54:57",
+    "runner_id": "eugene-mcmackin"
   },
   {
     "Position": 502,
@@ -4515,7 +4960,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:54:21",
-    "Gun Time": "0:54:59"
+    "Gun Time": "0:54:59",
+    "runner_id": "kate-mcveigh"
   },
   {
     "Position": 503,
@@ -4524,7 +4970,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:54:45",
-    "Gun Time": "0:55:00"
+    "Gun Time": "0:55:00",
+    "runner_id": "william-little"
   },
   {
     "Position": 504,
@@ -4533,7 +4980,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:54:09",
-    "Gun Time": "0:55:00"
+    "Gun Time": "0:55:00",
+    "runner_id": "siobhan-rogan"
   },
   {
     "Position": 505,
@@ -4542,7 +4990,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:54:08",
-    "Gun Time": "0:55:01"
+    "Gun Time": "0:55:01",
+    "runner_id": "heather-hanna"
   },
   {
     "Position": 506,
@@ -4551,7 +5000,8 @@
     "Club": "",
     "Category": "F55",
     "Chip Time": "0:54:25",
-    "Gun Time": "0:55:01"
+    "Gun Time": "0:55:01",
+    "runner_id": "catherine-mccormack"
   },
   {
     "Position": 507,
@@ -4560,7 +5010,8 @@
     "Club": "",
     "Category": "M40",
     "Chip Time": "0:55:50",
-    "Gun Time": "0:56:08"
+    "Gun Time": "0:56:08",
+    "runner_id": "pat-oconnell"
   },
   {
     "Position": 508,
@@ -4569,7 +5020,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:55:44",
-    "Gun Time": "0:56:11"
+    "Gun Time": "0:56:11",
+    "runner_id": "edel-donaghy"
   },
   {
     "Position": 509,
@@ -4578,7 +5030,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:55:44",
-    "Gun Time": "0:56:11"
+    "Gun Time": "0:56:11",
+    "runner_id": "aoife-mcelduff"
   },
   {
     "Position": 510,
@@ -4587,7 +5040,8 @@
     "Club": "",
     "Category": "M50",
     "Chip Time": "0:55:36",
-    "Gun Time": "0:56:15"
+    "Gun Time": "0:56:15",
+    "runner_id": "martina-mcgarrity"
   },
   {
     "Position": 511,
@@ -4596,7 +5050,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "0:55:58",
-    "Gun Time": "0:56:23"
+    "Gun Time": "0:56:23",
+    "runner_id": "marie-dobbs"
   },
   {
     "Position": 512,
@@ -4605,7 +5060,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:55:54",
-    "Gun Time": "0:56:29"
+    "Gun Time": "0:56:29",
+    "runner_id": "gemma-obrien"
   },
   {
     "Position": 513,
@@ -4614,7 +5070,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "0:55:54",
-    "Gun Time": "0:56:29"
+    "Gun Time": "0:56:29",
+    "runner_id": "ciara-mcaleer"
   },
   {
     "Position": 514,
@@ -4623,7 +5080,8 @@
     "Club": "Beragh Red Knights",
     "Category": "FO",
     "Chip Time": "0:55:53",
-    "Gun Time": "0:56:33"
+    "Gun Time": "0:56:33",
+    "runner_id": "nuala-mcaleer"
   },
   {
     "Position": 515,
@@ -4632,7 +5090,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:56:17",
-    "Gun Time": "0:56:34"
+    "Gun Time": "0:56:34",
+    "runner_id": "sinead-dolan"
   },
   {
     "Position": 516,
@@ -4641,7 +5100,8 @@
     "Club": "",
     "Category": "MU19",
     "Chip Time": "0:56:09",
-    "Gun Time": "0:56:38"
+    "Gun Time": "0:56:38",
+    "runner_id": "niall-kelly"
   },
   {
     "Position": 517,
@@ -4650,7 +5110,8 @@
     "Club": "Lifford Strabane AC",
     "Category": "F50",
     "Chip Time": "0:56:37",
-    "Gun Time": "0:57:06"
+    "Gun Time": "0:57:06",
+    "runner_id": "rosemary-boggs"
   },
   {
     "Position": 518,
@@ -4668,7 +5129,8 @@
     "Club": "",
     "Category": "F40",
     "Chip Time": "0:56:49",
-    "Gun Time": "0:57:20"
+    "Gun Time": "0:57:20",
+    "runner_id": "orla-mccabe"
   },
   {
     "Position": 520,
@@ -4677,7 +5139,8 @@
     "Club": "Run For Enda",
     "Category": "F55",
     "Chip Time": "0:57:53",
-    "Gun Time": "0:57:53"
+    "Gun Time": "0:57:53",
+    "runner_id": "deirdre-flanagan"
   },
   {
     "Position": 521,
@@ -4686,7 +5149,8 @@
     "Club": "Badoney Runners",
     "Category": "F40",
     "Chip Time": "0:57:59",
-    "Gun Time": "0:58:19"
+    "Gun Time": "0:58:19",
+    "runner_id": "imelda-mccarron"
   },
   {
     "Position": 522,
@@ -4704,7 +5168,8 @@
     "Club": "North Belfast Harriers",
     "Category": "F40",
     "Chip Time": "0:57:53",
-    "Gun Time": "0:58:24"
+    "Gun Time": "0:58:24",
+    "runner_id": "michelle-doogan"
   },
   {
     "Position": 524,
@@ -4713,7 +5178,8 @@
     "Club": "North Belfast Harriers",
     "Category": "F45",
     "Chip Time": "0:57:58",
-    "Gun Time": "0:58:29"
+    "Gun Time": "0:58:29",
+    "runner_id": "clare-corey"
   },
   {
     "Position": 525,
@@ -4722,7 +5188,8 @@
     "Club": "Badoney Runners",
     "Category": "F35",
     "Chip Time": "0:59:03",
-    "Gun Time": "0:59:26"
+    "Gun Time": "0:59:26",
+    "runner_id": "claire-oneill"
   },
   {
     "Position": 526,
@@ -4740,7 +5207,8 @@
     "Club": "Run For Enda",
     "Category": "F55",
     "Chip Time": "0:59:07",
-    "Gun Time": "0:59:41"
+    "Gun Time": "0:59:41",
+    "runner_id": "siobhan-sweeney"
   },
   {
     "Position": 528,
@@ -4749,7 +5217,8 @@
     "Club": "Badoney Runners",
     "Category": "F45",
     "Chip Time": "1:00:15",
-    "Gun Time": "1:00:38"
+    "Gun Time": "1:00:38",
+    "runner_id": "lina-oneill"
   },
   {
     "Position": 529,
@@ -4758,7 +5227,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "1:00:24",
-    "Gun Time": "1:01:01"
+    "Gun Time": "1:01:01",
+    "runner_id": "julia-curran"
   },
   {
     "Position": 530,
@@ -4767,7 +5237,8 @@
     "Club": "Revolution Fitness",
     "Category": "FO",
     "Chip Time": "1:01:48",
-    "Gun Time": "1:02:13"
+    "Gun Time": "1:02:13",
+    "runner_id": "majella-coyle"
   },
   {
     "Position": 531,
@@ -4776,7 +5247,8 @@
     "Club": "",
     "Category": "MO",
     "Chip Time": "1:01:49",
-    "Gun Time": "1:02:20"
+    "Gun Time": "1:02:20",
+    "runner_id": "ben-quinn"
   },
   {
     "Position": 532,
@@ -4794,7 +5266,8 @@
     "Club": "R Running Club",
     "Category": "MO",
     "Chip Time": "1:02:20",
-    "Gun Time": "1:02:42"
+    "Gun Time": "1:02:42",
+    "runner_id": "sean-hannon"
   },
   {
     "Position": 534,
@@ -4803,7 +5276,8 @@
     "Club": "",
     "Category": "F35",
     "Chip Time": "1:02:31",
-    "Gun Time": "1:02:56"
+    "Gun Time": "1:02:56",
+    "runner_id": "louise-donaghy"
   },
   {
     "Position": 535,
@@ -4812,7 +5286,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "1:02:43",
-    "Gun Time": "1:03:10"
+    "Gun Time": "1:03:10",
+    "runner_id": "donna-mitchell"
   },
   {
     "Position": 536,
@@ -4830,7 +5305,8 @@
     "Club": "",
     "Category": "FO",
     "Chip Time": "1:08:00",
-    "Gun Time": "1:08:00"
+    "Gun Time": "1:08:00",
+    "runner_id": "rosa-bradley"
   },
   {
     "Position": 538,
@@ -4839,7 +5315,8 @@
     "Club": "",
     "Category": "M55",
     "Chip Time": "1:10:05",
-    "Gun Time": "1:10:46"
+    "Gun Time": "1:10:46",
+    "runner_id": "john-conway"
   },
   {
     "Position": 539,
@@ -4848,7 +5325,8 @@
     "Club": "",
     "Category": "F45",
     "Chip Time": "1:12:56",
-    "Gun Time": "1:12:56"
+    "Gun Time": "1:12:56",
+    "runner_id": "ann-sheehan"
   },
   {
     "Position": 540,
@@ -4866,7 +5344,8 @@
     "Club": "",
     "Category": "FU19",
     "Chip Time": "1:20:36",
-    "Gun Time": "1:20:42"
+    "Gun Time": "1:20:42",
+    "runner_id": "anna-lawlor"
   },
   {
     "Position": 542,
@@ -4875,6 +5354,7 @@
     "Club": "",
     "Category": "FU19",
     "Chip Time": "1:20:39",
-    "Gun Time": "1:20:45"
+    "Gun Time": "1:20:45",
+    "runner_id": "caitlin-sheehan"
   }
 ]

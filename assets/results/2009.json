@@ -5,7 +5,8 @@
     "Name": "Noel Collins",
     "Club": "Omagh Harriers",
     "Category": "MU19",
-    "Chip Time": "0:27:14"
+    "Chip Time": "0:27:14",
+    "runner_id": "noel-collins"
   },
   {
     "Position": 2,
@@ -13,7 +14,8 @@
     "Name": "Eoin Mullan",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:27:56"
+    "Chip Time": "0:27:56",
+    "runner_id": "eoin-mullan"
   },
   {
     "Position": 3,
@@ -21,7 +23,8 @@
     "Name": "Ciaran  Collins",
     "Club": "Omagh Harriers",
     "Category": "MO",
-    "Chip Time": "0:28:16"
+    "Chip Time": "0:28:16",
+    "runner_id": "ciaran-collins"
   },
   {
     "Position": 4,
@@ -53,7 +56,8 @@
     "Name": "Nigel Grier",
     "Club": "Dromore AC",
     "Category": "M40",
-    "Chip Time": "0:30:26"
+    "Chip Time": "0:30:26",
+    "runner_id": "nigel-grier"
   },
   {
     "Position": 8,
@@ -61,7 +65,8 @@
     "Name": "Conor Moore",
     "Club": "Omagh Harriers",
     "Category": "MU19",
-    "Chip Time": "0:30:52"
+    "Chip Time": "0:30:52",
+    "runner_id": "conor-moore"
   },
   {
     "Position": 9,
@@ -69,7 +74,8 @@
     "Name": "David Wright",
     "Club": "North Belfast",
     "Category": "M40",
-    "Chip Time": "0:30:58"
+    "Chip Time": "0:30:58",
+    "runner_id": "david-wright"
   },
   {
     "Position": 10,
@@ -77,7 +83,8 @@
     "Name": "Michael Kerr",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:31:02"
+    "Chip Time": "0:31:02",
+    "runner_id": "michael-kerr"
   },
   {
     "Position": 11,
@@ -93,7 +100,8 @@
     "Name": "Conor Meyler",
     "Club": "Omagh Harriers",
     "Category": "MU19",
-    "Chip Time": "0:31:12"
+    "Chip Time": "0:31:12",
+    "runner_id": "conor-meyler"
   },
   {
     "Position": 13,
@@ -109,7 +117,8 @@
     "Name": "keith Dawson",
     "Club": "Lisburn",
     "Category": "MO",
-    "Chip Time": "0:31:27"
+    "Chip Time": "0:31:27",
+    "runner_id": "keith-dawson"
   },
   {
     "Position": 15,
@@ -117,7 +126,8 @@
     "Name": "Derek Somerville",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:31:40"
+    "Chip Time": "0:31:40",
+    "runner_id": "derek-somerville"
   },
   {
     "Position": 16,
@@ -125,7 +135,8 @@
     "Name": "Karen Alexander",
     "Club": "Sperrin Harriers",
     "Category": "FO",
-    "Chip Time": "0:31:45"
+    "Chip Time": "0:31:45",
+    "runner_id": "karen-alexander"
   },
   {
     "Position": 17,
@@ -133,7 +144,8 @@
     "Name": "Terry Canninan",
     "Club": "Omagh Harriers",
     "Category": "FO",
-    "Chip Time": "0:31:59"
+    "Chip Time": "0:31:59",
+    "runner_id": "terry-canninan"
   },
   {
     "Position": 18,
@@ -141,7 +153,8 @@
     "Name": "Barry Devlin",
     "Club": "Omagh Harriers",
     "Category": "MO",
-    "Chip Time": "0:32:24"
+    "Chip Time": "0:32:24",
+    "runner_id": "barry-devlin"
   },
   {
     "Position": 19,
@@ -149,7 +162,8 @@
     "Name": "Eamonn Donnelly",
     "Club": "Greencastle",
     "Category": "MO",
-    "Chip Time": "0:32:27"
+    "Chip Time": "0:32:27",
+    "runner_id": "eamonn-donnelly"
   },
   {
     "Position": 20,
@@ -157,7 +171,8 @@
     "Name": "Seanie Meyler",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:32:38"
+    "Chip Time": "0:32:38",
+    "runner_id": "seanie-meyler"
   },
   {
     "Position": 21,
@@ -165,7 +180,8 @@
     "Name": "Dominic McCartan",
     "Club": "Carrickmore",
     "Category": "M50",
-    "Chip Time": "0:32:48"
+    "Chip Time": "0:32:48",
+    "runner_id": "dominic-mccartan"
   },
   {
     "Position": 22,
@@ -173,7 +189,8 @@
     "Name": "Shane McGale",
     "Club": "Omagh",
     "Category": "MO",
-    "Chip Time": "0:32:50"
+    "Chip Time": "0:32:50",
+    "runner_id": "shane-mcgale"
   },
   {
     "Position": 23,
@@ -181,7 +198,8 @@
     "Name": "Bob Davison",
     "Club": "Tri-Limits",
     "Category": "MO",
-    "Chip Time": "0:32:51"
+    "Chip Time": "0:32:51",
+    "runner_id": "bob-davison"
   },
   {
     "Position": 24,
@@ -189,7 +207,8 @@
     "Name": "Greg McClure",
     "Club": "Lisburn",
     "Category": "M50",
-    "Chip Time": "0:32:56"
+    "Chip Time": "0:32:56",
+    "runner_id": "greg-mcclure"
   },
   {
     "Position": 25,
@@ -197,7 +216,8 @@
     "Name": "Robert Gallagher",
     "Club": "Strabane",
     "Category": "MO",
-    "Chip Time": "0:33:01"
+    "Chip Time": "0:33:01",
+    "runner_id": "robert-gallagher"
   },
   {
     "Position": 26,
@@ -205,7 +225,8 @@
     "Name": "Peter Skeffington",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:33:08"
+    "Chip Time": "0:33:08",
+    "runner_id": "peter-skeffington"
   },
   {
     "Position": 27,
@@ -213,7 +234,8 @@
     "Name": "Stephen Sherry",
     "Club": "Aughnacloy",
     "Category": "MO",
-    "Chip Time": "0:33:28"
+    "Chip Time": "0:33:28",
+    "runner_id": "stephen-sherry"
   },
   {
     "Position": 28,
@@ -221,7 +243,8 @@
     "Name": "Liam Mcart",
     "Club": "",
     "Category": "MO",
-    "Chip Time": "0:33:33"
+    "Chip Time": "0:33:33",
+    "runner_id": "liam-mcart"
   },
   {
     "Position": 29,
@@ -229,7 +252,8 @@
     "Name": "Barney McNally",
     "Club": "Gallbally",
     "Category": "MO",
-    "Chip Time": "0:33:33"
+    "Chip Time": "0:33:33",
+    "runner_id": "barney-mcnally"
   },
   {
     "Position": 30,
@@ -245,7 +269,8 @@
     "Name": "Patrick McCrory",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:33:36"
+    "Chip Time": "0:33:36",
+    "runner_id": "patrick-mccrory"
   },
   {
     "Position": 32,
@@ -253,7 +278,8 @@
     "Name": "Stephen Bradley",
     "Club": "Northumberland",
     "Category": "M40",
-    "Chip Time": "0:33:38"
+    "Chip Time": "0:33:38",
+    "runner_id": "stephen-bradley"
   },
   {
     "Position": 33,
@@ -269,7 +295,8 @@
     "Name": "Eamon Logue",
     "Club": "Omagh Harriers",
     "Category": "MU19",
-    "Chip Time": "0:33:57"
+    "Chip Time": "0:33:57",
+    "runner_id": "eamon-logue"
   },
   {
     "Position": 35,
@@ -277,7 +304,8 @@
     "Name": "Paddy Montague",
     "Club": "Dromore",
     "Category": "MO",
-    "Chip Time": "0:34:02"
+    "Chip Time": "0:34:02",
+    "runner_id": "paddy-montague"
   },
   {
     "Position": 36,
@@ -285,7 +313,8 @@
     "Name": "Micheal Meenagh",
     "Club": "Omagh Harriers",
     "Category": "MU19",
-    "Chip Time": "0:34:09"
+    "Chip Time": "0:34:09",
+    "runner_id": "micheal-meenagh"
   },
   {
     "Position": 37,
@@ -301,7 +330,8 @@
     "Name": "Gavin Winters",
     "Club": "Dromore",
     "Category": "MO",
-    "Chip Time": "0:34:21"
+    "Chip Time": "0:34:21",
+    "runner_id": "gavin-winters"
   },
   {
     "Position": 39,
@@ -309,7 +339,8 @@
     "Name": "Paul Bradley",
     "Club": "Desertmartin",
     "Category": "MO",
-    "Chip Time": "0:34:23"
+    "Chip Time": "0:34:23",
+    "runner_id": "paul-bradley"
   },
   {
     "Position": 40,
@@ -317,7 +348,8 @@
     "Name": "Brian Wilson",
     "Club": "Lagan Valley AC",
     "Category": "MO",
-    "Chip Time": "0:34:28"
+    "Chip Time": "0:34:28",
+    "runner_id": "brian-wilson"
   },
   {
     "Position": 41,
@@ -325,7 +357,8 @@
     "Name": "Lorcan Healy",
     "Club": "Omagh",
     "Category": "MO",
-    "Chip Time": "0:34:28"
+    "Chip Time": "0:34:28",
+    "runner_id": "lorcan-healy"
   },
   {
     "Position": 42,
@@ -333,7 +366,8 @@
     "Name": "Owen Bradley",
     "Club": "Killyclogher",
     "Category": "MO",
-    "Chip Time": "0:34:28"
+    "Chip Time": "0:34:28",
+    "runner_id": "owen-bradley"
   },
   {
     "Position": 43,
@@ -341,7 +375,8 @@
     "Name": "Samuel McCaul",
     "Club": "Antrim",
     "Category": "MO",
-    "Chip Time": "0:34:32"
+    "Chip Time": "0:34:32",
+    "runner_id": "samuel-mccaul"
   },
   {
     "Position": 44,
@@ -349,7 +384,8 @@
     "Name": "Neil Dillon",
     "Club": "Dromore",
     "Category": "M40",
-    "Chip Time": "0:34:41"
+    "Chip Time": "0:34:41",
+    "runner_id": "neil-dillon"
   },
   {
     "Position": 45,
@@ -357,7 +393,8 @@
     "Name": "Aidan Ward",
     "Club": "Loughmacrory",
     "Category": "M40",
-    "Chip Time": "0:34:46"
+    "Chip Time": "0:34:46",
+    "runner_id": "aidan-ward"
   },
   {
     "Position": 46,
@@ -365,7 +402,8 @@
     "Name": "Sean McEroy",
     "Club": "Omagh",
     "Category": "M50",
-    "Chip Time": "0:34:47"
+    "Chip Time": "0:34:47",
+    "runner_id": "sean-mceroy"
   },
   {
     "Position": 47,
@@ -389,7 +427,8 @@
     "Name": "Peter Gormley",
     "Club": "Omagh Harriers",
     "Category": "M50",
-    "Chip Time": "0:35:07"
+    "Chip Time": "0:35:07",
+    "runner_id": "peter-gormley"
   },
   {
     "Position": 50,
@@ -397,7 +436,8 @@
     "Name": "Ronan Ward",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:35:16"
+    "Chip Time": "0:35:16",
+    "runner_id": "ronan-ward"
   },
   {
     "Position": 51,
@@ -405,7 +445,8 @@
     "Name": "Gary Ward",
     "Club": "Sperrin Harriers",
     "Category": "MO",
-    "Chip Time": "0:35:28"
+    "Chip Time": "0:35:28",
+    "runner_id": "gary-ward"
   },
   {
     "Position": 52,
@@ -413,7 +454,8 @@
     "Name": "Michael Ward",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:35:30"
+    "Chip Time": "0:35:30",
+    "runner_id": "michael-ward"
   },
   {
     "Position": 53,
@@ -421,7 +463,8 @@
     "Name": "Gareth Maguire",
     "Club": "",
     "Category": "MO",
-    "Chip Time": "0:35:48"
+    "Chip Time": "0:35:48",
+    "runner_id": "gareth-maguire"
   },
   {
     "Position": 54,
@@ -429,7 +472,8 @@
     "Name": "Linus Montague",
     "Club": "Omagh Harriers",
     "Category": "MO",
-    "Chip Time": "0:35:50"
+    "Chip Time": "0:35:50",
+    "runner_id": "linus-montague"
   },
   {
     "Position": 55,
@@ -437,7 +481,8 @@
     "Name": "Pearse Gallagher",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:35:52"
+    "Chip Time": "0:35:52",
+    "runner_id": "pearse-gallagher"
   },
   {
     "Position": 56,
@@ -445,7 +490,8 @@
     "Name": "Conor Eannetta",
     "Club": "Omagh Trialthlon Club",
     "Category": "MO",
-    "Chip Time": "0:36:10"
+    "Chip Time": "0:36:10",
+    "runner_id": "conor-eannetta"
   },
   {
     "Position": 57,
@@ -453,7 +499,8 @@
     "Name": "Ciaran Hughes",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:36:11"
+    "Chip Time": "0:36:11",
+    "runner_id": "ciaran-hughes"
   },
   {
     "Position": 58,
@@ -461,7 +508,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "0:36:27"
+    "Chip Time": "0:36:27",
+    "runner_id": "unknown"
   },
   {
     "Position": 59,
@@ -469,7 +517,8 @@
     "Name": "Diane Wilson",
     "Club": "Lagan Valley AC",
     "Category": "F40",
-    "Chip Time": "0:36:30"
+    "Chip Time": "0:36:30",
+    "runner_id": "diane-wilson"
   },
   {
     "Position": 60,
@@ -477,7 +526,8 @@
     "Name": "Sara Moore",
     "Club": "Omagh Harriers",
     "Category": "FU19",
-    "Chip Time": "0:36:36"
+    "Chip Time": "0:36:36",
+    "runner_id": "sara-moore"
   },
   {
     "Position": 61,
@@ -493,7 +543,8 @@
     "Name": "Christopher Devlin",
     "Club": "Sixmilecross",
     "Category": "MU19",
-    "Chip Time": "0:36:38"
+    "Chip Time": "0:36:38",
+    "runner_id": "christopher-devlin"
   },
   {
     "Position": 63,
@@ -517,7 +568,8 @@
     "Name": "Raymond Thom",
     "Club": "Sperrin Harriers",
     "Category": "M40",
-    "Chip Time": "0:36:45"
+    "Chip Time": "0:36:45",
+    "runner_id": "raymond-thom"
   },
   {
     "Position": 66,
@@ -525,7 +577,8 @@
     "Name": "PJ O Connor",
     "Club": "Augher",
     "Category": "MO",
-    "Chip Time": "0:36:53"
+    "Chip Time": "0:36:53",
+    "runner_id": "pj-o-connor"
   },
   {
     "Position": 67,
@@ -533,7 +586,8 @@
     "Name": "Eugene McCullagh",
     "Club": "Greencastle",
     "Category": "M55",
-    "Chip Time": "0:36:57"
+    "Chip Time": "0:36:57",
+    "runner_id": "eugene-mccullagh"
   },
   {
     "Position": 68,
@@ -541,7 +595,8 @@
     "Name": "Karl Logue",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:37:07"
+    "Chip Time": "0:37:07",
+    "runner_id": "karl-logue"
   },
   {
     "Position": 69,
@@ -549,7 +604,8 @@
     "Name": "Barry McCann",
     "Club": "",
     "Category": "M40",
-    "Chip Time": "0:37:09"
+    "Chip Time": "0:37:09",
+    "runner_id": "barry-mccann"
   },
   {
     "Position": 70,
@@ -557,7 +613,8 @@
     "Name": "Bobby Collins",
     "Club": "Omagh Harriers",
     "Category": "M50",
-    "Chip Time": "0:37:09"
+    "Chip Time": "0:37:09",
+    "runner_id": "bobby-collins"
   },
   {
     "Position": 71,
@@ -565,7 +622,8 @@
     "Name": "PJ O Connor",
     "Club": "Augher",
     "Category": "MO",
-    "Chip Time": "0:37:09"
+    "Chip Time": "0:37:09",
+    "runner_id": "pj-o-connor"
   },
   {
     "Position": 72,
@@ -573,7 +631,8 @@
     "Name": "Sean Healy",
     "Club": "Omagh Harriers",
     "Category": "M55",
-    "Chip Time": "0:37:10"
+    "Chip Time": "0:37:10",
+    "runner_id": "sean-healy"
   },
   {
     "Position": 73,
@@ -589,7 +648,8 @@
     "Name": "Adrian Harley",
     "Club": "Tattyreagh",
     "Category": "MO",
-    "Chip Time": "0:37:19"
+    "Chip Time": "0:37:19",
+    "runner_id": "adrian-harley"
   },
   {
     "Position": 75,
@@ -597,7 +657,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "0:37:19"
+    "Chip Time": "0:37:19",
+    "runner_id": "unknown"
   },
   {
     "Position": 76,
@@ -605,7 +666,8 @@
     "Name": "Dylan Woods",
     "Club": "Pomeroy",
     "Category": "MU19",
-    "Chip Time": "0:37:21"
+    "Chip Time": "0:37:21",
+    "runner_id": "dylan-woods"
   },
   {
     "Position": 77,
@@ -613,7 +675,8 @@
     "Name": "Ronan Quinn",
     "Club": "Pomeroy",
     "Category": "MO",
-    "Chip Time": "0:37:22"
+    "Chip Time": "0:37:22",
+    "runner_id": "ronan-quinn"
   },
   {
     "Position": 78,
@@ -621,7 +684,8 @@
     "Name": "Ryan O Donnell",
     "Club": "Omagh",
     "Category": "MU19",
-    "Chip Time": "0:37:27"
+    "Chip Time": "0:37:27",
+    "runner_id": "ryan-o-donnell"
   },
   {
     "Position": 79,
@@ -637,7 +701,8 @@
     "Name": "Seamus Donaghy",
     "Club": "Killyclogher",
     "Category": "MO",
-    "Chip Time": "0:37:41"
+    "Chip Time": "0:37:41",
+    "runner_id": "seamus-donaghy"
   },
   {
     "Position": 81,
@@ -661,7 +726,8 @@
     "Name": "Peter McAleer",
     "Club": "Omagh",
     "Category": "M40",
-    "Chip Time": "0:37:52"
+    "Chip Time": "0:37:52",
+    "runner_id": "peter-mcaleer"
   },
   {
     "Position": 84,
@@ -677,7 +743,8 @@
     "Name": "James McCrory",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:38:06"
+    "Chip Time": "0:38:06",
+    "runner_id": "james-mccrory"
   },
   {
     "Position": 86,
@@ -685,7 +752,8 @@
     "Name": "paul martin",
     "Club": "Speerrin Harriers",
     "Category": "M50",
-    "Chip Time": "0:38:08"
+    "Chip Time": "0:38:08",
+    "runner_id": "paul-martin"
   },
   {
     "Position": 87,
@@ -693,7 +761,8 @@
     "Name": "Joseph Kelly",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:38:14"
+    "Chip Time": "0:38:14",
+    "runner_id": "joseph-kelly"
   },
   {
     "Position": 88,
@@ -701,7 +770,8 @@
     "Name": "Andrew Burns",
     "Club": "Calendon",
     "Category": "MO",
-    "Chip Time": "0:38:17"
+    "Chip Time": "0:38:17",
+    "runner_id": "andrew-burns"
   },
   {
     "Position": 89,
@@ -717,7 +787,8 @@
     "Name": "Deidre Heagney",
     "Club": "Omagh Harriers",
     "Category": "F35",
-    "Chip Time": "0:38:25"
+    "Chip Time": "0:38:25",
+    "runner_id": "deidre-heagney"
   },
   {
     "Position": 91,
@@ -733,7 +804,8 @@
     "Name": "Colm Logue",
     "Club": "Omagh Harriers",
     "Category": "MU19",
-    "Chip Time": "0:38:32"
+    "Chip Time": "0:38:32",
+    "runner_id": "colm-logue"
   },
   {
     "Position": 93,
@@ -749,7 +821,8 @@
     "Name": "Paul Daly",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:38:39"
+    "Chip Time": "0:38:39",
+    "runner_id": "paul-daly"
   },
   {
     "Position": 95,
@@ -773,7 +846,8 @@
     "Name": "Elizabeth Dawson",
     "Club": "Antrim",
     "Category": "FO",
-    "Chip Time": "0:39:04"
+    "Chip Time": "0:39:04",
+    "runner_id": "elizabeth-dawson"
   },
   {
     "Position": 98,
@@ -781,7 +855,8 @@
     "Name": "Vincent McDonnell",
     "Club": "Derry",
     "Category": "MO",
-    "Chip Time": "0:39:04"
+    "Chip Time": "0:39:04",
+    "runner_id": "vincent-mcdonnell"
   },
   {
     "Position": 99,
@@ -789,7 +864,8 @@
     "Name": "Glen McKenna",
     "Club": "",
     "Category": "MO",
-    "Chip Time": "0:39:05"
+    "Chip Time": "0:39:05",
+    "runner_id": "glen-mckenna"
   },
   {
     "Position": 100,
@@ -797,7 +873,8 @@
     "Name": "Paul Dillon",
     "Club": "",
     "Category": "m",
-    "Chip Time": "0:39:22"
+    "Chip Time": "0:39:22",
+    "runner_id": "paul-dillon"
   },
   {
     "Position": 101,
@@ -805,7 +882,8 @@
     "Name": "Gerard Henry",
     "Club": "Lavey",
     "Category": "M40",
-    "Chip Time": "0:39:31"
+    "Chip Time": "0:39:31",
+    "runner_id": "gerard-henry"
   },
   {
     "Position": 102,
@@ -821,7 +899,8 @@
     "Name": "Ryan O'Brien",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:39:32"
+    "Chip Time": "0:39:32",
+    "runner_id": "ryan-obrien"
   },
   {
     "Position": 104,
@@ -829,7 +908,8 @@
     "Name": "Liam Harvey",
     "Club": "Pomeroy",
     "Category": "MO",
-    "Chip Time": "0:39:34"
+    "Chip Time": "0:39:34",
+    "runner_id": "liam-harvey"
   },
   {
     "Position": 105,
@@ -837,7 +917,8 @@
     "Name": "Hugh mcCarney",
     "Club": "Fintona",
     "Category": "MO",
-    "Chip Time": "0:39:35"
+    "Chip Time": "0:39:35",
+    "runner_id": "hugh-mccarney"
   },
   {
     "Position": 106,
@@ -845,7 +926,8 @@
     "Name": "Paula McAleer",
     "Club": "Omagh Harriers",
     "Category": "FO",
-    "Chip Time": "0:39:39"
+    "Chip Time": "0:39:39",
+    "runner_id": "paula-mcaleer"
   },
   {
     "Position": 107,
@@ -861,7 +943,8 @@
     "Name": "Enda McGarrity",
     "Club": "Gallbally",
     "Category": "MU19",
-    "Chip Time": "0:39:43"
+    "Chip Time": "0:39:43",
+    "runner_id": "enda-mcgarrity"
   },
   {
     "Position": 109,
@@ -869,7 +952,8 @@
     "Name": "Sean Rodgers",
     "Club": "Omagh",
     "Category": "M55",
-    "Chip Time": "0:39:45"
+    "Chip Time": "0:39:45",
+    "runner_id": "sean-rodgers"
   },
   {
     "Position": 110,
@@ -877,7 +961,8 @@
     "Name": "Niall Toner",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:39:46"
+    "Chip Time": "0:39:46",
+    "runner_id": "niall-toner"
   },
   {
     "Position": 111,
@@ -885,7 +970,8 @@
     "Name": "Pearse  Donaghy",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:39:49"
+    "Chip Time": "0:39:49",
+    "runner_id": "pearse-donaghy"
   },
   {
     "Position": 112,
@@ -893,7 +979,8 @@
     "Name": "Cormac McGaughey",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:39:54"
+    "Chip Time": "0:39:54",
+    "runner_id": "cormac-mcgaughey"
   },
   {
     "Position": 113,
@@ -901,7 +988,8 @@
     "Name": "Martin Sheridan",
     "Club": "",
     "Category": "M40",
-    "Chip Time": "0:39:59"
+    "Chip Time": "0:39:59",
+    "runner_id": "martin-sheridan"
   },
   {
     "Position": 114,
@@ -909,7 +997,8 @@
     "Name": "Eunan Loughran",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:40:00"
+    "Chip Time": "0:40:00",
+    "runner_id": "eunan-loughran"
   },
   {
     "Position": 115,
@@ -917,7 +1006,8 @@
     "Name": "Brendan Ward",
     "Club": "Sixmilecross",
     "Category": "MO",
-    "Chip Time": "0:40:03"
+    "Chip Time": "0:40:03",
+    "runner_id": "brendan-ward"
   },
   {
     "Position": 116,
@@ -925,7 +1015,8 @@
     "Name": "Tommy Nugent",
     "Club": "Killyclogher",
     "Category": "M40",
-    "Chip Time": "0:40:04"
+    "Chip Time": "0:40:04",
+    "runner_id": "tommy-nugent"
   },
   {
     "Position": 117,
@@ -933,7 +1024,8 @@
     "Name": "Anita Mckenna",
     "Club": "Augher",
     "Category": "FO",
-    "Chip Time": "0:40:05"
+    "Chip Time": "0:40:05",
+    "runner_id": "anita-mckenna"
   },
   {
     "Position": 118,
@@ -941,7 +1033,8 @@
     "Name": "Sean Devlin",
     "Club": "Omagh",
     "Category": "M40",
-    "Chip Time": "0:40:10"
+    "Chip Time": "0:40:10",
+    "runner_id": "sean-devlin"
   },
   {
     "Position": 119,
@@ -949,7 +1042,8 @@
     "Name": "Enda Dolan",
     "Club": "Killyclogher",
     "Category": "MU19",
-    "Chip Time": "0:40:14"
+    "Chip Time": "0:40:14",
+    "runner_id": "enda-dolan"
   },
   {
     "Position": 120,
@@ -965,7 +1059,8 @@
     "Name": "Jolene McCarney",
     "Club": "Dromore",
     "Category": "FO",
-    "Chip Time": "0:40:16"
+    "Chip Time": "0:40:16",
+    "runner_id": "jolene-mccarney"
   },
   {
     "Position": 122,
@@ -973,7 +1068,8 @@
     "Name": "Aileen McSorley",
     "Club": "Omagh Harriers",
     "Category": "FO",
-    "Chip Time": "0:40:17"
+    "Chip Time": "0:40:17",
+    "runner_id": "aileen-mcsorley"
   },
   {
     "Position": 123,
@@ -981,7 +1077,8 @@
     "Name": "Phoebe Collins",
     "Club": "",
     "Category": "F35",
-    "Chip Time": "0:40:18"
+    "Chip Time": "0:40:18",
+    "runner_id": "phoebe-collins"
   },
   {
     "Position": 124,
@@ -997,7 +1094,8 @@
     "Name": "Patrick Mullan",
     "Club": "Omagh",
     "Category": "MO",
-    "Chip Time": "0:40:32"
+    "Chip Time": "0:40:32",
+    "runner_id": "patrick-mullan"
   },
   {
     "Position": 126,
@@ -1005,7 +1103,8 @@
     "Name": "Kevin Grimes",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:40:59"
+    "Chip Time": "0:40:59",
+    "runner_id": "kevin-grimes"
   },
   {
     "Position": 127,
@@ -1013,7 +1112,8 @@
     "Name": "Barry McElduff",
     "Club": "Loughmacrory",
     "Category": "M40",
-    "Chip Time": "0:41:00"
+    "Chip Time": "0:41:00",
+    "runner_id": "barry-mcelduff"
   },
   {
     "Position": 128,
@@ -1021,7 +1121,8 @@
     "Name": "Barry Corrigan",
     "Club": "Gallbally",
     "Category": "MO",
-    "Chip Time": "0:41:06"
+    "Chip Time": "0:41:06",
+    "runner_id": "barry-corrigan"
   },
   {
     "Position": 129,
@@ -1029,7 +1130,8 @@
     "Name": "Damian McAleer",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:41:10"
+    "Chip Time": "0:41:10",
+    "runner_id": "damian-mcaleer"
   },
   {
     "Position": 130,
@@ -1037,7 +1139,8 @@
     "Name": "John McElroy",
     "Club": "Gallbally",
     "Category": "MO",
-    "Chip Time": "0:41:14"
+    "Chip Time": "0:41:14",
+    "runner_id": "john-mcelroy"
   },
   {
     "Position": 131,
@@ -1053,7 +1156,8 @@
     "Name": "Nicholas O Shiel",
     "Club": "Omagh",
     "Category": "M50",
-    "Chip Time": "0:41:38"
+    "Chip Time": "0:41:38",
+    "runner_id": "nicholas-o-shiel"
   },
   {
     "Position": 133,
@@ -1069,7 +1173,8 @@
     "Name": "Martin Scudden",
     "Club": "Omagh Harriers",
     "Category": "M40",
-    "Chip Time": "0:41:41"
+    "Chip Time": "0:41:41",
+    "runner_id": "martin-scudden"
   },
   {
     "Position": 135,
@@ -1077,7 +1182,8 @@
     "Name": "Ciaran McRory",
     "Club": "Ballygawley",
     "Category": "M50",
-    "Chip Time": "0:41:47"
+    "Chip Time": "0:41:47",
+    "runner_id": "ciaran-mcrory"
   },
   {
     "Position": 136,
@@ -1085,7 +1191,8 @@
     "Name": "Margaret McAleer",
     "Club": "Drumquin",
     "Category": "F40",
-    "Chip Time": "0:41:47"
+    "Chip Time": "0:41:47",
+    "runner_id": "margaret-mcaleer"
   },
   {
     "Position": 137,
@@ -1093,7 +1200,8 @@
     "Name": "Sean Gerald McNulty",
     "Club": "Cookstown",
     "Category": "M40",
-    "Chip Time": "0:41:49"
+    "Chip Time": "0:41:49",
+    "runner_id": "sean-gerald-mcnulty"
   },
   {
     "Position": 138,
@@ -1101,7 +1209,8 @@
     "Name": "Joyce Hamilton",
     "Club": "Omagh",
     "Category": "FO",
-    "Chip Time": "0:41:51"
+    "Chip Time": "0:41:51",
+    "runner_id": "joyce-hamilton"
   },
   {
     "Position": 139,
@@ -1109,7 +1218,8 @@
     "Name": "Jason Ward",
     "Club": "Sion Mills",
     "Category": "MO",
-    "Chip Time": "0:41:52"
+    "Chip Time": "0:41:52",
+    "runner_id": "jason-ward"
   },
   {
     "Position": 140,
@@ -1117,7 +1227,8 @@
     "Name": "Declan McNamee",
     "Club": "",
     "Category": "M40",
-    "Chip Time": "0:41:57"
+    "Chip Time": "0:41:57",
+    "runner_id": "declan-mcnamee"
   },
   {
     "Position": 141,
@@ -1125,7 +1236,8 @@
     "Name": "Jude Collins",
     "Club": "Antrim",
     "Category": "M60",
-    "Chip Time": "0:42:07"
+    "Chip Time": "0:42:07",
+    "runner_id": "jude-collins"
   },
   {
     "Position": 142,
@@ -1133,7 +1245,8 @@
     "Name": "Paul McGhee",
     "Club": "Toomebridge",
     "Category": "M40",
-    "Chip Time": "0:42:08"
+    "Chip Time": "0:42:08",
+    "runner_id": "paul-mcghee"
   },
   {
     "Position": 143,
@@ -1141,7 +1254,8 @@
     "Name": "Declan Colgan",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:42:22"
+    "Chip Time": "0:42:22",
+    "runner_id": "declan-colgan"
   },
   {
     "Position": 144,
@@ -1149,7 +1263,8 @@
     "Name": "Frances Mcnally",
     "Club": "Kildress",
     "Category": "F40",
-    "Chip Time": "0:42:24"
+    "Chip Time": "0:42:24",
+    "runner_id": "frances-mcnally"
   },
   {
     "Position": 145,
@@ -1157,7 +1272,8 @@
     "Name": "Michael conway",
     "Club": "Greencastle",
     "Category": "MO",
-    "Chip Time": "0:42:27"
+    "Chip Time": "0:42:27",
+    "runner_id": "michael-conway"
   },
   {
     "Position": 146,
@@ -1165,7 +1281,8 @@
     "Name": "Barry Rodgers",
     "Club": "Cookstown",
     "Category": "MO",
-    "Chip Time": "0:42:38"
+    "Chip Time": "0:42:38",
+    "runner_id": "barry-rodgers"
   },
   {
     "Position": 147,
@@ -1173,7 +1290,8 @@
     "Name": "Roisin Gallagher",
     "Club": "Badoney",
     "Category": "F35",
-    "Chip Time": "0:42:43"
+    "Chip Time": "0:42:43",
+    "runner_id": "roisin-gallagher"
   },
   {
     "Position": 148,
@@ -1181,7 +1299,8 @@
     "Name": "Danny McCallan",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:42:46"
+    "Chip Time": "0:42:46",
+    "runner_id": "danny-mccallan"
   },
   {
     "Position": 149,
@@ -1189,7 +1308,8 @@
     "Name": "Gerard Magee",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:42:49"
+    "Chip Time": "0:42:49",
+    "runner_id": "gerard-magee"
   },
   {
     "Position": 150,
@@ -1197,7 +1317,8 @@
     "Name": "Martin Grogan",
     "Club": "Carickmore",
     "Category": "M",
-    "Chip Time": "0:42:51"
+    "Chip Time": "0:42:51",
+    "runner_id": "martin-grogan"
   },
   {
     "Position": 151,
@@ -1205,7 +1326,8 @@
     "Name": "Ryan Duddy",
     "Club": "Killyclogher",
     "Category": "MU19",
-    "Chip Time": "0:42:53"
+    "Chip Time": "0:42:53",
+    "runner_id": "ryan-duddy"
   },
   {
     "Position": 152,
@@ -1237,7 +1359,8 @@
     "Name": "Patrick McCullagh",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:43:11"
+    "Chip Time": "0:43:11",
+    "runner_id": "patrick-mccullagh"
   },
   {
     "Position": 156,
@@ -1253,7 +1376,8 @@
     "Name": "Stephen Harte",
     "Club": "Pomeroy",
     "Category": "MO",
-    "Chip Time": "0:43:15"
+    "Chip Time": "0:43:15",
+    "runner_id": "stephen-harte"
   },
   {
     "Position": 158,
@@ -1277,7 +1401,8 @@
     "Name": "Patrick Mullan",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:43:26"
+    "Chip Time": "0:43:26",
+    "runner_id": "patrick-mullan"
   },
   {
     "Position": 161,
@@ -1285,7 +1410,8 @@
     "Name": "Oisin McElduff",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:43:28"
+    "Chip Time": "0:43:28",
+    "runner_id": "oisin-mcelduff"
   },
   {
     "Position": 162,
@@ -1293,7 +1419,8 @@
     "Name": "Maebh McElduf",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "0:43:31"
+    "Chip Time": "0:43:31",
+    "runner_id": "maebh-mcelduf"
   },
   {
     "Position": 163,
@@ -1301,7 +1428,8 @@
     "Name": "Kevin McStay",
     "Club": "Omagh",
     "Category": "M50",
-    "Chip Time": "0:43:41"
+    "Chip Time": "0:43:41",
+    "runner_id": "kevin-mcstay"
   },
   {
     "Position": 164,
@@ -1309,7 +1437,8 @@
     "Name": "Maria Mccarter",
     "Club": "omagh",
     "Category": "F40",
-    "Chip Time": "0:43:42"
+    "Chip Time": "0:43:42",
+    "runner_id": "maria-mccarter"
   },
   {
     "Position": 165,
@@ -1333,7 +1462,8 @@
     "Name": "Conor Duff",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:43:54"
+    "Chip Time": "0:43:54",
+    "runner_id": "conor-duff"
   },
   {
     "Position": 168,
@@ -1341,7 +1471,8 @@
     "Name": "Liam Curran",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:43:55"
+    "Chip Time": "0:43:55",
+    "runner_id": "liam-curran"
   },
   {
     "Position": 169,
@@ -1349,7 +1480,8 @@
     "Name": "Sean Curran",
     "Club": "Loughmacrory",
     "Category": "M40",
-    "Chip Time": "0:43:55"
+    "Chip Time": "0:43:55",
+    "runner_id": "sean-curran"
   },
   {
     "Position": 170,
@@ -1373,7 +1505,8 @@
     "Name": "Connor McElduff",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:43:58"
+    "Chip Time": "0:43:58",
+    "runner_id": "connor-mcelduff"
   },
   {
     "Position": 173,
@@ -1381,7 +1514,8 @@
     "Name": "Dolores Mulholland",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "0:43:59"
+    "Chip Time": "0:43:59",
+    "runner_id": "dolores-mulholland"
   },
   {
     "Position": 174,
@@ -1389,7 +1523,8 @@
     "Name": "Bryan Heaney",
     "Club": "Derry",
     "Category": "M40",
-    "Chip Time": "0:44:03"
+    "Chip Time": "0:44:03",
+    "runner_id": "bryan-heaney"
   },
   {
     "Position": 175,
@@ -1397,7 +1532,8 @@
     "Name": "Barbara Fleming-Owens",
     "Club": "Fivemiletown",
     "Category": "F40",
-    "Chip Time": "0:44:06"
+    "Chip Time": "0:44:06",
+    "runner_id": "barbara-flemingowens"
   },
   {
     "Position": 176,
@@ -1405,7 +1541,8 @@
     "Name": "Anita Mckenna",
     "Club": "Augher",
     "Category": "FO",
-    "Chip Time": "0:44:14"
+    "Chip Time": "0:44:14",
+    "runner_id": "anita-mckenna"
   },
   {
     "Position": 177,
@@ -1413,7 +1550,8 @@
     "Name": "John Donaghy",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:44:16"
+    "Chip Time": "0:44:16",
+    "runner_id": "john-donaghy"
   },
   {
     "Position": 178,
@@ -1421,7 +1559,8 @@
     "Name": "Cathal Donaghy",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:44:17"
+    "Chip Time": "0:44:17",
+    "runner_id": "cathal-donaghy"
   },
   {
     "Position": 179,
@@ -1437,7 +1576,8 @@
     "Name": "Martin Quinn",
     "Club": "Omagh",
     "Category": "M40",
-    "Chip Time": "0:44:43"
+    "Chip Time": "0:44:43",
+    "runner_id": "martin-quinn"
   },
   {
     "Position": 181,
@@ -1453,7 +1593,8 @@
     "Name": "Niaomh McCullagh",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "0:44:48"
+    "Chip Time": "0:44:48",
+    "runner_id": "niaomh-mccullagh"
   },
   {
     "Position": 183,
@@ -1461,7 +1602,8 @@
     "Name": "Coleen Donaghy",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "0:44:49"
+    "Chip Time": "0:44:49",
+    "runner_id": "coleen-donaghy"
   },
   {
     "Position": 184,
@@ -1469,7 +1611,8 @@
     "Name": "Majella McAnespie",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "0:44:54"
+    "Chip Time": "0:44:54",
+    "runner_id": "majella-mcanespie"
   },
   {
     "Position": 185,
@@ -1477,7 +1620,8 @@
     "Name": "Niall McGaughey",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:44:55"
+    "Chip Time": "0:44:55",
+    "runner_id": "niall-mcgaughey"
   },
   {
     "Position": 186,
@@ -1485,7 +1629,8 @@
     "Name": "Jarelth O'Goan",
     "Club": "Omagh",
     "Category": "MO",
-    "Chip Time": "0:44:58"
+    "Chip Time": "0:44:58",
+    "runner_id": "jarelth-ogoan"
   },
   {
     "Position": 187,
@@ -1501,7 +1646,8 @@
     "Name": "Anne Gallagher",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "0:45:15"
+    "Chip Time": "0:45:15",
+    "runner_id": "anne-gallagher"
   },
   {
     "Position": 189,
@@ -1509,7 +1655,8 @@
     "Name": "Claire McNally",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "0:45:30"
+    "Chip Time": "0:45:30",
+    "runner_id": "claire-mcnally"
   },
   {
     "Position": 190,
@@ -1525,7 +1672,8 @@
     "Name": "Ronan Nugent",
     "Club": "Gallbally",
     "Category": "MU19",
-    "Chip Time": "0:45:51"
+    "Chip Time": "0:45:51",
+    "runner_id": "ronan-nugent"
   },
   {
     "Position": 192,
@@ -1549,7 +1697,8 @@
     "Name": "Patrick Conway",
     "Club": "Greencastle",
     "Category": "MU19",
-    "Chip Time": "0:45:54"
+    "Chip Time": "0:45:54",
+    "runner_id": "patrick-conway"
   },
   {
     "Position": 195,
@@ -1565,7 +1714,8 @@
     "Name": "Edele Muldoon",
     "Club": "Ballygawley",
     "Category": "FO",
-    "Chip Time": "0:46:03"
+    "Chip Time": "0:46:03",
+    "runner_id": "edele-muldoon"
   },
   {
     "Position": 197,
@@ -1581,7 +1731,8 @@
     "Name": "Michael Toner",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:46:09"
+    "Chip Time": "0:46:09",
+    "runner_id": "michael-toner"
   },
   {
     "Position": 199,
@@ -1589,7 +1740,8 @@
     "Name": "Gerard hannigan",
     "Club": "Dromore",
     "Category": "MO",
-    "Chip Time": "0:46:11"
+    "Chip Time": "0:46:11",
+    "runner_id": "gerard-hannigan"
   },
   {
     "Position": 200,
@@ -1597,7 +1749,8 @@
     "Name": "Jenny Kavanagh",
     "Club": "Knockmany Ladies Running Club",
     "Category": "F40",
-    "Chip Time": "0:46:17"
+    "Chip Time": "0:46:17",
+    "runner_id": "jenny-kavanagh"
   },
   {
     "Position": 201,
@@ -1613,7 +1766,8 @@
     "Name": "Ruairi Curran",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:46:23"
+    "Chip Time": "0:46:23",
+    "runner_id": "ruairi-curran"
   },
   {
     "Position": 203,
@@ -1621,7 +1775,8 @@
     "Name": "Sean Loughran",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:46:30"
+    "Chip Time": "0:46:30",
+    "runner_id": "sean-loughran"
   },
   {
     "Position": 204,
@@ -1629,7 +1784,8 @@
     "Name": "Shane MCCullagh",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:46:32"
+    "Chip Time": "0:46:32",
+    "runner_id": "shane-mccullagh"
   },
   {
     "Position": 205,
@@ -1637,7 +1793,8 @@
     "Name": "Adrian Mulholland",
     "Club": "Loughmacrory",
     "Category": "M40",
-    "Chip Time": "0:46:32"
+    "Chip Time": "0:46:32",
+    "runner_id": "adrian-mulholland"
   },
   {
     "Position": 206,
@@ -1645,7 +1802,8 @@
     "Name": "Cormac Harte",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:46:34"
+    "Chip Time": "0:46:34",
+    "runner_id": "cormac-harte"
   },
   {
     "Position": 207,
@@ -1653,7 +1811,8 @@
     "Name": "Cathal Donaghy",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:46:35"
+    "Chip Time": "0:46:35",
+    "runner_id": "cathal-donaghy"
   },
   {
     "Position": 208,
@@ -1661,7 +1820,8 @@
     "Name": "Phoebe Collins",
     "Club": "",
     "Category": "F35",
-    "Chip Time": "0:46:35"
+    "Chip Time": "0:46:35",
+    "runner_id": "phoebe-collins"
   },
   {
     "Position": 209,
@@ -1669,7 +1829,8 @@
     "Name": "Sheena Gartland",
     "Club": "Ballygawley",
     "Category": "F40",
-    "Chip Time": "0:46:38"
+    "Chip Time": "0:46:38",
+    "runner_id": "sheena-gartland"
   },
   {
     "Position": 210,
@@ -1677,7 +1838,8 @@
     "Name": "Emma Wallace",
     "Club": "",
     "Category": "FO",
-    "Chip Time": "0:46:40"
+    "Chip Time": "0:46:40",
+    "runner_id": "emma-wallace"
   },
   {
     "Position": 211,
@@ -1685,7 +1847,8 @@
     "Name": "Geraldine Tuohey",
     "Club": "Greencastle",
     "Category": "F40",
-    "Chip Time": "0:46:42"
+    "Chip Time": "0:46:42",
+    "runner_id": "geraldine-tuohey"
   },
   {
     "Position": 212,
@@ -1693,7 +1856,8 @@
     "Name": "Dominic Carlin",
     "Club": "",
     "Category": "MO",
-    "Chip Time": "0:46:46"
+    "Chip Time": "0:46:46",
+    "runner_id": "dominic-carlin"
   },
   {
     "Position": 213,
@@ -1701,7 +1865,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "0:46:48"
+    "Chip Time": "0:46:48",
+    "runner_id": "unknown"
   },
   {
     "Position": 214,
@@ -1709,7 +1874,8 @@
     "Name": "Ryan Keenan",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:47:09"
+    "Chip Time": "0:47:09",
+    "runner_id": "ryan-keenan"
   },
   {
     "Position": 215,
@@ -1717,7 +1883,8 @@
     "Name": "Peter Donnelly",
     "Club": "Derry",
     "Category": "M50",
-    "Chip Time": "0:47:09"
+    "Chip Time": "0:47:09",
+    "runner_id": "peter-donnelly"
   },
   {
     "Position": 216,
@@ -1733,7 +1900,8 @@
     "Name": "Karen Loughran",
     "Club": "Carrickmore",
     "Category": "FO",
-    "Chip Time": "0:47:22"
+    "Chip Time": "0:47:22",
+    "runner_id": "karen-loughran"
   },
   {
     "Position": 218,
@@ -1741,7 +1909,8 @@
     "Name": "Aidan Kelly",
     "Club": "Dungannon",
     "Category": "MO",
-    "Chip Time": "0:47:23"
+    "Chip Time": "0:47:23",
+    "runner_id": "aidan-kelly"
   },
   {
     "Position": 219,
@@ -1749,7 +1918,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "0:47:25"
+    "Chip Time": "0:47:25",
+    "runner_id": "unknown"
   },
   {
     "Position": 220,
@@ -1757,7 +1927,8 @@
     "Name": "Stephen Mullan",
     "Club": "",
     "Category": "MO",
-    "Chip Time": "0:47:28"
+    "Chip Time": "0:47:28",
+    "runner_id": "stephen-mullan"
   },
   {
     "Position": 221,
@@ -1765,7 +1936,8 @@
     "Name": "Aisling Quinn",
     "Club": "Antrim",
     "Category": "FO",
-    "Chip Time": "0:47:29"
+    "Chip Time": "0:47:29",
+    "runner_id": "aisling-quinn"
   },
   {
     "Position": 222,
@@ -1773,7 +1945,8 @@
     "Name": "Peggy Myles",
     "Club": "Greencastle",
     "Category": "FO",
-    "Chip Time": "0:47:32"
+    "Chip Time": "0:47:32",
+    "runner_id": "peggy-myles"
   },
   {
     "Position": 223,
@@ -1789,7 +1962,8 @@
     "Name": "Una Donnelly",
     "Club": "Derry",
     "Category": "F40",
-    "Chip Time": "0:47:40"
+    "Chip Time": "0:47:40",
+    "runner_id": "una-donnelly"
   },
   {
     "Position": 225,
@@ -1805,7 +1979,8 @@
     "Name": "Shay Turbitt",
     "Club": "Omagh",
     "Category": "M60",
-    "Chip Time": "0:48:02"
+    "Chip Time": "0:48:02",
+    "runner_id": "shay-turbitt"
   },
   {
     "Position": 227,
@@ -1821,7 +1996,8 @@
     "Name": "Fiona Nicholl",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "0:48:15"
+    "Chip Time": "0:48:15",
+    "runner_id": "fiona-nicholl"
   },
   {
     "Position": 229,
@@ -1837,7 +2013,8 @@
     "Name": "Bernie Ligget",
     "Club": "Omagh Harriers",
     "Category": "F35",
-    "Chip Time": "0:48:27"
+    "Chip Time": "0:48:27",
+    "runner_id": "bernie-ligget"
   },
   {
     "Position": 231,
@@ -1845,7 +2022,8 @@
     "Name": "Jennifer O'Donnell",
     "Club": "Omagh Harriers",
     "Category": "F40",
-    "Chip Time": "0:48:27"
+    "Chip Time": "0:48:27",
+    "runner_id": "jennifer-odonnell"
   },
   {
     "Position": 232,
@@ -1853,7 +2031,8 @@
     "Name": "Michael McCullagh",
     "Club": "Belfast",
     "Category": "MO",
-    "Chip Time": "0:48:30"
+    "Chip Time": "0:48:30",
+    "runner_id": "michael-mccullagh"
   },
   {
     "Position": 233,
@@ -1861,7 +2040,8 @@
     "Name": "paul martin",
     "Club": "Speerrin Harriers",
     "Category": "M50",
-    "Chip Time": "0:48:31"
+    "Chip Time": "0:48:31",
+    "runner_id": "paul-martin"
   },
   {
     "Position": 234,
@@ -1901,7 +2081,8 @@
     "Name": "Bill McCausland",
     "Club": "Omagh Harriers",
     "Category": "M50",
-    "Chip Time": "0:48:50"
+    "Chip Time": "0:48:50",
+    "runner_id": "bill-mccausland"
   },
   {
     "Position": 239,
@@ -1917,7 +2098,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "0:49:02"
+    "Chip Time": "0:49:02",
+    "runner_id": "unknown"
   },
   {
     "Position": 241,
@@ -1925,7 +2107,8 @@
     "Name": "Claire Sweeney",
     "Club": "Carrickmore",
     "Category": "F40",
-    "Chip Time": "0:49:03"
+    "Chip Time": "0:49:03",
+    "runner_id": "claire-sweeney"
   },
   {
     "Position": 242,
@@ -1933,7 +2116,8 @@
     "Name": "Paul Sweeney",
     "Club": "Carrickmore",
     "Category": "M40",
-    "Chip Time": "0:49:08"
+    "Chip Time": "0:49:08",
+    "runner_id": "paul-sweeney"
   },
   {
     "Position": 243,
@@ -1949,7 +2133,8 @@
     "Name": "Bernadette Mcanally",
     "Club": "Antrim",
     "Category": "F50",
-    "Chip Time": "0:49:19"
+    "Chip Time": "0:49:19",
+    "runner_id": "bernadette-mcanally"
   },
   {
     "Position": 245,
@@ -1965,7 +2150,8 @@
     "Name": "Stephen Conway",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:49:53"
+    "Chip Time": "0:49:53",
+    "runner_id": "stephen-conway"
   },
   {
     "Position": 247,
@@ -1973,7 +2159,8 @@
     "Name": "Michael McCullagh",
     "Club": "Belfast",
     "Category": "MO",
-    "Chip Time": "0:49:54"
+    "Chip Time": "0:49:54",
+    "runner_id": "michael-mccullagh"
   },
   {
     "Position": 248,
@@ -1989,7 +2176,8 @@
     "Name": "Stephen MCullagh",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:49:54"
+    "Chip Time": "0:49:54",
+    "runner_id": "stephen-mcullagh"
   },
   {
     "Position": 250,
@@ -1997,7 +2185,8 @@
     "Name": "John Dooley",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:49:58"
+    "Chip Time": "0:49:58",
+    "runner_id": "john-dooley"
   },
   {
     "Position": 251,
@@ -2005,7 +2194,8 @@
     "Name": "Rory O'Brien",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:50:02"
+    "Chip Time": "0:50:02",
+    "runner_id": "rory-obrien"
   },
   {
     "Position": 252,
@@ -2013,7 +2203,8 @@
     "Name": "PJ O'Donnell",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:50:03"
+    "Chip Time": "0:50:03",
+    "runner_id": "pj-odonnell"
   },
   {
     "Position": 253,
@@ -2021,7 +2212,8 @@
     "Name": "D Grimes",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:50:46"
+    "Chip Time": "0:50:46",
+    "runner_id": "d-grimes"
   },
   {
     "Position": 254,
@@ -2029,7 +2221,8 @@
     "Name": "Damien Ward",
     "Club": "Drumnakilly",
     "Category": "MU19",
-    "Chip Time": "0:51:16"
+    "Chip Time": "0:51:16",
+    "runner_id": "damien-ward"
   },
   {
     "Position": 255,
@@ -2037,7 +2230,8 @@
     "Name": "Gerry Owens",
     "Club": "Beragh",
     "Category": "MO",
-    "Chip Time": "0:51:16"
+    "Chip Time": "0:51:16",
+    "runner_id": "gerry-owens"
   },
   {
     "Position": 256,
@@ -2045,7 +2239,8 @@
     "Name": "Claire O'Hagan",
     "Club": "Eskra",
     "Category": "fO",
-    "Chip Time": "0:51:22"
+    "Chip Time": "0:51:22",
+    "runner_id": "claire-ohagan"
   },
   {
     "Position": 257,
@@ -2053,7 +2248,8 @@
     "Name": "Louise McQuaide",
     "Club": "Fintona",
     "Category": "FO",
-    "Chip Time": "0:51:51"
+    "Chip Time": "0:51:51",
+    "runner_id": "louise-mcquaide"
   },
   {
     "Position": 258,
@@ -2061,7 +2257,8 @@
     "Name": "Liam McCartan",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:51:42"
+    "Chip Time": "0:51:42",
+    "runner_id": "liam-mccartan"
   },
   {
     "Position": 259,
@@ -2069,7 +2266,8 @@
     "Name": "Ryan McGarrity",
     "Club": "Carrickmore",
     "Category": "MU19",
-    "Chip Time": "0:51:54"
+    "Chip Time": "0:51:54",
+    "runner_id": "ryan-mcgarrity"
   },
   {
     "Position": 260,
@@ -2085,7 +2283,8 @@
     "Name": "Grace Dobbs",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "0:52:18"
+    "Chip Time": "0:52:18",
+    "runner_id": "grace-dobbs"
   },
   {
     "Position": 262,
@@ -2093,7 +2292,8 @@
     "Name": "Anne Hunt",
     "Club": "Fintona",
     "Category": "FO",
-    "Chip Time": "0:52:22"
+    "Chip Time": "0:52:22",
+    "runner_id": "anne-hunt"
   },
   {
     "Position": 263,
@@ -2101,7 +2301,8 @@
     "Name": "Matin Garvin",
     "Club": "Loughmacrory",
     "Category": "M40",
-    "Chip Time": "0:52:22"
+    "Chip Time": "0:52:22",
+    "runner_id": "matin-garvin"
   },
   {
     "Position": 264,
@@ -2109,7 +2310,8 @@
     "Name": "Joanne McGoldrick",
     "Club": "Mountfield",
     "Category": "F35",
-    "Chip Time": "0:52:23"
+    "Chip Time": "0:52:23",
+    "runner_id": "joanne-mcgoldrick"
   },
   {
     "Position": 265,
@@ -2117,7 +2319,8 @@
     "Name": "Connor Groogan",
     "Club": "Carrickmore",
     "Category": "MU19",
-    "Chip Time": "0:52:31"
+    "Chip Time": "0:52:31",
+    "runner_id": "connor-groogan"
   },
   {
     "Position": 266,
@@ -2125,7 +2328,8 @@
     "Name": "Rosemary O Hanlon",
     "Club": "Ballygawley",
     "Category": "FO",
-    "Chip Time": "0:52:37"
+    "Chip Time": "0:52:37",
+    "runner_id": "rosemary-o-hanlon"
   },
   {
     "Position": 267,
@@ -2149,7 +2353,8 @@
     "Name": "Aine Campbell",
     "Club": "",
     "Category": "FO",
-    "Chip Time": "0:52:53"
+    "Chip Time": "0:52:53",
+    "runner_id": "aine-campbell"
   },
   {
     "Position": 270,
@@ -2165,7 +2370,8 @@
     "Name": "Paddy MCCreesh",
     "Club": "Carrickmore",
     "Category": "M50",
-    "Chip Time": "0:52:59"
+    "Chip Time": "0:52:59",
+    "runner_id": "paddy-mccreesh"
   },
   {
     "Position": 272,
@@ -2173,7 +2379,8 @@
     "Name": "Naomi McAnulla",
     "Club": "Killyclogher",
     "Category": "fo",
-    "Chip Time": "0:53:14"
+    "Chip Time": "0:53:14",
+    "runner_id": "naomi-mcanulla"
   },
   {
     "Position": 273,
@@ -2205,7 +2412,8 @@
     "Name": "Anne McCartan",
     "Club": "Sixmilecross",
     "Category": "F40",
-    "Chip Time": "0:53:27"
+    "Chip Time": "0:53:27",
+    "runner_id": "anne-mccartan"
   },
   {
     "Position": 277,
@@ -2221,7 +2429,8 @@
     "Name": "Pearse Grimes",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:53:37"
+    "Chip Time": "0:53:37",
+    "runner_id": "pearse-grimes"
   },
   {
     "Position": 279,
@@ -2229,7 +2438,8 @@
     "Name": "Declan Donaghy",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:53:38"
+    "Chip Time": "0:53:38",
+    "runner_id": "declan-donaghy"
   },
   {
     "Position": 280,
@@ -2237,7 +2447,8 @@
     "Name": "Enda Curran",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:53:51"
+    "Chip Time": "0:53:51",
+    "runner_id": "enda-curran"
   },
   {
     "Position": 281,
@@ -2245,7 +2456,8 @@
     "Name": "Raymond Ward",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:53:52"
+    "Chip Time": "0:53:52",
+    "runner_id": "raymond-ward"
   },
   {
     "Position": 282,
@@ -2253,7 +2465,8 @@
     "Name": "Donal Ward",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:53:52"
+    "Chip Time": "0:53:52",
+    "runner_id": "donal-ward"
   },
   {
     "Position": 283,
@@ -2261,7 +2474,8 @@
     "Name": "Conall Grimes",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:53:55"
+    "Chip Time": "0:53:55",
+    "runner_id": "conall-grimes"
   },
   {
     "Position": 284,
@@ -2269,7 +2483,8 @@
     "Name": "Jack Darcy",
     "Club": "",
     "Category": "MO",
-    "Chip Time": "0:54:14"
+    "Chip Time": "0:54:14",
+    "runner_id": "jack-darcy"
   },
   {
     "Position": 285,
@@ -2285,7 +2500,8 @@
     "Name": "Nuala Grogan",
     "Club": "Carrickmore",
     "Category": "F40",
-    "Chip Time": "0:54:19"
+    "Chip Time": "0:54:19",
+    "runner_id": "nuala-grogan"
   },
   {
     "Position": 287,
@@ -2293,7 +2509,8 @@
     "Name": "Claire Grogan",
     "Club": "Carrickmore",
     "Category": "FO",
-    "Chip Time": "0:54:19"
+    "Chip Time": "0:54:19",
+    "runner_id": "claire-grogan"
   },
   {
     "Position": 288,
@@ -2309,7 +2526,8 @@
     "Name": "Irene McKeagney",
     "Club": "Carrickmore",
     "Category": "F40",
-    "Chip Time": "0:54:21"
+    "Chip Time": "0:54:21",
+    "runner_id": "irene-mckeagney"
   },
   {
     "Position": 290,
@@ -2317,7 +2535,8 @@
     "Name": "Kieran McKeagney",
     "Club": "Carrickmore",
     "Category": "M40",
-    "Chip Time": "0:54:21"
+    "Chip Time": "0:54:21",
+    "runner_id": "kieran-mckeagney"
   },
   {
     "Position": 291,
@@ -2325,7 +2544,8 @@
     "Name": "Theresa Myles",
     "Club": "Greencastle",
     "Category": "FO",
-    "Chip Time": "0:54:25"
+    "Chip Time": "0:54:25",
+    "runner_id": "theresa-myles"
   },
   {
     "Position": 292,
@@ -2333,7 +2553,8 @@
     "Name": "Mickey McCullagh",
     "Club": "Loughmacrory",
     "Category": "M40",
-    "Chip Time": "0:54:37"
+    "Chip Time": "0:54:37",
+    "runner_id": "mickey-mccullagh"
   },
   {
     "Position": 293,
@@ -2341,7 +2562,8 @@
     "Name": "Carmel Woods",
     "Club": "Omagh Harriers",
     "Category": "F40",
-    "Chip Time": "0:54:53"
+    "Chip Time": "0:54:53",
+    "runner_id": "carmel-woods"
   },
   {
     "Position": 294,
@@ -2357,7 +2579,8 @@
     "Name": "Cathair Curran",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "0:55:14"
+    "Chip Time": "0:55:14",
+    "runner_id": "cathair-curran"
   },
   {
     "Position": 296,
@@ -2373,7 +2596,8 @@
     "Name": "Aine Campbell",
     "Club": "",
     "Category": "FO",
-    "Chip Time": "0:55:46"
+    "Chip Time": "0:55:46",
+    "runner_id": "aine-campbell"
   },
   {
     "Position": 298,
@@ -2381,7 +2605,8 @@
     "Name": "Eunan Donnelly",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "0:56:30"
+    "Chip Time": "0:56:30",
+    "runner_id": "eunan-donnelly"
   },
   {
     "Position": 299,
@@ -2389,7 +2614,8 @@
     "Name": "Kellie Carr",
     "Club": "Donegal",
     "Category": "FU19",
-    "Chip Time": "0:57:22"
+    "Chip Time": "0:57:22",
+    "runner_id": "kellie-carr"
   },
   {
     "Position": 300,
@@ -2397,7 +2623,8 @@
     "Name": "Maria Carr",
     "Club": "Loughmacrory",
     "Category": "F35",
-    "Chip Time": "0:57:25"
+    "Chip Time": "0:57:25",
+    "runner_id": "maria-carr"
   },
   {
     "Position": 301,
@@ -2405,7 +2632,8 @@
     "Name": "Kerry Grimes",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "0:57:30"
+    "Chip Time": "0:57:30",
+    "runner_id": "kerry-grimes"
   },
   {
     "Position": 302,
@@ -2413,7 +2641,8 @@
     "Name": "Colette McCaughey",
     "Club": "Loughmacrory",
     "Category": "F35",
-    "Chip Time": "0:57:40"
+    "Chip Time": "0:57:40",
+    "runner_id": "colette-mccaughey"
   },
   {
     "Position": 303,
@@ -2421,7 +2650,8 @@
     "Name": "Eimear Ward",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "0:57:45"
+    "Chip Time": "0:57:45",
+    "runner_id": "eimear-ward"
   },
   {
     "Position": 304,
@@ -2429,7 +2659,8 @@
     "Name": "Samuel mcCaul",
     "Club": "Antrim",
     "Category": "MO",
-    "Chip Time": "0:58:52"
+    "Chip Time": "0:58:52",
+    "runner_id": "samuel-mccaul"
   },
   {
     "Position": 305,
@@ -2437,7 +2668,8 @@
     "Name": "Danny Kerr",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:58:53"
+    "Chip Time": "0:58:53",
+    "runner_id": "danny-kerr"
   },
   {
     "Position": 306,
@@ -2453,7 +2685,8 @@
     "Name": "Colleen Grimes",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "0:59:18"
+    "Chip Time": "0:59:18",
+    "runner_id": "colleen-grimes"
   },
   {
     "Position": 308,
@@ -2461,7 +2694,8 @@
     "Name": "Kieran Hurson",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "0:59:20"
+    "Chip Time": "0:59:20",
+    "runner_id": "kieran-hurson"
   },
   {
     "Position": 309,
@@ -2477,7 +2711,8 @@
     "Name": "Connor O Donnell",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "01:02:34"
+    "Chip Time": "01:02:34",
+    "runner_id": "connor-o-donnell"
   },
   {
     "Position": 311,
@@ -2485,7 +2720,8 @@
     "Name": "Aidan Woods",
     "Club": "Pomeroy",
     "Category": "MU19",
-    "Chip Time": "01:02:58"
+    "Chip Time": "01:02:58",
+    "runner_id": "aidan-woods"
   },
   {
     "Position": 312,
@@ -2493,7 +2729,8 @@
     "Name": "Mark Woods",
     "Club": "Pomeroy",
     "Category": "MU19",
-    "Chip Time": "01:02:58"
+    "Chip Time": "01:02:58",
+    "runner_id": "mark-woods"
   },
   {
     "Position": 313,
@@ -2501,7 +2738,8 @@
     "Name": "Gerard Woods",
     "Club": "Pomeroy",
     "Category": "MO",
-    "Chip Time": "01:02:59"
+    "Chip Time": "01:02:59",
+    "runner_id": "gerard-woods"
   },
   {
     "Position": 314,
@@ -2509,7 +2747,8 @@
     "Name": "Celine McCartan",
     "Club": "Killyclogher",
     "Category": "F35",
-    "Chip Time": "01:04:29"
+    "Chip Time": "01:04:29",
+    "runner_id": "celine-mccartan"
   },
   {
     "Position": 315,
@@ -2517,7 +2756,8 @@
     "Name": "Geraldine O neill",
     "Club": "Beragh",
     "Category": "F40",
-    "Chip Time": "01:04:30"
+    "Chip Time": "01:04:30",
+    "runner_id": "geraldine-o-neill"
   },
   {
     "Position": 316,
@@ -2525,7 +2765,8 @@
     "Name": "Christine Skelton",
     "Club": "Drumquin",
     "Category": "F35",
-    "Chip Time": "01:05:00"
+    "Chip Time": "01:05:00",
+    "runner_id": "christine-skelton"
   },
   {
     "Position": 317,
@@ -2533,7 +2774,8 @@
     "Name": "Mary Devenney",
     "Club": "Drumquin",
     "Category": "F40",
-    "Chip Time": "01:05:01"
+    "Chip Time": "01:05:01",
+    "runner_id": "mary-devenney"
   },
   {
     "Position": 318,
@@ -2541,7 +2783,8 @@
     "Name": "Brenda McElduff",
     "Club": "Carrickmore",
     "Category": "FO",
-    "Chip Time": "01:05:02"
+    "Chip Time": "01:05:02",
+    "runner_id": "brenda-mcelduff"
   },
   {
     "Position": 319,
@@ -2549,7 +2792,8 @@
     "Name": "Aoibhinn  McAnespie",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "01:05:22"
+    "Chip Time": "01:05:22",
+    "runner_id": "aoibhinn-mcanespie"
   },
   {
     "Position": 320,
@@ -2557,7 +2801,8 @@
     "Name": "Marissa McKernan",
     "Club": "",
     "Category": "F40",
-    "Chip Time": "01:05:42"
+    "Chip Time": "01:05:42",
+    "runner_id": "marissa-mckernan"
   },
   {
     "Position": 321,
@@ -2565,7 +2810,8 @@
     "Name": "Claire Obrien",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:05:46"
+    "Chip Time": "01:05:46",
+    "runner_id": "claire-obrien"
   },
   {
     "Position": 322,
@@ -2581,7 +2827,8 @@
     "Name": "Michelle Corcoran",
     "Club": "Mountfield",
     "Category": "FO",
-    "Chip Time": "01:05:48"
+    "Chip Time": "01:05:48",
+    "runner_id": "michelle-corcoran"
   },
   {
     "Position": 324,
@@ -2589,7 +2836,8 @@
     "Name": "Seamus Irwin",
     "Club": "Omagh",
     "Category": "M40",
-    "Chip Time": "01:05:50"
+    "Chip Time": "01:05:50",
+    "runner_id": "seamus-irwin"
   },
   {
     "Position": 325,
@@ -2597,7 +2845,8 @@
     "Name": "Cathy Richardson",
     "Club": "Omagh",
     "Category": "FO",
-    "Chip Time": "01:06:00"
+    "Chip Time": "01:06:00",
+    "runner_id": "cathy-richardson"
   },
   {
     "Position": 326,
@@ -2605,7 +2854,8 @@
     "Name": "Ita Toner",
     "Club": "Loughmacrory",
     "Category": "fo",
-    "Chip Time": "01:06:58"
+    "Chip Time": "01:06:58",
+    "runner_id": "ita-toner"
   },
   {
     "Position": 327,
@@ -2613,7 +2863,8 @@
     "Name": "Sharon Cavanagh",
     "Club": "Pomeroy",
     "Category": "FO",
-    "Chip Time": "01:07:10"
+    "Chip Time": "01:07:10",
+    "runner_id": "sharon-cavanagh"
   },
   {
     "Position": 328,
@@ -2621,7 +2872,8 @@
     "Name": "Orla Fox",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:08:37"
+    "Chip Time": "01:08:37",
+    "runner_id": "orla-fox"
   },
   {
     "Position": 329,
@@ -2637,7 +2889,8 @@
     "Name": "Eilish McAleer",
     "Club": "Killyclogher",
     "Category": "F35",
-    "Chip Time": "01:08:41"
+    "Chip Time": "01:08:41",
+    "runner_id": "eilish-mcaleer"
   },
   {
     "Position": 331,
@@ -2653,7 +2906,8 @@
     "Name": "Sheila McCallan",
     "Club": "Carrickmore",
     "Category": "FU19",
-    "Chip Time": "01:08:54"
+    "Chip Time": "01:08:54",
+    "runner_id": "sheila-mccallan"
   },
   {
     "Position": 333,
@@ -2661,7 +2915,8 @@
     "Name": "Orla Kelly",
     "Club": "Carrickmore",
     "Category": "FU19",
-    "Chip Time": "01:08:54"
+    "Chip Time": "01:08:54",
+    "runner_id": "orla-kelly"
   },
   {
     "Position": 334,
@@ -2669,7 +2924,8 @@
     "Name": "Oisin O'Kane",
     "Club": "Loughmacrory",
     "Category": "MU19",
-    "Chip Time": "01:09:04"
+    "Chip Time": "01:09:04",
+    "runner_id": "oisin-okane"
   },
   {
     "Position": 335,
@@ -2685,7 +2941,8 @@
     "Name": "Bridget keenan",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:09:26"
+    "Chip Time": "01:09:26",
+    "runner_id": "bridget-keenan"
   },
   {
     "Position": 337,
@@ -2701,7 +2958,8 @@
     "Name": "Kieran McKeran",
     "Club": "Omagh",
     "Category": "M40",
-    "Chip Time": "01:09:47"
+    "Chip Time": "01:09:47",
+    "runner_id": "kieran-mckeran"
   },
   {
     "Position": 339,
@@ -2709,7 +2967,8 @@
     "Name": "Michael McAleer",
     "Club": "Pomeroy",
     "Category": "M40",
-    "Chip Time": "01:09:59"
+    "Chip Time": "01:09:59",
+    "runner_id": "michael-mcaleer"
   },
   {
     "Position": 340,
@@ -2717,7 +2976,8 @@
     "Name": "Seamus McAleer",
     "Club": "Loughmacrory",
     "Category": "M55",
-    "Chip Time": "01:10:00"
+    "Chip Time": "01:10:00",
+    "runner_id": "seamus-mcaleer"
   },
   {
     "Position": 341,
@@ -2741,7 +3001,8 @@
     "Name": "Jarlath Duff",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "01:12:33"
+    "Chip Time": "01:12:33",
+    "runner_id": "jarlath-duff"
   },
   {
     "Position": 344,
@@ -2749,7 +3010,8 @@
     "Name": "Kieran Kelly",
     "Club": "Kildress",
     "Category": "M55",
-    "Chip Time": "01:12:36"
+    "Chip Time": "01:12:36",
+    "runner_id": "kieran-kelly"
   },
   {
     "Position": 345,
@@ -2757,7 +3019,8 @@
     "Name": "Adam  Baines",
     "Club": "Leicester",
     "Category": "MO",
-    "Chip Time": "01:12:36"
+    "Chip Time": "01:12:36",
+    "runner_id": "adam-baines"
   },
   {
     "Position": 346,
@@ -2765,7 +3028,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "01:12:37"
+    "Chip Time": "01:12:37",
+    "runner_id": "unknown"
   },
   {
     "Position": 347,
@@ -2773,7 +3037,8 @@
     "Name": "Lisa McAleer",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:12:37"
+    "Chip Time": "01:12:37",
+    "runner_id": "lisa-mcaleer"
   },
   {
     "Position": 348,
@@ -2781,7 +3046,8 @@
     "Name": "Nuala Donaghy",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:12:47"
+    "Chip Time": "01:12:47",
+    "runner_id": "nuala-donaghy"
   },
   {
     "Position": 349,
@@ -2789,7 +3055,8 @@
     "Name": "Mairead McCann",
     "Club": "",
     "Category": "F40",
-    "Chip Time": "01:12:48"
+    "Chip Time": "01:12:48",
+    "runner_id": "mairead-mccann"
   },
   {
     "Position": 350,
@@ -2797,7 +3064,8 @@
     "Name": "Francis Donaghy",
     "Club": "",
     "Category": "M55",
-    "Chip Time": "01:12:49"
+    "Chip Time": "01:12:49",
+    "runner_id": "francis-donaghy"
   },
   {
     "Position": 351,
@@ -2805,7 +3073,8 @@
     "Name": "Unknown",
     "Club": "",
     "Category": "",
-    "Chip Time": "01:12:49"
+    "Chip Time": "01:12:49",
+    "runner_id": "unknown"
   },
   {
     "Position": 352,
@@ -2813,7 +3082,8 @@
     "Name": "Lauren Fox",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "01:12:50"
+    "Chip Time": "01:12:50",
+    "runner_id": "lauren-fox"
   },
   {
     "Position": 353,
@@ -2821,7 +3091,8 @@
     "Name": "Elaine Keenan",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:12:53"
+    "Chip Time": "01:12:53",
+    "runner_id": "elaine-keenan"
   },
   {
     "Position": 354,
@@ -2829,7 +3100,8 @@
     "Name": "Katherine Woods",
     "Club": "New York",
     "Category": "F40",
-    "Chip Time": "01:13:16"
+    "Chip Time": "01:13:16",
+    "runner_id": "katherine-woods"
   },
   {
     "Position": 355,
@@ -2837,7 +3109,8 @@
     "Name": "Martina McCartin",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:13:36"
+    "Chip Time": "01:13:36",
+    "runner_id": "martina-mccartin"
   },
   {
     "Position": 356,
@@ -2845,7 +3118,8 @@
     "Name": "Orla Meenagh",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:13:36"
+    "Chip Time": "01:13:36",
+    "runner_id": "orla-meenagh"
   },
   {
     "Position": 357,
@@ -2853,7 +3127,8 @@
     "Name": "Aggie McCullagh",
     "Club": "",
     "Category": "F50",
-    "Chip Time": "01:13:47"
+    "Chip Time": "01:13:47",
+    "runner_id": "aggie-mccullagh"
   },
   {
     "Position": 358,
@@ -2861,7 +3136,8 @@
     "Name": "Majella Donagehy",
     "Club": "Carrickmore",
     "Category": "FO",
-    "Chip Time": "01:13:47"
+    "Chip Time": "01:13:47",
+    "runner_id": "majella-donagehy"
   },
   {
     "Position": 359,
@@ -2869,7 +3145,8 @@
     "Name": "Paula Cuddy",
     "Club": "",
     "Category": "F40",
-    "Chip Time": "01:14:09"
+    "Chip Time": "01:14:09",
+    "runner_id": "paula-cuddy"
   },
   {
     "Position": 360,
@@ -2877,7 +3154,8 @@
     "Name": "Martin Mullin",
     "Club": "Altamuskin",
     "Category": "M40",
-    "Chip Time": "01:15:07"
+    "Chip Time": "01:15:07",
+    "runner_id": "martin-mullin"
   },
   {
     "Position": 361,
@@ -2885,7 +3163,8 @@
     "Name": "Louise McCullagh",
     "Club": "Augher",
     "Category": "FO",
-    "Chip Time": "01:15:07"
+    "Chip Time": "01:15:07",
+    "runner_id": "louise-mccullagh"
   },
   {
     "Position": 362,
@@ -2893,7 +3172,8 @@
     "Name": "Catherine Donnelly",
     "Club": "Aughnacloy",
     "Category": "FO",
-    "Chip Time": "01:15:15"
+    "Chip Time": "01:15:15",
+    "runner_id": "catherine-donnelly"
   },
   {
     "Position": 363,
@@ -2901,7 +3181,8 @@
     "Name": "paddy Devlin",
     "Club": "Kildress",
     "Category": "M50",
-    "Chip Time": "01:15:26"
+    "Chip Time": "01:15:26",
+    "runner_id": "paddy-devlin"
   },
   {
     "Position": 364,
@@ -2933,7 +3214,8 @@
     "Name": "Elizabeth Quinn",
     "Club": "Derryloughran",
     "Category": "FO",
-    "Chip Time": "01:15:32"
+    "Chip Time": "01:15:32",
+    "runner_id": "elizabeth-quinn"
   },
   {
     "Position": 368,
@@ -2941,7 +3223,8 @@
     "Name": "Brendan Cunningham",
     "Club": "Carrickmore",
     "Category": "M50",
-    "Chip Time": "01:15:35"
+    "Chip Time": "01:15:35",
+    "runner_id": "brendan-cunningham"
   },
   {
     "Position": 369,
@@ -2949,7 +3232,8 @@
     "Name": "Joe Grogan",
     "Club": "Carrickmore",
     "Category": "MO",
-    "Chip Time": "01:15:55"
+    "Chip Time": "01:15:55",
+    "runner_id": "joe-grogan"
   },
   {
     "Position": 370,
@@ -2957,7 +3241,8 @@
     "Name": "Teresa McNally",
     "Club": "Kildress",
     "Category": "F40",
-    "Chip Time": "01:16:07"
+    "Chip Time": "01:16:07",
+    "runner_id": "teresa-mcnally"
   },
   {
     "Position": 371,
@@ -2965,7 +3250,8 @@
     "Name": "Damien Woods",
     "Club": "Pomeroy",
     "Category": "MU19",
-    "Chip Time": "01:16:07"
+    "Chip Time": "01:16:07",
+    "runner_id": "damien-woods"
   },
   {
     "Position": 372,
@@ -2973,7 +3259,8 @@
     "Name": "Geraldine Kelly",
     "Club": "Kildress",
     "Category": "FO",
-    "Chip Time": "01:16:08"
+    "Chip Time": "01:16:08",
+    "runner_id": "geraldine-kelly"
   },
   {
     "Position": 373,
@@ -2981,7 +3268,8 @@
     "Name": "Margaret Anderson",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:16:25"
+    "Chip Time": "01:16:25",
+    "runner_id": "margaret-anderson"
   },
   {
     "Position": 374,
@@ -2989,7 +3277,8 @@
     "Name": "Francis Conway",
     "Club": "",
     "Category": "M50",
-    "Chip Time": "01:16:26"
+    "Chip Time": "01:16:26",
+    "runner_id": "francis-conway"
   },
   {
     "Position": 375,
@@ -3005,7 +3294,8 @@
     "Name": "Rita mcMahon",
     "Club": "",
     "Category": "F50",
-    "Chip Time": "01:16:42"
+    "Chip Time": "01:16:42",
+    "runner_id": "rita-mcmahon"
   },
   {
     "Position": 377,
@@ -3013,7 +3303,8 @@
     "Name": "Annette Heagney",
     "Club": "Pomeroy",
     "Category": "F50",
-    "Chip Time": "01:16:43"
+    "Chip Time": "01:16:43",
+    "runner_id": "annette-heagney"
   },
   {
     "Position": 378,
@@ -3021,7 +3312,8 @@
     "Name": "Fiona Hamill",
     "Club": "Armagh",
     "Category": "F40",
-    "Chip Time": "01:16:57"
+    "Chip Time": "01:16:57",
+    "runner_id": "fiona-hamill"
   },
   {
     "Position": 379,
@@ -3029,7 +3321,8 @@
     "Name": "Eoin Hamill",
     "Club": "SilverBridge Armagh",
     "Category": "MO",
-    "Chip Time": "01:17:02"
+    "Chip Time": "01:17:02",
+    "runner_id": "eoin-hamill"
   },
   {
     "Position": 380,
@@ -3037,7 +3330,8 @@
     "Name": "Patricia McMahon",
     "Club": "",
     "Category": "F50",
-    "Chip Time": "01:17:04"
+    "Chip Time": "01:17:04",
+    "runner_id": "patricia-mcmahon"
   },
   {
     "Position": 381,
@@ -3045,7 +3339,8 @@
     "Name": "Patrick Donaghy",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "01:17:16"
+    "Chip Time": "01:17:16",
+    "runner_id": "patrick-donaghy"
   },
   {
     "Position": 382,
@@ -3053,7 +3348,8 @@
     "Name": "Seamus Goodwin",
     "Club": "Dromore AC",
     "Category": "M50",
-    "Chip Time": "01:17:17"
+    "Chip Time": "01:17:17",
+    "runner_id": "seamus-goodwin"
   },
   {
     "Position": 383,
@@ -3061,7 +3357,8 @@
     "Name": "Mairead Fox",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "01:17:45"
+    "Chip Time": "01:17:45",
+    "runner_id": "mairead-fox"
   },
   {
     "Position": 384,
@@ -3077,7 +3374,8 @@
     "Name": "Carmel McGaughey",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:18:05"
+    "Chip Time": "01:18:05",
+    "runner_id": "carmel-mcgaughey"
   },
   {
     "Position": 386,
@@ -3093,7 +3391,8 @@
     "Name": "Ciara Coyle",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:18:06"
+    "Chip Time": "01:18:06",
+    "runner_id": "ciara-coyle"
   },
   {
     "Position": 388,
@@ -3101,7 +3400,8 @@
     "Name": "Jean Coyle",
     "Club": "",
     "Category": "F50",
-    "Chip Time": "01:18:50"
+    "Chip Time": "01:18:50",
+    "runner_id": "jean-coyle"
   },
   {
     "Position": 389,
@@ -3109,7 +3409,8 @@
     "Name": "Thomas Mullan",
     "Club": "Carickmore",
     "Category": "M40",
-    "Chip Time": "01:19:19"
+    "Chip Time": "01:19:19",
+    "runner_id": "thomas-mullan"
   },
   {
     "Position": 390,
@@ -3117,7 +3418,8 @@
     "Name": "Mary Mullan",
     "Club": "Carrickmore",
     "Category": "F40",
-    "Chip Time": "01:19:20"
+    "Chip Time": "01:19:20",
+    "runner_id": "mary-mullan"
   },
   {
     "Position": 391,
@@ -3125,7 +3427,8 @@
     "Name": "Lauren Woods",
     "Club": "New York",
     "Category": "FU19",
-    "Chip Time": "01:19:22"
+    "Chip Time": "01:19:22",
+    "runner_id": "lauren-woods"
   },
   {
     "Position": 392,
@@ -3133,7 +3436,8 @@
     "Name": "Noel Woods",
     "Club": "New York",
     "Category": "M40",
-    "Chip Time": "01:19:23"
+    "Chip Time": "01:19:23",
+    "runner_id": "noel-woods"
   },
   {
     "Position": 393,
@@ -3141,7 +3445,8 @@
     "Name": "Katherine Woods",
     "Club": "New York",
     "Category": "F40",
-    "Chip Time": "01:19:23"
+    "Chip Time": "01:19:23",
+    "runner_id": "katherine-woods"
   },
   {
     "Position": 394,
@@ -3149,7 +3454,8 @@
     "Name": "Bridget Meenagh",
     "Club": "Loughmacrory",
     "Category": "F50",
-    "Chip Time": "01:19:24"
+    "Chip Time": "01:19:24",
+    "runner_id": "bridget-meenagh"
   },
   {
     "Position": 395,
@@ -3157,7 +3463,8 @@
     "Name": "Theresa Mcullagh",
     "Club": "",
     "Category": "FO",
-    "Chip Time": "01:19:30"
+    "Chip Time": "01:19:30",
+    "runner_id": "theresa-mcullagh"
   },
   {
     "Position": 396,
@@ -3165,7 +3472,8 @@
     "Name": "Sean Gormley",
     "Club": "",
     "Category": "M50",
-    "Chip Time": "01:19:30"
+    "Chip Time": "01:19:30",
+    "runner_id": "sean-gormley"
   },
   {
     "Position": 397,
@@ -3173,7 +3481,8 @@
     "Name": "Pat McCullagh",
     "Club": "",
     "Category": "M50",
-    "Chip Time": "01:19:31"
+    "Chip Time": "01:19:31",
+    "runner_id": "pat-mccullagh"
   },
   {
     "Position": 398,
@@ -3181,7 +3490,8 @@
     "Name": "Niamh Goodwin",
     "Club": "Dromore",
     "Category": "FU19",
-    "Chip Time": "01:19:32"
+    "Chip Time": "01:19:32",
+    "runner_id": "niamh-goodwin"
   },
   {
     "Position": 399,
@@ -3189,7 +3499,8 @@
     "Name": "Sharon Pearson",
     "Club": "Omagh",
     "Category": "F35",
-    "Chip Time": "01:19:32"
+    "Chip Time": "01:19:32",
+    "runner_id": "sharon-pearson"
   },
   {
     "Position": 400,
@@ -3205,7 +3516,8 @@
     "Name": "Paddy MCCreesh",
     "Club": "Carrickmore",
     "Category": "M50",
-    "Chip Time": "01:20:12"
+    "Chip Time": "01:20:12",
+    "runner_id": "paddy-mccreesh"
   },
   {
     "Position": 402,
@@ -3213,7 +3525,8 @@
     "Name": "Hugh McCallen",
     "Club": "Carrickmore",
     "Category": "M40",
-    "Chip Time": "01:20:12"
+    "Chip Time": "01:20:12",
+    "runner_id": "hugh-mccallen"
   },
   {
     "Position": 403,
@@ -3221,7 +3534,8 @@
     "Name": "Helen Mary McGlone",
     "Club": "Omagh",
     "Category": "F40",
-    "Chip Time": "01:20:13"
+    "Chip Time": "01:20:13",
+    "runner_id": "helen-mary-mcglone"
   },
   {
     "Position": 404,
@@ -3229,7 +3543,8 @@
     "Name": "Eamonn James McGlone",
     "Club": "Omagh",
     "Category": "M50",
-    "Chip Time": "01:21:37"
+    "Chip Time": "01:21:37",
+    "runner_id": "eamonn-james-mcglone"
   },
   {
     "Position": 405,
@@ -3237,7 +3552,8 @@
     "Name": "Frank Rafferty",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "01:21:37"
+    "Chip Time": "01:21:37",
+    "runner_id": "frank-rafferty"
   },
   {
     "Position": 406,
@@ -3261,7 +3577,8 @@
     "Name": "Carmel Meenagh",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:22:33"
+    "Chip Time": "01:22:33",
+    "runner_id": "carmel-meenagh"
   },
   {
     "Position": 409,
@@ -3269,7 +3586,8 @@
     "Name": "Paola Dobbs",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:22:33"
+    "Chip Time": "01:22:33",
+    "runner_id": "paola-dobbs"
   },
   {
     "Position": 410,
@@ -3277,7 +3595,8 @@
     "Name": "Frances Mcnally",
     "Club": "Kildress",
     "Category": "F40",
-    "Chip Time": "01:23:00"
+    "Chip Time": "01:23:00",
+    "runner_id": "frances-mcnally"
   },
   {
     "Position": 411,
@@ -3285,7 +3604,8 @@
     "Name": "Enya Goodwin",
     "Club": "Dromore AC",
     "Category": "fo",
-    "Chip Time": "01:23:01"
+    "Chip Time": "01:23:01",
+    "runner_id": "enya-goodwin"
   },
   {
     "Position": 412,
@@ -3293,7 +3613,8 @@
     "Name": "Sarah Coyle",
     "Club": "Loughmacrory",
     "Category": "F50",
-    "Chip Time": "01:23:07"
+    "Chip Time": "01:23:07",
+    "runner_id": "sarah-coyle"
   },
   {
     "Position": 413,
@@ -3309,7 +3630,8 @@
     "Name": "Cathy Coyle",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:23:32"
+    "Chip Time": "01:23:32",
+    "runner_id": "cathy-coyle"
   },
   {
     "Position": 415,
@@ -3317,7 +3639,8 @@
     "Name": "Bridget Fox",
     "Club": "Carrickmore",
     "Category": "F40",
-    "Chip Time": "01:23:32"
+    "Chip Time": "01:23:32",
+    "runner_id": "bridget-fox"
   },
   {
     "Position": 416,
@@ -3325,7 +3648,8 @@
     "Name": "Kathleen Bradley",
     "Club": "Greencastle",
     "Category": "FO",
-    "Chip Time": "01:23:34"
+    "Chip Time": "01:23:34",
+    "runner_id": "kathleen-bradley"
   },
   {
     "Position": 417,
@@ -3333,7 +3657,8 @@
     "Name": "Rita Fox",
     "Club": "Carrickmore",
     "Category": "FO",
-    "Chip Time": "01:23:34"
+    "Chip Time": "01:23:34",
+    "runner_id": "rita-fox"
   },
   {
     "Position": 418,
@@ -3341,7 +3666,8 @@
     "Name": "Etaoine O Kane",
     "Club": "Carrickmore",
     "Category": "FO",
-    "Chip Time": "01:23:38"
+    "Chip Time": "01:23:38",
+    "runner_id": "etaoine-o-kane"
   },
   {
     "Position": 419,
@@ -3349,7 +3675,8 @@
     "Name": "eimear Montague",
     "Club": "Carrickmore",
     "Category": "F40",
-    "Chip Time": "01:23:38"
+    "Chip Time": "01:23:38",
+    "runner_id": "eimear-montague"
   },
   {
     "Position": 420,
@@ -3357,7 +3684,8 @@
     "Name": "Niamh Gaynor",
     "Club": "asbourne",
     "Category": "FU19",
-    "Chip Time": "01:23:38"
+    "Chip Time": "01:23:38",
+    "runner_id": "niamh-gaynor"
   },
   {
     "Position": 421,
@@ -3365,7 +3693,8 @@
     "Name": "Sharon O'Brien",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:24:49"
+    "Chip Time": "01:24:49",
+    "runner_id": "sharon-obrien"
   },
   {
     "Position": 422,
@@ -3373,7 +3702,8 @@
     "Name": "Fiadhnait O'Brien",
     "Club": "Loughmacrory",
     "Category": "FU19",
-    "Chip Time": "01:24:50"
+    "Chip Time": "01:24:50",
+    "runner_id": "fiadhnait-obrien"
   },
   {
     "Position": 423,
@@ -3381,7 +3711,8 @@
     "Name": "Mary Gates",
     "Club": "Carrickmore",
     "Category": "F50",
-    "Chip Time": "01:24:51"
+    "Chip Time": "01:24:51",
+    "runner_id": "mary-gates"
   },
   {
     "Position": 424,
@@ -3389,7 +3720,8 @@
     "Name": "Patricia Grimes",
     "Club": "",
     "Category": "F40",
-    "Chip Time": "01:26:41"
+    "Chip Time": "01:26:41",
+    "runner_id": "patricia-grimes"
   },
   {
     "Position": 425,
@@ -3397,7 +3729,8 @@
     "Name": "Margaret Mary McCallan",
     "Club": "Carrickmore",
     "Category": "F50",
-    "Chip Time": "01:26:41"
+    "Chip Time": "01:26:41",
+    "runner_id": "margaret-mary-mccallan"
   },
   {
     "Position": 426,
@@ -3405,7 +3738,8 @@
     "Name": "Marie Fullen",
     "Club": "Loughmacrory",
     "Category": "F40",
-    "Chip Time": "01:27:43"
+    "Chip Time": "01:27:43",
+    "runner_id": "marie-fullen"
   },
   {
     "Position": 427,
@@ -3413,7 +3747,8 @@
     "Name": "Caoimhe Cunningham",
     "Club": "Loughmacrory",
     "Category": "FO",
-    "Chip Time": "01:27:43"
+    "Chip Time": "01:27:43",
+    "runner_id": "caoimhe-cunningham"
   },
   {
     "Position": 428,
@@ -3421,7 +3756,8 @@
     "Name": "Edele Curran",
     "Club": "Loughmacrory",
     "Category": "F35",
-    "Chip Time": "01:27:43"
+    "Chip Time": "01:27:43",
+    "runner_id": "edele-curran"
   },
   {
     "Position": 429,
@@ -3429,7 +3765,8 @@
     "Name": "Leanne McGuigan",
     "Club": "Omagh",
     "Category": "FO",
-    "Chip Time": "01:27:43"
+    "Chip Time": "01:27:43",
+    "runner_id": "leanne-mcguigan"
   },
   {
     "Position": 430,
@@ -3437,7 +3774,8 @@
     "Name": "Breige McGuigan",
     "Club": "",
     "Category": "F35",
-    "Chip Time": "01:27:43"
+    "Chip Time": "01:27:43",
+    "runner_id": "breige-mcguigan"
   },
   {
     "Position": 431,
@@ -3445,6 +3783,7 @@
     "Name": "Declan McAleer",
     "Club": "Loughmacrory",
     "Category": "MO",
-    "Chip Time": "01:27:43"
+    "Chip Time": "01:27:43",
+    "runner_id": "declan-mcaleer"
   }
 ]
