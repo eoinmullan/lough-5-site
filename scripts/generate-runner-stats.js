@@ -58,6 +58,25 @@ function getCategoryPosition(yearResults, runner, year) {
   return position > 0 ? position : null;
 }
 
+// Function to get position within gender for a given year
+function getGenderPosition(yearResults, runner) {
+  const runnerGender = getGender(runner.Category);
+  if (!runnerGender) return null;
+
+  // Filter runners of the same gender
+  const genderRunners = yearResults
+    .filter(r => getGender(r.Category) === runnerGender)
+    .sort((a, b) => {
+      const timeA = timeToSeconds(a["Chip Time"]);
+      const timeB = timeToSeconds(b["Chip Time"]);
+      return timeA - timeB;
+    });
+
+  // Find the runner's position within their gender
+  const position = genderRunners.findIndex(r => r.runner_id === runner.runner_id) + 1;
+  return position > 0 ? position : null;
+}
+
 // Main function to generate runner statistics
 async function generateRunnerStats() {
   console.log('Generating runner statistics...');
@@ -142,11 +161,15 @@ async function generateRunnerStats() {
       // Get category position for this race
       const categoryPosition = getCategoryPosition(yearResults, runner, year);
 
+      // Get gender position for this race
+      const genderPosition = getGenderPosition(yearResults, runner);
+
       // Add this year's result
       runnerData[runnerId].results.push({
         year: year,
         position: runner.Position,
         category_position: categoryPosition,
+        gender_position: genderPosition,
         club: runner.Club || '',
         category: runner.Category,
         chip_time: runner["Chip Time"]
@@ -238,11 +261,11 @@ async function generateRunnerStats() {
       };
     }
 
-    // Overall podium finishes (1st, 2nd, 3rd overall)
+    // Overall podium finishes (1st, 2nd, 3rd overall within gender)
     const overallPodiums = data.results
-      .filter(r => r.position >= 1 && r.position <= 3)
+      .filter(r => r.gender_position >= 1 && r.gender_position <= 3)
       .map(r => ({
-        position: r.position,
+        position: r.gender_position,
         year: r.year
       }));
 
@@ -251,8 +274,9 @@ async function generateRunnerStats() {
     }
 
     // Category podium finishes (1st, 2nd, 3rd in category)
+    // Exclude MO (Male Open) and FO (Female Open) as these are overall categories
     const categoryPodiums = data.results
-      .filter(r => r.category_position >= 1 && r.category_position <= 3)
+      .filter(r => r.category_position >= 1 && r.category_position <= 3 && r.category !== 'MO' && r.category !== 'FO')
       .map(r => ({
         position: r.category_position,
         category: r.category,

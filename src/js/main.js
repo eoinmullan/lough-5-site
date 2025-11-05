@@ -2,6 +2,7 @@ import Alpine from 'alpinejs';
 import { resultsApp } from './results.js';
 import { recordsApp } from './records.js';
 import { initCourseMap } from './course.js';
+import { runnerSearchPage, runnerStatsPage } from './runner.js';
 
 // Make Alpine.js available globally
 window.Alpine = Alpine;
@@ -9,6 +10,8 @@ window.Alpine = Alpine;
 // Make page-specific functions available globally
 window.resultsApp = resultsApp;
 window.recordsApp = recordsApp;
+window.runnerSearchPage = runnerSearchPage;
+window.runnerStatsPage = runnerStatsPage;
 
 // Initialize Alpine.js
 Alpine.start();

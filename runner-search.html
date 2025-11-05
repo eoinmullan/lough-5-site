@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lough 5 - Runner Search</title>
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="assets/js/bundle.js"></script>
+</head>
+<body>
+  <header class="header">
+    <nav class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="results.html">Results</a></li>
+        <li><a href="records.html">Records</a></li>
+        <li><a href="location.html">Location</a></li>
+        <li><a href="course.html">Course</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="section">
+    <div class="container" x-data="runnerSearchPage()">
+      <h2 class="section-title">Runner Search</h2>
+      <div class="card">
+        <div class="search-container">
+          <div class="filter-row">
+            <input
+              type="text"
+              x-model="searchTerm"
+              placeholder="Search by name or club..."
+              class="search-input"
+            >
+          </div>
+        </div>
+
+        <div x-show="isLoading" class="loading-spinner-container">
+          <div class="loading-spinner"></div>
+          <p>Loading runners...</p>
+        </div>
+
+        <div x-show="!isLoading && searchTerm.trim().length < 3" style="text-align: center; padding: 20px;">
+          <p>Please enter at least 3 characters to search.</p>
+        </div>
+
+        <div x-show="!isLoading && searchTerm.trim().length >= 3" class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Club</th>
+                <th>Years</th>
+              </tr>
+            </thead>
+            <tbody>
+              <template x-for="runner in filteredResults" :key="runner.runner_id">
+                <tr @click="navigateToRunner(runner.runner_id)" style="cursor: pointer;">
+                  <td data-label="Name" x-text="runner.canonical_name"></td>
+                  <td data-label="Club" x-text="runner.most_common_club"></td>
+                  <td data-label="Years" x-text="formatYears(runner.years)"></td>
+                </tr>
+              </template>
+            </tbody>
+          </table>
+        </div>
+
+        <div x-show="!isLoading && searchTerm.trim().length >= 3 && filteredResults.length === 0" style="text-align: center; padding: 20px;">
+          <p>No runners found. Try a different search.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

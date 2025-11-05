@@ -60,13 +60,14 @@
       "canonical_name": "Kristopher Muldoon",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Aughnacloy",
+      "most_common_club": "Armagh AC",
       "most_common_club_source": "automatic",
       "years": [
         2009,
-        2010
+        2010,
+        2012
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "barry-kelly": {
       "runner_id": "barry-kelly",
@@ -9853,6 +9854,18 @@
       ],
       "total_races": 1
     },
+    "conor-meyler-2": {
+      "runner_id": "conor-meyler-2",
+      "canonical_name": "Conor Meyler",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Omagh Harriers",
+      "most_common_club_source": "automatic",
+      "years": [
+        2011
+      ],
+      "total_races": 1
+    },
     "connor-henry": {
       "runner_id": "connor-henry",
       "canonical_name": "Connor Henry",
@@ -13018,18 +13031,6 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Finn Valley",
-      "most_common_club_source": "automatic",
-      "years": [
-        2012
-      ],
-      "total_races": 1
-    },
-    "kris-muldoon": {
-      "runner_id": "kris-muldoon",
-      "canonical_name": "Kris Muldoon",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "Armagh AC",
       "most_common_club_source": "automatic",
       "years": [
         2012
@@ -16202,7 +16203,7 @@
     },
     "christine-quinn": {
       "runner_id": "christine-quinn",
-      "canonical_name": "Christine quinn",
+      "canonical_name": "Christine Quinn",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "City of Lisburn",
@@ -19490,10 +19491,10 @@
     },
     "mark-conway-greencastle-ac": {
       "runner_id": "mark-conway-greencastle-ac",
-      "canonical_name": "Mark Conway Greencastle A.C.",
+      "canonical_name": "Mark Conway",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "",
+      "most_common_club": "Greencastle A.C.",
       "most_common_club_source": "automatic",
       "years": [
         2014
@@ -54365,7 +54366,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-05T17:17:36.559Z",
+    "generated": "2025-11-05T23:16:27.844Z",
     "years_included": [
       2009,
       2010,

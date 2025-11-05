@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lough 5 - Runner Stats</title>
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="assets/style.css">
+    <script defer src="assets/js/bundle.js"></script>
+</head>
+<body>
+<header class="header">
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="results.html">Results</a></li>
+            <li><a href="records.html">Records</a></li>
+            <li><a href="location.html">Location</a></li>
+            <li><a href="course.html">Course</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="section">
+    <div class="container" x-data="runnerStatsPage()">
+
+        <div x-show="isLoading" class="loading-spinner-container">
+            <div class="loading-spinner"></div>
+            <p>Loading runner stats...</p>
+        </div>
+
+        <div x-show="error" style="text-align: center; padding: 20px;">
+            <h2 class="section-title">Runner Not Found</h2>
+            <p x-text="error"></p>
+            <a href="runner-search.html" class="btn" style="display: inline-block; margin-top: 20px;">Back to Search</a>
+        </div>
+
+        <template x-if="!isLoading && !error && runner">
+            <div>
+                <h2 class="section-title" x-text="runner.name"></h2>
+                <p style="font-size: 24px; color: #666; margin-top: -1rem; margin-bottom: 1.5rem; text-align: center;" x-text="runner.most_frequent_club"></p>
+
+                <!-- Headline Stats -->
+                <div class="card" style="margin-bottom: 2rem;">
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-label">Total Races</span>
+                            <span class="stat-value" x-text="runner.total_races"></span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Best Time</span>
+                            <span class="stat-value"
+                                  x-text="runner.best_time ? runner.best_time.time + ' (' + runner.best_time.year + ')' : 'N/A'"></span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Best Position</span>
+                            <span class="stat-value"
+                                  x-text="runner.best_position ? runner.best_position.position + ' (' + runner.best_position.year + ')' : 'N/A'"></span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Years Active</span>
+                            <span class="stat-value" x-text="formatYearsActive(runner.years_active)"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Badges -->
+                <div class="card" style="margin-bottom: 2rem;" x-show="hasBadges()">
+                    <h3 class="card-section-title">Achievements</h3>
+
+                    <div class="badges-section">
+                        <template x-if="runner.badges.fastest_all_time">
+                            <div class="badge-item">
+                                <strong>🏆 Fastest All-Time:</strong>
+                                <span class="badge-tag" x-text="'#' + runner.badges.fastest_all_time.position + ' ' + (runner.badges.fastest_all_time.gender === 'M' ? 'Male' : 'Female')"></span>
+                            </div>
+                        </template>
+
+                        <template x-if="runner.badges.overall_podiums && runner.badges.overall_podiums.length > 0">
+                            <div class="badge-item">
+                                <strong>🥇 Overall Podiums:</strong>
+                                <template x-for="podium in runner.badges.overall_podiums" :key="podium.year">
+                                    <span class="badge-tag"
+                                          x-text="getOrdinal(podium.position) + ' (' + podium.year + ')'"></span>
+                                </template>
+                            </div>
+                        </template>
+
+                        <template x-if="runner.badges.category_podiums && runner.badges.category_podiums.length > 0">
+                            <div class="badge-item">
+                                <strong>🎖️ Category Podiums:</strong>
+                                <template x-for="podium in runner.badges.category_podiums"
+                                          :key="podium.year + podium.category">
+                                    <span class="badge-tag"
+                                          x-text="getOrdinal(podium.position) + ' ' + podium.category + ' (' + podium.year + ')'"></span>
+                                </template>
+                            </div>
+                        </template>
+
+                        <template x-if="runner.badges.age_group_records && runner.badges.age_group_records.length > 0">
+                            <div class="badge-item">
+                                <strong>📊 Age Group Records:</strong>
+                                <template x-for="record in runner.badges.age_group_records" :key="record.category">
+                                    <span class="badge-tag"
+                                          x-text="record.category + ' - ' + record.time + ' (' + record.year + ')'"></span>
+                                </template>
+                            </div>
+                        </template>
+                    </div>
+                </div>
+
+                <!-- Historical Results -->
+                <div class="card">
+                    <h3 class="card-section-title">Race History</h3>
+                    <div class="table-container">
+                        <table>
+                            <thead>
+                            <tr>
+                                <th>Year</th>
+                                <th>Pos.</th>
+                                <th>Category</th>
+                                <th>Club</th>
+                                <th>Time</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <template x-for="result in runner.results" :key="result.year">
+                                <tr>
+                                    <td data-label="Year" x-text="result.year"></td>
+                                    <td data-label="Pos." x-text="result.position"></td>
+                                    <td data-label="Category" x-text="result.category"></td>
+                                    <td data-label="Club" x-text="result.club"></td>
+                                    <td data-label="Time" x-text="result.chip_time"></td>
+                                </tr>
+                            </template>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Performance Graph -->
+                <div class="card" style="margin-bottom: 2rem;" x-show="runner.results.length > 1">
+                    <h3 class="card-section-title">Performance Over Time</h3>
+                    <div style="position: relative; height: 300px; margin-top: 1rem;">
+                        <canvas id="performanceChart"></canvas>
+                    </div>
+                </div>
+
+                <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
+                    <a href="runner-search.html" class="btn btn-secondary">Back to Search</a>
+                </div>
+            </div>
+        </template>
+    </div>
+</section>
+
+</body>
+</html>
