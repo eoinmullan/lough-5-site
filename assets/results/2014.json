@@ -152,11 +152,12 @@
   {
     "Position": 16,
     "Bib no.": 454,
-    "Name": "Michael Mullin",
+    "Name": "Michéal Mullin",
     "Club": "Omagh Harriers",
     "Category": "MJ",
     "2 Miles": "0:11:29",
-    "Chip Time": "0:30:30"
+    "Chip Time": "0:30:30",
+    "runner_id": "michael-mullin"
   },
   {
     "Position": 17,
@@ -195,7 +196,8 @@
     "Club": "Acorn A.C.",
     "Category": "M35",
     "2 Miles": "0:11:36",
-    "Chip Time": "0:30:48"
+    "Chip Time": "0:30:48",
+    "runner_id": "martin-mcgirr"
   },
   {
     "Position": 21,
@@ -215,7 +217,7 @@
     "Category": "M45",
     "2 Miles": "0:12:00",
     "Chip Time": "0:31:28",
-    "runner_id": "vincy-hollywood"
+    "runner_id": "vincent-hollywood"
   },
   {
     "Position": 23,
@@ -304,7 +306,8 @@
     "Club": "Kirkstall Harriers",
     "Category": "MO",
     "2 Miles": "0:12:08",
-    "Chip Time": "0:31:57"
+    "Chip Time": "0:31:57",
+    "runner_id": "stevie-webb"
   },
   {
     "Position": 32,
@@ -343,7 +346,8 @@
     "Club": "Tattyreagh",
     "Category": "MO",
     "2 Miles": "0:11:54",
-    "Chip Time": "0:32:14"
+    "Chip Time": "0:32:14",
+    "runner_id": "colin-harkin"
   },
   {
     "Position": 36,
@@ -442,7 +446,8 @@
     "Club": "Knockmany Runners",
     "Category": "M40",
     "2 Miles": "0:12:22",
-    "Chip Time": "0:33:04"
+    "Chip Time": "0:33:04",
+    "runner_id": "cary-mccrory"
   },
   {
     "Position": 46,
@@ -481,7 +486,8 @@
     "Club": "Sperrin Harriers",
     "Category": "M45",
     "2 Miles": "0:12:51",
-    "Chip Time": "0:33:29"
+    "Chip Time": "0:33:29",
+    "runner_id": "colly-gallagher"
   },
   {
     "Position": 50,
@@ -550,7 +556,8 @@
     "Club": "",
     "Category": "M50",
     "2 Miles": "0:12:33",
-    "Chip Time": "0:33:52"
+    "Chip Time": "0:33:52",
+    "runner_id": "kevin-murray"
   },
   {
     "Position": 57,
@@ -619,7 +626,8 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:13:17",
-    "Chip Time": "0:34:10"
+    "Chip Time": "0:34:10",
+    "runner_id": "caelainn-mcquaid"
   },
   {
     "Position": 64,
@@ -664,11 +672,12 @@
   {
     "Position": 68,
     "Bib no.": 295,
-    "Name": "Stephen McCaffery",
+    "Name": "Stephen McCaffrey",
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:12:49",
-    "Chip Time": "0:34:16"
+    "Chip Time": "0:34:16",
+    "runner_id": "stephen-mccaffrey"
   },
   {
     "Position": 69,
@@ -687,7 +696,8 @@
     "Club": "Muck Hogs",
     "Category": "M35",
     "2 Miles": "0:14:10",
-    "Chip Time": "0:34:10"
+    "Chip Time": "0:34:10",
+    "runner_id": "mike-ohanlon"
   },
   {
     "Position": 71,
@@ -696,7 +706,8 @@
     "Club": "Magherafelt Harriers",
     "Category": "M40",
     "2 Miles": "0:13:08",
-    "Chip Time": "0:34:26"
+    "Chip Time": "0:34:26",
+    "runner_id": "martin-conway"
   },
   {
     "Position": 72,
@@ -705,7 +716,8 @@
     "Club": "Carmen Runners",
     "Category": "M40",
     "2 Miles": "0:13:20",
-    "Chip Time": "0:34:28"
+    "Chip Time": "0:34:28",
+    "runner_id": "dara-sweeney-carmen"
   },
   {
     "Position": 73,
@@ -794,7 +806,8 @@
     "Club": "Racing 795",
     "Category": "M40",
     "2 Miles": "0:12:55",
-    "Chip Time": "0:34:57"
+    "Chip Time": "0:34:57",
+    "runner_id": "david-tully"
   },
   {
     "Position": 82,
@@ -813,7 +826,8 @@
     "Club": "Pace Running Club",
     "Category": "MO",
     "2 Miles": "0:13:18",
-    "Chip Time": "0:35:02"
+    "Chip Time": "0:35:02",
+    "runner_id": "aliastair-barron"
   },
   {
     "Position": 84,
@@ -1032,7 +1046,8 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:13:45",
-    "Chip Time": "0:35:58"
+    "Chip Time": "0:35:58",
+    "runner_id": "ryan-conway-greencastle-ac"
   },
   {
     "Position": 106,
@@ -1041,7 +1056,8 @@
     "Club": "Manhattan Gaels",
     "Category": "MO",
     "2 Miles": "0:13:49",
-    "Chip Time": "0:36:02"
+    "Chip Time": "0:36:02",
+    "runner_id": "ryan-canavan"
   },
   {
     "Position": 107,
@@ -1100,7 +1116,8 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:13:56",
-    "Chip Time": "0:36:13"
+    "Chip Time": "0:36:13",
+    "runner_id": "breige-mccaffrey"
   },
   {
     "Position": 113,
@@ -1509,7 +1526,8 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:14:34",
-    "Chip Time": "0:37:09"
+    "Chip Time": "0:37:09",
+    "runner_id": "mark-conway-greencastle-ac"
   },
   {
     "Position": 154,
@@ -1538,7 +1556,8 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:14:22",
-    "Chip Time": "0:37:25"
+    "Chip Time": "0:37:25",
+    "runner_id": "aidan-goodwin"
   },
   {
     "Position": 157,
@@ -1757,7 +1776,8 @@
     "Club": "Omagh Harriers",
     "Category": "M60",
     "2 Miles": "0:14:18",
-    "Chip Time": "0:38:10"
+    "Chip Time": "0:38:10",
+    "runner_id": "brendan-montague"
   },
   {
     "Position": 179,
@@ -1966,7 +1986,8 @@
     "Club": "Omagh Harriers",
     "Category": "F35",
     "2 Miles": "0:14:58",
-    "Chip Time": "0:38:39"
+    "Chip Time": "0:38:39",
+    "runner_id": "donna-owens"
   },
   {
     "Position": 200,
@@ -1995,7 +2016,8 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:15:12",
-    "Chip Time": "0:38:48"
+    "Chip Time": "0:38:48",
+    "runner_id": "leo-meenan"
   },
   {
     "Position": 203,
@@ -2080,11 +2102,12 @@
   {
     "Position": 211,
     "Bib no.": 520,
-    "Name": "Gerald Turbett",
+    "Name": "Gerard Turbitt",
     "Club": "Omagh Triathlon Club",
     "Category": "M60",
     "2 Miles": "0:14:35",
-    "Chip Time": "0:39:11"
+    "Chip Time": "0:39:11",
+    "runner_id": "gerard-turbitt"
   },
   {
     "Position": 212,
@@ -2103,7 +2126,8 @@
     "Club": "",
     "Category": "M45",
     "2 Miles": "0:15:36",
-    "Chip Time": "0:39:05"
+    "Chip Time": "0:39:05",
+    "runner_id": "darren-oneill"
   },
   {
     "Position": 214,
@@ -2122,7 +2146,8 @@
     "Club": "Madden Raparees",
     "Category": "MO",
     "2 Miles": "0:14:13",
-    "Chip Time": "0:38:56"
+    "Chip Time": "0:38:56",
+    "runner_id": "aron-mckenna"
   },
   {
     "Position": 216,
@@ -2311,7 +2336,8 @@
     "Club": "Omagh Harriers",
     "Category": "M55",
     "2 Miles": "0:15:36",
-    "Chip Time": "0:39:47"
+    "Chip Time": "0:39:47",
+    "runner_id": "john-mcginn"
   },
   {
     "Position": 235,
@@ -2370,7 +2396,8 @@
     "Club": "U.C.D.",
     "Category": "MO",
     "2 Miles": "0:15:03",
-    "Chip Time": "0:39:54"
+    "Chip Time": "0:39:54",
+    "runner_id": "paul-corzier"
   },
   {
     "Position": 241,
@@ -2379,7 +2406,8 @@
     "Club": "Killyclogher",
     "Category": "MO",
     "2 Miles": "0:15:36",
-    "Chip Time": "0:40:09"
+    "Chip Time": "0:40:09",
+    "runner_id": "conal-mcmullan"
   },
   {
     "Position": 242,
@@ -2558,7 +2586,8 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:11",
-    "Chip Time": "0:40:48"
+    "Chip Time": "0:40:48",
+    "runner_id": "justin-mcdermott"
   },
   {
     "Position": 260,
@@ -2637,7 +2666,8 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:49",
-    "Chip Time": "0:40:49"
+    "Chip Time": "0:40:49",
+    "runner_id": "cathal-logue"
   },
   {
     "Position": 268,
@@ -2656,7 +2686,8 @@
     "Club": "Knockmany Runners",
     "Category": "F35",
     "2 Miles": "0:15:57",
-    "Chip Time": "0:40:50"
+    "Chip Time": "0:40:50",
+    "runner_id": "tracy-murray"
   },
   {
     "Position": 270,
@@ -2675,7 +2706,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:32",
-    "Chip Time": "0:41:22"
+    "Chip Time": "0:41:22",
+    "runner_id": "cathal-mcmenamin"
   },
   {
     "Position": 272,
@@ -2694,7 +2726,8 @@
     "Club": "Omagh St. Endas G.A.C.",
     "Category": "MO",
     "2 Miles": "0:16:38",
-    "Chip Time": "0:41:27"
+    "Chip Time": "0:41:27",
+    "runner_id": "patrick-sally"
   },
   {
     "Position": 274,
@@ -2793,7 +2826,8 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:16:53",
-    "Chip Time": "0:41:22"
+    "Chip Time": "0:41:22",
+    "runner_id": "kevin-mcwilliams"
   },
   {
     "Position": 284,
@@ -2822,7 +2856,8 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:47",
-    "Chip Time": "0:41:35"
+    "Chip Time": "0:41:35",
+    "runner_id": "kevin-gallagher"
   },
   {
     "Position": 287,
@@ -2951,7 +2986,8 @@
     "Club": "",
     "Category": "M40",
     "2 Miles": "0:15:27",
-    "Chip Time": "0:42:34"
+    "Chip Time": "0:42:34",
+    "runner_id": "terry-mcaleer"
   },
   {
     "Position": 300,
@@ -3100,7 +3136,8 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:15:51",
-    "Chip Time": "0:42:53"
+    "Chip Time": "0:42:53",
+    "runner_id": "harry-smyth"
   },
   {
     "Position": 315,
@@ -3139,7 +3176,8 @@
     "Club": "Tattyreagh",
     "Category": "MO",
     "2 Miles": "0:15:27",
-    "Chip Time": "0:43:24"
+    "Chip Time": "0:43:24",
+    "runner_id": "sean-mcgroary"
   },
   {
     "Position": 319,
@@ -3148,7 +3186,8 @@
     "Club": "",
     "Category": "F45",
     "2 Miles": "0:16:44",
-    "Chip Time": "0:43:04"
+    "Chip Time": "0:43:04",
+    "runner_id": "jacqui-maguire"
   },
   {
     "Position": 320,
@@ -3517,7 +3556,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:15:48",
-    "Chip Time": "0:45:02"
+    "Chip Time": "0:45:02",
+    "runner_id": "cormac-quinn"
   },
   {
     "Position": 357,
@@ -3606,7 +3646,8 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:16:39",
-    "Chip Time": "0:45:35"
+    "Chip Time": "0:45:35",
+    "runner_id": "maeve-conway"
   },
   {
     "Position": 366,
@@ -3615,7 +3656,8 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:17:02",
-    "Chip Time": "0:45:37"
+    "Chip Time": "0:45:37",
+    "runner_id": "cathy-mckenna"
   },
   {
     "Position": 367,
@@ -3654,7 +3696,8 @@
     "Club": "Revolution Fitness",
     "Category": "F35",
     "2 Miles": "0:17:14",
-    "Chip Time": "0:45:32"
+    "Chip Time": "0:45:32",
+    "runner_id": "kate-mcaleer"
   },
   {
     "Position": 371,
@@ -3743,7 +3786,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:17:30",
-    "Chip Time": "0:46:38"
+    "Chip Time": "0:46:38",
+    "runner_id": "noel-gallagher"
   },
   {
     "Position": 380,
@@ -3782,7 +3826,8 @@
     "Club": "Omagh Harriers",
     "Category": "FJ",
     "2 Miles": "0:17:54",
-    "Chip Time": "0:46:37"
+    "Chip Time": "0:46:37",
+    "runner_id": "aoibh-haigney"
   },
   {
     "Position": 384,
@@ -3961,7 +4006,8 @@
     "Club": "",
     "Category": "M35",
     "2 Miles": "0:18:57",
-    "Chip Time": "0:47:44"
+    "Chip Time": "0:47:44",
+    "runner_id": "barry-mccullagh"
   },
   {
     "Position": 402,
@@ -4040,7 +4086,8 @@
     "Club": "Omagh Triathlon Club",
     "Category": "FO",
     "2 Miles": "0:18:45",
-    "Chip Time": "0:48:44"
+    "Chip Time": "0:48:44",
+    "runner_id": "mairead-mcdermott"
   },
   {
     "Position": 410,
@@ -4169,7 +4216,8 @@
     "Club": "",
     "Category": "MO",
     "2 Miles": "0:18:44",
-    "Chip Time": "0:49:16"
+    "Chip Time": "0:49:16",
+    "runner_id": "ronan-coyle"
   },
   {
     "Position": 423,
@@ -4178,7 +4226,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:18:29",
-    "Chip Time": "0:49:30"
+    "Chip Time": "0:49:30",
+    "runner_id": "jack-carland"
   },
   {
     "Position": 424,
@@ -4237,7 +4286,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:18:00",
-    "Chip Time": "0:50:15"
+    "Chip Time": "0:50:15",
+    "runner_id": "eoin-mcelholm"
   },
   {
     "Position": 430,
@@ -4316,7 +4366,8 @@
     "Club": "Muck Hogs",
     "Category": "FO",
     "2 Miles": "0:19:03",
-    "Chip Time": "0:50:49"
+    "Chip Time": "0:50:49",
+    "runner_id": "catherine-early"
   },
   {
     "Position": 438,
@@ -4385,7 +4436,8 @@
     "Club": "",
     "Category": "M55",
     "2 Miles": "0:19:11",
-    "Chip Time": "0:51:59"
+    "Chip Time": "0:51:59",
+    "runner_id": "john-kerlin"
   },
   {
     "Position": 445,
@@ -4444,7 +4496,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:13",
-    "Chip Time": "0:51:52"
+    "Chip Time": "0:51:52",
+    "runner_id": "shea-conway"
   },
   {
     "Position": 451,
@@ -4513,7 +4566,8 @@
     "Club": "",
     "Category": "MJ",
     "2 Miles": "0:19:15",
-    "Chip Time": "0:52:39"
+    "Chip Time": "0:52:39",
+    "runner_id": "dara-mccullagh"
   },
   {
     "Position": 458,
@@ -4582,7 +4636,8 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:19:20",
-    "Chip Time": "0:53:24"
+    "Chip Time": "0:53:24",
+    "runner_id": "claire-gallagher"
   },
   {
     "Position": 465,
@@ -4631,7 +4686,8 @@
     "Club": "",
     "Category": "F50",
     "2 Miles": "0:19:32",
-    "Chip Time": "0:54:10"
+    "Chip Time": "0:54:10",
+    "runner_id": "elaine-mclaughlin"
   },
   {
     "Position": 470,
@@ -4780,7 +4836,8 @@
     "Club": "",
     "Category": "FO",
     "2 Miles": "0:22:21",
-    "Chip Time": "1:03:41"
+    "Chip Time": "1:03:41",
+    "runner_id": "emma-oneill"
   },
   {
     "Position": 485,
@@ -4829,6 +4886,7 @@
     "Club": "",
     "Category": "F55",
     "2 Miles": "0:25:59",
-    "Chip Time": "1:10:30"
+    "Chip Time": "1:10:30",
+    "runner_id": "marie-conway"
   }
 ]

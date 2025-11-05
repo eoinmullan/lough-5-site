@@ -196,7 +196,8 @@
     "Name": "Kieron Johnson",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:40:32"
+    "Chip Time": "0:40:32",
+    "runner_id": "kieron-johnson"
   },
   {
     "Position": 26,
@@ -275,7 +276,8 @@
     "Name": "Gavin Rogers",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:41:40"
+    "Chip Time": "0:41:40",
+    "runner_id": "gavin-rogers"
   },
   {
     "Position": 36,
@@ -370,7 +372,8 @@
     "Name": "Pedar Curran",
     "Club": "",
     "Category": "M",
-    "Chip Time": "0:46:06"
+    "Chip Time": "0:46:06",
+    "runner_id": "pedar-curran"
   },
   {
     "Position": 48,
@@ -401,7 +404,8 @@
     "Name": "Liza Murray",
     "Club": "Pomeroy Runners",
     "Category": "F",
-    "Chip Time": "0:47:43"
+    "Chip Time": "0:47:43",
+    "runner_id": "liza-murray"
   },
   {
     "Position": 52,

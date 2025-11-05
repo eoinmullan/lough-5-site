@@ -381,7 +381,8 @@
     "Club": "",
     "Lap of Lough": "0:07:33",
     "Chip Time": "0:31:21",
-    "Gun Time": "0:31:22"
+    "Gun Time": "0:31:22",
+    "runner_id": "shane-mccann"
   },
   {
     "Position": 36,
@@ -952,7 +953,8 @@
     "Club": "Strabane Triathlon Club",
     "Lap of Lough": "0:08:00",
     "Chip Time": "0:33:33",
-    "Gun Time": "0:33:40"
+    "Gun Time": "0:33:40",
+    "runner_id": "gerald-coyle"
   },
   {
     "Position": 88,
@@ -1160,7 +1162,8 @@
     "Club": "",
     "Lap of Lough": "0:08:12",
     "Chip Time": "0:34:24",
-    "Gun Time": "0:34:30"
+    "Gun Time": "0:34:30",
+    "runner_id": "gary-mcgrory"
   },
   {
     "Position": 107,
@@ -1346,7 +1349,8 @@
     "Club": "Tribal Run Club",
     "Lap of Lough": "0:08:24",
     "Chip Time": "0:34:35",
-    "Gun Time": "0:34:58"
+    "Gun Time": "0:34:58",
+    "runner_id": "paul-crozier"
   },
   {
     "Position": 124,
@@ -1422,7 +1426,8 @@
     "Club": "",
     "Lap of Lough": "0:08:26",
     "Chip Time": "0:35:09",
-    "Gun Time": "0:35:12"
+    "Gun Time": "0:35:12",
+    "runner_id": "eoin-donnelly"
   },
   {
     "Position": 131,
@@ -1476,7 +1481,8 @@
     "Club": "",
     "Lap of Lough": "0:04:27",
     "Chip Time": "0:35:06",
-    "Gun Time": "0:35:19"
+    "Gun Time": "0:35:19",
+    "runner_id": "gary-leonard"
   },
   {
     "Position": 136,
@@ -1563,7 +1569,8 @@
     "Club": "Letterkenny AC",
     "Lap of Lough": "0:08:24",
     "Chip Time": "0:35:25",
-    "Gun Time": "0:35:30"
+    "Gun Time": "0:35:30",
+    "runner_id": "ciaran-odonnell"
   },
   {
     "Position": 144,
@@ -1793,7 +1800,8 @@
     "Club": "Carmen Runners",
     "Lap of Lough": "0:08:36",
     "Chip Time": "0:36:00",
-    "Gun Time": "0:36:15"
+    "Gun Time": "0:36:15",
+    "runner_id": "barry-oneill-carmen"
   },
   {
     "Position": 165,
@@ -1803,7 +1811,8 @@
     "Club": "",
     "Lap of Lough": "0:08:19",
     "Chip Time": "0:36:06",
-    "Gun Time": "0:36:17"
+    "Gun Time": "0:36:17",
+    "runner_id": "mark-mccann"
   },
   {
     "Position": 166,
@@ -1868,7 +1877,8 @@
     "Club": "Galbally Runners",
     "Lap of Lough": "0:08:08",
     "Chip Time": "0:35:47",
-    "Gun Time": "0:36:29"
+    "Gun Time": "0:36:29",
+    "runner_id": "breannain-collins"
   },
   {
     "Position": 172,
@@ -1889,7 +1899,8 @@
     "Club": "",
     "Lap of Lough": "0:08:38",
     "Chip Time": "0:36:12",
-    "Gun Time": "0:36:35"
+    "Gun Time": "0:36:35",
+    "runner_id": "emma-oneill-2"
   },
   {
     "Position": 174,
@@ -1910,7 +1921,8 @@
     "Club": "",
     "Lap of Lough": "0:08:30",
     "Chip Time": "0:36:16",
-    "Gun Time": "0:36:36"
+    "Gun Time": "0:36:36",
+    "runner_id": "sean-brogan"
   },
   {
     "Position": 176,
@@ -1997,7 +2009,8 @@
     "Club": "KC Runners",
     "Lap of Lough": "0:08:41",
     "Chip Time": "0:36:32",
-    "Gun Time": "0:36:47"
+    "Gun Time": "0:36:47",
+    "runner_id": "colin-okane"
   },
   {
     "Position": 184,
@@ -2359,7 +2372,8 @@
     "Club": "",
     "Lap of Lough": "0:06:56",
     "Chip Time": "0:37:19",
-    "Gun Time": "0:37:37"
+    "Gun Time": "0:37:37",
+    "runner_id": "mabh-mcelduff"
   },
   {
     "Position": 217,
@@ -2743,7 +2757,8 @@
     "Club": "Galbally Runners",
     "Lap of Lough": "0:08:59",
     "Chip Time": "0:37:45",
-    "Gun Time": "0:38:31"
+    "Gun Time": "0:38:31",
+    "runner_id": "fintan-kelly"
   },
   {
     "Position": 252,
@@ -2775,7 +2790,8 @@
     "Club": "Omagh triathlon club",
     "Lap of Lough": "0:08:57",
     "Chip Time": "0:38:01",
-    "Gun Time": "0:38:33"
+    "Gun Time": "0:38:33",
+    "runner_id": "owen-falconer"
   },
   {
     "Position": 255,
@@ -2840,7 +2856,8 @@
     "Club": "Greencastle",
     "Lap of Lough": "0:09:31",
     "Chip Time": "0:38:36",
-    "Gun Time": "0:38:42"
+    "Gun Time": "0:38:42",
+    "runner_id": "brian-devlin"
   },
   {
     "Position": 261,
@@ -3021,12 +3038,13 @@
   {
     "Position": 277,
     "Bib no.": 482,
-    "Name": "Aidan O’Hagan",
+    "Name": "Aidan O'Hagan",
     "Category": "M35",
     "Club": "",
     "Lap of Lough": "0:09:05",
     "Chip Time": "0:38:44",
-    "Gun Time": "0:39:10"
+    "Gun Time": "0:39:10",
+    "runner_id": "aidan-ohagan"
   },
   {
     "Position": 278,
@@ -3322,7 +3340,8 @@
     "Club": "",
     "Lap of Lough": "0:09:25",
     "Chip Time": "0:39:03",
-    "Gun Time": "0:39:42"
+    "Gun Time": "0:39:42",
+    "runner_id": "paddy-hughes"
   },
   {
     "Position": 305,
@@ -3453,7 +3472,8 @@
     "Club": "",
     "Lap of Lough": "0:09:00",
     "Chip Time": "0:39:13",
-    "Gun Time": "0:39:51"
+    "Gun Time": "0:39:51",
+    "runner_id": "ciaron-johnson"
   },
   {
     "Position": 317,
@@ -3463,7 +3483,8 @@
     "Club": "",
     "Lap of Lough": "0:08:56",
     "Chip Time": "0:39:18",
-    "Gun Time": "0:39:52"
+    "Gun Time": "0:39:52",
+    "runner_id": "martin-donnelly"
   },
   {
     "Position": 318,
@@ -3490,12 +3511,13 @@
   {
     "Position": 320,
     "Bib no.": 571,
-    "Name": "Naomi Aike",
+    "Name": "Naomi Aiken",
     "Category": "FO",
     "Club": "",
     "Lap of Lough": "0:09:40",
     "Chip Time": "0:39:54",
-    "Gun Time": "0:40:01"
+    "Gun Time": "0:40:01",
+    "runner_id": "naomi-aiken"
   },
   {
     "Position": 321,
@@ -3879,7 +3901,8 @@
     "Club": "",
     "Lap of Lough": "0:09:09",
     "Chip Time": "0:40:11",
-    "Gun Time": "0:40:45"
+    "Gun Time": "0:40:45",
+    "runner_id": "dnall-sweeney"
   },
   {
     "Position": 356,
@@ -3922,7 +3945,8 @@
     "Club": "Star Running Club",
     "Lap of Lough": "0:10:20",
     "Chip Time": "0:40:14",
-    "Gun Time": "0:40:52"
+    "Gun Time": "0:40:52",
+    "runner_id": "martin-mccauley"
   },
   {
     "Position": 360,
@@ -4152,7 +4176,8 @@
     "Club": "",
     "Lap of Lough": "0:09:30",
     "Chip Time": "0:41:22",
-    "Gun Time": "0:41:28"
+    "Gun Time": "0:41:28",
+    "runner_id": "patrick-quinn"
   },
   {
     "Position": 381,
@@ -4470,7 +4495,8 @@
     "Club": "Knockmanny",
     "Lap of Lough": "0:09:38",
     "Chip Time": "0:41:31",
-    "Gun Time": "0:42:16"
+    "Gun Time": "0:42:16",
+    "runner_id": "ciaran-donnelly"
   },
   {
     "Position": 410,
@@ -4524,7 +4550,8 @@
     "Club": "",
     "Lap of Lough": "0:10:09",
     "Chip Time": "0:42:20",
-    "Gun Time": "0:42:40"
+    "Gun Time": "0:42:40",
+    "runner_id": "mark-mclaughlin"
   },
   {
     "Position": 415,
@@ -4721,7 +4748,8 @@
     "Club": "",
     "Lap of Lough": "0:10:23",
     "Chip Time": "0:42:39",
-    "Gun Time": "0:43:13"
+    "Gun Time": "0:43:13",
+    "runner_id": "finn-sweeney"
   },
   {
     "Position": 433,
@@ -4929,7 +4957,8 @@
     "Club": "",
     "Lap of Lough": "0:09:51",
     "Chip Time": "0:43:01",
-    "Gun Time": "0:43:43"
+    "Gun Time": "0:43:43",
+    "runner_id": "rory-devine"
   },
   {
     "Position": 452,
@@ -5060,7 +5089,8 @@
     "Club": "",
     "Lap of Lough": "0:10:16",
     "Chip Time": "0:42:56",
-    "Gun Time": "0:43:53"
+    "Gun Time": "0:43:53",
+    "runner_id": "michaeline-mullan"
   },
   {
     "Position": 464,
@@ -5329,12 +5359,13 @@
   {
     "Position": 488,
     "Bib no.": 295,
-    "Name": "Catherinr McKeoen",
+    "Name": "Catherine McKeown",
     "Category": "F45",
     "Club": "Knockmany Running Club",
     "Lap of Lough": "0:10:23",
     "Chip Time": "0:43:51",
-    "Gun Time": "0:44:19"
+    "Gun Time": "0:44:19",
+    "runner_id": "catherine-mckeown"
   },
   {
     "Position": 489,
@@ -5355,7 +5386,8 @@
     "Club": "Run for Enda",
     "Lap of Lough": "0:10:14",
     "Chip Time": "0:44:01",
-    "Gun Time": "0:44:23"
+    "Gun Time": "0:44:23",
+    "runner_id": "bernie-mcquaid"
   },
   {
     "Position": 491,
@@ -5838,7 +5870,8 @@
     "Club": "Run for Enda",
     "Lap of Lough": "0:11:33",
     "Chip Time": "0:44:48",
-    "Gun Time": "0:45:33"
+    "Gun Time": "0:45:33",
+    "runner_id": "shane-mccaul"
   },
   {
     "Position": 535,
@@ -6728,7 +6761,8 @@
     "Club": "Down Triathlon Club",
     "Lap of Lough": "0:11:25",
     "Chip Time": "0:47:18",
-    "Gun Time": "0:47:39"
+    "Gun Time": "0:47:39",
+    "runner_id": "peadar-curran"
   },
   {
     "Position": 616,
@@ -7266,7 +7300,8 @@
     "Club": "",
     "Lap of Lough": "0:11:56",
     "Chip Time": "0:48:53",
-    "Gun Time": "0:49:15"
+    "Gun Time": "0:49:15",
+    "runner_id": "shane-kelly"
   },
   {
     "Position": 665,
@@ -7705,7 +7740,8 @@
     "Club": "",
     "Lap of Lough": "0:11:36",
     "Chip Time": "0:49:51",
-    "Gun Time": "0:50:53"
+    "Gun Time": "0:50:53",
+    "runner_id": "aimee-kelly"
   },
   {
     "Position": 705,
@@ -7759,7 +7795,8 @@
     "Club": "",
     "Lap of Lough": "0:12:05",
     "Chip Time": "0:50:42",
-    "Gun Time": "0:51:34"
+    "Gun Time": "0:51:34",
+    "runner_id": "elaine-donaghy"
   },
   {
     "Position": 710,
@@ -7791,7 +7828,8 @@
     "Club": "",
     "Lap of Lough": "0:12:16",
     "Chip Time": "0:50:40",
-    "Gun Time": "0:51:37"
+    "Gun Time": "0:51:37",
+    "runner_id": "eabha-rose-mcaleer"
   },
   {
     "Position": 713,
@@ -7801,7 +7839,8 @@
     "Club": "",
     "Lap of Lough": "0:12:11",
     "Chip Time": "0:51:03",
-    "Gun Time": "0:51:40"
+    "Gun Time": "0:51:40",
+    "runner_id": "cara-okane"
   },
   {
     "Position": 714,
@@ -7954,7 +7993,8 @@
     "Club": "",
     "Lap of Lough": "0:13:21",
     "Chip Time": "0:53:12",
-    "Gun Time": "0:54:10"
+    "Gun Time": "0:54:10",
+    "runner_id": "cara-mcaleer"
   },
   {
     "Position": 728,
@@ -8008,7 +8048,8 @@
     "Club": "",
     "Lap of Lough": "0:13:36",
     "Chip Time": "0:53:43",
-    "Gun Time": "0:54:41"
+    "Gun Time": "0:54:41",
+    "runner_id": "brian-meenagh"
   },
   {
     "Position": 733,
@@ -8348,7 +8389,8 @@
     "Club": "",
     "Lap of Lough": "0:14:05",
     "Chip Time": "0:56:45",
-    "Gun Time": "0:57:47"
+    "Gun Time": "0:57:47",
+    "runner_id": "clara-kelly"
   },
   {
     "Position": 764,
@@ -8380,7 +8422,8 @@
     "Club": "Run for Enda",
     "Lap of Lough": "0:14:22",
     "Chip Time": "0:57:06",
-    "Gun Time": "0:58:08"
+    "Gun Time": "0:58:08",
+    "runner_id": "dympna-mcclints"
   },
   {
     "Position": 767,
