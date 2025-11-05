@@ -13,3 +13,4 @@ cypress/screenshots/
 cypress/videos/
 
 .claude
+assets/runner-stats/
