@@ -220,12 +220,12 @@
     "Bib no.": 137,
     "Name": "Pat McCrory",
     "Club": "Omagh Harriers",
-    "Category": "F40",
+    "Category": "M40",
     "2 Miles": "0:11:49",
     "Lap of Lough": "0:07:38",
     "Chip Time": "0:30:57",
     "Gun Time": "0:30:59",
-    "runner_id": "pat-mccrory-omagh"
+    "runner_id": "pat-mccrory"
   },
   {
     "Position": 20,
@@ -338,14 +338,14 @@
   {
     "Position": 29,
     "Bib no.": 21,
-    "Name": "Lorcan Healy",
-    "Club": "Monaghan Phoenix",
-    "Category": "F40",
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "MO",
     "2 Miles": "0:12:21",
     "Lap of Lough": "0:07:48",
     "Chip Time": "0:32:16",
     "Gun Time": "0:32:18",
-    "runner_id": "lorcan-healy-monaghan"
+    "runner_id": "unknown"
   },
   {
     "Position": 30,
@@ -3590,14 +3590,14 @@
   {
     "Position": 300,
     "Bib no.": 130,
-    "Name": "Pat McCrory",
-    "Club": "Omagh Harriers",
-    "Category": "F40",
+    "Name": "Unknown",
+    "Club": "",
+    "Category": "MO",
     "2 Miles": "0:16:35",
     "Lap of Lough": "0:10:53",
     "Chip Time": "0:44:04",
     "Gun Time": "0:44:32",
-    "runner_id": "pat-mccrory-omagh"
+    "runner_id": "unknown"
   },
   {
     "Position": 301,

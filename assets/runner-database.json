@@ -237,17 +237,28 @@
       ],
       "total_races": 2
     },
-    "terry-canninan": {
-      "runner_id": "terry-canninan",
-      "canonical_name": "Terry Canninan",
+    "terry-canning": {
+      "runner_id": "terry-canning",
+      "canonical_name": "Terry Canning",
       "canonical_name_source": "automatic",
-      "gender": "F",
+      "gender": "M",
       "most_common_club": "Omagh Harriers",
       "most_common_club_source": "automatic",
       "years": [
-        2009
+        2009,
+        2010,
+        2012,
+        2014,
+        2015,
+        2016,
+        2017,
+        2019,
+        2021,
+        2022,
+        2023,
+        2024
       ],
-      "total_races": 1
+      "total_races": 12
     },
     "barry-devlin": {
       "runner_id": "barry-devlin",
@@ -841,15 +852,16 @@
       "runner_id": "unknown",
       "canonical_name": "Unknown",
       "canonical_name_source": "automatic",
-      "gender": null,
+      "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2009,
+        2011,
         2013,
         2014
       ],
-      "total_races": 3
+      "total_races": 4
     },
     "diane-wilson": {
       "runner_id": "diane-wilson",
@@ -5660,17 +5672,21 @@
       ],
       "total_races": 3
     },
-    "stephen-duncan-omagh": {
-      "runner_id": "stephen-duncan-omagh",
+    "stephen-duncan": {
+      "runner_id": "stephen-duncan",
       "canonical_name": "Stephen Duncan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Omagh Harriers",
       "most_common_club_source": "automatic",
       "years": [
-        2010
+        2010,
+        2011,
+        2013,
+        2017,
+        2023
       ],
-      "total_races": 1
+      "total_races": 5
     },
     "christopher-mc-peake": {
       "runner_id": "christopher-mc-peake",
@@ -5751,28 +5767,6 @@
       ],
       "total_races": 4
     },
-    "terry-canning": {
-      "runner_id": "terry-canning",
-      "canonical_name": "Terry Canning",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "Omagh Harriers",
-      "most_common_club_source": "automatic",
-      "years": [
-        2010,
-        2012,
-        2014,
-        2015,
-        2016,
-        2017,
-        2019,
-        2021,
-        2022,
-        2023,
-        2024
-      ],
-      "total_races": 11
-    },
     "julie-butler": {
       "runner_id": "julie-butler",
       "canonical_name": "Julie Butler",
@@ -5796,11 +5790,12 @@
       "most_common_club_source": "automatic",
       "years": [
         2010,
+        2011,
         2012,
         2015,
         2018
       ],
-      "total_races": 4
+      "total_races": 5
     },
     "james-mcgale": {
       "runner_id": "james-mcgale",
@@ -9543,21 +9538,6 @@
       ],
       "total_races": 1
     },
-    "stephen-duncan": {
-      "runner_id": "stephen-duncan",
-      "canonical_name": "Stephen Duncan",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "Omagh Harriers",
-      "most_common_club_source": "automatic",
-      "years": [
-        2011,
-        2013,
-        2017,
-        2023
-      ],
-      "total_races": 4
-    },
     "gareth-hill": {
       "runner_id": "gareth-hill",
       "canonical_name": "Gareth Hill",
@@ -9667,18 +9647,6 @@
       ],
       "total_races": 4
     },
-    "pat-mccrory-omagh": {
-      "runner_id": "pat-mccrory-omagh",
-      "canonical_name": "Pat McCrory",
-      "canonical_name_source": "automatic",
-      "gender": "F",
-      "most_common_club": "Omagh Harriers",
-      "most_common_club_source": "automatic",
-      "years": [
-        2011
-      ],
-      "total_races": 1
-    },
     "ollie-donnelly": {
       "runner_id": "ollie-donnelly",
       "canonical_name": "Ollie Donnelly",
@@ -9735,18 +9703,6 @@
         2024
       ],
       "total_races": 6
-    },
-    "lorcan-healy-monaghan": {
-      "runner_id": "lorcan-healy-monaghan",
-      "canonical_name": "Lorcan Healy",
-      "canonical_name_source": "automatic",
-      "gender": "F",
-      "most_common_club": "Monaghan Phoenix",
-      "most_common_club_source": "automatic",
-      "years": [
-        2011
-      ],
-      "total_races": 1
     },
     "ryan-mc-gread": {
       "runner_id": "ryan-mc-gread",
@@ -33083,6 +33039,18 @@
       ],
       "total_races": 1
     },
+    "eoin-hughes-letterkenny": {
+      "runner_id": "eoin-hughes-letterkenny",
+      "canonical_name": "Eoin Hughes",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Letterkenny Athletic Club",
+      "most_common_club_source": "automatic",
+      "years": [
+        2018
+      ],
+      "total_races": 1
+    },
     "jonathan-mckee": {
       "runner_id": "jonathan-mckee",
       "canonical_name": "Jonathan McKee",
@@ -41597,10 +41565,10 @@
     },
     "eimear-mccarroll": {
       "runner_id": "eimear-mccarroll",
-      "canonical_name": "Eimear Mccarroll",
+      "canonical_name": "Eimear McCarroll",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "Finn valley ac",
+      "most_common_club": "Finn Valley AC",
       "most_common_club_source": "automatic",
       "years": [
         2021,
@@ -54397,7 +54365,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-05T14:10:21.891Z",
+    "generated": "2025-11-05T17:17:36.559Z",
     "years_included": [
       2009,
       2010,
@@ -54416,7 +54384,7 @@
       2023,
       2024
     ],
-    "total_runners": 4185,
+    "total_runners": 4182,
     "total_participations": 8442,
     "participations_with_id": 8442,
     "unassigned_results": 0
