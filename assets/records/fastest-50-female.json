@@ -67,7 +67,7 @@
     "Year": 2014,
     "Name": "Breege Connolly",
     "Club": "North Belfast Harriers",
-    "Category": "FO",
+    "Category": "F35",
     "Finish Time": "0:29:20",
     "runner_id": "breege-connolly"
   },
@@ -103,7 +103,7 @@
     "Year": 2010,
     "Name": "Cathy McCourt",
     "Club": "Lisburn",
-    "Category": "FO",
+    "Category": "F35",
     "Finish Time": "0:30:04",
     "runner_id": "cathy-mccourt"
   },
@@ -112,7 +112,7 @@
     "Year": 2023,
     "Name": "Nadine McIntyre",
     "Club": "",
-    "Category": "FO",
+    "Category": "FJ",
     "Finish Time": "0:30:27",
     "runner_id": "nadine-mcintyre"
   },
@@ -148,7 +148,7 @@
     "Year": 2022,
     "Name": "Grainne O'Hagan",
     "Club": "Knockmany Running Club",
-    "Category": "FO",
+    "Category": "F40",
     "Finish Time": "0:30:38",
     "runner_id": "grainne-ohagan"
   },
@@ -184,7 +184,7 @@
     "Year": 2019,
     "Name": "Natalie Hall",
     "Club": "Armagh AC",
-    "Category": "FO",
+    "Category": "F35",
     "Finish Time": "0:30:46",
     "runner_id": "natalie-hall"
   },
@@ -292,7 +292,7 @@
     "Year": 2018,
     "Name": "Sorcha Mullan",
     "Club": "Omagh Harriers",
-    "Category": "FO",
+    "Category": "FJ",
     "Finish Time": "0:31:44",
     "runner_id": "sorcha-mullan"
   },
@@ -337,7 +337,7 @@
     "Year": 2018,
     "Name": "Denise Ward",
     "Club": "Foyle Valley AC",
-    "Category": "FO",
+    "Category": "F35",
     "Finish Time": "0:32:17",
     "runner_id": "denise-ward"
   },
@@ -346,7 +346,7 @@
     "Year": 2022,
     "Name": "Eimear McCarroll",
     "Club": "Finn Valley AC",
-    "Category": "FO",
+    "Category": "FJ",
     "Finish Time": "0:32:25",
     "runner_id": "eimear-mccarroll"
   },
@@ -409,7 +409,7 @@
     "Year": 2017,
     "Name": "Helena Quinn",
     "Club": "Termoneeny",
-    "Category": "FO",
+    "Category": "F40",
     "Finish Time": "0:33:01",
     "runner_id": "helena-quinn"
   },
