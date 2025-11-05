@@ -127,14 +127,16 @@ async function findFastestTimes() {
       timeStr: '',
       runner: '',
       club: '',
-      year: ''
+      year: '',
+      runner_id: null
     };
     fastestTimesFemale[`F${age}`] = {
       time: Infinity,
       timeStr: '',
       runner: '',
       club: '',
-      year: ''
+      year: '',
+      runner_id: null
     };
   });
 
@@ -180,7 +182,8 @@ async function findFastestTimes() {
             timeStr: secondsToTime(timeInSeconds), // Use consistent H:MM:SS format
             runner: runner.Name,
             club: runner.Club || '',
-            year: year
+            year: year,
+            runner_id: runner.runner_id || null
           };
         }
       });
@@ -215,7 +218,8 @@ async function findFastestTimes() {
             timeStr: secondsToTime(timeInSeconds), // Use consistent H:MM:SS format
             runner: runner.Name,
             club: runner.Club || '',
-            year: runner.Year
+            year: runner.Year,
+            runner_id: null  // CSV records don't have runner_id
           };
         }
       });
@@ -234,14 +238,21 @@ async function findFastestTimes() {
       const record = fastestTimesMale[category];
       // Only include categories with valid times
       if (record.time !== Infinity) {
-        maleRecords.push({
+        const recordObj = {
           "Position": malePosition,
           "Year": parseInt(record.year),
           "Name": record.runner,
           "Club": record.club,
           "Category": category,
           "Finish Time": record.timeStr
-        });
+        };
+
+        // Add runner_id if available
+        if (record.runner_id) {
+          recordObj.runner_id = record.runner_id;
+        }
+
+        maleRecords.push(recordObj);
         malePosition++;
       }
     });
@@ -251,14 +262,21 @@ async function findFastestTimes() {
       const record = fastestTimesFemale[category];
       // Only include categories with valid times
       if (record.time !== Infinity) {
-        femaleRecords.push({
+        const recordObj = {
           "Position": femalePosition,
           "Year": parseInt(record.year),
           "Name": record.runner,
           "Club": record.club,
           "Category": category,
           "Finish Time": record.timeStr
-        });
+        };
+
+        // Add runner_id if available
+        if (record.runner_id) {
+          recordObj.runner_id = record.runner_id;
+        }
+
+        femaleRecords.push(recordObj);
         femalePosition++;
       }
     });
