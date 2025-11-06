@@ -192,7 +192,6 @@ export function runnerStatsPage() {
           },
           scales: {
             y: {
-              reverse: true, // Lower times (faster) at the top
               ticks: {
                 callback: (value) => {
                   // Round to whole seconds to avoid decimal precision issues
