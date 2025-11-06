@@ -23,11 +23,13 @@
 
   <section class="section">
     <div class="container" x-data="resultsApp()">
-      <h2 class="section-title"><span x-text="selectedYear"></span> Results</h2>
+      <h2 class="section-title">
+        <span x-text="selectedYear"></span> Results
+      </h2>
       <p class="card-section-text" x-show="selectedYear === '2020'">Note, the 2020 race was virtual because of COVID</p>
       <div class="card">
         <div class="search-container">
-          <div class="filter-row">
+          <div class="filter-row filter-row-wrap">
             <select x-model="selectedYear" class="year-dropdown">
               <option value="2024">2024</option>
               <option value="2023">2023</option>
@@ -46,11 +48,16 @@
               <option value="2010">2010</option>
               <option value="2009">2009</option>
             </select>
-            <input 
-              type="text" 
-              x-model="searchTerm" 
+            <label class="toggle-label female-toggle">
+              <input type="checkbox" x-model="femaleOnly" class="toggle-checkbox">
+              <span class="toggle-switch"></span>
+              <span class="toggle-emoji">🏃‍♀️</span>
+            </label>
+            <input
+              type="text"
+              x-model="searchTerm"
               placeholder="Search by bib, name, category, or club..."
-              class="search-input"
+              class="search-input search-input-wrap"
             >
           </div>
         </div>
@@ -65,7 +72,13 @@
             <div class="modal-body">
               <div class="runner-detail">
                 <span class="detail-label">Position:</span>
-                <span class="detail-value" x-text="selectedRunner.position"></span>
+                <span class="detail-value">
+                  <span x-text="selectedRunner.position"></span>
+                </span>
+              </div>
+              <div class="runner-detail" x-show="selectedRunner.awards && selectedRunner.awards.length > 0">
+                <span class="detail-label">Awards:</span>
+                <span class="detail-value" x-html="selectedRunner.awards ? selectedRunner.awards.join('<br>') : ''"></span>
               </div>
               <div class="runner-detail" x-show="showBibNumber">
                 <span class="detail-label">Bib Number:</span>
@@ -97,6 +110,7 @@
               </div>
             </div>
             <div class="modal-footer">
+              <a x-show="selectedRunner.runner_id" :href="getRunnerStatsUrl(selectedRunner)" class="btn">View Runner Stats</a>
               <button class="btn btn-secondary" @click="showModal = false">Close</button>
             </div>
           </div>
@@ -111,31 +125,35 @@
           <table>
             <thead>
               <tr>
-                <th></th>
-                <th>Pos.</th>
-                <th x-show="showBibNumber">Bib</th>
-                <th>Name</th>
-                <th>Cat.</th>
-                <th>Club</th>
-                <th x-show="showTwoMiles">2 Miles</th>
-                <th x-show="showLapOfLough">Lap of Lough</th>
-                <th>Chip Time</th>
-                <th x-show="showGunTime">Gun Time</th>
+                <th class="chevron-column"></th>
+                <th class="pos-column">Pos.</th>
+                <th class="pos-highlight-column">Pos.</th>
+                <th class="awards-column">Awards</th>
+                <th class="bib-column" x-show="showBibNumber">Bib</th>
+                <th class="name-column">Name</th>
+                <th class="cat-column">Cat.</th>
+                <th class="club-column">Club</th>
+                <th class="two-miles-column" x-show="showTwoMiles">2 Miles</th>
+                <th class="lap-lough-column" x-show="showLapOfLough">Lap of Lough</th>
+                <th class="chip-time-column">Chip Time</th>
+                <th class="gun-time-column" x-show="showGunTime">Gun Time</th>
               </tr>
             </thead>
             <tbody>
               <template x-for="runner in filteredResults" :key="runner.position">
                 <tr @click="showRunnerDetails(runner)">
-                  <td class="chevron-cell" x-show="isMobileView"><span class="right-chevron">›</span></td>
-                  <td data-label="Pos." x-text="runner.position"></td>
-                  <td data-label="Bib" x-show="showBibNumber" x-text="runner.bib"></td>
-                  <td data-label="Name" x-text="runner.name"></td>
-                  <td data-label="Cat." x-text="runner.age_group"></td>
-                  <td data-label="Club" x-text="runner.club"></td>
-                  <td data-label="2 Miles" x-show="showTwoMiles" x-text="runner.two_miles"></td>
-                  <td data-label="Lap of Lough" x-show="showLapOfLough" x-text="runner.lap_of_lough"></td>
-                  <td data-label="Chip Time" x-text="runner.chip_time"></td>
-                  <td data-label="Gun Time" x-show="showGunTime" x-text="runner.gun_time"></td>
+                  <td class="chevron-cell chevron-column" x-show="isMobileView"><span class="right-chevron">›</span></td>
+                  <td data-label="Pos." class="pos-column" x-text="runner.position"></td>
+                  <td data-label="Pos." class="pos-highlight-column" x-text="runner.highlight ? runner.position + ' ' + runner.highlight : runner.position"></td>
+                  <td data-label="Awards" class="awards-cell awards-column" x-html="runner.awards.join('<br>')"></td>
+                  <td data-label="Bib" class="bib-column" x-show="showBibNumber" x-text="runner.bib"></td>
+                  <td data-label="Name" class="name-column" x-text="runner.name"></td>
+                  <td data-label="Cat." class="cat-column" x-text="runner.age_group"></td>
+                  <td data-label="Club" class="club-column" x-text="runner.club"></td>
+                  <td data-label="2 Miles" class="two-miles-column" x-show="showTwoMiles" x-text="runner.two_miles"></td>
+                  <td data-label="Lap of Lough" class="lap-lough-column" x-show="showLapOfLough" x-text="runner.lap_of_lough"></td>
+                  <td data-label="Chip Time" class="chip-time-column" x-text="runner.chip_time"></td>
+                  <td data-label="Gun Time" class="gun-time-column" x-show="showGunTime" x-text="runner.gun_time"></td>
                 </tr>
               </template>
             </tbody>

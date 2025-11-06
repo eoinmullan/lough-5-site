@@ -73,7 +73,7 @@
                         <template x-if="runner.badges.fastest_all_time">
                             <div class="badge-item">
                                 <strong>🏆 Fastest All-Time:</strong>
-                                <span class="badge-tag" x-text="'#' + runner.badges.fastest_all_time.position + ' ' + (runner.badges.fastest_all_time.gender === 'M' ? 'Male' : 'Female')"></span>
+                                <a :href="getRecordsUrl('fastest_all_time', runner.badges.fastest_all_time.gender, runner.runner_id)" class="badge-tag badge-link" x-text="'#' + runner.badges.fastest_all_time.position + ' ' + (runner.badges.fastest_all_time.gender === 'M' ? 'Male' : 'Female')"></a>
                             </div>
                         </template>
 
@@ -81,8 +81,8 @@
                             <div class="badge-item">
                                 <strong>🥇 Overall Podiums:</strong>
                                 <template x-for="podium in runner.badges.overall_podiums" :key="podium.year">
-                                    <span class="badge-tag"
-                                          x-text="getOrdinal(podium.position) + ' (' + podium.year + ')'"></span>
+                                    <a :href="getResultsUrl(runner, podium.year)" class="badge-tag badge-link"
+                                          x-text="getOrdinal(podium.position) + ' (' + podium.year + ')'"></a>
                                 </template>
                             </div>
                         </template>
@@ -92,8 +92,8 @@
                                 <strong>🎖️ Category Podiums:</strong>
                                 <template x-for="podium in runner.badges.category_podiums"
                                           :key="podium.year + podium.category">
-                                    <span class="badge-tag"
-                                          x-text="getOrdinal(podium.position) + ' ' + podium.category + ' (' + podium.year + ')'"></span>
+                                    <a :href="getResultsUrl(runner, podium.year)" class="badge-tag badge-link"
+                                          x-text="getOrdinal(podium.position) + ' ' + podium.category + ' (' + podium.year + ')'"></a>
                                 </template>
                             </div>
                         </template>
@@ -102,8 +102,8 @@
                             <div class="badge-item">
                                 <strong>📊 Age Group Records:</strong>
                                 <template x-for="record in runner.badges.age_group_records" :key="record.category">
-                                    <span class="badge-tag"
-                                          x-text="record.category + ' - ' + record.time + ' (' + record.year + ')'"></span>
+                                    <a :href="getRecordsUrl('age_group_records', record.category.startsWith('M') ? 'M' : 'F', runner.runner_id)" class="badge-tag badge-link"
+                                          x-text="record.category + ' - ' + record.time + ' (' + record.year + ')'"></a>
                                 </template>
                             </div>
                         </template>
@@ -118,18 +118,18 @@
                             <thead>
                             <tr>
                                 <th>Year</th>
-                                <th>Pos.</th>
-                                <th>Category</th>
+                                <th>Pos. (cat.)</th>
+                                <th>Cat.</th>
                                 <th>Club</th>
                                 <th>Time</th>
                             </tr>
                             </thead>
                             <tbody>
                             <template x-for="result in runner.results" :key="result.year">
-                                <tr>
+                                <tr @click="window.location.href = getResultsUrl(runner, result.year)" class="clickable-row">
                                     <td data-label="Year" x-text="result.year"></td>
-                                    <td data-label="Pos." x-text="result.position"></td>
-                                    <td data-label="Category" x-text="result.category"></td>
+                                    <td data-label="Pos. (cat.)" x-text="result.position + ' (' + result.category_position + ')'"></td>
+                                    <td data-label="Cat." x-text="result.category"></td>
                                     <td data-label="Club" x-text="result.club"></td>
                                     <td data-label="Time" x-text="result.chip_time"></td>
                                 </tr>
@@ -148,7 +148,7 @@
                 </div>
 
                 <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
-                    <a href="runner-search.html" class="btn btn-secondary">Back to Search</a>
+                    <button @click="window.history.back()" class="btn btn-secondary">Back</button>
                 </div>
             </div>
         </template>

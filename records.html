@@ -76,6 +76,7 @@
               </div>
             </div>
             <div class="modal-footer">
+              <a x-show="selectedRunner.runner_id" :href="'runner-stats.html?runner=' + selectedRunner.runner_id" class="btn">View Runner Stats</a>
               <button class="btn btn-secondary" @click="showModal = false">Close</button>
             </div>
           </div>
@@ -90,27 +91,27 @@
           <table>
             <thead>
               <tr>
-                <th></th>
-                <th x-show="isMastersRecords">Cat</th>
-                <th x-show="!isMastersRecords">Pos.</th>
-                <th>Year</th>
-                <th>Name</th>
-                <th>Club</th>
-                <th x-show="!isMastersRecords">Cat.</th>
-                <th>Finish Time</th>
+                <th class="chevron-column"></th>
+                <th class="cat-column-records-first" x-show="isMastersRecords">Cat</th>
+                <th class="pos-column-records" x-show="!isMastersRecords">Pos.</th>
+                <th class="year-column">Year</th>
+                <th class="name-column">Name</th>
+                <th class="club-column">Club</th>
+                <th class="cat-column-records-last" x-show="!isMastersRecords">Cat.</th>
+                <th class="finish-time-column">Finish Time</th>
               </tr>
             </thead>
             <tbody>
               <template x-for="runner in filteredResults">
                 <tr @click="showRunnerDetails(runner)">
-                  <td class="chevron-cell" x-show="isMobileView"><span class="right-chevron">›</span></td>
-                  <td data-label="Cat." x-show="isMastersRecords" x-text="runner.category"></td>
-                  <td data-label="Pos." x-show="!isMastersRecords" x-text="runner.position"></td>
-                  <td data-label="Year" x-text="runner.year"></td>
-                  <td data-label="Name" x-text="runner.name"></td>
-                  <td data-label="Club" x-text="runner.club"></td>
-                  <td data-label="Cat." x-show="!isMastersRecords" x-text="runner.category"></td>
-                  <td data-label="Finish Time" x-text="runner.finish_time"></td>
+                  <td class="chevron-cell chevron-column" x-show="isMobileView"><span class="right-chevron">›</span></td>
+                  <td data-label="Cat." class="cat-column-records-first" x-show="isMastersRecords" x-text="runner.category"></td>
+                  <td data-label="Pos." class="pos-column-records" x-show="!isMastersRecords" x-text="runner.position"></td>
+                  <td data-label="Year" class="year-column" x-text="runner.year"></td>
+                  <td data-label="Name" class="name-column" x-text="runner.name"></td>
+                  <td data-label="Club" class="club-column" x-text="runner.club"></td>
+                  <td data-label="Cat." class="cat-column-records-last" x-show="!isMastersRecords" x-text="runner.category"></td>
+                  <td data-label="Finish Time" class="finish-time-column" x-text="runner.finish_time"></td>
                 </tr>
               </template>
             </tbody>

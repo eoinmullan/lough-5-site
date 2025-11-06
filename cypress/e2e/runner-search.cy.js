@@ -107,11 +107,11 @@ describe('Runner Search and Stats Pages - Smoke Tests', () => {
     })
 
     it('should display race history table', () => {
-      cy.contains('Race History', { timeout: 10000 }).should('be.visible')
+      cy.contains('Race History', { timeout: 10000 }).should('be.visible').scrollIntoView()
       cy.get('.table-container table').should('be.visible')
-      cy.get('thead th').contains('Year').should('be.visible')
+      cy.get('thead th').contains('Year').scrollIntoView().should('be.visible')
       cy.get('thead th').contains('Pos.').should('be.visible')
-      cy.get('thead th').contains('Category').should('be.visible')
+      cy.get('thead th').contains('Cat.').should('be.visible')
       cy.get('thead th').contains('Time').should('be.visible')
     })
 

@@ -198,8 +198,9 @@ export function runnerStatsPage() {
                   // Round to whole seconds to avoid decimal precision issues
                   return this.secondsToTime(Math.round(value));
                 },
-                stepSize: 1, // Force 1 second steps as minimum
-                precision: 0 // No decimal places
+                // Let Chart.js auto-calculate optimal tick spacing
+                autoSkip: true,
+                maxTicksLimit: 8
               },
               title: {
                 display: true,
@@ -240,6 +241,26 @@ export function runnerStatsPage() {
       const s = ['th', 'st', 'nd', 'rd'];
       const v = n % 100;
       return n + (s[(v - 20) % 10] || s[v] || s[0]);
+    },
+
+    // Generate URL for records page based on badge type
+    getRecordsUrl(badgeType, gender, runnerId = null) {
+      if (badgeType === 'fastest_all_time') {
+        const category = gender === 'M' ? 'fastest-50-male' : 'fastest-50-female';
+        const runnerParam = runnerId ? `&runner=${runnerId}` : '';
+        return `records.html?category=${category}${runnerParam}`;
+      } else if (badgeType === 'age_group_records') {
+        const category = gender === 'M' ? 'masters-men' : 'masters-women';
+        const runnerParam = runnerId ? `&runner=${runnerId}` : '';
+        return `records.html?category=${category}${runnerParam}`;
+      }
+      return 'records.html';
+    },
+
+    // Generate URL for results page with position deep link
+    getResultsUrl(runner, year) {
+      const position = runner.results.find(r => r.year === year)?.position;
+      return `results.html?year=${year}&position=${position}`;
     }
   };
 }

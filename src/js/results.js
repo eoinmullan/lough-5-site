@@ -3,6 +3,8 @@ export function resultsApp() {
     searchTerm: '',
     selectedYear: '2024',
     results: [],
+    femaleOnly: false,
+    highlightPosition: null,
     showModal: false,
     selectedRunner: {},
     isMobileView: false,
@@ -25,6 +27,11 @@ export function resultsApp() {
 
       // Watch for changes to the search term
       this.$watch('searchTerm', () => {
+        this.updateUrlParams();
+      });
+
+      // Watch for changes to the female only toggle
+      this.$watch('femaleOnly', () => {
         this.updateUrlParams();
       });
 
@@ -95,6 +102,18 @@ export function resultsApp() {
       if (searchParam) {
         this.searchTerm = searchParam;
       }
+
+      // Set femaleOnly from URL parameter if it exists
+      const femaleParam = urlParams.get('femaleOnly');
+      if (femaleParam === 'true') {
+        this.femaleOnly = true;
+      }
+
+      // Set highlightPosition from URL parameter if it exists
+      const positionParam = urlParams.get('position');
+      if (positionParam) {
+        this.highlightPosition = parseInt(positionParam);
+      }
     },
 
     // Update URL parameters based on current state
@@ -109,6 +128,11 @@ export function resultsApp() {
       // Add search parameter if not empty
       if (this.searchTerm.trim()) {
         urlParams.set('search', this.searchTerm);
+      }
+
+      // Add femaleOnly parameter if true
+      if (this.femaleOnly) {
+        urlParams.set('femaleOnly', 'true');
       }
 
       // Update URL without reloading the page
@@ -146,12 +170,26 @@ export function resultsApp() {
       return !['2020', '2014', '2009'].includes(this.selectedYear);
     },
 
-    // Show runner details in modal (for displays under 1000px width)
+    // Show runner details in modal (for displays under 1000px width) or navigate to stats (for larger displays)
     showRunnerDetails(runner) {
       if (this.isMobileView) {
         this.selectedRunner = runner;
         this.showModal = true;
+      } else {
+        // On desktop, navigate to runner stats page if runner_id exists
+        const url = this.getRunnerStatsUrl(runner);
+        if (url) {
+          window.location.href = url;
+        }
       }
+    },
+
+    // Get runner stats URL
+    getRunnerStatsUrl(runner) {
+      if (runner.runner_id) {
+        return `runner-stats.html?runner=${runner.runner_id}`;
+      }
+      return null;
     },
 
     loadResultsForYear() {
@@ -171,9 +209,21 @@ export function resultsApp() {
               lap_of_lough: this.showLapOfLough ? runner["Lap of Lough"] || '' : null,
               chip_time: runner["Chip Time"] || '',
               gun_time: this.showGunTime ? runner["Gun Time"] || '' : null,
+              awards: runner.awards || [],
+              highlight: runner.highlight || null,
+              category_position: runner.category_position || null,
+              gender_position: runner.gender_position || null,
+              runner_id: runner.runner_id || null
             };
           }).filter(runner => runner !== null);
           this.isLoading = false;
+
+          // Scroll to highlighted position if specified
+          if (this.highlightPosition) {
+            this.$nextTick(() => {
+              this.scrollToPosition(this.highlightPosition);
+            });
+          }
         })
         .catch(error => {
           console.error(`Error loading results for ${this.selectedYear}:`, error);
@@ -182,14 +232,52 @@ export function resultsApp() {
         });
     },
 
+    scrollToPosition(position) {
+      // Find the row with this position
+      const rows = document.querySelectorAll('.results-table tbody tr');
+      const targetRow = Array.from(rows).find(row => {
+        const posCell = row.querySelector('td[data-label="Pos."]');
+        return posCell && parseInt(posCell.textContent) === position;
+      });
+
+      if (targetRow) {
+        // Scroll the row into view
+        targetRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+        // Add highlight class
+        targetRow.classList.add('highlight-row');
+
+        // Remove highlight after 3 seconds
+        setTimeout(() => {
+          targetRow.classList.remove('highlight-row');
+        }, 3000);
+      }
+    },
+
     get filteredResults() {
+      let filtered = this.results;
+
+      // Apply female-only filter
+      if (this.femaleOnly) {
+        filtered = filtered.filter(runner =>
+          runner.age_group && runner.age_group.toUpperCase().startsWith('F')
+        );
+
+        // Recalculate positions for female-only results
+        filtered = filtered.map((runner, index) => ({
+          ...runner,
+          position: index + 1
+        }));
+      }
+
+      // Apply search filter
       if (!this.searchTerm.trim()) {
-        return this.results;
+        return filtered;
       }
 
       const term = this.searchTerm.toLowerCase().trim();
 
-      return this.results.filter(runner => {
+      return filtered.filter(runner => {
         return (
           (runner.name && runner.name.toLowerCase().includes(term)) ||
           (runner.bib && runner.bib.toString().includes(term)) ||

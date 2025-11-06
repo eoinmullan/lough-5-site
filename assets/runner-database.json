@@ -132,20 +132,19 @@
       "canonical_name": "Michael Kerr",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Carmen Runners",
-      "most_common_club_source": "automatic",
+      "most_common_club": "Éire óg hurling club",
+      "most_common_club_source": "manual",
       "years": [
         2009,
         2010,
         2011,
-        2015,
         2017,
         2018,
         2019,
         2021,
         2023
       ],
-      "total_races": 9
+      "total_races": 8
     },
     "martin-mclaughlin": {
       "runner_id": "martin-mclaughlin",
@@ -5683,11 +5682,10 @@
       "years": [
         2010,
         2011,
-        2013,
         2017,
         2023
       ],
-      "total_races": 5
+      "total_races": 4
     },
     "christopher-mc-peake": {
       "runner_id": "christopher-mc-peake",
@@ -17553,6 +17551,18 @@
       ],
       "total_races": 2
     },
+    "stephen-duncan-2": {
+      "runner_id": "stephen-duncan-2",
+      "canonical_name": "Stephen Duncan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2013
+      ],
+      "total_races": 1
+    },
     "brendan-okane": {
       "runner_id": "brendan-okane",
       "canonical_name": "Brendan O'Kane",
@@ -23819,6 +23829,18 @@
     "anthony-houston": {
       "runner_id": "anthony-houston",
       "canonical_name": "Anthony Houston",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2015
+      ],
+      "total_races": 1
+    },
+    "michael-kerr-2": {
+      "runner_id": "michael-kerr-2",
+      "canonical_name": "Michael Kerr",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -54366,7 +54388,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-05T23:16:27.844Z",
+    "generated": "2025-11-06T23:01:20.571Z",
     "years_included": [
       2009,
       2010,
@@ -54385,7 +54407,7 @@
       2023,
       2024
     ],
-    "total_runners": 4182,
+    "total_runners": 4184,
     "total_participations": 8442,
     "participations_with_id": 8442,
     "unassigned_results": 0

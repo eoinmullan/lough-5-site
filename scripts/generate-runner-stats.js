@@ -172,7 +172,8 @@ async function generateRunnerStats() {
         gender_position: genderPosition,
         club: runner.Club || '',
         category: runner.Category,
-        chip_time: runner["Chip Time"]
+        chip_time: runner["Chip Time"],
+        canonical_club: runner.canonical_club === true
       });
     });
   }
@@ -239,16 +240,25 @@ async function generateRunnerStats() {
       last: data.results[data.results.length - 1].year
     };
 
-    // Most frequent club
-    const clubCounts = {};
-    data.results.forEach(r => {
-      if (r.club) {
-        clubCounts[r.club] = (clubCounts[r.club] || 0) + 1;
-      }
-    });
-    const mostFrequentClub = Object.entries(clubCounts).length > 0
-      ? Object.entries(clubCounts).sort((a, b) => b[1] - a[1])[0][0]
-      : '';
+    // Most frequent club - check for canonical_club first
+    const canonicalClubResult = data.results.find(r => r.canonical_club);
+    let mostFrequentClub = '';
+
+    if (canonicalClubResult) {
+      // Use the canonical club if one is marked
+      mostFrequentClub = canonicalClubResult.club;
+    } else {
+      // Otherwise, find the most frequent club
+      const clubCounts = {};
+      data.results.forEach(r => {
+        if (r.club) {
+          clubCounts[r.club] = (clubCounts[r.club] || 0) + 1;
+        }
+      });
+      mostFrequentClub = Object.entries(clubCounts).length > 0
+        ? Object.entries(clubCounts).sort((a, b) => b[1] - a[1])[0][0]
+        : '';
+    }
 
     // Generate badges
     const badges = {};

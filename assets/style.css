@@ -27,6 +27,12 @@ a {
     color: var(--primary-color);
 }
 
+.badges-section {
+    a {
+        color: var(--dark-color);
+    }
+}
+
 ul {
     list-style: none;
 }
@@ -272,8 +278,27 @@ ul {
     margin-bottom: 1rem;
 }
 
+.filter-row-wrap {
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.search-input-wrap {
+    flex: 1 1 100%;
+    min-width: 200px;
+}
+
+@media (min-width: 768px) {
+    .search-input-wrap {
+        flex: 1 1 300px;
+        max-width: none;
+    }
+}
+
 .year-dropdown {
-    padding: 0.8rem;
+    flex: 0 0 auto;
+    height: 44px;
+    padding: 0 0.8rem;
     border: 1px solid #ddd;
     border-left: 2px solid rgba(255, 202, 40, 0.6); /* Thinner, more transparent amber left border */
     border-radius: 5px;
@@ -283,6 +308,7 @@ ul {
     cursor: pointer;
     font-family: 'Arial', sans-serif;
     color: var(--dark-color);
+    box-sizing: border-box;
 }
 
 .records-dropdown {
@@ -305,12 +331,14 @@ ul {
 
 .search-input {
     width: 100%;
-    padding: 0.8rem;
+    height: 44px;
+    padding: 0 0.8rem;
     border: 1px solid #ddd;
     border-left: 2px solid rgba(255, 202, 40, 0.6); /* Thinner, more transparent amber left border */
     border-radius: 5px;
     transition: all 0.3s ease;
     background-color: #FFFCF5; /* Even lighter amber, almost white */
+    box-sizing: border-box;
 }
 
 .search-input:focus {
@@ -348,6 +376,10 @@ table th {
     background-color: var(--dark-color); /* Charcoal */
     color: #fff;
     border-bottom: 1px solid rgba(255, 202, 40, 0.6); /* Thinner, more transparent amber border */
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 table tr:nth-child(even) {
@@ -356,6 +388,146 @@ table tr:nth-child(even) {
 
 table tr:hover {
     background-color: rgba(255, 202, 40, 0.1); /* Lighter amber with very low opacity */
+}
+
+/* Make result rows clickable on desktop */
+.results-table tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+@media (min-width: 1001px) {
+    .results-table tbody tr {
+        cursor: pointer;
+    }
+
+    .results-table tbody tr:hover {
+        background-color: rgba(255, 202, 40, 0.2) !important;
+    }
+}
+
+.awards-cell {
+    font-size: 1.1em;
+    line-height: 1.4;
+    min-width: 120px;
+    white-space: nowrap;
+}
+
+.highlight-column {
+    font-size: 1.3em;
+    text-align: center;
+    width: 40px;
+    padding: 0.5rem 0.25rem;
+}
+
+.toggle-label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 0.95rem;
+}
+
+.toggle-checkbox {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+/* Snazzy Female Toggle */
+.female-toggle {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    flex: 0 0 auto;
+    white-space: nowrap;
+    gap: 0.5rem;
+    height: 44px;
+    padding: 0 0.75rem;
+    background: rgba(255, 255, 255, 0.3);
+    border: 1px solid #ddd;
+    border-radius: 22px;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+}
+
+.female-toggle:hover {
+    border-color: #bbb;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.female-toggle .toggle-checkbox {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.female-toggle .toggle-switch {
+    position: relative;
+    width: 40px;
+    height: 22px;
+    background: #ccc;
+    border-radius: 11px;
+    transition: background 0.3s ease;
+}
+
+.female-toggle .toggle-switch::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 18px;
+    height: 18px;
+    background: white;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.female-toggle .toggle-checkbox:checked ~ .toggle-switch {
+    background: var(--primary-color);
+}
+
+.female-toggle .toggle-checkbox:checked ~ .toggle-switch::after {
+    transform: translateX(18px);
+}
+
+.female-toggle .toggle-emoji {
+    font-size: 1.3em;
+}
+
+.female-toggle .toggle-text {
+    font-weight: 500;
+    color: #666;
+    transition: color 0.3s ease;
+}
+
+.female-toggle .toggle-checkbox:checked ~ .toggle-text {
+    color: #555;
+    font-weight: 600;
+}
+
+.highlight-row {
+    background-color: rgba(255, 202, 40, 0.5) !important;
+    animation: highlight-fade 3s ease-out;
+}
+
+@keyframes highlight-fade {
+    0% {
+        background-color: rgba(255, 202, 40, 0.8);
+    }
+    100% {
+        background-color: rgba(255, 202, 40, 0.1);
+    }
+}
+
+.badge-link {
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.badge-link:hover {
+    transform: scale(1.05);
+    text-decoration: underline;
 }
 
 /* Location and Course page styles */
@@ -480,36 +652,58 @@ table tr:hover {
 .modal-footer {
     padding: 1rem;
     border-top: 1px solid #eee;
-    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
 }
 
 /* Hide table columns for small screens */
 .results-table {
-    @media (min-width: 870px) {
-        table th:nth-child(1),
-        table td:nth-child(1) {
+    /* Hide chevron on larger screens, hide awards on mobile */
+    @media (min-width: 1001px) {
+        /* Hide chevron column on larger screens (only needed for mobile tap) */
+        table th.chevron-column,
+        table td.chevron-column,
+        table th.pos-highlight-column,
+        table td.pos-highlight-column {
             display: none;
         }
     }
+
+    @media (max-width: 870px) {
+        /* Hide full awards column on mobile (show highlight instead) */
+        table th.awards-column,
+        table td.awards-column {
+            display: none;
+        }
+    }
+
     @media (max-width: 1000px) {
-        table th:nth-child(7),
-        table td:nth-child(7) {
+        /* Hide 2 Miles column */
+        table th.pos-column,
+        table td.pos-column,
+        table th.awards-column,
+        table td.awards-column,
+        table th.two-miles-column,
+        table td.two-miles-column {
             display: none;
         }
     }
     @media (max-width: 870px) {
-        table th:nth-child(3),
-        table th:nth-child(10),
-        table td:nth-child(3),
-        table td:nth-child(10) {
+        /* Hide Bib and Gun Time columns */
+        table th.bib-column,
+        table td.bib-column,
+        table th.gun-time-column,
+        table td.gun-time-column {
             display: none;
         }
     }
     @media (max-width: 600px) {
-        table th:nth-child(5),
-        table th:nth-child(8),
-        table td:nth-child(5),
-        table td:nth-child(8) {
+        /* Hide Cat. and Lap of Lough columns */
+        table th.cat-column,
+        table td.cat-column,
+        table th.lap-lough-column,
+        table td.lap-lough-column {
             display: none;
         }
     }
@@ -517,24 +711,49 @@ table tr:hover {
 
 .records-table {
     @media (min-width: 600px) {
-        table th:nth-child(1),
-        table td:nth-child(1) {
+        table th.chevron-column,
+        table td.chevron-column {
             display: none;
         }
     }
 
     @media (max-width: 600px) {
-        table th:nth-child(7),
-        table td:nth-child(7) {
+        table th.cat-column-records-last,
+        table td.cat-column-records-last {
             display: none;
         }
     }
     @media (max-width: 530px) {
-        table th:nth-child(6),
-        table td:nth-child(6) {
+        table th.club-column,
+        table td.club-column {
             display: none;
         }
     }
+}
+
+/* Make record rows clickable on desktop */
+.records-table tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+@media (min-width: 1001px) {
+    .records-table tbody tr {
+        cursor: pointer;
+    }
+
+    .records-table tbody tr:hover {
+        background-color: rgba(255, 202, 40, 0.2) !important;
+    }
+}
+
+/* Make race history rows clickable */
+.clickable-row {
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.clickable-row:hover {
+    background-color: rgba(255, 202, 40, 0.2) !important;
 }
 
 /* Chevron for touch devices */

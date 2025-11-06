@@ -7,11 +7,13 @@ export function recordsApp() {
     selectedRunner: {},
     isMobileView: false,
     isLoading: true,
+    highlightRunnerId: null,
 
     init() {
-      // Check URL parameters for category
+      // Check URL parameters for category and runner_id
       const urlParams = new URLSearchParams(window.location.search);
       const categoryParam = urlParams.get('category');
+      const runnerIdParam = urlParams.get('runner');
 
       // Set the category from URL parameter if it exists and is valid
       if (categoryParam) {
@@ -30,6 +32,11 @@ export function recordsApp() {
         } else if (validCategories.includes(categoryParam)) {
           this.selectedCategory = categoryParam;
         }
+      }
+
+      // Set highlightRunnerId from URL parameter
+      if (runnerIdParam) {
+        this.highlightRunnerId = runnerIdParam;
       }
 
       this.loadRecordsForCategory();
@@ -60,11 +67,16 @@ export function recordsApp() {
       this.isMobileView = window.innerWidth < 1000;
     },
 
-    // Show runner details in modal (for displays under 1000px width)
+    // Show runner details in modal (for displays under 1000px width) or navigate to stats (for larger displays)
     showRunnerDetails(runner) {
       if (this.isMobileView) {
         this.selectedRunner = runner;
         this.showModal = true;
+      } else {
+        // On desktop, navigate to runner stats page if runner_id exists
+        if (runner.runner_id) {
+          window.location.href = `runner-stats.html?runner=${runner.runner_id}`;
+        }
       }
     },
 
@@ -99,15 +111,47 @@ export function recordsApp() {
               club: record.Club || '',
               category: record.Category || '',
               finish_time: record["Finish Time"] || '',
+              runner_id: record.runner_id || null
             };
           }).filter(record => record !== null);
           this.isLoading = false;
+
+          // Scroll to highlighted runner if specified
+          if (this.highlightRunnerId) {
+            this.$nextTick(() => {
+              this.scrollToRunner(this.highlightRunnerId);
+            });
+          }
         })
         .catch(error => {
           console.error(`Error loading records for ${this.selectedCategory}:`, error);
           this.results = [];
           this.isLoading = false;
         });
+    },
+
+    scrollToRunner(runnerId) {
+      // Find the row with this runner_id
+      const rows = document.querySelectorAll('.records-table tbody tr');
+      const targetRow = Array.from(rows).find(row => {
+        const nameCell = row.querySelector('td[data-label="Name"]');
+        // Find the runner in results by matching the name
+        const rowIndex = Array.from(rows).indexOf(row);
+        return this.filteredResults[rowIndex]?.runner_id === runnerId;
+      });
+
+      if (targetRow) {
+        // Scroll the row into view
+        targetRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+        // Add highlight class
+        targetRow.classList.add('highlight-row');
+
+        // Remove highlight after 3 seconds
+        setTimeout(() => {
+          targetRow.classList.remove('highlight-row');
+        }, 3000);
+      }
     },
 
     get filteredResults() {
