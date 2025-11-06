@@ -15,8 +15,19 @@ export function recordsApp() {
 
       // Set the category from URL parameter if it exists and is valid
       if (categoryParam) {
+        // Convert kebab-case URL parameter to title case
+        const categoryMap = {
+          'fastest-50-male': 'Fastest 50 Male',
+          'fastest-50-female': 'Fastest 50 Female',
+          'masters-men': 'Masters Men',
+          'masters-women': 'Masters Women'
+        };
+
+        // Support both kebab-case and title case formats
         const validCategories = ['Fastest 50 Male', 'Fastest 50 Female', 'Masters Men', 'Masters Women'];
-        if (validCategories.includes(categoryParam)) {
+        if (categoryMap[categoryParam]) {
+          this.selectedCategory = categoryMap[categoryParam];
+        } else if (validCategories.includes(categoryParam)) {
           this.selectedCategory = categoryParam;
         }
       }
@@ -28,9 +39,15 @@ export function recordsApp() {
       this.$watch('selectedCategory', () => {
         this.loadRecordsForCategory();
 
-        // Update URL when category changes
+        // Update URL when category changes (use kebab-case for cleaner URLs)
         const url = new URL(window.location);
-        url.searchParams.set('category', this.selectedCategory);
+        const categoryToKebab = {
+          'Fastest 50 Male': 'fastest-50-male',
+          'Fastest 50 Female': 'fastest-50-female',
+          'Masters Men': 'masters-men',
+          'Masters Women': 'masters-women'
+        };
+        url.searchParams.set('category', categoryToKebab[this.selectedCategory] || this.selectedCategory);
         window.history.pushState({}, '', url);
       });
 
