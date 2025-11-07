@@ -352,6 +352,9 @@ table {
     @media (max-width: 400px) {
         font-size: 0.85rem;
     }
+    @media (max-width: 360px) {
+        font-size: 0.8rem;
+    }
 }
 
 table th, table td {
@@ -1006,5 +1009,41 @@ table tr:hover {
 @media (max-width: 480px) {
     .stats-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+/* Support for very narrow displays (320px-360px) */
+@media (max-width: 360px) {
+    .btn {
+        font-size: 0.9rem;
+    }
+
+    .section-text,
+    .card-section-text {
+        font-size: 1rem;
+    }
+
+    .card h3 {
+        font-size: 1.3rem;
+    }
+
+    .female-toggle .toggle-text {
+        font-size: 0.85rem;
+    }
+
+    .female-toggle .toggle-emoji {
+        font-size: 1.1em;
+    }
+
+    .awards-cell {
+        font-size: 1em;
+    }
+
+    .stat-value {
+        font-size: 1rem;
+    }
+
+    .badge-tag {
+        font-size: 0.8rem;
     }
 }
