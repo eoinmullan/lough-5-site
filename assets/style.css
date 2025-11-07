@@ -393,6 +393,10 @@ table tr:hover {
 /* Make result rows clickable on desktop */
 .results-table tbody tr {
     transition: background-color 0.2s ease;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 
 @media (min-width: 1001px) {
@@ -734,6 +738,10 @@ table tr:hover {
 /* Make record rows clickable on desktop */
 .records-table tbody tr {
     transition: background-color 0.2s ease;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 
 @media (min-width: 1001px) {
@@ -750,6 +758,10 @@ table tr:hover {
 .clickable-row {
     cursor: pointer;
     transition: background-color 0.2s ease;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 
 .clickable-row:hover {
