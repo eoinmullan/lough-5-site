@@ -66,6 +66,7 @@ This website provides information about the Lough 5 Road Race, including:
 │   ├── generate-runner-stats.js      # Generate individual runner stats
 │   ├── generate-priority-candidates.js # Generate list of runners needing profiles
 │   ├── review-duplicates.js          # Interactive duplicate resolution
+│   ├── find-duplicate-runner-ids.js  # Check for duplicate IDs in results files
 │   ├── find-highest-participation.js # Analyze participation patterns
 │   └── README.md                      # Detailed scripts documentation
 ├── priority-profile-candidates.json  # Auto-generated list of runners needing profiles
@@ -295,6 +296,7 @@ After assignment, results will include a `runner_id` field:
 | `npm run generate-runner-stats` | Generate individual runner statistics files (includes profiles) |
 | `npm run add-position-fields` | Add position fields to runner stats |
 | `npm run generate-all` | Run all generation scripts in sequence |
+| `npm run check-duplicates` | Check for duplicate runner_ids within each results file |
 | `npm run build` | Build production site (copies files to dist/ and bundles JS) |
 | `npm run dev` | Start development server with live reload |
 | `npm run dev-js` | Watch and rebuild JavaScript bundle |
@@ -313,6 +315,18 @@ npm run generate-all              # Regenerate all databases and records
 ```bash
 npm run generate-all              # Regenerate everything from source files
 ```
+
+**Checking data quality:**
+```bash
+npm run check-duplicates          # Find duplicate runner_ids in results files
+```
+
+This will identify:
+- Same runner_id appearing twice in one year (data entry errors)
+- Runners who may need different IDs (different people with same name)
+- Unknown/missing runner entries
+
+After fixing duplicates in source files, run `npm run generate-all`
 
 **Finding participation patterns:**
 ```bash
