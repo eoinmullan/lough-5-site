@@ -1,7 +1,7 @@
 {
   "name": "lough-5-site",
   "version": "1.0.0",
-  "description": "A comprehensive website for a local charity 5 mile race with runner database, statistics, and records tracking",
+  "description": "A comprehensive website for a local charity 5 mile race with runner database, statistics, records tracking, and hand-researched profiles for 95 notable runners",
   "main": "index.html",
   "scripts": {
     "start": "serve dist",

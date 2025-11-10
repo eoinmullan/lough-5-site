@@ -49,7 +49,8 @@ This website provides information about the Lough 5 Road Race, including:
 │   │   ├── {runner-id}.json
 │   │   └── ...
 │   ├── runner-database.json          # Main runner database
-│   └── runner-database-warnings.json # Potential duplicates for review
+│   ├── runner-database-warnings.json # Potential duplicates for review
+│   └── runner-profiles.json          # Hand-researched runner profiles (95 runners)
 ├── src/
 │   └── js/               # JavaScript source files
 │       ├── main.js       # Main entry point for JavaScript
@@ -63,9 +64,12 @@ This website provides information about the Lough 5 Road Race, including:
 │   ├── generate-masters-records.js   # Generate masters records
 │   ├── generate-fastest-50.js        # Generate fastest 50 lists
 │   ├── generate-runner-stats.js      # Generate individual runner stats
+│   ├── generate-priority-candidates.js # Generate list of runners needing profiles
 │   ├── review-duplicates.js          # Interactive duplicate resolution
 │   ├── find-highest-participation.js # Analyze participation patterns
 │   └── README.md                      # Detailed scripts documentation
+├── priority-profile-candidates.json  # Auto-generated list of runners needing profiles
+├── priority-profile-candidates.md    # Human-readable version of candidate list
 ├── cypress/              # E2E testing configuration
 │   ├── e2e/              # Test files
 │   ├── fixtures/         # Test data
@@ -97,6 +101,10 @@ This website provides information about the Lough 5 Road Race, including:
   - Performance graphs showing progression over time (Chart.js)
   - Badges and achievements (fastest all-time, podium finishes, age group records)
   - Complete race history with detailed results
+  - Hand-researched profiles for 95 runners (medal winners and record holders)
+    - External achievements (national/international competitions)
+    - Power of 10 and World Athletics links where available
+    - Collapsible biographical narratives
 - **Runner Search**: Client-side search by name or club (minimum 3 characters)
 - **Searchable Results**: Client-side search and filtering across 16 years of race data (2009-2024)
   - Search by name, bib number, category, club, or times
@@ -187,6 +195,53 @@ The website uses a comprehensive runner identification system that tracks runner
 - Fuzzy matching helps identify runners across years despite name variations
 - Interactive tools help resolve potential duplicates
 
+### Runner Profiles System
+
+The website features hand-researched profiles for 95 notable runners (medal winners and record holders). Profiles are stored in `assets/runner-profiles.json` and merged into individual runner stats during generation.
+
+**Profile Structure:**
+```json
+{
+  "runner-id": {
+    "headline": "Brief tagline (e.g., '2024 Champion and Olympian')",
+    "power_of_10": "URL or null",
+    "world_athletics": "URL or null",
+    "additional_links": ["URL to news articles, etc."],
+    "notable_achievements": [
+      "Achievement 1",
+      "Achievement 2"
+    ],
+    "above_the_fold": "~100 word biographical narrative"
+  }
+}
+```
+
+**Profile Criteria:**
+- Runner must have at least one medal (overall podium, category podium, or age group record)
+- Profiles focus on external achievements beyond Lough 5 statistics
+- Age record holders receive ~100 word profiles
+- Other medalists receive ~50 word profiles
+
+**Managing Profiles:**
+
+Generate list of runners needing profiles:
+```bash
+node generate-priority-candidates.js
+```
+
+This creates:
+- `priority-profile-candidates.json` - Machine-readable list
+- `priority-profile-candidates.md` - Human-readable list with criteria
+
+The script identifies runners who:
+1. Are in fastest 50 AND have a medal, OR
+2. Hold an age category record
+
+After adding profiles to `runner-profiles.json`, regenerate runner stats:
+```bash
+npm run generate-runner-stats
+```
+
 ### Adding New Race Results
 
 **Quick Start:**
@@ -237,8 +292,13 @@ After assignment, results will include a `runner_id` field:
 | `npm run generate-db` | Generate runner database from results files |
 | `npm run generate-masters-records` | Generate masters age group records |
 | `npm run generate-fastest-50` | Generate fastest 50 male/female lists |
-| `npm run generate-runner-stats` | Generate individual runner statistics files |
+| `npm run generate-runner-stats` | Generate individual runner statistics files (includes profiles) |
+| `npm run add-position-fields` | Add position fields to runner stats |
 | `npm run generate-all` | Run all generation scripts in sequence |
+| `npm run build` | Build production site (copies files to dist/ and bundles JS) |
+| `npm run dev` | Start development server with live reload |
+| `npm run dev-js` | Watch and rebuild JavaScript bundle |
+| `npm test` | Run Cypress e2e tests |
 
 ### Common Workflows
 
@@ -257,6 +317,19 @@ npm run generate-all              # Regenerate everything from source files
 **Finding participation patterns:**
 ```bash
 node scripts/find-highest-participation.js
+```
+
+**Managing runner profiles:**
+```bash
+# Generate list of runners needing profiles
+node generate-priority-candidates.js
+
+# After adding profiles to runner-profiles.json
+npm run generate-runner-stats
+
+# Build and deploy
+npm run build
+aws s3 sync dist/ s3://your-bucket/ --acl public-read --cache-control max-age=3600 --delete --profile your-profile
 ```
 
 For detailed documentation on the runner database system and scripts, see [`scripts/README.md`](scripts/README.md).
