@@ -16,6 +16,7 @@ const path = require('path');
 const resultsDir = path.join(__dirname, '..', 'assets', 'results');
 const recordsDir = path.join(__dirname, '..', 'assets', 'records');
 const statsDir = path.join(__dirname, '..', 'assets', 'runner-stats');
+const profilesPath = path.join(__dirname, '..', 'assets', 'runner-profiles.json');
 
 // Function to convert time string to seconds for comparisons
 function timeToSeconds(timeStr) {
@@ -84,6 +85,18 @@ async function generateRunnerStats() {
   // Ensure output directory exists
   if (!fs.existsSync(statsDir)) {
     fs.mkdirSync(statsDir, { recursive: true });
+  }
+
+  // Load runner profiles if they exist
+  let runnerProfiles = {};
+  if (fs.existsSync(profilesPath)) {
+    try {
+      const profileData = JSON.parse(fs.readFileSync(profilesPath, 'utf8'));
+      runnerProfiles = profileData.profiles || {};
+      console.log(`Loaded ${Object.keys(runnerProfiles).length} runner profiles`);
+    } catch (error) {
+      console.warn('Warning: Could not load runner profiles:', error.message);
+    }
   }
 
   // Load fastest-50 records to determine all-time rankings
@@ -315,6 +328,11 @@ async function generateRunnerStats() {
       results: data.results,
       badges: badges
     };
+
+    // Add profile data if it exists for this runner
+    if (runnerProfiles[runnerId]) {
+      stats.profile = runnerProfiles[runnerId];
+    }
 
     // Write to individual JSON file
     const outputPath = path.join(statsDir, `${runnerId}.json`);

@@ -14234,18 +14234,17 @@
       ],
       "total_races": 4
     },
-    "matthew-mccullagh": {
-      "runner_id": "matthew-mccullagh",
+    "matthew-mccullagh-2": {
+      "runner_id": "matthew-mccullagh-2",
       "canonical_name": "Matthew McCullagh",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Birmingham running and triathlon club",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2012,
-        2023
+        2012
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "mark-kelly": {
       "runner_id": "mark-kelly",
@@ -47051,6 +47050,18 @@
       ],
       "total_races": 1
     },
+    "matthew-mccullagh": {
+      "runner_id": "matthew-mccullagh",
+      "canonical_name": "Matthew McCullagh",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Birmingham running and triathlon club",
+      "most_common_club_source": "automatic",
+      "years": [
+        2023
+      ],
+      "total_races": 1
+    },
     "vincent-mcalister": {
       "runner_id": "vincent-mcalister",
       "canonical_name": "Vincent McAlister",
@@ -54388,7 +54399,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-06T23:01:20.571Z",
+    "generated": "2025-11-09T08:08:34.931Z",
     "years_included": [
       2009,
       2010,
@@ -54407,7 +54418,7 @@
       2023,
       2024
     ],
-    "total_runners": 4184,
+    "total_runners": 4185,
     "total_participations": 8442,
     "participations_with_id": 8442,
     "unassigned_results": 0

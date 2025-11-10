@@ -40,6 +40,11 @@
                 <h2 class="section-title" x-text="runner.name"></h2>
                 <p style="font-size: 24px; color: #666; margin-top: -1rem; margin-bottom: 1.5rem; text-align: center;" x-text="runner.most_frequent_club"></p>
 
+                <!-- Profile Headline -->
+                <template x-if="runner.profile && runner.profile.headline">
+                    <p style="font-size: 18px; color: #555; font-style: italic; margin-top: -0.5rem; margin-bottom: 1.5rem; text-align: center;" x-text="runner.profile.headline"></p>
+                </template>
+
                 <!-- Headline Stats -->
                 <div class="card" style="margin-bottom: 2rem;">
                     <h3 class="card-section-title">Career Statistics</h3>
@@ -104,6 +109,54 @@
                                 <template x-for="record in runner.badges.age_group_records" :key="record.category">
                                     <a :href="getRecordsUrl('age_group_records', record.category.startsWith('M') ? 'M' : 'F', runner.runner_id)" class="badge-tag badge-link"
                                           x-text="record.category + ' - ' + record.time + ' (' + record.year + ')'"></a>
+                                </template>
+                            </div>
+                        </template>
+
+                        <!-- Profile Story (Collapsible) -->
+                        <template x-if="runner.profile && runner.profile.above_the_fold">
+                            <div class="badge-item" style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid #e0e0e0;" x-data="{ expanded: false }">
+                                <div style="line-height: 1.6; color: #333;">
+                                    <span x-show="!expanded" x-text="runner.profile.above_the_fold.substring(0, 150) + '...'"></span>
+                                    <span x-show="expanded" x-text="runner.profile.above_the_fold"></span>
+                                    <button @click="expanded = !expanded"
+                                            style="background: none; border: none; color: var(--primary-color); cursor: pointer; font-size: 0.9rem; padding: 0; margin-left: 0.5rem; text-decoration: underline;"
+                                            x-text="expanded ? 'less' : 'more'">
+                                    </button>
+                                </div>
+
+                                <!-- External Links -->
+                                <template x-if="runner.profile.power_of_10 || runner.profile.world_athletics || (runner.profile.additional_links && runner.profile.additional_links.length > 0)">
+                                    <div style="margin-top: 1rem;">
+                                        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                                            <template x-if="runner.profile.power_of_10">
+                                                <a :href="runner.profile.power_of_10" target="_blank" rel="noopener noreferrer"
+                                                   style="display: inline-block; padding: 0.25rem 0.75rem; background: #f0f0f0; border-radius: 4px; font-size: 0.85rem; color: #333; text-decoration: none; transition: background 0.2s;"
+                                                   @mouseenter="$el.style.background = '#e0e0e0'"
+                                                   @mouseleave="$el.style.background = '#f0f0f0'">
+                                                    Power of 10 ↗
+                                                </a>
+                                            </template>
+                                            <template x-if="runner.profile.world_athletics">
+                                                <a :href="runner.profile.world_athletics" target="_blank" rel="noopener noreferrer"
+                                                   style="display: inline-block; padding: 0.25rem 0.75rem; background: #f0f0f0; border-radius: 4px; font-size: 0.85rem; color: #333; text-decoration: none; transition: background 0.2s;"
+                                                   @mouseenter="$el.style.background = '#e0e0e0'"
+                                                   @mouseleave="$el.style.background = '#f0f0f0'">
+                                                    World Athletics ↗
+                                                </a>
+                                            </template>
+                                            <template x-if="runner.profile.additional_links && runner.profile.additional_links.length > 0">
+                                                <template x-for="(link, index) in runner.profile.additional_links" :key="link">
+                                                    <a :href="link" target="_blank" rel="noopener noreferrer"
+                                                       style="display: inline-block; padding: 0.25rem 0.75rem; background: #f0f0f0; border-radius: 4px; font-size: 0.85rem; color: #333; text-decoration: none; transition: background 0.2s;"
+                                                       @mouseenter="$el.style.background = '#e0e0e0'"
+                                                       @mouseleave="$el.style.background = '#f0f0f0'"
+                                                       x-text="'Article ' + (index + 1) + ' ↗'">
+                                                    </a>
+                                                </template>
+                                            </template>
+                                        </div>
+                                    </div>
                                 </template>
                             </div>
                         </template>
