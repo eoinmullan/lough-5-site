@@ -5017,18 +5017,16 @@
     "Bib no.": 55,
     "Name": "Mark Gray",
     "Club": "Finn Valley",
-    "Category": "MRW",
+    "Category": "MO",
     "2 Miles": "0:22:08",
     "Lap of Lough": "0:14:00",
     "Chip Time": "0:56:32",
     "Gun Time": "0:56:36",
     "runner_id": "mark-gray",
-    "category_position": 1,
+    "category_position": 123,
     "gender_position": 222,
-    "awards": [
-      "🥇 MRW"
-    ],
-    "highlight": "🥇"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 311,
@@ -5089,7 +5087,7 @@
     "Chip Time": "0:57:07",
     "Gun Time": "0:57:44",
     "runner_id": "diarmaid-mcgurk",
-    "category_position": 123,
+    "category_position": 124,
     "gender_position": 223,
     "awards": [],
     "highlight": null
@@ -5137,7 +5135,7 @@
     "Chip Time": "0:57:40",
     "Gun Time": "0:58:11",
     "runner_id": "seamus-collins",
-    "category_position": 124,
+    "category_position": 125,
     "gender_position": 224,
     "awards": [],
     "highlight": null
@@ -5233,7 +5231,7 @@
     "Chip Time": "0:59:39",
     "Gun Time": "1:00:18",
     "runner_id": "caolan-mcanespie",
-    "category_position": 125,
+    "category_position": 126,
     "gender_position": 226,
     "awards": [],
     "highlight": null
@@ -5331,7 +5329,7 @@
     "Chip Time": "1:03:34",
     "Gun Time": "1:03:44",
     "runner_id": "seamus-conway",
-    "category_position": 126,
+    "category_position": 127,
     "gender_position": 229,
     "awards": [],
     "highlight": null
@@ -5459,7 +5457,7 @@
     "Chip Time": "1:07:58",
     "Gun Time": "1:08:31",
     "runner_id": "james-lawn",
-    "category_position": 127,
+    "category_position": 128,
     "gender_position": 231,
     "awards": [],
     "highlight": null
@@ -5491,7 +5489,7 @@
     "Chip Time": "1:08:00",
     "Gun Time": "1:08:40",
     "runner_id": "barry-mccolgan",
-    "category_position": 128,
+    "category_position": 129,
     "gender_position": 232,
     "awards": [],
     "highlight": null
@@ -5557,7 +5555,7 @@
     "Chip Time": "1:10:09",
     "Gun Time": "1:10:19",
     "runner_id": "brian-mcaleer",
-    "category_position": 130,
+    "category_position": 131,
     "gender_position": 235,
     "awards": [],
     "highlight": null
@@ -5573,7 +5571,7 @@
     "Chip Time": "1:10:01",
     "Gun Time": "1:10:34",
     "runner_id": "sean-donnelly-carrickmore",
-    "category_position": 129,
+    "category_position": 130,
     "gender_position": 234,
     "awards": [],
     "highlight": null
@@ -5829,7 +5827,7 @@
     "Chip Time": "1:14:14",
     "Gun Time": "1:14:52",
     "runner_id": "hugh-okane",
-    "category_position": 131,
+    "category_position": 132,
     "gender_position": 237,
     "awards": [],
     "highlight": null
@@ -5845,7 +5843,7 @@
     "Chip Time": "1:14:16",
     "Gun Time": "1:14:55",
     "runner_id": "john-mccullagh",
-    "category_position": 132,
+    "category_position": 133,
     "gender_position": 238,
     "awards": [],
     "highlight": null
@@ -6103,7 +6101,7 @@
     "Chip Time": "1:17:54",
     "Gun Time": "1:17:54",
     "runner_id": "vinny-mullan",
-    "category_position": 133,
+    "category_position": 134,
     "gender_position": 242,
     "awards": [],
     "highlight": null
@@ -6183,7 +6181,7 @@
     "Chip Time": "1:23:58",
     "Gun Time": "1:24:39",
     "runner_id": "declan-mcaleer",
-    "category_position": 134,
+    "category_position": 135,
     "gender_position": 244,
     "awards": [],
     "highlight": null
@@ -6281,7 +6279,7 @@
     "Chip Time": "1:26:23",
     "Gun Time": "1:27:04",
     "runner_id": "kevin-sweeney",
-    "category_position": 135,
+    "category_position": 136,
     "gender_position": 247,
     "awards": [],
     "highlight": null

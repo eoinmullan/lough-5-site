@@ -1334,15 +1334,13 @@
     "Bib no.": 438,
     "Name": "Paul Dillon",
     "Club": "",
-    "Category": "m",
+    "Category": "MO",
     "Chip Time": "0:39:22",
     "runner_id": "paul-dillon",
-    "category_position": 1,
+    "category_position": 54,
     "gender_position": 92,
-    "awards": [
-      "🥇 m"
-    ],
-    "highlight": "🥇"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 101,
@@ -1365,7 +1363,7 @@
     "Category": "MO",
     "Chip Time": "0:39:32",
     "runner_id": "carl-curran",
-    "category_position": 54,
+    "category_position": 55,
     "gender_position": 94,
     "awards": [],
     "highlight": null
@@ -1391,7 +1389,7 @@
     "Category": "MO",
     "Chip Time": "0:39:34",
     "runner_id": "liam-harvey",
-    "category_position": 55,
+    "category_position": 56,
     "gender_position": 96,
     "awards": [],
     "highlight": null
@@ -1404,7 +1402,7 @@
     "Category": "MO",
     "Chip Time": "0:39:35",
     "runner_id": "hugh-mccarney",
-    "category_position": 56,
+    "category_position": 57,
     "gender_position": 97,
     "awards": [],
     "highlight": null
@@ -1471,7 +1469,7 @@
     "Category": "MO",
     "Chip Time": "0:39:46",
     "runner_id": "niall-toner",
-    "category_position": 57,
+    "category_position": 58,
     "gender_position": 101,
     "awards": [],
     "highlight": null
@@ -1484,7 +1482,7 @@
     "Category": "MO",
     "Chip Time": "0:39:49",
     "runner_id": "pearse-donaghy",
-    "category_position": 58,
+    "category_position": 59,
     "gender_position": 102,
     "awards": [],
     "highlight": null
@@ -1523,7 +1521,7 @@
     "Category": "MO",
     "Chip Time": "0:40:00",
     "runner_id": "eunan-loughran",
-    "category_position": 59,
+    "category_position": 60,
     "gender_position": 105,
     "awards": [],
     "highlight": null
@@ -1536,7 +1534,7 @@
     "Category": "MO",
     "Chip Time": "0:40:03",
     "runner_id": "brendan-ward",
-    "category_position": 60,
+    "category_position": 61,
     "gender_position": 106,
     "awards": [],
     "highlight": null
@@ -1655,7 +1653,7 @@
     "Category": "MO",
     "Chip Time": "0:40:20",
     "runner_id": "conal-mcgarrity",
-    "category_position": 61,
+    "category_position": 62,
     "gender_position": 111,
     "awards": [],
     "highlight": null
@@ -1668,7 +1666,7 @@
     "Category": "MO",
     "Chip Time": "0:40:32",
     "runner_id": "patrick-mullan-omagh",
-    "category_position": 62,
+    "category_position": 63,
     "gender_position": 112,
     "awards": [],
     "highlight": null
@@ -1707,7 +1705,7 @@
     "Category": "MO",
     "Chip Time": "0:41:06",
     "runner_id": "barry-corrigan",
-    "category_position": 63,
+    "category_position": 64,
     "gender_position": 115,
     "awards": [],
     "highlight": null
@@ -1720,7 +1718,7 @@
     "Category": "MO",
     "Chip Time": "0:41:10",
     "runner_id": "damian-mcaleer",
-    "category_position": 64,
+    "category_position": 65,
     "gender_position": 116,
     "awards": [],
     "highlight": null
@@ -1733,7 +1731,7 @@
     "Category": "MO",
     "Chip Time": "0:41:14",
     "runner_id": "john-mcelroy-galbally",
-    "category_position": 65,
+    "category_position": 66,
     "gender_position": 117,
     "awards": [],
     "highlight": null
@@ -1852,7 +1850,7 @@
     "Category": "MO",
     "Chip Time": "0:41:52",
     "runner_id": "jason-ward",
-    "category_position": 66,
+    "category_position": 67,
     "gender_position": 124,
     "awards": [],
     "highlight": null
@@ -1906,7 +1904,7 @@
     "Category": "MO",
     "Chip Time": "0:42:22",
     "runner_id": "declan-colgan",
-    "category_position": 67,
+    "category_position": 68,
     "gender_position": 128,
     "awards": [],
     "highlight": null
@@ -1932,7 +1930,7 @@
     "Category": "MO",
     "Chip Time": "0:42:27",
     "runner_id": "michael-conway",
-    "category_position": 68,
+    "category_position": 69,
     "gender_position": 129,
     "awards": [],
     "highlight": null
@@ -1945,7 +1943,7 @@
     "Category": "MO",
     "Chip Time": "0:42:38",
     "runner_id": "barry-rodgers",
-    "category_position": 69,
+    "category_position": 70,
     "gender_position": 130,
     "awards": [],
     "highlight": null
@@ -1973,7 +1971,7 @@
     "Category": "MO",
     "Chip Time": "0:42:46",
     "runner_id": "danny-mccallan",
-    "category_position": 70,
+    "category_position": 71,
     "gender_position": 131,
     "awards": [],
     "highlight": null
@@ -1986,7 +1984,7 @@
     "Category": "MO",
     "Chip Time": "0:42:49",
     "runner_id": "gerard-magee",
-    "category_position": 71,
+    "category_position": 72,
     "gender_position": 132,
     "awards": [],
     "highlight": null
@@ -2027,7 +2025,7 @@
     "Category": "MO",
     "Chip Time": "0:42:56",
     "runner_id": "kevin-mcdaid",
-    "category_position": 72,
+    "category_position": 73,
     "gender_position": 135,
     "awards": [],
     "highlight": null
@@ -2040,7 +2038,7 @@
     "Category": "MO",
     "Chip Time": "0:42:58",
     "runner_id": "stephen-donnelly",
-    "category_position": 73,
+    "category_position": 74,
     "gender_position": 136,
     "awards": [],
     "highlight": null
@@ -2053,7 +2051,7 @@
     "Category": "MO",
     "Chip Time": "0:43:04",
     "runner_id": "colm-okane",
-    "category_position": 74,
+    "category_position": 75,
     "gender_position": 137,
     "awards": [],
     "highlight": null
@@ -2066,7 +2064,7 @@
     "Category": "MO",
     "Chip Time": "0:43:11",
     "runner_id": "patrick-mccullagh",
-    "category_position": 75,
+    "category_position": 76,
     "gender_position": 138,
     "awards": [],
     "highlight": null
@@ -2092,7 +2090,7 @@
     "Category": "MO",
     "Chip Time": "0:43:15",
     "runner_id": "stephen-harte",
-    "category_position": 76,
+    "category_position": 77,
     "gender_position": 139,
     "awards": [],
     "highlight": null
@@ -2131,7 +2129,7 @@
     "Category": "MO",
     "Chip Time": "0:43:26",
     "runner_id": "patrick-mullan",
-    "category_position": 77,
+    "category_position": 78,
     "gender_position": 141,
     "awards": [],
     "highlight": null
@@ -2198,7 +2196,7 @@
     "Category": "MO",
     "Chip Time": "0:43:49",
     "runner_id": "sean-pol-harte",
-    "category_position": 78,
+    "category_position": 79,
     "gender_position": 144,
     "awards": [],
     "highlight": null
@@ -2211,7 +2209,7 @@
     "Category": "MO",
     "Chip Time": "0:43:52",
     "runner_id": "niall-grimes",
-    "category_position": 79,
+    "category_position": 80,
     "gender_position": 145,
     "awards": [],
     "highlight": null
@@ -2224,7 +2222,7 @@
     "Category": "MO",
     "Chip Time": "0:43:54",
     "runner_id": "conor-duff",
-    "category_position": 80,
+    "category_position": 81,
     "gender_position": 146,
     "awards": [],
     "highlight": null
@@ -2237,7 +2235,7 @@
     "Category": "MO",
     "Chip Time": "0:43:55",
     "runner_id": "liam-curran",
-    "category_position": 81,
+    "category_position": 82,
     "gender_position": 147,
     "awards": [],
     "highlight": null
@@ -2276,7 +2274,7 @@
     "Category": "MO",
     "Chip Time": "0:45:09",
     "runner_id": "conal-curran",
-    "category_position": 88,
+    "category_position": 89,
     "gender_position": 157,
     "awards": [],
     "highlight": null
@@ -2289,7 +2287,7 @@
     "Category": "MO",
     "Chip Time": "0:43:58",
     "runner_id": "connor-mcelduff",
-    "category_position": 82,
+    "category_position": 83,
     "gender_position": 149,
     "awards": [],
     "highlight": null
@@ -2354,7 +2352,7 @@
     "Category": "MO",
     "Chip Time": "0:44:16",
     "runner_id": "john-donaghy",
-    "category_position": 83,
+    "category_position": 84,
     "gender_position": 151,
     "awards": [],
     "highlight": null
@@ -2367,7 +2365,7 @@
     "Category": "MO",
     "Chip Time": "0:44:17",
     "runner_id": "cathal-donaghy-snr",
-    "category_position": 84,
+    "category_position": 85,
     "gender_position": 152,
     "awards": [],
     "highlight": null
@@ -2380,7 +2378,7 @@
     "Category": "MO",
     "Chip Time": "0:44:24",
     "runner_id": "padraig-mcdermott-fintona",
-    "category_position": 85,
+    "category_position": 86,
     "gender_position": 153,
     "awards": [],
     "highlight": null
@@ -2460,7 +2458,7 @@
     "Category": "MO",
     "Chip Time": "0:44:55",
     "runner_id": "niall-mcgaughey",
-    "category_position": 86,
+    "category_position": 87,
     "gender_position": 155,
     "awards": [],
     "highlight": null
@@ -2473,7 +2471,7 @@
     "Category": "MO",
     "Chip Time": "0:44:58",
     "runner_id": "jarelth-ogoan",
-    "category_position": 87,
+    "category_position": 88,
     "gender_position": 156,
     "awards": [],
     "highlight": null
@@ -2553,7 +2551,7 @@
     "Category": "MO",
     "Chip Time": "0:45:52",
     "runner_id": "sean-doran",
-    "category_position": 89,
+    "category_position": 90,
     "gender_position": 161,
     "awards": [],
     "highlight": null
@@ -2592,7 +2590,7 @@
     "Category": "MO",
     "Chip Time": "0:46:01",
     "runner_id": "shane-mullan-2",
-    "category_position": 90,
+    "category_position": 91,
     "gender_position": 163,
     "awards": [],
     "highlight": null
@@ -2631,7 +2629,7 @@
     "Category": "MO",
     "Chip Time": "0:46:09",
     "runner_id": "michael-toner-loughmacrory",
-    "category_position": 91,
+    "category_position": 92,
     "gender_position": 165,
     "awards": [],
     "highlight": null
@@ -2644,7 +2642,7 @@
     "Category": "MO",
     "Chip Time": "0:46:11",
     "runner_id": "gerard-hannigan",
-    "category_position": 92,
+    "category_position": 93,
     "gender_position": 166,
     "awards": [],
     "highlight": null
@@ -2696,7 +2694,7 @@
     "Category": "MO",
     "Chip Time": "0:46:30",
     "runner_id": "sean-loughran",
-    "category_position": 93,
+    "category_position": 94,
     "gender_position": 169,
     "awards": [],
     "highlight": null
@@ -2709,7 +2707,7 @@
     "Category": "MO",
     "Chip Time": "0:46:32",
     "runner_id": "shane-mccullagh",
-    "category_position": 94,
+    "category_position": 95,
     "gender_position": 170,
     "awards": [],
     "highlight": null
@@ -2800,7 +2798,7 @@
     "Category": "MO",
     "Chip Time": "0:46:46",
     "runner_id": "dominic-carlin",
-    "category_position": 95,
+    "category_position": 96,
     "gender_position": 174,
     "awards": [],
     "highlight": null
@@ -2828,7 +2826,7 @@
     "Category": "MO",
     "Chip Time": "0:47:09",
     "runner_id": "ryan-keenan",
-    "category_position": 96,
+    "category_position": 97,
     "gender_position": 175,
     "awards": [],
     "highlight": null
@@ -2880,7 +2878,7 @@
     "Category": "MO",
     "Chip Time": "0:47:23",
     "runner_id": "aidan-kelly",
-    "category_position": 97,
+    "category_position": 98,
     "gender_position": 177,
     "awards": [],
     "highlight": null
@@ -2908,7 +2906,7 @@
     "Category": "MO",
     "Chip Time": "0:47:28",
     "runner_id": "stephen-mullan",
-    "category_position": 98,
+    "category_position": 99,
     "gender_position": 178,
     "awards": [],
     "highlight": null
@@ -3066,7 +3064,7 @@
     "Category": "MO",
     "Chip Time": "0:48:30",
     "runner_id": "michael-mccullagh",
-    "category_position": 99,
+    "category_position": 100,
     "gender_position": 181,
     "awards": [],
     "highlight": null
@@ -3105,7 +3103,7 @@
     "Category": "MO",
     "Chip Time": "0:48:35",
     "runner_id": "martin-fox",
-    "category_position": 100,
+    "category_position": 101,
     "gender_position": 184,
     "awards": [],
     "highlight": null
@@ -3131,7 +3129,7 @@
     "Category": "MO",
     "Chip Time": "0:48:49",
     "runner_id": "conor-garrity",
-    "category_position": 101,
+    "category_position": 102,
     "gender_position": 185,
     "awards": [],
     "highlight": null
@@ -3211,7 +3209,7 @@
     "Category": "MO",
     "Chip Time": "0:49:09",
     "runner_id": "eamon-mchugh",
-    "category_position": 102,
+    "category_position": 103,
     "gender_position": 188,
     "awards": [],
     "highlight": null
@@ -3252,7 +3250,7 @@
     "Category": "MO",
     "Chip Time": "0:49:53",
     "runner_id": "stephen-conway",
-    "category_position": 103,
+    "category_position": 104,
     "gender_position": 190,
     "awards": [],
     "highlight": null
@@ -3278,7 +3276,7 @@
     "Category": "MO",
     "Chip Time": "0:49:54",
     "runner_id": "stephen-mcullagh",
-    "category_position": 104,
+    "category_position": 105,
     "gender_position": 192,
     "awards": [],
     "highlight": null
@@ -3291,7 +3289,7 @@
     "Category": "MO",
     "Chip Time": "0:49:58",
     "runner_id": "john-dooley",
-    "category_position": 105,
+    "category_position": 106,
     "gender_position": 193,
     "awards": [],
     "highlight": null
@@ -3304,7 +3302,7 @@
     "Category": "MO",
     "Chip Time": "0:50:02",
     "runner_id": "rory-obrien",
-    "category_position": 106,
+    "category_position": 107,
     "gender_position": 194,
     "awards": [],
     "highlight": null
@@ -3330,7 +3328,7 @@
     "Category": "MO",
     "Chip Time": "0:50:46",
     "runner_id": "d-grimes",
-    "category_position": 107,
+    "category_position": 108,
     "gender_position": 196,
     "awards": [],
     "highlight": null
@@ -3356,7 +3354,7 @@
     "Category": "MO",
     "Chip Time": "0:51:16",
     "runner_id": "gerry-owens",
-    "category_position": 108,
+    "category_position": 109,
     "gender_position": 198,
     "awards": [],
     "highlight": null
@@ -3366,15 +3364,13 @@
     "Bib no.": 175,
     "Name": "Claire O'Hagan",
     "Club": "Eskra",
-    "Category": "fO",
+    "Category": "FO",
     "Chip Time": "0:51:22",
     "runner_id": "claire-ohagan",
-    "category_position": 1,
+    "category_position": 20,
     "gender_position": 51,
-    "awards": [
-      "🥇 fO"
-    ],
-    "highlight": "🥇"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 257,
@@ -3384,7 +3380,7 @@
     "Category": "FO",
     "Chip Time": "0:51:51",
     "runner_id": "louise-mcquaide",
-    "category_position": 20,
+    "category_position": 21,
     "gender_position": 52,
     "awards": [],
     "highlight": null
@@ -3449,7 +3445,7 @@
     "Category": "FO",
     "Chip Time": "0:52:22",
     "runner_id": "anne-hunt",
-    "category_position": 21,
+    "category_position": 22,
     "gender_position": 54,
     "awards": [],
     "highlight": null
@@ -3501,7 +3497,7 @@
     "Category": "FO",
     "Chip Time": "0:52:37",
     "runner_id": "rosemary-o-hanlon",
-    "category_position": 22,
+    "category_position": 23,
     "gender_position": 56,
     "awards": [],
     "highlight": null
@@ -3514,7 +3510,7 @@
     "Category": "FO",
     "Chip Time": "0:52:47",
     "runner_id": "emer-kelly",
-    "category_position": 23,
+    "category_position": 24,
     "gender_position": 57,
     "awards": [],
     "highlight": null
@@ -3542,7 +3538,7 @@
     "Category": "FO",
     "Chip Time": "0:52:53",
     "runner_id": "aine-campbell",
-    "category_position": 24,
+    "category_position": 25,
     "gender_position": 59,
     "awards": [],
     "highlight": null
@@ -3578,15 +3574,13 @@
     "Bib no.": 441,
     "Name": "Naomi McAnulla",
     "Club": "Killyclogher",
-    "Category": "fo",
+    "Category": "FO",
     "Chip Time": "0:53:14",
     "runner_id": "naomi-mcanulla",
-    "category_position": 1,
+    "category_position": 26,
     "gender_position": 60,
-    "awards": [
-      "🥇 fo"
-    ],
-    "highlight": "🥇"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 273,
@@ -3609,7 +3603,7 @@
     "Category": "FO",
     "Chip Time": "0:53:15",
     "runner_id": "liz-donnelly",
-    "category_position": 25,
+    "category_position": 27,
     "gender_position": 62,
     "awards": [],
     "highlight": null
@@ -3702,7 +3696,7 @@
     "Category": "MO",
     "Chip Time": "0:53:52",
     "runner_id": "raymond-ward",
-    "category_position": 109,
+    "category_position": 110,
     "gender_position": 210,
     "awards": [],
     "highlight": null
@@ -3715,7 +3709,7 @@
     "Category": "MO",
     "Chip Time": "0:53:52",
     "runner_id": "donal-ward",
-    "category_position": 110,
+    "category_position": 111,
     "gender_position": 211,
     "awards": [],
     "highlight": null
@@ -3741,7 +3735,7 @@
     "Category": "MO",
     "Chip Time": "0:54:14",
     "runner_id": "jack-darcy",
-    "category_position": 111,
+    "category_position": 112,
     "gender_position": 213,
     "awards": [],
     "highlight": null
@@ -3754,7 +3748,7 @@
     "Category": "MO",
     "Chip Time": "0:54:15",
     "runner_id": "shane-darcy",
-    "category_position": 112,
+    "category_position": 113,
     "gender_position": 214,
     "awards": [],
     "highlight": null
@@ -3780,7 +3774,7 @@
     "Category": "FO",
     "Chip Time": "0:54:19",
     "runner_id": "claire-grogan",
-    "category_position": 26,
+    "category_position": 28,
     "gender_position": 66,
     "awards": [],
     "highlight": null
@@ -3832,7 +3826,7 @@
     "Category": "FO",
     "Chip Time": "0:54:25",
     "runner_id": "theresa-myles",
-    "category_position": 27,
+    "category_position": 29,
     "gender_position": 69,
     "awards": [],
     "highlight": null
@@ -3897,7 +3891,7 @@
     "Category": "MO",
     "Chip Time": "0:56:30",
     "runner_id": "eunan-donnelly",
-    "category_position": 113,
+    "category_position": 114,
     "gender_position": 219,
     "awards": [],
     "highlight": null
@@ -3936,7 +3930,7 @@
     "Category": "FO",
     "Chip Time": "0:57:30",
     "runner_id": "kerry-grimes",
-    "category_position": 28,
+    "category_position": 30,
     "gender_position": 73,
     "awards": [],
     "highlight": null
@@ -3962,7 +3956,7 @@
     "Category": "FO",
     "Chip Time": "0:57:45",
     "runner_id": "eimear-ward",
-    "category_position": 29,
+    "category_position": 31,
     "gender_position": 75,
     "awards": [],
     "highlight": null
@@ -3975,7 +3969,7 @@
     "Category": "MO",
     "Chip Time": "0:58:52",
     "runner_id": "samuel-mccaul-2",
-    "category_position": 114,
+    "category_position": 115,
     "gender_position": 220,
     "awards": [],
     "highlight": null
@@ -3988,7 +3982,7 @@
     "Category": "MO",
     "Chip Time": "0:58:53",
     "runner_id": "danny-kerr",
-    "category_position": 115,
+    "category_position": 116,
     "gender_position": 221,
     "awards": [],
     "highlight": null
@@ -4001,7 +3995,7 @@
     "Category": "FO",
     "Chip Time": "0:59:18",
     "runner_id": "ciara-mccarron",
-    "category_position": 30,
+    "category_position": 32,
     "gender_position": 76,
     "awards": [],
     "highlight": null
@@ -4027,7 +4021,7 @@
     "Category": "MO",
     "Chip Time": "0:59:20",
     "runner_id": "kieran-hurson",
-    "category_position": 116,
+    "category_position": 117,
     "gender_position": 222,
     "awards": [],
     "highlight": null
@@ -4092,7 +4086,7 @@
     "Category": "MO",
     "Chip Time": "01:02:59",
     "runner_id": "gerard-woods",
-    "category_position": 117,
+    "category_position": 118,
     "gender_position": 227,
     "awards": [],
     "highlight": null
@@ -4157,7 +4151,7 @@
     "Category": "FO",
     "Chip Time": "01:05:02",
     "runner_id": "brenda-mcelduff",
-    "category_position": 31,
+    "category_position": 33,
     "gender_position": 82,
     "awards": [],
     "highlight": null
@@ -4196,7 +4190,7 @@
     "Category": "FO",
     "Chip Time": "01:05:46",
     "runner_id": "claire-obrien",
-    "category_position": 32,
+    "category_position": 34,
     "gender_position": 85,
     "awards": [],
     "highlight": null
@@ -4222,7 +4216,7 @@
     "Category": "FO",
     "Chip Time": "01:05:48",
     "runner_id": "michelle-corcoran",
-    "category_position": 33,
+    "category_position": 35,
     "gender_position": 86,
     "awards": [],
     "highlight": null
@@ -4248,7 +4242,7 @@
     "Category": "FO",
     "Chip Time": "01:06:00",
     "runner_id": "cathy-richardson",
-    "category_position": 34,
+    "category_position": 36,
     "gender_position": 87,
     "awards": [],
     "highlight": null
@@ -4258,15 +4252,13 @@
     "Bib no.": 442,
     "Name": "Ita Toner",
     "Club": "Loughmacrory",
-    "Category": "fo",
+    "Category": "FO",
     "Chip Time": "01:06:58",
     "runner_id": "ita-toner",
-    "category_position": 2,
+    "category_position": 37,
     "gender_position": 88,
-    "awards": [
-      "🥈 fo"
-    ],
-    "highlight": "🥈"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 327,
@@ -4276,7 +4268,7 @@
     "Category": "FO",
     "Chip Time": "01:07:10",
     "runner_id": "sharon-cavanagh",
-    "category_position": 35,
+    "category_position": 38,
     "gender_position": 89,
     "awards": [],
     "highlight": null
@@ -4289,7 +4281,7 @@
     "Category": "FO",
     "Chip Time": "01:08:37",
     "runner_id": "orla-fox-loughmacrory",
-    "category_position": 36,
+    "category_position": 39,
     "gender_position": 90,
     "awards": [],
     "highlight": null
@@ -4328,7 +4320,7 @@
     "Category": "FO",
     "Chip Time": "01:08:41",
     "runner_id": "julie-sharkey",
-    "category_position": 37,
+    "category_position": 40,
     "gender_position": 93,
     "awards": [],
     "highlight": null
@@ -4380,7 +4372,7 @@
     "Category": "FO",
     "Chip Time": "01:09:25",
     "runner_id": "paoline-quin",
-    "category_position": 38,
+    "category_position": 41,
     "gender_position": 96,
     "awards": [],
     "highlight": null
@@ -4458,7 +4450,7 @@
     "Category": "MO",
     "Chip Time": "01:10:44",
     "runner_id": "shane-donnelly-loughmacrory",
-    "category_position": 118,
+    "category_position": 119,
     "gender_position": 235,
     "awards": [],
     "highlight": null
@@ -4471,7 +4463,7 @@
     "Category": "MO",
     "Chip Time": "01:11:00",
     "runner_id": "michael-donnely",
-    "category_position": 119,
+    "category_position": 120,
     "gender_position": 236,
     "awards": [],
     "highlight": null
@@ -4484,7 +4476,7 @@
     "Category": "MO",
     "Chip Time": "01:12:33",
     "runner_id": "jarlath-duff",
-    "category_position": 120,
+    "category_position": 121,
     "gender_position": 237,
     "awards": [],
     "highlight": null
@@ -4510,7 +4502,7 @@
     "Category": "MO",
     "Chip Time": "01:12:36",
     "runner_id": "adam-baines",
-    "category_position": 121,
+    "category_position": 122,
     "gender_position": 239,
     "awards": [],
     "highlight": null
@@ -4538,7 +4530,7 @@
     "Category": "FO",
     "Chip Time": "01:12:37",
     "runner_id": "lisa-mcaleer",
-    "category_position": 39,
+    "category_position": 42,
     "gender_position": 98,
     "awards": [],
     "highlight": null
@@ -4551,7 +4543,7 @@
     "Category": "FO",
     "Chip Time": "01:12:47",
     "runner_id": "nuala-donaghy",
-    "category_position": 40,
+    "category_position": 43,
     "gender_position": 99,
     "awards": [],
     "highlight": null
@@ -4618,7 +4610,7 @@
     "Category": "FO",
     "Chip Time": "01:12:53",
     "runner_id": "elaine-keenan",
-    "category_position": 41,
+    "category_position": 44,
     "gender_position": 102,
     "awards": [],
     "highlight": null
@@ -4657,7 +4649,7 @@
     "Category": "FO",
     "Chip Time": "01:13:36",
     "runner_id": "orla-meenagh",
-    "category_position": 42,
+    "category_position": 45,
     "gender_position": 105,
     "awards": [],
     "highlight": null
@@ -4683,7 +4675,7 @@
     "Category": "FO",
     "Chip Time": "01:13:47",
     "runner_id": "majella-donagehy",
-    "category_position": 43,
+    "category_position": 46,
     "gender_position": 107,
     "awards": [],
     "highlight": null
@@ -4722,7 +4714,7 @@
     "Category": "FO",
     "Chip Time": "01:15:07",
     "runner_id": "louise-mccullagh",
-    "category_position": 44,
+    "category_position": 47,
     "gender_position": 109,
     "awards": [],
     "highlight": null
@@ -4735,7 +4727,7 @@
     "Category": "FO",
     "Chip Time": "01:15:15",
     "runner_id": "catherine-donnelly",
-    "category_position": 45,
+    "category_position": 48,
     "gender_position": 110,
     "awards": [],
     "highlight": null
@@ -4774,7 +4766,7 @@
     "Category": "FO",
     "Chip Time": "01:15:27",
     "runner_id": "rosaline-gormley",
-    "category_position": 46,
+    "category_position": 49,
     "gender_position": 112,
     "awards": [],
     "highlight": null
@@ -4787,7 +4779,7 @@
     "Category": "FO",
     "Chip Time": "01:15:32",
     "runner_id": "cathryn-mccullagh-2",
-    "category_position": 47,
+    "category_position": 50,
     "gender_position": 113,
     "awards": [],
     "highlight": null
@@ -4800,7 +4792,7 @@
     "Category": "FO",
     "Chip Time": "01:15:32",
     "runner_id": "elizabeth-quinn",
-    "category_position": 48,
+    "category_position": 51,
     "gender_position": 114,
     "awards": [],
     "highlight": null
@@ -4826,7 +4818,7 @@
     "Category": "MO",
     "Chip Time": "01:15:55",
     "runner_id": "joe-grogan",
-    "category_position": 122,
+    "category_position": 123,
     "gender_position": 244,
     "awards": [],
     "highlight": null
@@ -4865,7 +4857,7 @@
     "Category": "FO",
     "Chip Time": "01:16:08",
     "runner_id": "geraldine-kelly",
-    "category_position": 49,
+    "category_position": 52,
     "gender_position": 116,
     "awards": [],
     "highlight": null
@@ -4956,7 +4948,7 @@
     "Category": "MO",
     "Chip Time": "01:17:02",
     "runner_id": "eoin-hamill",
-    "category_position": 123,
+    "category_position": 124,
     "gender_position": 247,
     "awards": [],
     "highlight": null
@@ -4982,7 +4974,7 @@
     "Category": "MO",
     "Chip Time": "01:17:16",
     "runner_id": "patrick-donaghy",
-    "category_position": 124,
+    "category_position": 125,
     "gender_position": 248,
     "awards": [],
     "highlight": null
@@ -5047,7 +5039,7 @@
     "Category": "MO",
     "Chip Time": "01:18:05",
     "runner_id": "sean-mcgaughey",
-    "category_position": 125,
+    "category_position": 126,
     "gender_position": 251,
     "awards": [],
     "highlight": null
@@ -5060,7 +5052,7 @@
     "Category": "FO",
     "Chip Time": "01:18:06",
     "runner_id": "ciara-coyle",
-    "category_position": 50,
+    "category_position": 53,
     "gender_position": 125,
     "awards": [],
     "highlight": null
@@ -5151,7 +5143,7 @@
     "Category": "FO",
     "Chip Time": "01:19:30",
     "runner_id": "theresa-mcullagh",
-    "category_position": 51,
+    "category_position": 54,
     "gender_position": 130,
     "awards": [],
     "highlight": null
@@ -5268,7 +5260,7 @@
     "Category": "MO",
     "Chip Time": "01:21:37",
     "runner_id": "frank-rafferty",
-    "category_position": 126,
+    "category_position": 127,
     "gender_position": 258,
     "awards": [],
     "highlight": null
@@ -5281,7 +5273,7 @@
     "Category": "MO",
     "Chip Time": "01:22:07",
     "runner_id": "john-mccullagh",
-    "category_position": 127,
+    "category_position": 128,
     "gender_position": 259,
     "awards": [],
     "highlight": null
@@ -5294,7 +5286,7 @@
     "Category": "MO",
     "Chip Time": "01:22:07",
     "runner_id": "sean-rafferty",
-    "category_position": 128,
+    "category_position": 129,
     "gender_position": 260,
     "awards": [],
     "highlight": null
@@ -5330,15 +5322,13 @@
     "Bib no.": 471,
     "Name": "Enya Goodwin",
     "Club": "Dromore AC",
-    "Category": "fo",
+    "Category": "FO",
     "Chip Time": "01:23:01",
     "runner_id": "enya-goodwin",
-    "category_position": 3,
+    "category_position": 55,
     "gender_position": 137,
-    "awards": [
-      "🥉 fo"
-    ],
-    "highlight": "🥉"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 412,
@@ -5361,7 +5351,7 @@
     "Category": "FO",
     "Chip Time": "01:23:24",
     "runner_id": "eilish-coyle-2",
-    "category_position": 52,
+    "category_position": 56,
     "gender_position": 139,
     "awards": [],
     "highlight": null
@@ -5400,7 +5390,7 @@
     "Category": "FO",
     "Chip Time": "01:23:34",
     "runner_id": "kathleen-bradley",
-    "category_position": 53,
+    "category_position": 57,
     "gender_position": 142,
     "awards": [],
     "highlight": null
@@ -5413,7 +5403,7 @@
     "Category": "FO",
     "Chip Time": "01:23:34",
     "runner_id": "rita-fox",
-    "category_position": 54,
+    "category_position": 58,
     "gender_position": 143,
     "awards": [],
     "highlight": null
@@ -5426,7 +5416,7 @@
     "Category": "FO",
     "Chip Time": "01:23:38",
     "runner_id": "etaoine-o-kane",
-    "category_position": 55,
+    "category_position": 59,
     "gender_position": 144,
     "awards": [],
     "highlight": null
@@ -5543,7 +5533,7 @@
     "Category": "FO",
     "Chip Time": "01:27:43",
     "runner_id": "caoimhe-cunningham",
-    "category_position": 56,
+    "category_position": 60,
     "gender_position": 153,
     "awards": [],
     "highlight": null
@@ -5569,7 +5559,7 @@
     "Category": "FO",
     "Chip Time": "01:27:43",
     "runner_id": "leanne-mcguigan",
-    "category_position": 57,
+    "category_position": 61,
     "gender_position": 155,
     "awards": [],
     "highlight": null
@@ -5595,7 +5585,7 @@
     "Category": "MO",
     "Chip Time": "01:27:43",
     "runner_id": "declan-mcaleer",
-    "category_position": 129,
+    "category_position": 130,
     "gender_position": 261,
     "awards": [],
     "highlight": null

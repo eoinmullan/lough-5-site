@@ -8871,16 +8871,14 @@
     "Bib no.": 140,
     "Name": "Rodgers Yvonne",
     "Club": "",
-    "Category": "fo",
+    "Category": "FO",
     "Lap of Lough": "22:10",
     "Chip Time": "1:25:10",
     "Gun Time": "1:25:10",
     "runner_id": "rodgers-yvonne",
-    "category_position": 1,
+    "category_position": 43,
     "gender_position": 221,
-    "awards": [
-      "🥇 fo"
-    ],
-    "highlight": "🥇"
+    "awards": [],
+    "highlight": null
   }
 ]
