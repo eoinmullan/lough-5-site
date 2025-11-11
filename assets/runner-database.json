@@ -41334,13 +41334,12 @@
       "canonical_name": "Malachy Rafferty",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Slieve Gullion Runners",
+      "most_common_club": "Carmen Runners",
       "most_common_club_source": "automatic",
       "years": [
-        2020,
-        2024
+        2020
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "martin-cochrane": {
       "runner_id": "martin-cochrane",
@@ -53577,6 +53576,18 @@
       ],
       "total_races": 1
     },
+    "malachy-rafferty-2": {
+      "runner_id": "malachy-rafferty-2",
+      "canonical_name": "Malachy Rafferty",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Slieve Gullion Runners",
+      "most_common_club_source": "automatic",
+      "years": [
+        2024
+      ],
+      "total_races": 1
+    },
     "rita-mcpeake": {
       "runner_id": "rita-mcpeake",
       "canonical_name": "Rita McPeake",
@@ -55115,7 +55126,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-11T09:28:30.688Z",
+    "generated": "2025-11-11T09:34:09.624Z",
     "years_included": [
       2009,
       2010,
@@ -55134,7 +55145,7 @@
       2023,
       2024
     ],
-    "total_runners": 4245,
+    "total_runners": 4246,
     "total_participations": 8435,
     "participations_with_id": 8435,
     "unassigned_results": 0
