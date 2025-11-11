@@ -39,9 +39,9 @@ years.forEach(year => {
     });
   });
 
-  // Find duplicates
+  // Find duplicates (ignore "unknown" as it's expected to appear multiple times)
   const duplicates = Object.entries(runnerIdCounts)
-    .filter(([_, occurrences]) => occurrences.length > 1);
+    .filter(([runnerId, occurrences]) => occurrences.length > 1 && runnerId !== 'unknown');
 
   if (duplicates.length > 0) {
     console.log(`\n❌ ${year}: Found ${duplicates.length} duplicate runner_id(s):`);

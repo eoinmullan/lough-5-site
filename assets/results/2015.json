@@ -330,7 +330,7 @@
     "Lap of Lough": "0:07:27",
     "Chip Time": "0:30:34",
     "Gun Time": "0:30:37",
-    "runner_id": "paul-conway",
+    "runner_id": "paul-conway-kel",
     "category_position": 13,
     "gender_position": 22,
     "awards": [],
@@ -451,17 +451,15 @@
     "Bib no.": 262,
     "Name": "Damien Quinn",
     "Club": "Omagh harriers",
-    "Category": "mO",
+    "Category": "MO",
     "Lap of Lough": "0:07:41",
     "Chip Time": "0:31:14",
     "Gun Time": "0:31:19",
-    "runner_id": "damien-quinn",
-    "category_position": 1,
+    "runner_id": "damien-quinn-oh",
+    "category_position": 15,
     "gender_position": 28,
-    "awards": [
-      "🥇 mO"
-    ],
-    "highlight": "🥇"
+    "awards": [],
+    "highlight": null
   },
   {
     "Position": 30,
@@ -473,7 +471,7 @@
     "Chip Time": "0:31:37",
     "Gun Time": "0:31:39",
     "runner_id": "david-somerville",
-    "category_position": 15,
+    "category_position": 16,
     "gender_position": 29,
     "awards": [],
     "highlight": null
@@ -582,7 +580,7 @@
     "Chip Time": "0:32:22",
     "Gun Time": "0:32:25",
     "runner_id": "allastair-barron",
-    "category_position": 16,
+    "category_position": 17,
     "gender_position": 36,
     "awards": [],
     "highlight": null
@@ -597,7 +595,7 @@
     "Chip Time": "0:32:26",
     "Gun Time": "0:32:31",
     "runner_id": "jonathan-mcsorley",
-    "category_position": 18,
+    "category_position": 19,
     "gender_position": 38,
     "awards": [],
     "highlight": null
@@ -627,7 +625,7 @@
     "Chip Time": "0:32:22",
     "Gun Time": "0:32:35",
     "runner_id": "darren-mcsorley",
-    "category_position": 17,
+    "category_position": 18,
     "gender_position": 37,
     "awards": [],
     "highlight": null
@@ -657,7 +655,7 @@
     "Chip Time": "0:32:30",
     "Gun Time": "0:32:38",
     "runner_id": "keih-weir",
-    "category_position": 19,
+    "category_position": 20,
     "gender_position": 39,
     "awards": [],
     "highlight": null
@@ -672,7 +670,7 @@
     "Chip Time": "0:32:45",
     "Gun Time": "0:32:49",
     "runner_id": "connor-martin",
-    "category_position": 21,
+    "category_position": 22,
     "gender_position": 43,
     "awards": [],
     "highlight": null
@@ -702,7 +700,7 @@
     "Chip Time": "0:32:37",
     "Gun Time": "0:33:03",
     "runner_id": "eugene-liam-mccarroll",
-    "category_position": 20,
+    "category_position": 21,
     "gender_position": 42,
     "awards": [],
     "highlight": null
@@ -863,7 +861,7 @@
     "Chip Time": "0:33:43",
     "Gun Time": "0:33:49",
     "runner_id": "shane-mullan",
-    "category_position": 22,
+    "category_position": 23,
     "gender_position": 51,
     "awards": [],
     "highlight": null
@@ -923,7 +921,7 @@
     "Chip Time": "0:33:49",
     "Gun Time": "0:34:04",
     "runner_id": "shane-murphy",
-    "category_position": 23,
+    "category_position": 24,
     "gender_position": 53,
     "awards": [],
     "highlight": null
@@ -955,7 +953,7 @@
     "Chip Time": "0:33:57",
     "Gun Time": "0:34:09",
     "runner_id": "aodhn-odonnell",
-    "category_position": 24,
+    "category_position": 25,
     "gender_position": 57,
     "awards": [],
     "highlight": null
@@ -1064,7 +1062,7 @@
     "Chip Time": "0:34:08",
     "Gun Time": "0:34:25",
     "runner_id": "dan-tuohey",
-    "category_position": 25,
+    "category_position": 26,
     "gender_position": 60,
     "awards": [],
     "highlight": null
@@ -1109,7 +1107,7 @@
     "Chip Time": "0:34:24",
     "Gun Time": "0:34:30",
     "runner_id": "noel-conway",
-    "category_position": 26,
+    "category_position": 27,
     "gender_position": 66,
     "awards": [],
     "highlight": null
@@ -1168,7 +1166,7 @@
     "Lap of Lough": "0:08:18",
     "Chip Time": "0:34:27",
     "Gun Time": "0:34:42",
-    "runner_id": "barry-mcelduff",
+    "runner_id": "barry-mcelduff-tex",
     "category_position": 13,
     "gender_position": 67,
     "awards": [],
@@ -1229,7 +1227,7 @@
     "Chip Time": "0:34:39",
     "Gun Time": "0:34:57",
     "runner_id": "christopher-gillen",
-    "category_position": 27,
+    "category_position": 28,
     "gender_position": 72,
     "awards": [],
     "highlight": null
@@ -1321,7 +1319,7 @@
     "Chip Time": "0:34:54",
     "Gun Time": "0:35:04",
     "runner_id": "sean-mc-sorley",
-    "category_position": 29,
+    "category_position": 30,
     "gender_position": 79,
     "awards": [],
     "highlight": null
@@ -1336,7 +1334,7 @@
     "Chip Time": "0:34:52",
     "Gun Time": "0:35:05",
     "runner_id": "oran-donnelly",
-    "category_position": 28,
+    "category_position": 29,
     "gender_position": 77,
     "awards": [],
     "highlight": null
@@ -1381,7 +1379,7 @@
     "Chip Time": "0:35:03",
     "Gun Time": "0:35:14",
     "runner_id": "steven-fearon",
-    "category_position": 31,
+    "category_position": 32,
     "gender_position": 83,
     "awards": [],
     "highlight": null
@@ -1396,7 +1394,7 @@
     "Chip Time": "0:34:56",
     "Gun Time": "0:35:14",
     "runner_id": "dean-fox",
-    "category_position": 30,
+    "category_position": 31,
     "gender_position": 81,
     "awards": [],
     "highlight": null
@@ -1428,7 +1426,7 @@
     "Chip Time": "0:35:08",
     "Gun Time": "0:35:22",
     "runner_id": "benny-ward",
-    "category_position": 33,
+    "category_position": 34,
     "gender_position": 86,
     "awards": [],
     "highlight": null
@@ -1442,8 +1440,8 @@
     "Lap of Lough": "0:08:34",
     "Chip Time": "0:35:07",
     "Gun Time": "0:35:26",
-    "runner_id": "shane-coyle",
-    "category_position": 32,
+    "runner_id": "shane-coyle-greencastle",
+    "category_position": 33,
     "gender_position": 85,
     "awards": [],
     "highlight": null
@@ -1488,7 +1486,7 @@
     "Chip Time": "0:35:17",
     "Gun Time": "0:35:30",
     "runner_id": "michael-lindsay",
-    "category_position": 35,
+    "category_position": 36,
     "gender_position": 89,
     "awards": [],
     "highlight": null
@@ -1517,9 +1515,9 @@
     "Lap of Lough": "0:08:17",
     "Chip Time": "0:35:13",
     "Gun Time": "0:35:35",
-    "runner_id": "damien-quinn",
-    "category_position": 34,
-    "gender_position": 28,
+    "runner_id": "damien-quinn-loup",
+    "category_position": 35,
+    "gender_position": 87,
     "awards": [],
     "highlight": null
   },
@@ -1533,7 +1531,7 @@
     "Chip Time": "0:35:34",
     "Gun Time": "0:35:36",
     "runner_id": "peadar-mccaul",
-    "category_position": 36,
+    "category_position": 37,
     "gender_position": 93,
     "awards": [],
     "highlight": null
@@ -1580,7 +1578,7 @@
     "Chip Time": "0:35:34",
     "Gun Time": "0:35:46",
     "runner_id": "graeme-bennett",
-    "category_position": 37,
+    "category_position": 38,
     "gender_position": 94,
     "awards": [],
     "highlight": null
@@ -1595,7 +1593,7 @@
     "Chip Time": "0:35:41",
     "Gun Time": "0:35:48",
     "runner_id": "christopher-forde",
-    "category_position": 38,
+    "category_position": 39,
     "gender_position": 96,
     "awards": [],
     "highlight": null
@@ -1644,7 +1642,7 @@
     "Chip Time": "0:35:55",
     "Gun Time": "0:35:59",
     "runner_id": "joseph-mcvey",
-    "category_position": 42,
+    "category_position": 43,
     "gender_position": 103,
     "awards": [],
     "highlight": null
@@ -1706,7 +1704,7 @@
     "Chip Time": "0:35:45",
     "Gun Time": "0:36:03",
     "runner_id": "sean-warnock",
-    "category_position": 39,
+    "category_position": 40,
     "gender_position": 98,
     "awards": [],
     "highlight": null
@@ -1721,7 +1719,7 @@
     "Chip Time": "0:35:53",
     "Gun Time": "0:36:04",
     "runner_id": "oisin-devlin",
-    "category_position": 41,
+    "category_position": 42,
     "gender_position": 102,
     "awards": [],
     "highlight": null
@@ -1843,7 +1841,7 @@
     "Chip Time": "0:35:51",
     "Gun Time": "0:36:24",
     "runner_id": "fearghal-ward",
-    "category_position": 40,
+    "category_position": 41,
     "gender_position": 101,
     "awards": [],
     "highlight": null
@@ -1918,7 +1916,7 @@
     "Chip Time": "0:36:13",
     "Gun Time": "0:36:31",
     "runner_id": "dominic-mccaskie",
-    "category_position": 43,
+    "category_position": 44,
     "gender_position": 110,
     "awards": [],
     "highlight": null
@@ -2012,7 +2010,7 @@
     "Chip Time": "0:36:23",
     "Gun Time": "0:36:41",
     "runner_id": "liam-mcilvenna",
-    "category_position": 45,
+    "category_position": 46,
     "gender_position": 118,
     "awards": [],
     "highlight": null
@@ -2027,7 +2025,7 @@
     "Chip Time": "0:36:13",
     "Gun Time": "0:36:41",
     "runner_id": "ryan-corr",
-    "category_position": 44,
+    "category_position": 45,
     "gender_position": 111,
     "awards": [],
     "highlight": null
@@ -2116,7 +2114,7 @@
     "Lap of Lough": "0:08:29",
     "Chip Time": "0:36:23",
     "Gun Time": "0:36:44",
-    "runner_id": "padraig-mcdermott",
+    "runner_id": "padraig-mcdermott-otc",
     "category_position": 21,
     "gender_position": 119,
     "awards": [],
@@ -2132,7 +2130,7 @@
     "Chip Time": "0:36:37",
     "Gun Time": "0:36:45",
     "runner_id": "brian-hackett",
-    "category_position": 47,
+    "category_position": 48,
     "gender_position": 126,
     "awards": [],
     "highlight": null
@@ -2254,7 +2252,7 @@
     "Chip Time": "0:36:56",
     "Gun Time": "0:36:58",
     "runner_id": "neil-mullan",
-    "category_position": 51,
+    "category_position": 52,
     "gender_position": 141,
     "awards": [],
     "highlight": null
@@ -2286,7 +2284,7 @@
     "Chip Time": "0:36:46",
     "Gun Time": "0:37:02",
     "runner_id": "john-mcelroy",
-    "category_position": 48,
+    "category_position": 49,
     "gender_position": 131,
     "awards": [],
     "highlight": null
@@ -2316,7 +2314,7 @@
     "Chip Time": "0:36:48",
     "Gun Time": "0:37:04",
     "runner_id": "damien-mc-kenna",
-    "category_position": 49,
+    "category_position": 50,
     "gender_position": 135,
     "awards": [],
     "highlight": null
@@ -2361,7 +2359,7 @@
     "Chip Time": "0:37:04",
     "Gun Time": "0:37:11",
     "runner_id": "sean-okane",
-    "category_position": 54,
+    "category_position": 55,
     "gender_position": 146,
     "awards": [],
     "highlight": null
@@ -2391,7 +2389,7 @@
     "Chip Time": "0:36:32",
     "Gun Time": "0:37:12",
     "runner_id": "padraig-donovan",
-    "category_position": 46,
+    "category_position": 47,
     "gender_position": 125,
     "awards": [],
     "highlight": null
@@ -2423,7 +2421,7 @@
     "Chip Time": "0:36:52",
     "Gun Time": "0:37:13",
     "runner_id": "nigel-brannigan",
-    "category_position": 50,
+    "category_position": 51,
     "gender_position": 137,
     "awards": [],
     "highlight": null
@@ -2453,7 +2451,7 @@
     "Chip Time": "0:37:01",
     "Gun Time": "0:37:14",
     "runner_id": "ronan-mcaleer",
-    "category_position": 52,
+    "category_position": 53,
     "gender_position": 143,
     "awards": [],
     "highlight": null
@@ -2514,8 +2512,8 @@
     "Lap of Lough": "0:08:10",
     "Chip Time": "0:37:02",
     "Gun Time": "0:37:21",
-    "runner_id": "patrick-mullan",
-    "category_position": 53,
+    "runner_id": "patrick-mullan-omagh",
+    "category_position": 54,
     "gender_position": 144,
     "awards": [],
     "highlight": null
@@ -2545,7 +2543,7 @@
     "Chip Time": "0:37:18",
     "Gun Time": "0:37:30",
     "runner_id": "gareth-fegan-east-down",
-    "category_position": 55,
+    "category_position": 56,
     "gender_position": 150,
     "awards": [],
     "highlight": null
@@ -2697,7 +2695,7 @@
     "Chip Time": "0:37:45",
     "Gun Time": "0:38:06",
     "runner_id": "michael-toner",
-    "category_position": 56,
+    "category_position": 57,
     "gender_position": 155,
     "awards": [],
     "highlight": null
@@ -2726,7 +2724,7 @@
     "Lap of Lough": "0:09:05",
     "Chip Time": "0:37:55",
     "Gun Time": "0:38:08",
-    "runner_id": "ciaran-mccaffrey",
+    "runner_id": "ciaran-mccaffrey-clones",
     "category_position": 24,
     "gender_position": 160,
     "awards": [],
@@ -2789,7 +2787,7 @@
     "Chip Time": "0:38:06",
     "Gun Time": "0:38:13",
     "runner_id": "ronan-curran",
-    "category_position": 59,
+    "category_position": 60,
     "gender_position": 165,
     "awards": [],
     "highlight": null
@@ -2834,7 +2832,7 @@
     "Chip Time": "0:38:05",
     "Gun Time": "0:38:20",
     "runner_id": "gavin-ohagan",
-    "category_position": 58,
+    "category_position": 59,
     "gender_position": 164,
     "awards": [],
     "highlight": null
@@ -2894,7 +2892,7 @@
     "Chip Time": "0:37:51",
     "Gun Time": "0:38:35",
     "runner_id": "jordan-quinn",
-    "category_position": 57,
+    "category_position": 58,
     "gender_position": 158,
     "awards": [],
     "highlight": null
@@ -2986,7 +2984,7 @@
     "Chip Time": "0:38:23",
     "Gun Time": "0:38:45",
     "runner_id": "mark-mckenna",
-    "category_position": 60,
+    "category_position": 61,
     "gender_position": 172,
     "awards": [],
     "highlight": null
@@ -3001,7 +2999,7 @@
     "Chip Time": "0:38:33",
     "Gun Time": "0:38:48",
     "runner_id": "paddy-boyle",
-    "category_position": 62,
+    "category_position": 63,
     "gender_position": 177,
     "awards": [],
     "highlight": null
@@ -3106,7 +3104,7 @@
     "Chip Time": "0:38:30",
     "Gun Time": "0:39:02",
     "runner_id": "aidy-ogara",
-    "category_position": 61,
+    "category_position": 62,
     "gender_position": 176,
     "awards": [],
     "highlight": null
@@ -3121,7 +3119,7 @@
     "Chip Time": "0:38:51",
     "Gun Time": "0:39:03",
     "runner_id": "paddy-jaughey",
-    "category_position": 63,
+    "category_position": 64,
     "gender_position": 185,
     "awards": [],
     "highlight": null
@@ -3227,9 +3225,9 @@
     "Lap of Lough": "0:09:44",
     "Chip Time": "0:38:53",
     "Gun Time": "0:39:18",
-    "runner_id": "michael-toner",
+    "runner_id": "michael-toner-loughmacrory",
     "category_position": 34,
-    "gender_position": 155,
+    "gender_position": 186,
     "awards": [],
     "highlight": null
   },
@@ -3273,7 +3271,7 @@
     "Chip Time": "0:39:08",
     "Gun Time": "0:39:22",
     "runner_id": "anthony-mcgrath",
-    "category_position": 64,
+    "category_position": 65,
     "gender_position": 192,
     "awards": [],
     "highlight": null
@@ -3456,9 +3454,9 @@
     "Lap of Lough": "0:10:11",
     "Chip Time": "0:39:30",
     "Gun Time": "0:39:41",
-    "runner_id": "kevin-smyth",
-    "category_position": 65,
-    "gender_position": 64,
+    "runner_id": "kevin-smyth-otc",
+    "category_position": 66,
+    "gender_position": 200,
     "awards": [],
     "highlight": null
   },
@@ -3607,7 +3605,7 @@
     "Chip Time": "0:40:08",
     "Gun Time": "0:40:14",
     "runner_id": "kevin-forde",
-    "category_position": 67,
+    "category_position": 68,
     "gender_position": 212,
     "awards": [],
     "highlight": null
@@ -3727,7 +3725,7 @@
     "Chip Time": "0:39:52",
     "Gun Time": "0:40:29",
     "runner_id": "cathal-corr",
-    "category_position": 66,
+    "category_position": 67,
     "gender_position": 206,
     "awards": [],
     "highlight": null
@@ -3774,7 +3772,7 @@
     "Chip Time": "0:40:23",
     "Gun Time": "0:40:36",
     "runner_id": "conor-garrik",
-    "category_position": 68,
+    "category_position": 69,
     "gender_position": 214,
     "awards": [],
     "highlight": null
@@ -3879,7 +3877,7 @@
     "Chip Time": "0:40:44",
     "Gun Time": "0:40:53",
     "runner_id": "declan-mckernan",
-    "category_position": 69,
+    "category_position": 70,
     "gender_position": 222,
     "awards": [],
     "highlight": null
@@ -3887,13 +3885,13 @@
   {
     "Position": 254,
     "Bib no.": 426,
-    "Name": "",
+    "Name": "Unknown",
     "Club": "",
     "Category": "O",
     "Lap of Lough": "0:09:41",
     "Chip Time": "0:40:38",
     "Gun Time": "0:40:55",
-    "runner_id": "unknown-runner-1",
+    "runner_id": "unknown",
     "category_position": 1,
     "gender_position": null,
     "awards": [
@@ -3941,7 +3939,7 @@
     "Chip Time": "0:40:45",
     "Gun Time": "0:41:03",
     "runner_id": "robert-robinson",
-    "category_position": 70,
+    "category_position": 71,
     "gender_position": 224,
     "awards": [],
     "highlight": null
@@ -3986,7 +3984,7 @@
     "Chip Time": "0:40:47",
     "Gun Time": "0:41:13",
     "runner_id": "paul-mckenna",
-    "category_position": 71,
+    "category_position": 72,
     "gender_position": 225,
     "awards": [],
     "highlight": null
@@ -4076,7 +4074,7 @@
     "Chip Time": "0:41:17",
     "Gun Time": "0:41:22",
     "runner_id": "paul-donaghy",
-    "category_position": 75,
+    "category_position": 76,
     "gender_position": 233,
     "awards": [],
     "highlight": null
@@ -4136,7 +4134,7 @@
     "Chip Time": "0:40:50",
     "Gun Time": "0:41:31",
     "runner_id": "brian-kelly",
-    "category_position": 72,
+    "category_position": 73,
     "gender_position": 228,
     "awards": [],
     "highlight": null
@@ -4151,7 +4149,7 @@
     "Chip Time": "0:40:50",
     "Gun Time": "0:41:31",
     "runner_id": "patrick-kelly",
-    "category_position": 73,
+    "category_position": 74,
     "gender_position": 229,
     "awards": [],
     "highlight": null
@@ -4196,7 +4194,7 @@
     "Chip Time": "0:41:16",
     "Gun Time": "0:41:51",
     "runner_id": "barry-mc-gillion",
-    "category_position": 74,
+    "category_position": 75,
     "gender_position": 232,
     "awards": [],
     "highlight": null
@@ -4271,7 +4269,7 @@
     "Chip Time": "0:42:02",
     "Gun Time": "0:42:16",
     "runner_id": "colm-mcguone",
-    "category_position": 76,
+    "category_position": 77,
     "gender_position": 238,
     "awards": [],
     "highlight": null
@@ -4421,7 +4419,7 @@
     "Chip Time": "0:42:40",
     "Gun Time": "0:42:46",
     "runner_id": "ryan-grimley",
-    "category_position": 77,
+    "category_position": 78,
     "gender_position": 244,
     "awards": [],
     "highlight": null
@@ -4676,7 +4674,7 @@
     "Chip Time": "0:43:06",
     "Gun Time": "0:43:34",
     "runner_id": "cathal-armstrong",
-    "category_position": 78,
+    "category_position": 79,
     "gender_position": 252,
     "awards": [],
     "highlight": null
@@ -5081,7 +5079,7 @@
     "Chip Time": "0:43:59",
     "Gun Time": "0:44:39",
     "runner_id": "niall-mcclements",
-    "category_position": 79,
+    "category_position": 80,
     "gender_position": 263,
     "awards": [],
     "highlight": null
@@ -5111,7 +5109,7 @@
     "Chip Time": "0:44:18",
     "Gun Time": "0:44:45",
     "runner_id": "aidan-kelly",
-    "category_position": 80,
+    "category_position": 81,
     "gender_position": 266,
     "awards": [],
     "highlight": null
@@ -5156,7 +5154,7 @@
     "Chip Time": "0:44:27",
     "Gun Time": "0:44:54",
     "runner_id": "donall-sweeney",
-    "category_position": 81,
+    "category_position": 82,
     "gender_position": 267,
     "awards": [],
     "highlight": null
@@ -5231,7 +5229,7 @@
     "Chip Time": "0:44:38",
     "Gun Time": "0:45:18",
     "runner_id": "james-kearney",
-    "category_position": 82,
+    "category_position": 83,
     "gender_position": 269,
     "awards": [],
     "highlight": null
@@ -5246,7 +5244,7 @@
     "Chip Time": "0:44:45",
     "Gun Time": "0:45:21",
     "runner_id": "stephen-harte",
-    "category_position": 83,
+    "category_position": 84,
     "gender_position": 271,
     "awards": [],
     "highlight": null
@@ -5335,7 +5333,7 @@
     "Lap of Lough": "0:10:34",
     "Chip Time": "0:44:53",
     "Gun Time": "0:45:30",
-    "runner_id": "brian-conway",
+    "runner_id": "brian-conway-2",
     "category_position": 25,
     "gender_position": 275,
     "awards": [],
@@ -5638,7 +5636,7 @@
     "Chip Time": "0:46:24",
     "Gun Time": "0:46:38",
     "runner_id": "finbar-maguire",
-    "category_position": 84,
+    "category_position": 85,
     "gender_position": 287,
     "awards": [],
     "highlight": null
@@ -5682,7 +5680,7 @@
     "Lap of Lough": "0:11:01",
     "Chip Time": "0:46:14",
     "Gun Time": "0:46:43",
-    "runner_id": "kevin-gormley",
+    "runner_id": "kevin-gormley-carmen",
     "category_position": 44,
     "gender_position": 284,
     "awards": [],
@@ -5863,7 +5861,7 @@
     "Chip Time": "0:46:35",
     "Gun Time": "0:47:14",
     "runner_id": "declan-mcclements",
-    "category_position": 85,
+    "category_position": 86,
     "gender_position": 293,
     "awards": [],
     "highlight": null
@@ -5908,7 +5906,7 @@
     "Chip Time": "0:46:46",
     "Gun Time": "0:47:26",
     "runner_id": "joe-melarkey",
-    "category_position": 86,
+    "category_position": 87,
     "gender_position": 294,
     "awards": [],
     "highlight": null
@@ -5983,7 +5981,7 @@
     "Chip Time": "0:47:20",
     "Gun Time": "0:47:33",
     "runner_id": "shane-mckenna",
-    "category_position": 87,
+    "category_position": 88,
     "gender_position": 302,
     "awards": [],
     "highlight": null
@@ -6407,7 +6405,7 @@
     "Chip Time": "0:48:33",
     "Gun Time": "0:49:05",
     "runner_id": "rose-corr-pomeroy",
-    "category_position": 88,
+    "category_position": 89,
     "gender_position": 310,
     "awards": [],
     "highlight": null
@@ -6437,7 +6435,7 @@
     "Chip Time": "0:48:41",
     "Gun Time": "0:49:11",
     "runner_id": "sean-canavan-omagh",
-    "category_position": 90,
+    "category_position": 91,
     "gender_position": 312,
     "awards": [],
     "highlight": null
@@ -6467,7 +6465,7 @@
     "Chip Time": "0:48:35",
     "Gun Time": "0:49:15",
     "runner_id": "kevin-mcveigh",
-    "category_position": 89,
+    "category_position": 90,
     "gender_position": 311,
     "awards": [],
     "highlight": null
@@ -6604,7 +6602,7 @@
     "Chip Time": "0:49:37",
     "Gun Time": "0:49:42",
     "runner_id": "aidan-doyle-2",
-    "category_position": 91,
+    "category_position": 92,
     "gender_position": 318,
     "awards": [],
     "highlight": null
@@ -6844,7 +6842,7 @@
     "Chip Time": "0:50:01",
     "Gun Time": "0:50:37",
     "runner_id": "barry-campbell",
-    "category_position": 92,
+    "category_position": 93,
     "gender_position": 321,
     "awards": [],
     "highlight": null
@@ -6919,7 +6917,7 @@
     "Chip Time": "0:50:47",
     "Gun Time": "0:50:51",
     "runner_id": "dan-rose",
-    "category_position": 94,
+    "category_position": 95,
     "gender_position": 324,
     "awards": [],
     "highlight": null
@@ -6934,7 +6932,7 @@
     "Chip Time": "0:50:26",
     "Gun Time": "0:50:55",
     "runner_id": "neill-mcelduff",
-    "category_position": 93,
+    "category_position": 94,
     "gender_position": 322,
     "awards": [],
     "highlight": null
@@ -7009,7 +7007,7 @@
     "Chip Time": "0:50:47",
     "Gun Time": "0:51:23",
     "runner_id": "barry-murphy",
-    "category_position": 95,
+    "category_position": 96,
     "gender_position": 325,
     "awards": [],
     "highlight": null
@@ -7206,7 +7204,7 @@
     "Chip Time": "0:52:08",
     "Gun Time": "0:52:37",
     "runner_id": "shaun-armstrong",
-    "category_position": 96,
+    "category_position": 97,
     "gender_position": 327,
     "awards": [],
     "highlight": null
@@ -7311,7 +7309,7 @@
     "Chip Time": "0:53:10",
     "Gun Time": "0:53:40",
     "runner_id": "ronan-coyle",
-    "category_position": 97,
+    "category_position": 98,
     "gender_position": 333,
     "awards": [],
     "highlight": null
@@ -7716,7 +7714,7 @@
     "Chip Time": "0:56:19",
     "Gun Time": "0:56:55",
     "runner_id": "diarmaid-mcgurk",
-    "category_position": 98,
+    "category_position": 99,
     "gender_position": 343,
     "awards": [],
     "highlight": null
@@ -8030,9 +8028,9 @@
     "Lap of Lough": "0:14:57",
     "Chip Time": "1:02:10",
     "Gun Time": "1:02:49",
-    "runner_id": "mark-mcaleer",
-    "category_position": 99,
-    "gender_position": 189,
+    "runner_id": "mark-mcaleer-loughmacrory",
+    "category_position": 100,
+    "gender_position": 349,
     "awards": [],
     "highlight": null
   },
