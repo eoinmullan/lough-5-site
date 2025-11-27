@@ -699,18 +699,23 @@
       ],
       "total_races": 1
     },
-    "damian-quinn": {
-      "runner_id": "damian-quinn",
-      "canonical_name": "Damian Quinn",
+    "damien-quinn-loup": {
+      "runner_id": "damien-quinn-loup",
+      "canonical_name": "Damien Quinn",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Creggan",
+      "most_common_club": "The Loup",
       "most_common_club_source": "automatic",
       "years": [
         2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2015,
         2018
       ],
-      "total_races": 2
+      "total_races": 7
     },
     "peter-gormley": {
       "runner_id": "peter-gormley",
@@ -6216,22 +6221,6 @@
         2010
       ],
       "total_races": 1
-    },
-    "damien-quinn-loup": {
-      "runner_id": "damien-quinn-loup",
-      "canonical_name": "Damien Quinn",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "The Loup",
-      "most_common_club_source": "automatic",
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2015
-      ],
-      "total_races": 5
     },
     "turlach-mac-giolla-cheara": {
       "runner_id": "turlach-mac-giolla-cheara",
@@ -16162,21 +16151,17 @@
       ],
       "total_races": 1
     },
-    "denise-mccann": {
-      "runner_id": "denise-mccann",
+    "denise-mccann-2": {
+      "runner_id": "denise-mccann-2",
       "canonical_name": "Denise McCann",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "Galbally Runners",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2012,
-        2018,
-        2020,
-        2021,
-        2022
+        2012
       ],
-      "total_races": 5
+      "total_races": 1
     },
     "ivan-toner": {
       "runner_id": "ivan-toner",
@@ -34573,6 +34558,21 @@
         2018
       ],
       "total_races": 1
+    },
+    "denise-mccann": {
+      "runner_id": "denise-mccann",
+      "canonical_name": "Denise McCann",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "Galbally Runners",
+      "most_common_club_source": "automatic",
+      "years": [
+        2018,
+        2020,
+        2021,
+        2022
+      ],
+      "total_races": 4
     },
     "vinnie-mcatee": {
       "runner_id": "vinnie-mcatee",
@@ -55126,7 +55126,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-12T22:30:06.002Z",
+    "generated": "2025-11-27T09:27:38.269Z",
     "years_included": [
       2009,
       2010,
