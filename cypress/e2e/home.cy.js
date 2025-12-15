@@ -86,4 +86,68 @@ describe('Home Page - Smoke Tests', () => {
     cy.get('nav.navbar a').contains('Records').click()
     cy.url().should('include', 'records.html')
   })
+
+  describe('Prizes Section', () => {
+    it('should display prizes section on desktop', () => {
+      cy.viewport(1920, 1080)
+
+      // Check prizes section exists
+      cy.get('.prizes-section').should('be.visible')
+      cy.get('.prizes-title').should('contain', 'Prizes')
+
+      // Check podium prizes
+      cy.get('.prize-podium').should('be.visible')
+      cy.get('.prize-gold').should('be.visible').within(() => {
+        cy.contains('1st').should('be.visible')
+        cy.contains('£150').should('be.visible')
+      })
+      cy.get('.prize-silver').should('be.visible').within(() => {
+        cy.contains('2nd').should('be.visible')
+        cy.contains('£100').should('be.visible')
+      })
+      cy.get('.prize-bronze').should('be.visible').within(() => {
+        cy.contains('3rd').should('be.visible')
+        cy.contains('£50').should('be.visible')
+      })
+
+      // Check additional prizes
+      cy.get('.additional-prizes').should('be.visible')
+      cy.get('.prize-item').should('have.length', 4)
+      cy.contains('£100 bonus for new course record').should('be.visible')
+      cy.contains('Prizes for the top 2 in each age category').should('be.visible')
+      cy.contains('Team prizes').should('be.visible')
+      cy.contains('Spot prizes').should('be.visible')
+    })
+
+    it('should display prizes section on mobile', () => {
+      cy.viewport('iphone-x')
+
+      // Check prizes section exists and is visible on mobile
+      cy.get('.prizes-section').should('be.visible')
+      cy.get('.prizes-title').should('contain', 'Prizes')
+
+      // Check podium prizes are visible on mobile
+      cy.get('.prize-podium').should('be.visible')
+      cy.get('.prize-gold').should('be.visible').within(() => {
+        cy.contains('1st').should('be.visible')
+        cy.contains('£150').should('be.visible')
+      })
+      cy.get('.prize-silver').should('be.visible').within(() => {
+        cy.contains('2nd').should('be.visible')
+        cy.contains('£100').should('be.visible')
+      })
+      cy.get('.prize-bronze').should('be.visible').within(() => {
+        cy.contains('3rd').should('be.visible')
+        cy.contains('£50').should('be.visible')
+      })
+
+      // Check additional prizes are visible and readable on mobile
+      cy.get('.additional-prizes').should('be.visible')
+      cy.get('.prize-item').should('have.length', 4)
+      cy.contains('£100 bonus for new course record').should('be.visible')
+      cy.contains('Prizes for the top 2 in each age category').should('be.visible')
+      cy.contains('Team prizes').should('be.visible')
+      cy.contains('Spot prizes').should('be.visible')
+    })
+  })
 })
