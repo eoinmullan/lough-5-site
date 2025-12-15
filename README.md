@@ -2,6 +2,13 @@
 
 A comprehensive website for a local charity 5 mile race held annually on December 31st in Loughmacrory, Northern Ireland. Built with HTML, CSS, Alpine.js, and Chart.js.
 
+## Quick Links
+
+- **[Development Guide](DEVELOPMENT.md)** - Local development, building, and testing
+- **[Data Management Guide](DATA_MANAGEMENT.md)** - Runner database, adding results, managing profiles
+- **[Deployment Guide](DEPLOYMENT.md)** - Building and deploying to production
+- **[Scripts Documentation](scripts/README.md)** - Detailed technical documentation for data processing scripts
+
 ## Project Overview
 
 This website provides information about the Lough 5 Road Race, including:
@@ -80,16 +87,6 @@ This website provides information about the Lough 5 Road Race, including:
 └── README.md             # Project documentation
 ```
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- [Alpine.js](https://alpinejs.dev/) - Lightweight JavaScript framework for client-side interactivity
-- [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting library
-- [esbuild](https://esbuild.github.io/) - Fast JavaScript bundler
-- Node.js - For data processing scripts
-- NPM for package management and build scripts
-
 ## Features
 
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices
@@ -131,281 +128,39 @@ This website provides information about the Lough 5 Road Race, including:
 ### Installation
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone <repository-url>
    cd lough-5-site
    ```
 
 2. Install dependencies:
-   ```
+   ```bash
    npm install
    ```
 
-### Development
+### Quick Start
 
-To run the development server with live reloading, you'll need to run two commands in separate terminal windows:
+Run the development server:
 
-**Terminal 1** - Watch and rebuild JavaScript:
 ```bash
+# Terminal 1 - Watch and rebuild JavaScript
 npm run dev-js
-```
 
-**Terminal 2** - Start the development server:
-```bash
+# Terminal 2 - Start development server
 npm run dev
 ```
 
-This will start a local server at http://localhost:3000 (or another available port) and automatically reload the page when you make changes to the HTML, CSS, or JSON files. The `dev-js` command watches for JavaScript changes and rebuilds the bundle automatically.
+Visit http://localhost:3000 to see the site.
 
-### Building for Production
+For detailed development, testing, and deployment instructions, see the guides linked at the top of this README.
 
-To build the project for production:
+## Technologies Used
 
-```
-npm run build
-```
-
-This will create a `dist` directory with all the necessary files for deployment. The build process:
-1. Creates the dist directory structure
-2. Copies all HTML files and assets to the dist directory
-3. Bundles and minifies all JavaScript files into a single bundle.js file using esbuild
-
-### Deploying to Production
-
-aws s3 sync dist/ s3://<bucket-name>/ --acl public-read --cache-control max-age=3600 --profile <profile-name> --delete
-
-### Serving the Production Build
-
-To serve the production build locally:
-
-```
-npm start
-```
-
-This will serve the files from the `dist` directory at http://localhost:5000 (or another available port).
-
-## Data Management
-
-### Runner Database System
-
-The website uses a comprehensive runner identification system that tracks runners across years. See [`scripts/README.md`](scripts/README.md) for complete documentation.
-
-**Key Concepts:**
-- Each runner has a unique `runner_id` stored in yearly results files
-- The database is generated from these source files (deterministic)
-- Fuzzy matching helps identify runners across years despite name variations
-- Interactive tools help resolve potential duplicates
-
-### Runner Profiles System
-
-The website features hand-researched profiles for 95 notable runners (medal winners and record holders). Profiles are stored in `assets/runner-profiles.json` and merged into individual runner stats during generation.
-
-**Profile Structure:**
-```json
-{
-  "runner-id": {
-    "headline": "Brief tagline (e.g., '2024 Champion and Olympian')",
-    "power_of_10": "URL or null",
-    "world_athletics": "URL or null",
-    "additional_links": ["URL to news articles, etc."],
-    "notable_achievements": [
-      "Achievement 1",
-      "Achievement 2"
-    ],
-    "above_the_fold": "~100 word biographical narrative"
-  }
-}
-```
-
-**Profile Criteria:**
-- Runner must have at least one medal (overall podium, category podium, or age group record)
-- Profiles focus on external achievements beyond Lough 5 statistics
-- Age record holders receive ~100 word profiles
-- Other medalists receive ~50 word profiles
-
-**Managing Profiles:**
-
-Generate list of runners needing profiles:
-```bash
-node generate-priority-candidates.js
-```
-
-This creates:
-- `priority-profile-candidates.json` - Machine-readable list
-- `priority-profile-candidates.md` - Human-readable list with criteria
-
-The script identifies runners who:
-1. Are in fastest 50 AND have a medal, OR
-2. Hold an age category record
-
-After adding profiles to `runner-profiles.json`, regenerate runner stats:
-```bash
-npm run generate-runner-stats
-```
-
-### Adding New Race Results
-
-**Quick Start:**
-1. Add new results file: `assets/results/YYYY.json` (without runner_ids)
-2. Assign runner IDs: `npm run assign-runner-ids`
-3. Review any duplicate warnings: `npm run review-duplicates`
-4. Generate all databases and records: `npm run generate-all`
-
-**Data Structure:**
-
-New results should follow this structure (without `runner_id` - it will be assigned):
-
-```json
-[
-  {
-    "Position": 1,
-    "Bib no.": 123,
-    "Name": "Runner Name",
-    "Category": "MO",
-    "Club": "Club Name",
-    "Lap of Lough": "0:05:59",
-    "Chip Time": "0:25:15",
-    "Gun Time": "0:25:15"
-  }
-]
-```
-
-**Note**: Some fields are optional and only present in certain years (e.g., "2 Miles", "Lap of Lough", "Gun Time").
-
-After assignment, results will include a `runner_id` field:
-```json
-{
-  "Position": 1,
-  "Name": "Runner Name",
-  "runner_id": "runner-name",
-  "Category": "MO",
-  "Chip Time": "0:25:15"
-}
-```
-
-### Available NPM Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run assign-runner-ids` | Assign unique IDs to runners in results files |
-| `npm run assign-runner-ids:dry-run` | Preview ID assignments without writing |
-| `npm run review-duplicates` | Interactively review and resolve duplicate runners |
-| `npm run generate-db` | Generate runner database from results files |
-| `npm run generate-masters-records` | Generate masters age group records |
-| `npm run generate-fastest-50` | Generate fastest 50 male/female lists |
-| `npm run generate-runner-stats` | Generate individual runner statistics files (includes profiles) |
-| `npm run add-position-fields` | Add position fields to runner stats |
-| `npm run generate-all` | Run all generation scripts in sequence |
-| `npm run check-duplicates` | Check for duplicate runner_ids within each results file |
-| `npm run build` | Build production site (copies files to dist/ and bundles JS) |
-| `npm run dev` | Start development server with live reload |
-| `npm run dev-js` | Watch and rebuild JavaScript bundle |
-| `npm test` | Run Cypress e2e tests |
-
-### Common Workflows
-
-**After adding new year results:**
-```bash
-npm run assign-runner-ids        # Assign IDs to new results
-npm run review-duplicates         # Resolve any duplicates (if needed)
-npm run generate-all              # Regenerate all databases and records
-```
-
-**After fixing typos or updating data:**
-```bash
-npm run generate-all              # Regenerate everything from source files
-```
-
-**Checking data quality:**
-```bash
-npm run check-duplicates          # Find duplicate runner_ids in results files
-```
-
-This will identify:
-- Same runner_id appearing twice in one year (data entry errors)
-- Runners who may need different IDs (different people with same name)
-- Unknown/missing runner entries
-
-After fixing duplicates in source files, run `npm run generate-all`
-
-**Finding participation patterns:**
-```bash
-node scripts/find-highest-participation.js
-```
-
-**Managing runner profiles:**
-```bash
-# Generate list of runners needing profiles
-node generate-priority-candidates.js
-
-# After adding profiles to runner-profiles.json
-npm run generate-runner-stats
-
-# Build and deploy
-npm run build
-aws s3 sync dist/ s3://your-bucket/ --acl public-read --cache-control max-age=3600 --delete --profile your-profile
-```
-
-For detailed documentation on the runner database system and scripts, see [`scripts/README.md`](scripts/README.md).
-
-## Customization
-
-### Styling
-
-The website's appearance can be customized by modifying the CSS in `assets/style.css`. The design uses a color scheme based on amber yellow and charcoal gray.
-
-## Development Notes
-
-### Browser-Sync and injected.js
-
-When running the development server with `npm run dev`, Browser-Sync automatically injects a small JavaScript file (sometimes visible as "injected.js" in browser dev tools) into the page. This file enables live reloading and other development features.
-
-This is only present during development and is not included in the production build created by `npm run build`.
-
-### Testing
-
-The project includes a comprehensive Cypress e2e test suite with smoke tests for all pages. Test files are located in the `cypress/e2e/` directory.
-
-**Running Tests:**
-
-The development server must be running before executing tests. In a separate terminal, start the dev server:
-
-```bash
-npm run dev
-```
-
-Then run the tests:
-
-```bash
-# Run all tests in headless mode (CI-friendly)
-npm test
-
-# Open Cypress Test Runner (interactive mode)
-npm run test:open
-
-# Run tests with browser visible
-npm run test:headed
-
-# Run tests in specific browsers
-npm run test:chrome
-npm run test:firefox
-```
-
-**Test Coverage:**
-
-- **home.cy.js** - Home page smoke tests (navigation, content, responsiveness)
-- **results.cy.js** - Results page tests (search, filtering, year selection, URL parameters)
-- **records.cy.js** - Records page tests (category switching, search, filtering)
-- **course-and-location.cy.js** - Map pages tests (iframe loading, navigation)
-
-### URL Parameters
-
-The results and records pages support URL parameters for bookmarking specific searches:
-
-- **Results page**: `?year=2024&search=Smith`
-- **Records page**: `?category=fastest-50-male`
-
-This allows users to share direct links to specific search results.
+- HTML5, CSS3
+- [Alpine.js](https://alpinejs.dev/) - Lightweight JavaScript framework
+- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
+- [esbuild](https://esbuild.github.io/) - Fast JavaScript bundler
+- Node.js and NPM
 
 ## License
 
