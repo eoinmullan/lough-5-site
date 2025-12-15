@@ -127,13 +127,16 @@ describe('Runner Search and Stats Pages - Smoke Tests', () => {
       })
     })
 
-    it('should display "Back to Search" button', () => {
-      cy.get('a.btn.btn-secondary', { timeout: 10000 }).contains('Back to Search').should('be.visible')
-      cy.get('a.btn.btn-secondary').contains('Back to Search').should('have.attr', 'href', 'runner-search.html')
+    it('should display "Back" button', () => {
+      cy.get('button.btn.btn-secondary', { timeout: 10000 }).contains('Back').should('be.visible')
     })
 
-    it('should navigate back to search page when clicking back button', () => {
-      cy.get('a.btn.btn-secondary', { timeout: 10000 }).contains('Back to Search').click()
+    it('should navigate back when clicking back button', () => {
+      cy.visit('/runner-search.html')
+      cy.get('input.search-input').type('mullan')
+      cy.get('tbody tr').first().click()
+      cy.url().should('include', 'runner-stats.html?runner=')
+      cy.get('button.btn.btn-secondary', { timeout: 10000 }).contains('Back').click()
       cy.url().should('include', 'runner-search.html')
     })
 
@@ -185,7 +188,7 @@ describe('Runner Search and Stats Pages - Smoke Tests', () => {
       cy.contains('Career Statistics', { timeout: 10000 }).should('be.visible')
 
       // Go back to search
-      cy.get('a.btn.btn-secondary', { timeout: 10000 }).contains('Back to Search').click()
+      cy.get('button.btn.btn-secondary', { timeout: 10000 }).contains('Back').click()
       cy.url().should('include', 'runner-search.html')
     })
   })

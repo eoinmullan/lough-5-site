@@ -124,7 +124,7 @@ describe('Records Page - Smoke Tests', () => {
   })
 
   it('should support URL parameters for category', () => {
-    cy.visit('/records.html?category=Fastest-50-Female')
+    cy.visit('/records.html?category=fastest-50-female')
     cy.wait(1000)
 
     // Check category is reflected in title
