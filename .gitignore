@@ -13,4 +13,5 @@ cypress/screenshots/
 cypress/videos/
 
 .claude
+CLAUDE.local.md
 assets/runner-stats/
