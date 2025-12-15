@@ -25,25 +25,13 @@ This guide covers local development, building, testing, and customizing the Loug
 
 ### Running the Development Server
 
-To run the development server with live reloading, you'll need to run two commands in separate terminal windows:
+To run the development server with live reloading:
 
-**Terminal 1** - Watch and rebuild JavaScript:
 ```bash
-npm run dev-js
+npm start
 ```
 
-**Terminal 2** - Start the development server:
-```bash
-npm run dev
-```
-
-This will start a local server at http://localhost:3000 (or another available port) and automatically reload the page when you make changes to the HTML, CSS, or JSON files. The `dev-js` command watches for JavaScript changes and rebuilds the bundle automatically.
-
-### Browser-Sync and injected.js
-
-When running the development server with `npm run dev`, Browser-Sync automatically injects a small JavaScript file (sometimes visible as "injected.js" in browser dev tools) into the page. This file enables live reloading and other development features.
-
-This is only present during development and is not included in the production build created by `npm run build`.
+This will start the Vite dev server at http://localhost:5173 with instant hot module reloading. Changes to HTML, CSS, JavaScript, or JSON files will be reflected immediately in your browser.
 
 ## Building for Production
 
@@ -54,19 +42,20 @@ npm run build
 ```
 
 This will create a `dist` directory with all the necessary files for deployment. The build process:
-1. Creates the dist directory structure
-2. Copies all HTML files and assets to the dist directory
-3. Bundles and minifies all JavaScript files into a single bundle.js file using esbuild
+1. Bundles and minifies all JavaScript using Vite/Rollup
+2. Processes all HTML files and injects optimized script/style tags
+3. Copies assets with cache-busting hashes (e.g., `main-abc123.js`)
+4. Outputs optimized, production-ready files to `dist/`
 
 ### Serving the Production Build Locally
 
-To serve the production build locally:
+To preview the production build locally:
 
 ```bash
-npm start
+npm run preview
 ```
 
-This will serve the files from the `dist` directory at http://localhost:5000 (or another available port).
+This will serve the files from the `dist` directory at http://localhost:4173.
 
 ## Testing
 
@@ -77,8 +66,10 @@ The project includes a comprehensive Cypress e2e test suite with smoke tests for
 The development server must be running before executing tests. In a separate terminal, start the dev server:
 
 ```bash
-npm run dev
+npm start
 ```
+
+> **Note**: Tests are configured to run against `localhost:5173` (Vite's default port). If you see connection errors, ensure no other process is using port 5173, or kill the conflicting process with `lsof -i :5173` and `kill -9 <PID>`.
 
 Then run the tests:
 
@@ -125,6 +116,6 @@ This allows users to share direct links to specific search results.
 - CSS3
 - [Alpine.js](https://alpinejs.dev/) - Lightweight JavaScript framework for client-side interactivity
 - [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting library
-- [esbuild](https://esbuild.github.io/) - Fast JavaScript bundler
+- [Vite](https://vitejs.dev/) - Next generation frontend tooling with instant HMR
 - Node.js - For data processing scripts
 - NPM for package management and build scripts

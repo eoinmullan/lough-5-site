@@ -143,14 +143,10 @@ This website provides information about the Lough 5 Road Race, including:
 Run the development server:
 
 ```bash
-# Terminal 1 - Watch and rebuild JavaScript
-npm run dev-js
-
-# Terminal 2 - Start development server
-npm run dev
+npm start
 ```
 
-Visit http://localhost:3000 to see the site.
+Visit http://localhost:5173 to see the site.
 
 For detailed development, testing, and deployment instructions, see the guides linked at the top of this README.
 
@@ -159,7 +155,7 @@ For detailed development, testing, and deployment instructions, see the guides l
 - HTML5, CSS3
 - [Alpine.js](https://alpinejs.dev/) - Lightweight JavaScript framework
 - [Chart.js](https://www.chartjs.org/) - JavaScript charting library
-- [esbuild](https://esbuild.github.io/) - Fast JavaScript bundler
+- [Vite](https://vitejs.dev/) - Next generation frontend tooling
 - Node.js and NPM
 
 ## License

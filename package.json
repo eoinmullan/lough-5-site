@@ -4,10 +4,9 @@
   "description": "A comprehensive website for a local charity 5 mile race with runner database, statistics, records tracking, and hand-researched profiles for 95 notable runners",
   "main": "index.html",
   "scripts": {
-    "start": "serve dist",
-    "build": "mkdir -p dist/assets/js && cp -r index.html location.html course.html results.html records.html runner-search.html runner-stats.html guidelines.html assets dist/ && npx esbuild src/js/main.js --bundle --minify --outfile=dist/assets/js/bundle.js",
-    "dev-js": "npx esbuild src/js/main.js --bundle --watch --outfile=assets/js/bundle.js",
-    "dev": "browser-sync start --server --files '**/*'",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "cypress run",
     "test:open": "cypress open",
     "test:headed": "cypress run --headed",
@@ -36,10 +35,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.29.3",
     "cypress": "^15.5.0",
-    "esbuild": "^0.19.5",
-    "serve": "^14.2.1"
+    "serve": "^14.2.1",
+    "vite": "^7.2.7"
   },
   "dependencies": {
     "alpinejs": "^3.13.0",
