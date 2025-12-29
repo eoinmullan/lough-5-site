@@ -96,6 +96,9 @@ ul {
 .main-section {
     color: #fff;
     position: relative;
+    .small-text {
+        font-size: 1.2rem;
+    }
 }
 
 /* Fix for mobile landscape mode */
