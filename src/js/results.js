@@ -194,7 +194,7 @@ export function resultsApp() {
 
     loadResultsForYear() {
       this.isLoading = true;
-      fetch(`assets/results/${this.selectedYear}.json`)
+      fetch(`results/${this.selectedYear}.json`)
         .then(response => response.json())
         .then(data => {
           // Transform the data to match the expected format

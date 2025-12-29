@@ -15,7 +15,7 @@ export function runnerSearchPage() {
 
     loadRunners() {
       this.isLoading = true;
-      fetch('assets/runner-database.json')
+      fetch('runner-database.json')
         .then(response => response.json())
         .then(data => {
           this.runners = data.runners;
@@ -80,7 +80,7 @@ export function runnerStatsPage() {
 
     loadRunnerStats(runnerId) {
       this.isLoading = true;
-      fetch(`assets/runner-stats/${runnerId}.json`)
+      fetch(`runner-stats/${runnerId}.json`)
         .then(response => {
           if (!response.ok) {
             throw new Error('Runner not found');

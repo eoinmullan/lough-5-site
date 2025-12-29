@@ -99,7 +99,7 @@ export function recordsApp() {
         filename = 'masters-women.json';
       }
 
-      fetch(`assets/records/${filename}`)
+      fetch(`records/${filename}`)
         .then(response => response.json())
         .then(data => {
           // Transform the data to match the expected format
