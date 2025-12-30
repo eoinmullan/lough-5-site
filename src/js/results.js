@@ -1,7 +1,7 @@
 export function resultsApp() {
   return {
     searchTerm: '',
-    selectedYear: '2024',
+    selectedYear: '2025',
     results: [],
     femaleOnly: false,
     highlightPosition: null,
@@ -91,7 +91,7 @@ export function resultsApp() {
 
       // Set selectedYear from URL parameter if it exists
       const yearParam = urlParams.get('year');
-      if (yearParam && ['2024', '2023', '2022', '2021', '2020', '2019', '2018',
+      if (yearParam && ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018',
         '2017', '2016', '2015', '2014', '2013', '2012', '2011',
         '2010', '2009'].includes(yearParam)) {
         this.selectedYear = yearParam;
@@ -121,7 +121,7 @@ export function resultsApp() {
       const urlParams = new URLSearchParams();
 
       // Add year parameter if not the default
-      if (this.selectedYear !== '2024') {
+      if (this.selectedYear !== '2025') {
         urlParams.set('year', this.selectedYear);
       }
 

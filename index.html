@@ -22,14 +22,23 @@
 </header>
 
 <section class="main-section">
-  <div class="overlay content">
+  <div class="overlay content" x-data>
     <h1>Lough 5 Road Race & Walk</h1>
-    <p>Registration for the Lough 5, 2025 race is now open!!</p>
-    <div>
-      <a href="https://in.njuko.com/lough-5-2025" target=”_blank” class="btn">Enter Now *</a>
+
+    <div x-show="!$store.results2025.available">
+      <p><strong>Online entry for the Lough 5, 2025 is now closed.</strong><br/>
+        Registration is still available in the Loughmacrory club rooms from 9:00 - 11:00 AM on race morning</p>
+      <p>Results will be posted here after the race!</p>
     </div>
-    <p class="small-text">* Due to the large number of entries received, we can't guarantee a commemorative medal for new entries.</p>
-    <p>See you on New Year's Eve!</p>
+
+    <div x-show="$store.results2025.available">
+      <p>The 2025 results are now available!</p>
+      <a href="results.html?year=2025" class="btn btn-primary" style="margin-top: 10px; display: inline-block;">View
+        2025 Results</a>
+      <p>Thanks to everyone who walked, ran, or helped out with the Lough 5, 2025!</p>
+      <p>See you again in 2026, and until then be sure to come back to <a href="https://www.parkrun.org.uk/loughmacrory/">Loughmacrory Parkrun</a>.</p>
+    </div>
+
     <p>For the latest news, updates, photos & more <a href="https://www.facebook.com/lough5run">follow us on
       Facebook</a></p>
   </div>
