@@ -55,12 +55,12 @@
   },
   {
     "Position": 7,
-    "Year": 2023,
-    "Name": "Peter O'Hara",
-    "Club": "Flying Machine",
+    "Year": 2025,
+    "Name": "Tony Toner",
+    "Club": "Tafelta AC",
     "Category": "M65",
-    "Finish Time": "0:34:24",
-    "runner_id": "peter-ohara"
+    "Finish Time": "0:32:28",
+    "runner_id": "tony-toner"
   },
   {
     "Position": 8,
@@ -73,11 +73,11 @@
   },
   {
     "Position": 9,
-    "Year": 2024,
-    "Name": "Pat O'Driscoll",
-    "Club": "North Down AC",
+    "Year": 2025,
+    "Name": "Martin Mcguigan",
+    "Club": "",
     "Category": "M75",
-    "Finish Time": "0:58:40",
-    "runner_id": "pat-odriscoll"
+    "Finish Time": "0:51:11",
+    "runner_id": "martin-mc-guigan"
   }
 ]

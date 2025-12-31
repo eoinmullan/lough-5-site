@@ -82,6 +82,15 @@
   },
   {
     "Position": 10,
+    "Year": 2025,
+    "Name": "Luke Dinsmore",
+    "Club": "Annadale Striders",
+    "Category": "MO",
+    "Finish Time": "0:25:25",
+    "runner_id": "luke-dinsmore"
+  },
+  {
+    "Position": 11,
     "Year": 2010,
     "Name": "Stephen Duncan",
     "Club": "Omagh Harriers",
@@ -90,7 +99,7 @@
     "runner_id": "stephen-duncan"
   },
   {
-    "Position": 11,
+    "Position": 12,
     "Year": 2024,
     "Name": "Kieran Kelly",
     "Club": "Raheny Shamrocks AC",
@@ -99,7 +108,7 @@
     "runner_id": "kieran-kelly"
   },
   {
-    "Position": 12,
+    "Position": 13,
     "Year": 2018,
     "Name": "Eoin Hughes",
     "Club": "Acorns AC",
@@ -108,7 +117,7 @@
     "runner_id": "eoin-hughes"
   },
   {
-    "Position": 13,
+    "Position": 14,
     "Year": 2018,
     "Name": "Conan McCaughey",
     "Club": "North Belfast Harriers",
@@ -117,7 +126,7 @@
     "runner_id": "conan-mccaughey"
   },
   {
-    "Position": 14,
+    "Position": 15,
     "Year": 2012,
     "Name": "Keith Shields",
     "Club": "Foyle Valley",
@@ -126,7 +135,7 @@
     "runner_id": "keith-shields"
   },
   {
-    "Position": 14,
+    "Position": 15,
     "Year": 2017,
     "Name": "Danny Mooney",
     "Club": "Letterkenny AC",
@@ -135,7 +144,7 @@
     "runner_id": "danny-mooney"
   },
   {
-    "Position": 16,
+    "Position": 17,
     "Year": 2015,
     "Name": "Christopher Madden",
     "Club": "City of Lisburn AC",
@@ -144,7 +153,7 @@
     "runner_id": "christopher-madden"
   },
   {
-    "Position": 17,
+    "Position": 18,
     "Year": 2024,
     "Name": "Tom Fleming",
     "Club": "Loughview AC",
@@ -153,7 +162,16 @@
     "runner_id": "tom-fleming"
   },
   {
-    "Position": 18,
+    "Position": 19,
+    "Year": 2025,
+    "Name": "James Speight",
+    "Club": "Dromore AC",
+    "Category": "MO",
+    "Finish Time": "0:26:04",
+    "runner_id": "james-speight"
+  },
+  {
+    "Position": 20,
     "Year": 2015,
     "Name": "Gareth Hill",
     "Club": "Ballymena & Antrim",
@@ -162,7 +180,7 @@
     "runner_id": "gareth-hill"
   },
   {
-    "Position": 19,
+    "Position": 21,
     "Year": 2021,
     "Name": "Thomas Moran",
     "Club": "Dunshaughlan AC",
@@ -171,7 +189,7 @@
     "runner_id": "thomas-moran"
   },
   {
-    "Position": 20,
+    "Position": 22,
     "Year": 2022,
     "Name": "Peter Donnelly",
     "Club": "North belfast harriers",
@@ -180,7 +198,7 @@
     "runner_id": "peter-donnelly"
   },
   {
-    "Position": 21,
+    "Position": 23,
     "Year": 2014,
     "Name": "Stephen Prentice",
     "Club": "Annadale Striders",
@@ -189,7 +207,7 @@
     "runner_id": "stephen-prentice"
   },
   {
-    "Position": 22,
+    "Position": 24,
     "Year": 2021,
     "Name": "Michael Crawley",
     "Club": "Strive Racing Club",
@@ -198,7 +216,7 @@
     "runner_id": "michael-crawley"
   },
   {
-    "Position": 23,
+    "Position": 25,
     "Year": 2010,
     "Name": "Noel Collins",
     "Club": "Finn Valley",
@@ -207,7 +225,7 @@
     "runner_id": "noel-collins"
   },
   {
-    "Position": 23,
+    "Position": 25,
     "Year": 2014,
     "Name": "Paul Barbour",
     "Club": "Omagh Harriers",
@@ -216,7 +234,7 @@
     "runner_id": "paul-barbour"
   },
   {
-    "Position": 23,
+    "Position": 25,
     "Year": 2023,
     "Name": "Matthew McCullagh",
     "Club": "Birmingham run & tri",
@@ -225,7 +243,7 @@
     "runner_id": "matthew-mccullagh"
   },
   {
-    "Position": 26,
+    "Position": 28,
     "Year": 2023,
     "Name": "Tristan Kelly",
     "Club": "Finn valley ac",
@@ -234,7 +252,7 @@
     "runner_id": "tristan-kelly"
   },
   {
-    "Position": 27,
+    "Position": 29,
     "Year": 2016,
     "Name": "Emmett McGinty",
     "Club": "City of Derry",
@@ -243,7 +261,7 @@
     "runner_id": "emmett-mcginty"
   },
   {
-    "Position": 28,
+    "Position": 30,
     "Year": 2023,
     "Name": "Ethan Dunn",
     "Club": "Loughview ac",
@@ -252,7 +270,7 @@
     "runner_id": "ethan-dunn"
   },
   {
-    "Position": 29,
+    "Position": 31,
     "Year": 2017,
     "Name": "Greg Roberts",
     "Club": "",
@@ -261,7 +279,7 @@
     "runner_id": "greg-roberts"
   },
   {
-    "Position": 30,
+    "Position": 32,
     "Year": 2018,
     "Name": "Stephen Cassidy",
     "Club": "Enniskillen Running Club",
@@ -270,16 +288,7 @@
     "runner_id": "stephen-cassidy"
   },
   {
-    "Position": 31,
-    "Year": 2012,
-    "Name": "James Speight",
-    "Club": "Finn Valley",
-    "Category": "MO",
-    "Finish Time": "0:26:59",
-    "runner_id": "james-speight"
-  },
-  {
-    "Position": 31,
+    "Position": 33,
     "Year": 2022,
     "Name": "Kyle Thompson",
     "Club": "Loughview ac",
@@ -288,7 +297,7 @@
     "runner_id": "kyle-thompson"
   },
   {
-    "Position": 33,
+    "Position": 34,
     "Year": 2022,
     "Name": "Colin Griffin",
     "Club": "Ballinamore ac",
@@ -297,7 +306,7 @@
     "runner_id": "colin-griffin"
   },
   {
-    "Position": 34,
+    "Position": 35,
     "Year": 2018,
     "Name": "Eoin Hughes",
     "Club": "Letterkenny Athletic Club",
@@ -306,7 +315,7 @@
     "runner_id": "eoin-hughes-letterkenny"
   },
   {
-    "Position": 35,
+    "Position": 36,
     "Year": 2021,
     "Name": "Johnny Canning",
     "Club": "Foyle Valley AC",
@@ -315,7 +324,7 @@
     "runner_id": "johnny-canning"
   },
   {
-    "Position": 36,
+    "Position": 37,
     "Year": 2024,
     "Name": "Luke Donnelly",
     "Club": "Carmen Runners",
@@ -324,7 +333,7 @@
     "runner_id": "luke-donnelly"
   },
   {
-    "Position": 37,
+    "Position": 38,
     "Year": 2019,
     "Name": "Pius McIntyre",
     "Club": "Foyle Valley AC",
@@ -333,7 +342,7 @@
     "runner_id": "pius-mcintyre"
   },
   {
-    "Position": 38,
+    "Position": 39,
     "Year": 2021,
     "Name": "Matthew McLaughlin",
     "Club": "Foyle Valley AC",
@@ -342,7 +351,7 @@
     "runner_id": "matthew-mclaughlin"
   },
   {
-    "Position": 39,
+    "Position": 40,
     "Year": 2019,
     "Name": "Tommy Hughes",
     "Club": "Termoneeny Running Club",
@@ -352,6 +361,15 @@
   },
   {
     "Position": 40,
+    "Year": 2025,
+    "Name": "Shaun Kerrs",
+    "Club": "Tír Chonaill AC",
+    "Category": "MO",
+    "Finish Time": "0:27:26",
+    "runner_id": "shaun-kerrs"
+  },
+  {
+    "Position": 42,
     "Year": 2023,
     "Name": "Adrian Scullion",
     "Club": "Knockmany runners",
@@ -360,7 +378,7 @@
     "runner_id": "adrian-scullion"
   },
   {
-    "Position": 41,
+    "Position": 43,
     "Year": 2015,
     "Name": "Ciaran Collins",
     "Club": "Carmen Runners",
@@ -369,7 +387,7 @@
     "runner_id": "ciaran-collins"
   },
   {
-    "Position": 41,
+    "Position": 43,
     "Year": 2024,
     "Name": "James Monaghan",
     "Club": "",
@@ -378,7 +396,7 @@
     "runner_id": "james-monaghan"
   },
   {
-    "Position": 43,
+    "Position": 45,
     "Year": 2023,
     "Name": "Philip McHugh",
     "Club": "Letterkenny ac",
@@ -387,7 +405,7 @@
     "runner_id": "philip-mchugh"
   },
   {
-    "Position": 44,
+    "Position": 46,
     "Year": 2015,
     "Name": "Noel Lagan",
     "Club": "City of Derry",
@@ -396,7 +414,7 @@
     "runner_id": "noel-lagan"
   },
   {
-    "Position": 45,
+    "Position": 47,
     "Year": 2019,
     "Name": "Enda McKaigue",
     "Club": "Acorns AC",
@@ -405,7 +423,7 @@
     "runner_id": "enda-mckaigue"
   },
   {
-    "Position": 46,
+    "Position": 48,
     "Year": 2021,
     "Name": "Aidan O'Hagan",
     "Club": "Strive Racing Club",
@@ -414,7 +432,7 @@
     "runner_id": "aidan-ohagan-strive"
   },
   {
-    "Position": 47,
+    "Position": 49,
     "Year": 2013,
     "Name": "Ivan Toner",
     "Club": "Letterkenny",
@@ -423,30 +441,12 @@
     "runner_id": "ivan-toner"
   },
   {
-    "Position": 48,
+    "Position": 50,
     "Year": 2012,
     "Name": "Kris Muldoon",
     "Club": "Armagh AC",
     "Category": "MO",
     "Finish Time": "0:27:48",
     "runner_id": "kristopher-muldoon"
-  },
-  {
-    "Position": 49,
-    "Year": 2016,
-    "Name": "Mark Long",
-    "Club": "Foyle Valley",
-    "Category": "MO",
-    "Finish Time": "0:27:51",
-    "runner_id": "mark-long"
-  },
-  {
-    "Position": 50,
-    "Year": 2016,
-    "Name": "Brendan Murphy",
-    "Club": "City of Derry",
-    "Category": "MO",
-    "Finish Time": "0:27:54",
-    "runner_id": "brendan-murphy"
   }
 ]
