@@ -16,7 +16,7 @@ This website provides information about the Lough 5 Road Race, including:
 - Home page with race information, schedule, and registration details
 - Location details with embedded Google Maps
 - Interactive course map with PlotARoute integration
-- Complete race results (2009-2024) with searchable, filterable tables
+- Complete race results (2009-2025) with searchable, filterable tables
 - Records section featuring:
   - Top 50 fastest male and female runners (by personal best)
   - Masters records (men and women, age 35-90)
@@ -46,7 +46,7 @@ This website provides information about the Lough 5 Road Race, including:
 │   ├── results/          # JSON data for race results by year (with runner_id)
 │   │   ├── 2024.json
 │   │   ├── 2023.json
-│   │   └── ... (2009-2024, 16 years)
+│   │   └── ... (2009-2025, 17 years)
 │   ├── records/          # JSON data for records
 │   │   ├── fastest-50-male.json
 │   │   ├── fastest-50-female.json
@@ -70,11 +70,15 @@ This website provides information about the Lough 5 Road Race, including:
 │   ├── generate-runner-database.js   # Generate runner database
 │   ├── generate-masters-records.js   # Generate masters records
 │   ├── generate-fastest-50.js        # Generate fastest 50 lists
+│   ├── add-position-fields.js        # Add position/award fields to results
 │   ├── generate-runner-stats.js      # Generate individual runner stats
 │   ├── generate-priority-candidates.js # Generate list of runners needing profiles
 │   ├── review-duplicates.js          # Interactive duplicate resolution
 │   ├── find-duplicate-runner-ids.js  # Check for duplicate IDs in results files
 │   ├── find-highest-participation.js # Analyze participation patterns
+│   ├── csv-to-json.js                # Convert CSV results to JSON format
+│   ├── generate-fastest-500-times.js # Generate fastest 500 performances markdown
+│   ├── generate-interesting-stats.js # Generate statistical analyses markdown
 │   └── README.md                      # Detailed scripts documentation
 ├── priority-profile-candidates.json  # Auto-generated list of runners needing profiles
 ├── priority-profile-candidates.md    # Human-readable version of candidate list
@@ -90,7 +94,7 @@ This website provides information about the Lough 5 Road Race, including:
 ## Features
 
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices
-- **Runner Database**: Unique identification system tracking 4000+ runners across 16 years
+- **Runner Database**: Unique identification system tracking 4000+ runners across 17 years
   - Fuzzy name matching with configurable similarity thresholds
   - Interactive duplicate resolution tool
   - Deterministic database generation from source files
@@ -104,7 +108,7 @@ This website provides information about the Lough 5 Road Race, including:
     - Power of 10 and World Athletics links where available
     - Collapsible biographical narratives
 - **Runner Search**: Client-side search by name or club (minimum 3 characters)
-- **Searchable Results**: Client-side search and filtering across 16 years of race data (2009-2024)
+- **Searchable Results**: Client-side search and filtering across 17 years of race data (2009-2025)
   - Search by name, bib number, category, club, or times
   - Year selector to view historical results
   - URL parameters for bookmarkable searches

@@ -180,7 +180,33 @@ npm run generate-fastest-50
 
 ---
 
-### 7. generate-runner-stats.js
+### 7. add-position-fields.js
+
+**Purpose**: Add category_position, gender_position, awards, and highlight fields to yearly results.
+
+**When to use**: After adding new results or updating yearly files (part of `generate-all` pipeline).
+
+**What it does**:
+- Reads all yearly results files
+- Calculates position within category (category_position)
+- Calculates position within gender (gender_position)
+- Generates awards array (overall podiums, category podiums)
+- Generates highlight field (single emoji for mobile display)
+- Writes updated fields back to yearly results files
+
+**Commands**:
+```bash
+npm run add-position-fields
+```
+
+**Output**:
+- Updates `assets/results/*.json` files with position/award fields
+
+**Note**: This script modifies source files directly, adding computed fields for frontend display.
+
+---
+
+### 8. generate-runner-stats.js
 
 **Purpose**: Generate individual statistics JSON files for each runner in the database.
 
@@ -216,6 +242,92 @@ npm run generate-runner-stats
 
 ---
 
+## Utility Scripts
+
+### csv-to-json.js
+
+**Purpose**: Convert CSV race results exports to JSON format matching the schema used by the website.
+
+**When to use**: When importing new year's results from Herbie's Excel exports.
+
+**What it does**:
+- Parses CSV files (handles quotes, commas in quoted fields)
+- Normalizes field names using configurable aliases
+- Converts "Lastname, Firstname" format to "Firstname Lastname"
+- Normalizes times to H:MM:SS format
+- Cleans and validates data (removes N/A, null values)
+- Outputs JSON array matching yearly results schema
+
+**Commands**:
+```bash
+node scripts/csv-to-json.js input.csv [output.json] [--pretty] [--verbose]
+
+# Example: Convert 2025 CSV export to JSON
+node scripts/csv-to-json.js csv-results/2025.csv assets/results/2025.json --pretty
+```
+
+**Workflow**: See `csv-results/README.md` for CSV preparation steps (removing title rows, fixing categories, etc.)
+
+**Note**: Output JSON will not have runner_ids - run `npm run assign-runner-ids` after conversion.
+
+---
+
+### generate-fastest-500-times.js
+
+**Purpose**: Generate markdown files listing the 500 fastest individual race performances (not personal bests).
+
+**When to use**: For analysis or documentation purposes.
+
+**What it does**:
+- Collects all race performances across all years
+- Sorts by time (fastest first)
+- Takes top 500 performances for each gender
+- Same runner can appear multiple times (unlike fastest-50 which uses PBs)
+- Generates human-readable markdown tables
+
+**Commands**:
+```bash
+node scripts/generate-fastest-500-times.js
+```
+
+**Output**:
+- `fastest-500-male.md` - Top 500 male performances
+- `fastest-500-female.md` - Top 500 female performances
+
+---
+
+### generate-interesting-stats.js
+
+**Purpose**: Generate markdown files with various statistical analyses and achievements.
+
+**When to use**: For analysis, documentation, or interesting insights.
+
+**What it does**:
+Analyzes runners with 3+ races and generates statistics in multiple categories:
+- **Mr./Ms. Consistent**: Lowest variation in times
+- **Most Improved**: Biggest improvement from first to last race
+- **Time Catches Everyone**: Biggest decline from first to last
+- **The Rollercoaster**: Widest range in times (5+ races)
+- **Fastest Average**: Best average over 5+ races
+- **Aged Like Fine Wine**: Best time in final third of career
+- **One Hit Wonder**: One race far better than others
+- **Iron Man/Woman**: Longest consecutive year streaks
+- **The Dedicated**: Most race appearances
+- **Slowest Medal/Win**: Slowest times that won medals
+- **Fastest 4th Place**: Just missed the podium
+- **Fastest No Medal**: Fast times that didn't medal
+
+**Commands**:
+```bash
+node scripts/generate-interesting-stats.js
+```
+
+**Output**:
+- `interesting-stats-male.md` - Male runner statistics
+- `interesting-stats-female.md` - Female runner statistics
+
+---
+
 ## Standard Workflows
 
 ### Initial Setup (Fresh Start)
@@ -242,7 +354,9 @@ git commit -m "Initialize runner database"
 ### Adding New Year Results (e.g., 2025)
 
 ```bash
-# 1. Add 2025.json to assets/results/ (without runner_ids)
+# 1. Convert CSV export to JSON (if starting from CSV)
+node scripts/csv-to-json.js csv-results/2025.csv assets/results/2025.json --pretty
+# See csv-results/README.md for CSV preparation steps
 
 # 2. Assign runner IDs (respects existing IDs from previous years)
 npm run assign-runner-ids
@@ -494,17 +608,23 @@ npm run generate-db
 
 | Task | Command |
 |------|---------|
+| Convert CSV to JSON | `node scripts/csv-to-json.js input.csv output.json` |
 | Assign IDs to new results | `npm run assign-runner-ids` |
 | Preview ID assignments | `npm run assign-runner-ids:dry-run` |
 | Review duplicate warnings | `npm run review-duplicates` |
 | Regenerate database | `npm run generate-db` |
 | Update masters records | `npm run generate-masters-records` |
 | Update fastest 50 lists | `npm run generate-fastest-50` |
+| Add position/award fields | `npm run add-position-fields` |
 | Generate runner statistics | `npm run generate-runner-stats` |
 | **Generate all records/stats** | `npm run generate-all` |
+| Find duplicates in results | `npm run check-duplicates` |
+| Generate fastest 500 markdown | `node scripts/generate-fastest-500-times.js` |
+| Generate interesting stats | `node scripts/generate-interesting-stats.js` |
 
 **Remember**:
 - Yearly files (`assets/results/*.json`) are the source of truth
 - Always run `npm run generate-db` after editing yearly files
-- Run `npm run generate-masters-records`, `npm run generate-fastest-50`, and `npm run generate-runner-stats` after adding new results or updating times
+- Run `npm run generate-masters-records`, `npm run generate-fastest-50`, `npm run add-position-fields`, and `npm run generate-runner-stats` after adding new results or updating times
+- Or use `npm run generate-all` to run all generation scripts in sequence
 - `assign-runner-ids` is safe to re-run - it never overwrites existing IDs

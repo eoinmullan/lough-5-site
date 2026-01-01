@@ -18,6 +18,8 @@ The website uses a comprehensive runner identification system that tracks runner
 ### Quick Start
 
 1. Add new results file: `assets/results/YYYY.json` (without runner_ids)
+   - If starting from CSV export: `node scripts/csv-to-json.js csv-results/YYYY.csv assets/results/YYYY.json`
+   - See `csv-results/README.md` for CSV preparation details
 2. Assign runner IDs: `npm run assign-runner-ids`
 3. Review any duplicate warnings: `npm run review-duplicates`
 4. Generate all databases and records: `npm run generate-all`
@@ -113,8 +115,8 @@ npm run generate-runner-stats
 | `npm run generate-db` | Generate runner database from results files |
 | `npm run generate-masters-records` | Generate masters age group records |
 | `npm run generate-fastest-50` | Generate fastest 50 male/female lists |
+| `npm run add-position-fields` | Add category_position, gender_position, awards, highlight to yearly results |
 | `npm run generate-runner-stats` | Generate individual runner statistics files (includes profiles) |
-| `npm run add-position-fields` | Add position fields to runner stats |
 | `npm run generate-all` | Run all generation scripts in sequence |
 | `npm run check-duplicates` | Check for duplicate runner_ids within each results file |
 
