@@ -199,7 +199,8 @@
     "Category": "MO",
     "Lap of Lough": "0:06:56",
     "Chip Time": "0:29:06",
-    "Gun Time": "0:29:08"
+    "Gun Time": "0:29:08",
+    "runner_id": "michael-mccolgan"
   },
   {
     "Position": 14,
@@ -291,7 +292,8 @@
     "Club": "Enniskillen RC",
     "Lap of Lough": "0:07:04",
     "Chip Time": "0:29:33",
-    "Gun Time": "0:29:34"
+    "Gun Time": "0:29:34",
+    "runner_id": "paul-carron"
   },
   {
     "Position": 20,
@@ -594,7 +596,7 @@
   {
     "Position": 39,
     "Bib no.": 153,
-    "Name": "James O' neill",
+    "Name": "James O'Neill",
     "Category": "MU19",
     "Club": "Enniskillen RC",
     "Lap of Lough": "0:07:33",
@@ -2513,7 +2515,7 @@
   {
     "Position": 171,
     "Bib no.": 1269,
-    "Name": "Gary Coylr",
+    "Name": "Gary Coyle",
     "Category": "M40",
     "Lap of Lough": "0:08:17",
     "Chip Time": "0:34:36",
