@@ -39413,18 +39413,20 @@
       ],
       "total_races": 1
     },
-    "paddy-largey": {
-      "runner_id": "paddy-largey",
-      "canonical_name": "Paddy Largey",
+    "patrick-largey": {
+      "runner_id": "patrick-largey",
+      "canonical_name": "Patrick Largey",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2019,
-        2024
+        2023,
+        2024,
+        2025
       ],
-      "total_races": 2
+      "total_races": 4
     },
     "colin-magee": {
       "runner_id": "colin-magee",
@@ -49106,19 +49108,6 @@
       ],
       "total_races": 1
     },
-    "patrick-largey": {
-      "runner_id": "patrick-largey",
-      "canonical_name": "Patrick Largey",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "",
-      "most_common_club_source": "automatic",
-      "years": [
-        2023,
-        2025
-      ],
-      "total_races": 2
-    },
     "niamh-devine": {
       "runner_id": "niamh-devine",
       "canonical_name": "Niamh Devine",
@@ -56504,8 +56493,8 @@
       ],
       "total_races": 1
     },
-    "gary-coylr": {
-      "runner_id": "gary-coylr",
+    "gary-coyle": {
+      "runner_id": "gary-coyle",
       "canonical_name": "Gary Coyle",
       "canonical_name_source": "automatic",
       "gender": "M",
@@ -61726,7 +61715,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-31T19:28:21.855Z",
+    "generated": "2026-01-01T22:16:07.826Z",
     "years_included": [
       2009,
       2010,
@@ -61746,7 +61735,7 @@
       2024,
       2025
     ],
-    "total_runners": 4750,
+    "total_runners": 4749,
     "total_participations": 9569,
     "participations_with_id": 9497,
     "unassigned_results": 72
