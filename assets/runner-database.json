@@ -26702,15 +26702,16 @@
     },
     "maria-magee": {
       "runner_id": "maria-magee",
-      "canonical_name": "Maria Magee",
+      "canonical_name": "Maria Mcgee",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "1ZER01 Athletes",
+      "most_common_club": "Rosses AC",
       "most_common_club_source": "automatic",
       "years": [
-        2016
+        2016,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "catherine-oneill": {
       "runner_id": "catherine-oneill",
@@ -39339,9 +39340,9 @@
     },
     "paul-burchmore": {
       "runner_id": "paul-burchmore",
-      "canonical_name": "Cliona Burchmore",
+      "canonical_name": "Paul Burchmore",
       "canonical_name_source": "automatic",
-      "gender": "F",
+      "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -40511,9 +40512,9 @@
     },
     "cliona-burchmore": {
       "runner_id": "cliona-burchmore",
-      "canonical_name": "Paul Burchmore",
+      "canonical_name": "Cliona Burchmore",
       "canonical_name_source": "automatic",
-      "gender": "M",
+      "gender": "F",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -55735,6 +55736,18 @@
       ],
       "total_races": 1
     },
+    "michael-mccolgan": {
+      "runner_id": "michael-mccolgan",
+      "canonical_name": "Michael Mccolgan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "adrian-sheridan": {
       "runner_id": "adrian-sheridan",
       "canonical_name": "Adrian Sheridan",
@@ -55753,6 +55766,18 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Acorns AC",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "paul-carron": {
+      "runner_id": "paul-carron",
+      "canonical_name": "Paul Carron",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Enniskillen RC",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -56481,7 +56506,7 @@
     },
     "gary-coylr": {
       "runner_id": "gary-coylr",
-      "canonical_name": "Gary Coylr",
+      "canonical_name": "Gary Coyle",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57311,7 +57336,7 @@
       "runner_id": "dara-conway-loughmacrory",
       "canonical_name": "Dara Conway",
       "canonical_name_source": "automatic",
-      "gender": "F",
+      "gender": "M",
       "most_common_club": "Loughmacrory",
       "most_common_club_source": "automatic",
       "years": [
@@ -58966,6 +58991,18 @@
     "nn-1298": {
       "runner_id": "nn-1298",
       "canonical_name": "N.N. 1298",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "martin-oneill-2": {
+      "runner_id": "martin-oneill-2",
+      "canonical_name": "Martin O'neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -61689,7 +61726,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-31T16:42:08.696Z",
+    "generated": "2025-12-31T19:28:21.855Z",
     "years_included": [
       2009,
       2010,
@@ -61709,9 +61746,9 @@
       2024,
       2025
     ],
-    "total_runners": 4747,
+    "total_runners": 4750,
     "total_participations": 9569,
-    "participations_with_id": 9494,
-    "unassigned_results": 75
+    "participations_with_id": 9497,
+    "unassigned_results": 72
   }
 }

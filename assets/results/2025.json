@@ -200,7 +200,9 @@
     "Lap of Lough": "0:06:56",
     "Chip Time": "0:29:06",
     "Gun Time": "0:29:08",
-    "runner_id": "michael-mccolgan"
+    "runner_id": "michael-mccolgan",
+    "category_position": 9,
+    "gender_position": 12
   },
   {
     "Position": 14,
@@ -212,9 +214,7 @@
     "Gun Time": "0:29:08",
     "runner_id": "adrian-sheridan",
     "category_position": 10,
-    "gender_position": 13,
-    "awards": [],
-    "highlight": null
+    "gender_position": 13
   },
   {
     "Position": 15,
@@ -293,7 +293,9 @@
     "Lap of Lough": "0:07:04",
     "Chip Time": "0:29:33",
     "Gun Time": "0:29:34",
-    "runner_id": "paul-carron"
+    "runner_id": "paul-carron",
+    "category_position": 4,
+    "gender_position": 19
   },
   {
     "Position": 20,
@@ -306,9 +308,7 @@
     "Gun Time": "0:29:38",
     "runner_id": "dan-haigney",
     "category_position": 11,
-    "gender_position": 17,
-    "awards": [],
-    "highlight": null
+    "gender_position": 17
   },
   {
     "Position": 21,
@@ -321,9 +321,7 @@
     "Gun Time": "0:29:39",
     "runner_id": "fearghal-ward",
     "category_position": 5,
-    "gender_position": 20,
-    "awards": [],
-    "highlight": null
+    "gender_position": 20
   },
   {
     "Position": 22,
@@ -2520,7 +2518,7 @@
     "Lap of Lough": "0:08:17",
     "Chip Time": "0:34:36",
     "Gun Time": "0:34:45",
-    "runner_id": "gary-coylr",
+    "runner_id": "gary-coyle",
     "category_position": 25,
     "gender_position": 158,
     "awards": [],
