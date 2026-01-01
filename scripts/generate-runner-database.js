@@ -312,7 +312,6 @@ function main() {
   const output = {
     runners,
     metadata: {
-      generated: new Date().toISOString(),
       years_included: yearsIncluded,
       total_runners: Object.keys(runners).length,
       total_participations: totalParticipations,
