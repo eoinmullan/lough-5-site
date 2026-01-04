@@ -7090,9 +7090,10 @@
         2012,
         2014,
         2015,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 6
+      "total_races": 7
     },
     "elsie-mcgarvey": {
       "runner_id": "elsie-mcgarvey",
@@ -61077,18 +61078,6 @@
       ],
       "total_races": 1
     },
-    "mark-phillips-2": {
-      "runner_id": "mark-phillips-2",
-      "canonical_name": "Mark Phillips",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "",
-      "most_common_club_source": "automatic",
-      "years": [
-        2025
-      ],
-      "total_races": 1
-    },
     "cassie-hughes-mulgrew": {
       "runner_id": "cassie-hughes-mulgrew",
       "canonical_name": "Cassie Hughes mulgrew",
@@ -61715,7 +61704,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-01T22:16:07.826Z",
     "years_included": [
       2009,
       2010,
@@ -61735,7 +61723,7 @@
       2024,
       2025
     ],
-    "total_runners": 4749,
+    "total_runners": 4748,
     "total_participations": 9569,
     "participations_with_id": 9497,
     "unassigned_results": 72
