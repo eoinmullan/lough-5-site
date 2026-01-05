@@ -2726,14 +2726,13 @@
       "canonical_name": "Desmond Brownlie",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Lagan Valley AC",
+      "most_common_club": "Lagan Valley",
       "most_common_club_source": "automatic",
       "years": [
         2009,
-        2010,
-        2025
+        2010
       ],
-      "total_races": 3
+      "total_races": 2
     },
     "ronan-nugent": {
       "runner_id": "ronan-nugent",
@@ -3193,10 +3192,9 @@
       "most_common_club": "Omagh Harriers",
       "most_common_club_source": "automatic",
       "years": [
-        2009,
-        2025
+        2009
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "shay-turbitt": {
       "runner_id": "shay-turbitt",
@@ -5559,10 +5557,9 @@
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2009,
-        2025
+        2009
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "cathy-coyle": {
       "runner_id": "cathy-coyle",
@@ -9212,8 +9209,8 @@
       ],
       "total_races": 4
     },
-    "aine-donaghy-loughmacrory": {
-      "runner_id": "aine-donaghy-loughmacrory",
+    "aine-donaghy": {
+      "runner_id": "aine-donaghy",
       "canonical_name": "Aine Donaghy",
       "canonical_name_source": "automatic",
       "gender": "F",
@@ -9221,9 +9218,13 @@
       "most_common_club_source": "automatic",
       "years": [
         2010,
+        2012,
+        2013,
+        2023,
+        2024,
         2025
       ],
-      "total_races": 2
+      "total_races": 6
     },
     "nuala-mcelduff": {
       "runner_id": "nuala-mcelduff",
@@ -12513,9 +12514,10 @@
         2019,
         2021,
         2022,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 10
+      "total_races": 11
     },
     "sharon-mccartney": {
       "runner_id": "sharon-mccartney",
@@ -15759,10 +15761,9 @@
         2012,
         2013,
         2017,
-        2018,
-        2025
+        2018
       ],
-      "total_races": 5
+      "total_races": 4
     },
     "christopher-mcelduff": {
       "runner_id": "christopher-mcelduff",
@@ -16132,21 +16133,6 @@
       ],
       "total_races": 4
     },
-    "aine-donaghy": {
-      "runner_id": "aine-donaghy",
-      "canonical_name": "Aine Donaghy",
-      "canonical_name_source": "automatic",
-      "gender": "F",
-      "most_common_club": "Loughmacrory",
-      "most_common_club_source": "automatic",
-      "years": [
-        2012,
-        2013,
-        2023,
-        2024
-      ],
-      "total_races": 4
-    },
     "caitlin-doherty": {
       "runner_id": "caitlin-doherty",
       "canonical_name": "Caitlin Doherty",
@@ -16206,10 +16192,9 @@
       "most_common_club": "Pomeroy",
       "most_common_club_source": "automatic",
       "years": [
-        2012,
-        2025
+        2012
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "breige-conway": {
       "runner_id": "breige-conway",
@@ -16369,14 +16354,13 @@
       "canonical_name": "John McQuade",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Run for Enda",
+      "most_common_club": "Queen's University AC",
       "most_common_club_source": "automatic",
       "years": [
         2013,
-        2018,
-        2025
+        2018
       ],
-      "total_races": 3
+      "total_races": 2
     },
     "martin-gormley": {
       "runner_id": "martin-gormley",
@@ -21241,9 +21225,10 @@
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2014
+        2014,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "naill-lawler": {
       "runner_id": "naill-lawler",
@@ -22200,14 +22185,13 @@
       "canonical_name": "Emma O'Neill",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "Dromore Runners",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2014,
-        2015,
-        2025
+        2015
       ],
-      "total_races": 3
+      "total_races": 2
     },
     "krustain-devine": {
       "runner_id": "krustain-devine",
@@ -25427,10 +25411,9 @@
       "years": [
         2015,
         2016,
-        2018,
-        2025
+        2018
       ],
-      "total_races": 4
+      "total_races": 3
     },
     "ailise-gormley": {
       "runner_id": "ailise-gormley",
@@ -52632,15 +52615,16 @@
     },
     "emma-oneill-2": {
       "runner_id": "emma-oneill-2",
-      "canonical_name": "Emma O’Neill",
+      "canonical_name": "Emma O'Neill",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "",
+      "most_common_club": "Dromore Runners",
       "most_common_club_source": "automatic",
       "years": [
-        2024
+        2024,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "sean-brogan": {
       "runner_id": "sean-brogan",
@@ -56360,6 +56344,18 @@
       ],
       "total_races": 1
     },
+    "aisling-moore-2": {
+      "runner_id": "aisling-moore-2",
+      "canonical_name": "Aisling Moore",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "barry-rice": {
       "runner_id": "barry-rice",
       "canonical_name": "Barry Rice",
@@ -56924,6 +56920,30 @@
       ],
       "total_races": 1
     },
+    "conor-collins-2": {
+      "runner_id": "conor-collins-2",
+      "canonical_name": "Conor Collins",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "oisin-rafferty-2": {
+      "runner_id": "oisin-rafferty-2",
+      "canonical_name": "Oisin Rafferty",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "daniel-mccrory": {
       "runner_id": "daniel-mccrory",
       "canonical_name": "Daniel McCrory",
@@ -57194,6 +57214,18 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Omagh Harriers",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "ryan-conway-2": {
+      "runner_id": "ryan-conway-2",
+      "canonical_name": "Ryan Conway",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -59498,6 +59530,18 @@
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Knockmany Running Club",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "john-mcquade-run": {
+      "runner_id": "john-mcquade-run",
+      "canonical_name": "John McQuade",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Run for Enda",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -62069,7 +62113,7 @@
       2024,
       2025
     ],
-    "total_runners": 4773,
+    "total_runners": 4777,
     "total_participations": 9569,
     "participations_with_id": 9569,
     "unassigned_results": 0
