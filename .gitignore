@@ -12,6 +12,9 @@ assets/js/bundle.js
 cypress/screenshots/
 cypress/videos/
 
+# Temporary data processing files
+temp/
+
 .claude
 CLAUDE.local.md
 assets/runner-stats/

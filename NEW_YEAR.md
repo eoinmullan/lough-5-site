@@ -12,7 +12,7 @@ This guide explains how to add results for a new race year to the Lough 5 websit
 
 ```bash
 # 1. Convert CSV to JSON (if needed)
-node scripts/csv-to-json.js csv-results/2026.json assets/results/2026.json
+node scripts/csv-to-json.js csv-results/2026.csv assets/results/2026.json
 
 # 2. Assign runner IDs
 npm run assign-ids-new-year 2026
@@ -87,7 +87,7 @@ npm run assign-ids-new-year 2026
 - Auto-assigns IDs when confident (>92% similarity)
 - Flags uncertain matches for manual review
 - Detects potential duplicates within the new year
-- Creates `assets/runner-database-warnings.json` if issues found
+- Creates `temp/runner-database-warnings.json` if issues found
 
 **Dry run mode** (recommended first):
 ```bash
@@ -288,7 +288,7 @@ jq '.runners | length' assets/runner-database.json
 jq '.runners | to_entries | .[0].value.years' assets/runner-database.json | grep 2026
 
 # Check for any errors
-cat assets/runner-database-warnings.json
+cat temp/runner-database-warnings.json
 ```
 
 ## Tips for Success
@@ -327,7 +327,7 @@ npm run generate-all
 
 ## Need Help?
 
-- Check `assets/runner-database-warnings.json` for clues
+- Check `temp/runner-database-warnings.json` for clues
 - Review script output carefully - it's verbose for debugging
 - See `scripts/README.md` for detailed algorithm explanations
 - The disambiguation file in `data/` is your friend - use it liberally

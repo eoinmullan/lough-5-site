@@ -7,7 +7,8 @@ const path = require('path');
 
 const RESULTS_DIR = path.join(__dirname, '..', 'assets', 'results');
 const OUTPUT_FILE = path.join(__dirname, '..', 'assets', 'runner-database.json');
-const WARNINGS_FILE = path.join(__dirname, '..', 'assets', 'runner-database-warnings.json');
+const TEMP_DIR = path.join(__dirname, '..', 'temp');
+const WARNINGS_FILE = path.join(TEMP_DIR, 'runner-database-warnings.json');
 
 // Parse command-line arguments
 const args = process.argv.slice(2);
@@ -323,6 +324,12 @@ function main() {
   // Write output
   if (!options.dryRun) {
     console.log('\nWriting output files...');
+
+    // Ensure temp directory exists
+    if (!fs.existsSync(TEMP_DIR)) {
+      fs.mkdirSync(TEMP_DIR, { recursive: true });
+    }
+
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
     fs.writeFileSync(WARNINGS_FILE, JSON.stringify(warnings, null, 2));
     console.log(`  ✓ Written: ${OUTPUT_FILE}`);

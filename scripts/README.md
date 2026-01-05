@@ -46,7 +46,7 @@ npm run assign-ids-new-year 2025 --verbose          # Show detailed matching
 
 **Output**:
 - Updated `assets/results/YYYY.json` (specified year only, with runner_id added)
-- `assets/runner-database-warnings.json` (uncertain matches and duplicates)
+- `temp/runner-database-warnings.json` (uncertain matches and duplicates)
 
 **Key Features**:
 - **Safe**: Previous years never modified
@@ -63,7 +63,7 @@ npm run assign-ids-new-year 2025 --dry-run
 npm run assign-ids-new-year 2025
 
 # 3. Review warnings
-cat assets/runner-database-warnings.json
+cat temp/runner-database-warnings.json
 
 # 4. Manually fix uncertain/duplicate results in assets/results/2025.json
 
@@ -105,7 +105,7 @@ npm run generate-db:verbose        # Show detailed output
 
 **Output**:
 - `assets/runner-database.json` (the main database)
-- `assets/runner-database-warnings.json` (validation issues)
+- `temp/runner-database-warnings.json` (validation issues)
 
 **Note**: This is deterministic - no fuzzy matching, just reads the runner_ids already in yearly files.
 
@@ -334,7 +334,7 @@ npm run assign-ids-new-year 2025 --dry-run
 npm run assign-ids-new-year 2025
 
 # 4. Review warnings and manually fix uncertain/duplicate results
-cat assets/runner-database-warnings.json
+cat temp/runner-database-warnings.json
 # Edit assets/results/2025.json to assign IDs to flagged results
 
 # 5. Re-run to process any remaining unassigned
@@ -527,7 +527,7 @@ npm run assign-ids-new-year YYYY    # Assign IDs to specific year
 **Some results in new year still unassigned?**
 ```bash
 # Check warnings file for uncertain matches
-cat assets/runner-database-warnings.json
+cat temp/runner-database-warnings.json
 # Manually assign IDs in assets/results/YYYY.json
 # Then re-run
 npm run assign-ids-new-year YYYY

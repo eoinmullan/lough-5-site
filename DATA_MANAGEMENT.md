@@ -24,7 +24,7 @@ The website uses a comprehensive runner identification system that tracks runner
    - Only modifies the new year's file
    - Matches against all previous years (read-only)
    - Safer and faster than full reprocessing
-3. Review warnings file for uncertain matches: `cat assets/runner-database-warnings.json`
+3. Review warnings file for uncertain matches: `cat temp/runner-database-warnings.json`
 4. Manually assign any uncertain/duplicate runner_ids in `assets/results/YYYY.json`
 5. Re-run step 2 to process remaining unassigned results
 6. Generate all databases and records: `npm run generate-all`

@@ -21,7 +21,8 @@ const readline = require('readline');
 // CONFIGURATION
 // ============================================================================
 
-const WARNINGS_FILE = path.join(__dirname, '..', 'assets', 'runner-database-warnings.json');
+const TEMP_DIR = path.join(__dirname, '..', 'temp');
+const WARNINGS_FILE = path.join(TEMP_DIR, 'runner-database-warnings.json');
 const RESULTS_DIR = path.join(__dirname, '..', 'assets', 'results');
 const RUNNER_DATABASE_FILE = path.join(__dirname, '..', 'assets', 'runner-database.json');
 const DATA_DIR = path.join(__dirname, '..', 'data');

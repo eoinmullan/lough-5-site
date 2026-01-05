@@ -6,7 +6,8 @@ const path = require('path');
 // ============================================================================
 
 const RESULTS_DIR = path.join(__dirname, '..', 'assets', 'results');
-const WARNINGS_FILE = path.join(__dirname, '..', 'assets', 'runner-database-warnings.json');
+const TEMP_DIR = path.join(__dirname, '..', 'temp');
+const WARNINGS_FILE = path.join(TEMP_DIR, 'runner-database-warnings.json');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const NAME_CHANGES_FILE = path.join(DATA_DIR, 'name-changes.json');
 
@@ -534,6 +535,11 @@ function writeResults(targetYearResults, stats, options) {
       needs_review: stats.needsReview + stats.duplicatesInNewYear.length * 2
     }
   };
+
+  // Ensure temp directory exists
+  if (!fs.existsSync(TEMP_DIR)) {
+    fs.mkdirSync(TEMP_DIR, { recursive: true });
+  }
 
   const warningsPath = options.dryRun ? WARNINGS_FILE + '.preview' : WARNINGS_FILE;
   fs.writeFileSync(warningsPath, JSON.stringify(warnings, null, 2));
