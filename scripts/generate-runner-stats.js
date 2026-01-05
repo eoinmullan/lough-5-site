@@ -44,7 +44,7 @@ function getGender(category) {
 }
 
 // Function to get position within a category for a given year
-function getCategoryPosition(yearResults, runner, year) {
+function getCategoryPosition(yearResults, runner) {
   // Filter runners in the same category
   const categoryRunners = yearResults
     .filter(r => r.Category === runner.Category)
@@ -172,7 +172,7 @@ async function generateRunnerStats() {
       }
 
       // Get category position for this race
-      const categoryPosition = getCategoryPosition(yearResults, runner, year);
+      const categoryPosition = getCategoryPosition(yearResults, runner);
 
       // Get gender position for this race
       const genderPosition = getGenderPosition(yearResults, runner);

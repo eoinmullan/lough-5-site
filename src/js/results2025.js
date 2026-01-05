@@ -16,14 +16,12 @@ export function checkFor2025Results() {
       // Check content type to ensure we're getting JSON, not HTML
       const contentType = response.headers.get('content-type');
       if (!contentType || !contentType.includes('application/json')) {
-        console.log('Invalid content type:', contentType);
         throw new Error('Not JSON content');
       }
-      
+
       // Try to parse as JSON to further validate
       return response.json().then(data => {
         // If we get here, we have valid JSON
-        console.log('2025 results are now available!');
         results2025Available = true;
         
         // Notify Alpine.js that the variable has changed
@@ -32,8 +30,7 @@ export function checkFor2025Results() {
         }
       });
     })
-    .catch((error) => {
-      console.log('2025 results not available yet:', error.message);
+    .catch(() => {
       // Ensure results are marked as unavailable
       results2025Available = false;
       

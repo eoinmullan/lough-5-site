@@ -624,7 +624,6 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
       if (customName) {
         corrections.first_names[correctionKey] = customName;
         console.log(`  ✓ Will fix ${data.count} occurrence(s) with custom correction`);
-        console.log(`  [DEBUG] Stored: corrections.first_names["${correctionKey}"] = "${customName}"`);
       } else {
         console.log(`  ✗ No name entered, skipping`);
       }
@@ -665,7 +664,6 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
       if (customName) {
         corrections.surnames[correctionKey] = customName;
         console.log(`  ✓ Will fix ${data.count} occurrence(s) with custom correction`);
-        console.log(`  [DEBUG] Stored: corrections.surnames["${correctionKey}"] = "${customName}"`);
       } else {
         console.log(`  ✗ No name entered, skipping`);
       }
@@ -800,10 +798,6 @@ async function main() {
       surnames: [...knownTypos.false_positives.surnames, ...newFalsePositives.surnames]
     }
   };
-
-  console.log(`\n[DEBUG] New corrections being added to known-typos.json:`);
-  console.log(`  First names: ${JSON.stringify(corrections.first_names)}`);
-  console.log(`  Surnames: ${JSON.stringify(corrections.surnames)}`);
 
   saveKnownTypos(updatedTypos);
 
