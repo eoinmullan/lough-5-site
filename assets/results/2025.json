@@ -5755,7 +5755,7 @@
     "Lap of Lough": "0:08:56",
     "Chip Time": "0:39:02",
     "Gun Time": "0:39:32",
-    "runner_id": "vincentmcatee-knockmanyr",
+    "runner_id": "vincent-mcatee",
     "category_position": 38,
     "gender_position": 328,
     "awards": [],
@@ -8586,11 +8586,11 @@
     "Lap of Lough": "0:09:51",
     "Chip Time": "0:41:47",
     "Gun Time": "0:43:01",
-    "runner_id": "gemma-obrien-2",
     "category_position": 21,
     "gender_position": 125,
     "awards": [],
-    "highlight": null
+    "highlight": null,
+    "runner_id": "gemma-obrien"
   },
   {
     "Position": 590,
@@ -11118,7 +11118,7 @@
     "Lap of Lough": "0:11:07",
     "Chip Time": "0:45:31",
     "Gun Time": "0:46:25",
-    "runner_id": "michael-kelly-clarkes",
+    "runner_id": "michael-kelly-2",
     "category_position": 62,
     "gender_position": 548,
     "awards": [],
@@ -14831,7 +14831,7 @@
     "Lap of Lough": "0:13:05",
     "Chip Time": "0:54:16",
     "Gun Time": "0:54:49",
-    "runner_id": "grainne-moxon-2",
+    "runner_id": "grainne-moxon",
     "category_position": 54,
     "gender_position": 394,
     "awards": [],
@@ -15215,11 +15215,11 @@
     "Lap of Lough": "0:12:47",
     "Chip Time": "0:54:12",
     "Gun Time": "0:55:41",
-    "runner_id": "mark-phillips-2",
     "category_position": 79,
     "gender_position": 652,
     "awards": [],
-    "highlight": null
+    "highlight": null,
+    "runner_id": "mark-phillips"
   },
   {
     "Position": 1055,
