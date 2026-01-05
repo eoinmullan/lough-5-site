@@ -18,39 +18,61 @@ This directory contains scripts for managing runner identification and database 
 
 ## Core Scripts
 
-### 1. assign-runner-ids.js
+### 1. assign-ids-to-new-year.js
 
-**Purpose**: Automatically assign runner_id to results using fuzzy matching.
+**Purpose**: Assign runner_ids to a specific new year's results, using all previous years as read-only reference.
 
 **When to use**:
-- Initial setup when starting fresh
-- After adding new year's results without runner IDs
-- When results have missing runner IDs
+- **Recommended** for adding new year's results (e.g., 2025)
+- When you want to keep previous years untouched
+- For safer, faster ID assignment
 
 **What it does**:
-- Reads all yearly results files
-- **Respects existing `runner_id` values** (never overwrites)
-- Uses fuzzy matching to assign IDs to unassigned results
+- Loads all previous years as read-only reference (never modifies them)
+- Only processes and modifies the specified target year
+- Matches new results against historical runners
 - Auto-assigns high confidence matches (>0.92 similarity)
-- Generates new IDs for unmatched results
-- Detects potential duplicates (only among newly assigned runners)
-- Writes runner_ids directly to yearly files
+- Flags uncertain matches for manual review
+- Detects duplicates within the new year only
+- Generates warnings for manual resolution
 
 **Commands**:
 ```bash
-npm run assign-runner-ids                    # Assign IDs to all unassigned results
-npm run assign-runner-ids:dry-run            # Preview without writing
-npm run assign-runner-ids -- --confidence=0.95  # Use stricter matching threshold
+npm run assign-ids-new-year 2025                    # Assign IDs to 2025 results
+npm run assign-ids-new-year 2025 --dry-run          # Preview without writing
+npm run assign-ids-new-year 2025 --confidence=0.95  # Use stricter threshold
+npm run assign-ids-new-year 2025 --verbose          # Show detailed matching
 ```
 
 **Output**:
-- Updated `assets/results/*.json` (with runner_id added)
-- `assets/runner-database-warnings.json` (potential duplicates to review)
+- Updated `assets/results/YYYY.json` (specified year only, with runner_id added)
+- `assets/runner-database-warnings.json` (uncertain matches and duplicates)
 
 **Key Features**:
-- Incremental & safe - only processes results without runner_id
-- Trusts existing runner_ids - won't flag two pre-existing IDs as duplicates
-- Handles edge cases like empty names (assigns `unknown-runner-1`, etc.)
+- **Safe**: Previous years never modified
+- **Fast**: Only processes one year
+- **Clear**: Explicit about which year is being updated
+- **Predictable**: Only one file changes
+
+**Workflow**:
+```bash
+# 1. Preview first
+npm run assign-ids-new-year 2025 --dry-run
+
+# 2. Assign IDs
+npm run assign-ids-new-year 2025
+
+# 3. Review warnings
+cat assets/runner-database-warnings.json
+
+# 4. Manually fix uncertain/duplicate results in assets/results/2025.json
+
+# 5. Re-run to process remaining unassigned
+npm run assign-ids-new-year 2025
+
+# 6. Generate database
+npm run generate-all
+```
 
 ---
 
@@ -89,41 +111,9 @@ npm run generate-db:verbose        # Show detailed output
 
 ---
 
-### 3. review-duplicates.js
-
-**Purpose**: Interactively review and resolve potential duplicate runners.
-
-**When to use**:
-- After `assign-runner-ids` generates potential duplicate warnings
-- When you need to merge or separate runners manually
-
-**What it does**:
-- Loads warnings from `runner-database-warnings.json`
-- Shows detailed comparison of each potential duplicate pair
-- Lets you interactively:
-  - **Mark as same person** → merge by assigning same runner_id
-  - **Mark as different** → confirm separate IDs
-  - **Fix name typos** (optional)
-  - **Set canonical name/club** (optional)
-- Updates yearly results files with your decisions
-
-**Commands**:
-```bash
-npm run review-duplicates
-```
-
-**Interactive workflow**:
-1. Shows Runner 1 vs Runner 2 details (years, races, times)
-2. "Same person?" (y/n/s to skip remaining)
-3. If yes: "Which ID to use?" (1/2/custom)
-4. "Fix names?" (optional - correct typos)
-5. "Mark canonical?" (optional - set preferred name/club)
-
----
-
 ## Helper Scripts
 
-### 4. find-highest-participation.js
+### 3. find-highest-participation.js
 
 **Purpose**: Utility to find runners with most race participations.
 
@@ -131,7 +121,7 @@ npm run review-duplicates
 
 ---
 
-### 5. generate-masters-records.js
+### 4. generate-masters-records.js
 
 **Purpose**: Generate masters (age-group) record lists from yearly results.
 
@@ -154,7 +144,7 @@ npm run generate-masters-records
 
 ---
 
-### 6. generate-fastest-50.js
+### 5. generate-fastest-50.js
 
 **Purpose**: Generate lists of the fastest 50 male and female runners.
 
@@ -180,7 +170,7 @@ npm run generate-fastest-50
 
 ---
 
-### 7. add-position-fields.js
+### 6. add-position-fields.js
 
 **Purpose**: Add category_position, gender_position, awards, and highlight fields to yearly results.
 
@@ -206,7 +196,7 @@ npm run add-position-fields
 
 ---
 
-### 8. generate-runner-stats.js
+### 7. generate-runner-stats.js
 
 **Purpose**: Generate individual statistics JSON files for each runner in the database.
 
@@ -268,7 +258,7 @@ node scripts/csv-to-json.js csv-results/2025.csv assets/results/2025.json --pret
 
 **Workflow**: See `csv-results/README.md` for CSV preparation steps (removing title rows, fixing categories, etc.)
 
-**Note**: Output JSON will not have runner_ids - run `npm run assign-runner-ids` after conversion.
+**Note**: Output JSON will not have runner_ids - run `npm run assign-ids-new-year YYYY` after conversion.
 
 ---
 
@@ -330,27 +320,6 @@ node scripts/generate-interesting-stats.js
 
 ## Standard Workflows
 
-### Initial Setup (Fresh Start)
-
-```bash
-# 1. Assign runner IDs to all results
-npm run assign-runner-ids:dry-run    # Preview
-npm run assign-runner-ids            # Apply
-
-# 2. Review potential duplicates (if any)
-cat assets/runner-database-warnings.json
-npm run review-duplicates             # If duplicates found
-
-# 3. Generate the database and records
-npm run generate-all
-
-# 4. Commit
-git add assets/
-git commit -m "Initialize runner database"
-```
-
----
-
 ### Adding New Year Results (e.g., 2025)
 
 ```bash
@@ -358,21 +327,26 @@ git commit -m "Initialize runner database"
 node scripts/csv-to-json.js csv-results/2025.csv assets/results/2025.json --pretty
 # See csv-results/README.md for CSV preparation steps
 
-# 2. Assign runner IDs (respects existing IDs from previous years)
-npm run assign-runner-ids
+# 2. Preview ID assignments
+npm run assign-ids-new-year 2025 --dry-run
 
-# 3. Review any potential duplicates
-npm run review-duplicates             # If warnings generated
+# 3. Assign runner IDs (only modifies 2025, uses previous years as reference)
+npm run assign-ids-new-year 2025
 
-# 4. Regenerate database and records
+# 4. Review warnings and manually fix uncertain/duplicate results
+cat assets/runner-database-warnings.json
+# Edit assets/results/2025.json to assign IDs to flagged results
+
+# 5. Re-run to process any remaining unassigned
+npm run assign-ids-new-year 2025
+
+# 6. Regenerate database and records
 npm run generate-all
 
-# 5. Commit
+# 7. Commit
 git add assets/
 git commit -m "Add 2025 results"
 ```
-
----
 
 ### Keeping Everything Up-to-Date
 
@@ -384,20 +358,6 @@ npm run generate-all             # Regenerate all database, records, and stats
 **After manually merging/splitting runners** (editing runner_ids):
 ```bash
 npm run generate-all             # Regenerate all database, records, and stats
-```
-
-**After adding new year's results**:
-```bash
-npm run assign-runner-ids        # Assign IDs to new results
-npm run generate-all             # Regenerate all database, records, and stats
-```
-
-**When you suspect duplicates**:
-```bash
-# Remove runner_id from suspected duplicates in yearly files
-npm run assign-runner-ids    # Will re-detect and flag them
-npm run review-duplicates    # Review and resolve
-npm run generate-db          # Regenerate
 ```
 
 ---
@@ -559,20 +519,18 @@ npm run generate-db
 
 ## Troubleshooting
 
-**All results missing runner_id?**
+**New year results missing runner_id?**
 ```bash
-npm run assign-runner-ids    # Will assign IDs to all
+npm run assign-ids-new-year YYYY    # Assign IDs to specific year
 ```
 
-**Some results missing runner_id?**
+**Some results in new year still unassigned?**
 ```bash
-npm run assign-runner-ids    # Safe to re-run, only processes unassigned
-```
-
-**Too many auto-assignments creating false matches?**
-```bash
-# Remove questionable runner_ids from yearly files
-npm run assign-runner-ids -- --confidence=0.95  # Stricter threshold
+# Check warnings file for uncertain matches
+cat assets/runner-database-warnings.json
+# Manually assign IDs in assets/results/YYYY.json
+# Then re-run
+npm run assign-ids-new-year YYYY
 ```
 
 **Database shows wrong name/club for a runner?**
@@ -609,9 +567,7 @@ npm run generate-db
 | Task | Command |
 |------|---------|
 | Convert CSV to JSON | `node scripts/csv-to-json.js input.csv output.json` |
-| Assign IDs to new results | `npm run assign-runner-ids` |
-| Preview ID assignments | `npm run assign-runner-ids:dry-run` |
-| Review duplicate warnings | `npm run review-duplicates` |
+| **Assign IDs to new year** | `npm run assign-ids-new-year YYYY [--dry-run]` |
 | Regenerate database | `npm run generate-db` |
 | Update masters records | `npm run generate-masters-records` |
 | Update fastest 50 lists | `npm run generate-fastest-50` |
@@ -627,4 +583,4 @@ npm run generate-db
 - Always run `npm run generate-db` after editing yearly files
 - Run `npm run generate-masters-records`, `npm run generate-fastest-50`, `npm run add-position-fields`, and `npm run generate-runner-stats` after adding new results or updating times
 - Or use `npm run generate-all` to run all generation scripts in sequence
-- `assign-runner-ids` is safe to re-run - it never overwrites existing IDs
+- `assign-ids-new-year` is safe to re-run - it only modifies the target year

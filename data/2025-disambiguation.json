@@ -1,0 +1,160 @@
+{
+  "year": 2025,
+  "decisions": [
+    {
+      "position": 8,
+      "name": "Maria McGee",
+      "runner_id": "maria-mcgee"
+    },
+    {
+      "position": 172,
+      "name": "Sean Lavery",
+      "runner_id": "sean-lavery"
+    },
+    {
+      "position": 261,
+      "name": "Cathal McEnhill",
+      "runner_id": "cathal-mcenhill-2"
+    },
+    {
+      "position": 392,
+      "name": "Vincent McAtee",
+      "runner_id": "vincent-mcatee"
+    },
+    {
+      "position": 397,
+      "name": "Elaine McConway",
+      "runner_id": "elaine-mcconway"
+    },
+    {
+      "position": 452,
+      "name": "Declan Gordon",
+      "runner_id": "declan-gordan"
+    },
+    {
+      "position": 462,
+      "name": "Michael Donnelly",
+      "runner_id": "michael-donnelly"
+    },
+    {
+      "position": 488,
+      "name": "Bryan McGuire",
+      "runner_id": "bryan-mcguire"
+    },
+    {
+      "position": 510,
+      "name": "Michelle McCrory",
+      "runner_id": "michelle-mccrory"
+    },
+    {
+      "position": 614,
+      "name": "Cormac Monroe",
+      "runner_id": "cormac-munroe"
+    },
+    {
+      "position": 679,
+      "name": "Conal McAleer",
+      "runner_id": "conal-mcaleer"
+    },
+    {
+      "position": 793,
+      "name": "Eoghan O'Donnell",
+      "runner_id": "eoghan-odonnell"
+    },
+    {
+      "position": 841,
+      "name": "Connal Kelly",
+      "runner_id": "connal-kelly"
+    },
+    {
+      "position": 1035,
+      "name": "Michaela McGuigan",
+      "runner_id": "michaela-mcguigan"
+    },
+    {
+      "position": 19,
+      "name": "Paul Carron",
+      "runner_id": "paul-carron"
+    },
+    {
+      "position": 349,
+      "name": "Paul Curran",
+      "runner_id": "paul-curran"
+    },
+    {
+      "position": 422,
+      "name": "Paul McCarron",
+      "runner_id": "paul-mccarron"
+    },
+    {
+      "position": 39,
+      "name": "James O'Neill",
+      "runner_id": "james-oneill"
+    },
+    {
+      "position": 953,
+      "name": "James O'Neill",
+      "runner_id": "james-oneill-prob-dupe"
+    },
+    {
+      "position": 263,
+      "name": "N.N. 1272",
+      "runner_id": "unknown"
+    },
+    {
+      "position": 847,
+      "name": "N.N. 1262",
+      "runner_id": "unknown"
+    },
+    {
+      "position": 277,
+      "name": "Mark Connolly",
+      "runner_id": "mark-connolly"
+    },
+    {
+      "position": 334,
+      "name": "Mark Donnelly",
+      "runner_id": "mark-donnelly"
+    },
+    {
+      "position": 418,
+      "name": "Alice Funston",
+      "runner_id": "alice-funston"
+    },
+    {
+      "position": 672,
+      "name": "Alice Funston",
+      "runner_id": "alice-funston-prob-dupe"
+    },
+    {
+      "position": 628,
+      "name": "John Kelly",
+      "runner_id": "john-kelly-2"
+    },
+    {
+      "position": 833,
+      "name": "John Kelly",
+      "runner_id": "john-kelly-3"
+    },
+    {
+      "position": 1063,
+      "name": "Stephanie Cleary",
+      "runner_id": "stephanie-cleary"
+    },
+    {
+      "position": 1121,
+      "name": "Stephanie Henry",
+      "runner_id": "stephanie-henry"
+    },
+    {
+      "position": 766,
+      "name": "Michael Kelly",
+      "runner_id": "michael-kelly-2"
+    },
+    {
+      "position": 1027,
+      "name": "Gráinne Moxon",
+      "runner_id": "grainne-moxon"
+    }
+  ]
+}

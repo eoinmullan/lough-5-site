@@ -66,17 +66,17 @@ This website provides information about the Lough 5 Road Race, including:
 │       ├── runner.js     # Runner search and stats functionality
 │       └── course.js     # Course map functionality
 ├── scripts/              # Data processing and management scripts
-│   ├── assign-runner-ids.js          # Assign unique IDs to runners
+│   ├── assign-ids-to-new-year.js     # Assign unique IDs to new year results
 │   ├── generate-runner-database.js   # Generate runner database
 │   ├── generate-masters-records.js   # Generate masters records
 │   ├── generate-fastest-50.js        # Generate fastest 50 lists
 │   ├── add-position-fields.js        # Add position/award fields to results
 │   ├── generate-runner-stats.js      # Generate individual runner stats
 │   ├── generate-priority-candidates.js # Generate list of runners needing profiles
-│   ├── review-duplicates.js          # Interactive duplicate resolution
 │   ├── find-duplicate-runner-ids.js  # Check for duplicate IDs in results files
 │   ├── find-highest-participation.js # Analyze participation patterns
 │   ├── csv-to-json.js                # Convert CSV results to JSON format
+│   ├── find-and-fix-typos.js         # Find and fix name typos in CSV files
 │   ├── generate-fastest-500-times.js # Generate fastest 500 performances markdown
 │   ├── generate-interesting-stats.js # Generate statistical analyses markdown
 │   └── README.md                      # Detailed scripts documentation

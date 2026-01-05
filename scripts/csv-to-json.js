@@ -36,6 +36,136 @@ const HEADER_ALIASES = {
   "Gun Time": ["Gun Time", "GunTime", "Gross Time", "GrossTime", "Gun"],
 };
 
+// ---- Standard categories (canonical format) ----
+const STANDARD_CATEGORIES = [
+  "MU19", "MO", "M35", "M40", "M45", "M50", "M55", "M60", "M65", "M70", "M75", "M80", "M85", "M90",
+  "FU19", "FO", "F35", "F40", "F45", "F50", "F55", "F60", "F65", "F70", "F75", "F80", "F85", "F90",
+];
+
+// ---- Category aliases: map non-standard formats to standard categories ----
+// Add entries here when you encounter new category naming formats in CSV files
+const CATEGORY_ALIASES = {
+  // Male Under 19 variants
+  "MaleU19": "MU19",
+  "Male U19": "MU19",
+  "MaleUnder19": "MU19",
+  "Male Under 19": "MU19",
+  "MJunior": "MU19",
+  "Male Junior": "MU19",
+  "MJun": "MU19",
+
+  // Female Under 19 variants
+  "FemaleU19": "FU19",
+  "Female U19": "FU19",
+  "FemaleUnder19": "FU19",
+  "Female Under 19": "FU19",
+  "FJunior": "FU19",
+  "Female Junior": "FU19",
+  "FJun": "FU19",
+
+  // Male Open variants
+  "MaleOpen": "MO",
+  "Male Open": "MO",
+  "MOpen": "MO",
+  "Men Open": "MO",
+  "MSenior": "MO",
+  "Male Senior": "MO",
+  "MSen": "MO",
+
+  // Female Open variants
+  "FemaleOpen": "FO",
+  "Female Open": "FO",
+  "FOpen": "FO",
+  "Women Open": "FO",
+  "FSenior": "FO",
+  "Female Senior": "FO",
+  "FSen": "FO",
+
+  // Male age groups with spaces
+  "Male 35": "M35",
+  "Male 40": "M40",
+  "Male 45": "M45",
+  "Male 50": "M50",
+  "Male 55": "M55",
+  "Male 60": "M60",
+  "Male 65": "M65",
+  "Male 70": "M70",
+  "Male 75": "M75",
+  "Male 80": "M80",
+  "Male 85": "M85",
+  "Male 90": "M90",
+
+  // Male age groups without spaces
+  "Male35": "M35",
+  "Male40": "M40",
+  "Male45": "M45",
+  "Male50": "M50",
+  "Male55": "M55",
+  "Male60": "M60",
+  "Male65": "M65",
+  "Male70": "M70",
+  "Male75": "M75",
+  "Male80": "M80",
+  "Male85": "M85",
+  "Male90": "M90",
+
+  // "Men" variants
+  "Men 35": "M35",
+  "Men 40": "M40",
+  "Men 45": "M45",
+  "Men 50": "M50",
+  "Men 55": "M55",
+  "Men 60": "M60",
+  "Men 65": "M65",
+  "Men 70": "M70",
+  "Men 75": "M75",
+  "Men 80": "M80",
+  "Men 85": "M85",
+  "Men 90": "M90",
+
+  // Female age groups with spaces
+  "Female 35": "F35",
+  "Female 40": "F40",
+  "Female 45": "F45",
+  "Female 50": "F50",
+  "Female 55": "F55",
+  "Female 60": "F60",
+  "Female 65": "F65",
+  "Female 70": "F70",
+  "Female 75": "F75",
+  "Female 80": "F80",
+  "Female 85": "F85",
+  "Female 90": "F90",
+
+  // Female age groups without spaces
+  "Female35": "F35",
+  "Female40": "F40",
+  "Female45": "F45",
+  "Female50": "F50",
+  "Female55": "F55",
+  "Female60": "F60",
+  "Female65": "F65",
+  "Female70": "F70",
+  "Female75": "F75",
+  "Female80": "F80",
+  "Female85": "F85",
+  "Female90": "F90",
+
+  // "Women" variants
+  "Women 35": "F35",
+  "Women 40": "F40",
+  "Women 45": "F45",
+  "Women 50": "F50",
+  "Women 55": "F55",
+  "Women 60": "F60",
+  "Women 65": "F65",
+  "Women 70": "F70",
+  "Women 75": "F75",
+  "Women 80": "F80",
+  "Women 85": "F85",
+  "Women 90": "F90",
+};
+
 // Output field order (for nicer JSON diffs / readability)
 const OUTPUT_FIELDS = [
   "Position",
@@ -143,12 +273,16 @@ function buildIndexByOutputField(headers) {
 // ---- 3) Value normalization helpers ----
 function cleanValue(v) {
   if (v === undefined || v === null) return undefined;
-  const s = String(v).trim();
+  let s = String(v).trim();
   if (!s) return undefined;
 
   const lowered = s.toLowerCase();
   if (lowered === "n/a" || lowered === "na" || lowered === "null") return undefined;
   if (s === "#REF!") return undefined;
+
+  // Normalize Unicode quotation marks to ASCII
+  s = s.replace(/[\u2018\u2019\u201A\u201B]/g, "'");  // Single quotes
+  s = s.replace(/[\u201C\u201D\u201E\u201F]/g, '"');  // Double quotes
 
   return s;
 }
@@ -233,6 +367,28 @@ function normalizeName(v) {
   return s.replace(/\s+/g, " ").trim();
 }
 
+function normalizeCategory(v) {
+  const s = cleanValue(v);
+  if (!s) return undefined;
+
+  // Check if already a standard category
+  if (STANDARD_CATEGORIES.includes(s)) {
+    return s;
+  }
+
+  // Check if there's a mapping
+  if (CATEGORY_ALIASES[s]) {
+    return CATEGORY_ALIASES[s];
+  }
+
+  // Unrecognized category - this is an error
+  throw new Error(
+    `Unrecognized category: "${s}"\n\n` +
+    `This category must be added to CATEGORY_ALIASES in csv-to-json.js.\n` +
+    `Standard categories are: ${STANDARD_CATEGORIES.join(", ")}`
+  );
+}
+
 // ---- 4) Conversion ----
 function convertCsvToJsonArray(csvText, { verbose = false } = {}) {
   const { headers, dataRows } = parseCsv(csvText);
@@ -268,6 +424,7 @@ function convertCsvToJsonArray(csvText, { verbose = false } = {}) {
       let value;
       if (field === "Position" || field === "Bib no.") value = normalizeInt(raw);
       else if (field === "Name") value = normalizeName(raw);
+      else if (field === "Category") value = normalizeCategory(raw);
       else if (field === "Chip Time" || field === "Gun Time" || field === "Lap of Lough")
         value = normalizeTime(raw);
       else value = cleanValue(raw);

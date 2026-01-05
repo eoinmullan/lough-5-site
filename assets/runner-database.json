@@ -424,7 +424,7 @@
     },
     "liam-mcart": {
       "runner_id": "liam-mcart",
-      "canonical_name": "Liam Mcart",
+      "canonical_name": "Liam McArt",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -456,7 +456,7 @@
       "canonical_name": "Vincy Hollywood",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Greencastle AC",
+      "most_common_club": "Sperrin Harriers",
       "most_common_club_source": "automatic",
       "years": [
         2009,
@@ -469,13 +469,14 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 11
+      "total_races": 12
     },
     "patrick-mccrory-oh": {
       "runner_id": "patrick-mccrory-oh",
-      "canonical_name": "Patrick Mccrory",
+      "canonical_name": "Patrick McCrory",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Omagh Harriers",
@@ -852,9 +853,10 @@
       "most_common_club_source": "automatic",
       "years": [
         2009,
-        2023
+        2023,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "unknown": {
       "runner_id": "unknown",
@@ -871,9 +873,10 @@
         2014,
         2015,
         2016,
-        2017
+        2017,
+        2025
       ],
-      "total_races": 8
+      "total_races": 9
     },
     "diane-wilson": {
       "runner_id": "diane-wilson",
@@ -7090,10 +7093,9 @@
         2012,
         2014,
         2015,
-        2024,
-        2025
+        2024
       ],
-      "total_races": 7
+      "total_races": 6
     },
     "elsie-mcgarvey": {
       "runner_id": "elsie-mcgarvey",
@@ -7127,9 +7129,10 @@
         2017,
         2018,
         2019,
-        2022
+        2022,
+        2025
       ],
-      "total_races": 11
+      "total_races": 12
     },
     "martin-mcnulty": {
       "runner_id": "martin-mcnulty",
@@ -7223,15 +7226,16 @@
       "canonical_name": "Aidan Quinn",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Galbally Runners",
+      "most_common_club": "Keep 'er Lit",
       "most_common_club_source": "automatic",
       "years": [
         2010,
         2011,
         2015,
-        2017
+        2017,
+        2025
       ],
-      "total_races": 4
+      "total_races": 5
     },
     "shane-mcguigan": {
       "runner_id": "shane-mcguigan",
@@ -8719,9 +8723,10 @@
         2010,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 4
+      "total_races": 5
     },
     "kate-gallagher": {
       "runner_id": "kate-gallagher",
@@ -11147,9 +11152,10 @@
         2019,
         2021,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 9
+      "total_races": 10
     },
     "shaun-dillon": {
       "runner_id": "shaun-dillon",
@@ -12188,7 +12194,7 @@
     },
     "gerry-mccaffrey": {
       "runner_id": "gerry-mccaffrey",
-      "canonical_name": "Gerry Mccaffrey",
+      "canonical_name": "Gerry McCaffrey",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Knockmany Runners",
@@ -12725,7 +12731,7 @@
     },
     "monica-mccarroll": {
       "runner_id": "monica-mccarroll",
-      "canonical_name": "Monica Mccarroll",
+      "canonical_name": "Monica McCarroll",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Knockmany Running Club",
@@ -12943,7 +12949,7 @@
     },
     "bernie-mccaffrey": {
       "runner_id": "bernie-mccaffrey",
-      "canonical_name": "Bernie Mccaffrey",
+      "canonical_name": "Bernie McCaffrey",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Knockmany Runners",
@@ -13273,7 +13279,7 @@
     },
     "patricia-ohagan": {
       "runner_id": "patricia-ohagan",
-      "canonical_name": "Patricia O’hagan",
+      "canonical_name": "Patricia O'Hagan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "St Peter's AC",
@@ -17154,7 +17160,7 @@
     },
     "rory-mccallan": {
       "runner_id": "rory-mccallan",
-      "canonical_name": "Rory Mccallan",
+      "canonical_name": "Rory McCallan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -17990,7 +17996,7 @@
     },
     "diane-mccann": {
       "runner_id": "diane-mccann",
-      "canonical_name": "Diane Mc Cann",
+      "canonical_name": "Diane McCann",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Omagh Harriers",
@@ -19753,9 +19759,10 @@
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2014
+        2014,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "gerard-donaghy": {
       "runner_id": "gerard-donaghy",
@@ -19929,9 +19936,10 @@
         2014,
         2015,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 4
+      "total_races": 5
     },
     "joson-chippy-oneill": {
       "runner_id": "joson-chippy-oneill",
@@ -20715,7 +20723,7 @@
     },
     "owen-mccloskey": {
       "runner_id": "owen-mccloskey",
-      "canonical_name": "Owen Mccloskey",
+      "canonical_name": "Owen McCloskey",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -24117,9 +24125,10 @@
       "most_common_club": "Sperrin Harriers",
       "most_common_club_source": "automatic",
       "years": [
-        2015
+        2015,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "brian-fox": {
       "runner_id": "brian-fox",
@@ -24626,9 +24635,10 @@
         2019,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 8
+      "total_races": 9
     },
     "esther-hardy": {
       "runner_id": "esther-hardy",
@@ -24849,7 +24859,7 @@
     },
     "mary-mccrory": {
       "runner_id": "mary-mccrory",
-      "canonical_name": "Mary Mccrory",
+      "canonical_name": "Mary McCrory",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Carmen Runners",
@@ -26703,16 +26713,15 @@
     },
     "maria-magee": {
       "runner_id": "maria-magee",
-      "canonical_name": "Maria Mcgee",
+      "canonical_name": "Maria Magee",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "Rosses AC",
+      "most_common_club": "1ZER01 Athletes",
       "most_common_club_source": "automatic",
       "years": [
-        2016,
-        2025
+        2016
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "catherine-oneill": {
       "runner_id": "catherine-oneill",
@@ -27047,7 +27056,7 @@
     },
     "colin-okane": {
       "runner_id": "colin-okane",
-      "canonical_name": "Colin O'kane",
+      "canonical_name": "Colin O'Kane",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "KC Runners",
@@ -27308,7 +27317,7 @@
     },
     "conor-mcgarrity": {
       "runner_id": "conor-mcgarrity",
-      "canonical_name": "Conor Mcgarrity",
+      "canonical_name": "Conor McGarrity",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Rock St. Patricks",
@@ -27321,7 +27330,7 @@
     },
     "martin-oneill": {
       "runner_id": "martin-oneill",
-      "canonical_name": "Martin Oneill",
+      "canonical_name": "Martin O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Keep 'er Lit",
@@ -29450,7 +29459,7 @@
     },
     "claire-oneill": {
       "runner_id": "claire-oneill",
-      "canonical_name": "Claire O'neill",
+      "canonical_name": "Claire O'Neill",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Badoney Runners",
@@ -30182,7 +30191,7 @@
     },
     "sandra-mckeown": {
       "runner_id": "sandra-mckeown",
-      "canonical_name": "Sandra Mckeown",
+      "canonical_name": "Sandra McKeown",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Acorns AC",
@@ -30759,7 +30768,7 @@
     },
     "brenda-mckenna": {
       "runner_id": "brenda-mckenna",
-      "canonical_name": "Brenda Mckenna",
+      "canonical_name": "Brenda McKenna",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Glaslough Harriers AC",
@@ -31309,16 +31318,17 @@
     },
     "marie-gallagher": {
       "runner_id": "marie-gallagher",
-      "canonical_name": "Mare Gallagher",
+      "canonical_name": "Mary Gallagher",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2017,
-        2018
+        2018,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "nuala-garberry": {
       "runner_id": "nuala-garberry",
@@ -31340,9 +31350,10 @@
       "most_common_club": "Omagh Harriers",
       "most_common_club_source": "automatic",
       "years": [
-        2017
+        2017,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "declan-armstrong": {
       "runner_id": "declan-armstrong",
@@ -31566,7 +31577,7 @@
     },
     "aidan-mccrory": {
       "runner_id": "aidan-mccrory",
-      "canonical_name": "Aidan Mccrory",
+      "canonical_name": "Aidan McCrory",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Galbally Runners",
@@ -33252,7 +33263,7 @@
     },
     "kathryn-mcbrearty": {
       "runner_id": "kathryn-mcbrearty",
-      "canonical_name": "Kathryn Mcbrearty",
+      "canonical_name": "Kathryn McBrearty",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -35944,9 +35955,10 @@
       "most_common_club": "Clarkes",
       "most_common_club_source": "automatic",
       "years": [
-        2018
+        2018,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "roisin-brogan": {
       "runner_id": "roisin-brogan",
@@ -36035,9 +36047,10 @@
         2018,
         2019,
         2022,
-        2023
+        2023,
+        2025
       ],
-      "total_races": 4
+      "total_races": 5
     },
     "cailtin-mccrory": {
       "runner_id": "cailtin-mccrory",
@@ -38366,9 +38379,10 @@
       "most_common_club": "Finn Valley AC",
       "most_common_club_source": "automatic",
       "years": [
-        2019
+        2019,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "ciaran-mcnamee": {
       "runner_id": "ciaran-mcnamee",
@@ -38408,7 +38422,7 @@
     },
     "francis-oneill": {
       "runner_id": "francis-oneill",
-      "canonical_name": "Francis O'Neill",
+      "canonical_name": "Francie O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Galbally Runners",
@@ -38572,9 +38586,10 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 5
+      "total_races": 6
     },
     "mervyn-molyneaux": {
       "runner_id": "mervyn-molyneaux",
@@ -42329,7 +42344,7 @@
     },
     "fintan-mcguckin": {
       "runner_id": "fintan-mcguckin",
-      "canonical_name": "Fintan Mcguckin",
+      "canonical_name": "Fintan McGuckin",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Keep 'er Lit",
@@ -42822,7 +42837,7 @@
     },
     "leanne-mc-kenna": {
       "runner_id": "leanne-mc-kenna",
-      "canonical_name": "Leanne Mc kenna",
+      "canonical_name": "Leanne McKenna",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Keep 'er Lit",
@@ -44082,7 +44097,7 @@
     },
     "matthew-mcfadden": {
       "runner_id": "matthew-mcfadden",
-      "canonical_name": "Matthew Mcfadden",
+      "canonical_name": "Matthew McFadden",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Killeshill Runners",
@@ -44327,13 +44342,14 @@
       "canonical_name": "John O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "KNOCKMANY RUNNERS",
+      "most_common_club": "Knockmany Running Club",
       "most_common_club_source": "automatic",
       "years": [
         2021,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "nn-719": {
       "runner_id": "nn-719",
@@ -44826,7 +44842,7 @@
     },
     "clare-mc-namee": {
       "runner_id": "clare-mc-namee",
-      "canonical_name": "Clare Mc namee",
+      "canonical_name": "Clare McNamee",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -45281,7 +45297,7 @@
     },
     "fergus-mcgirr": {
       "runner_id": "fergus-mcgirr",
-      "canonical_name": "Fergus Mc girr",
+      "canonical_name": "Fergus McGirr",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Enniskillen RC",
@@ -45442,13 +45458,14 @@
       "canonical_name": "Ryan O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Keep ’er lit",
+      "most_common_club": "Keep 'er Lit",
       "most_common_club_source": "automatic",
       "years": [
         2022,
-        2023
+        2023,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "aodhan-mccay": {
       "runner_id": "aodhan-mccay",
@@ -46947,9 +46964,10 @@
       "most_common_club_source": "automatic",
       "years": [
         2022,
-        2023
+        2023,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "ciaran-mccathrey": {
       "runner_id": "ciaran-mccathrey",
@@ -47052,17 +47070,18 @@
       ],
       "total_races": 1
     },
-    "conal-mcaleen": {
-      "runner_id": "conal-mcaleen",
-      "canonical_name": "Conal McAleen",
+    "conal-mcaleer": {
+      "runner_id": "conal-mcaleer",
+      "canonical_name": "Conal McAleer",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2022
+        2022,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "seamus-maguire": {
       "runner_id": "seamus-maguire",
@@ -47858,7 +47877,7 @@
     },
     "roisin-mccartan": {
       "runner_id": "roisin-mccartan",
-      "canonical_name": "Roisin Mccartan",
+      "canonical_name": "Roisin McCartan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -48399,9 +48418,10 @@
       "most_common_club": "Carmen Runners",
       "most_common_club_source": "automatic",
       "years": [
-        2023
+        2023,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "carol-gourley": {
       "runner_id": "carol-gourley",
@@ -48645,7 +48665,7 @@
     },
     "cormac-mcaleer": {
       "runner_id": "cormac-mcaleer",
-      "canonical_name": "Cormac Mcaleer",
+      "canonical_name": "Cormac McAleer",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -48910,16 +48930,17 @@
     },
     "cormac-munroe": {
       "runner_id": "cormac-munroe",
-      "canonical_name": "Cormac Munrose",
+      "canonical_name": "Cormac Monroe",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "justin-conaty": {
       "runner_id": "justin-conaty",
@@ -49036,7 +49057,7 @@
     },
     "claire-mcgurk": {
       "runner_id": "claire-mcgurk",
-      "canonical_name": "Claire Mcgurk",
+      "canonical_name": "Claire McGurk",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Magherafelt Harriers",
@@ -49337,7 +49358,7 @@
     },
     "liam-mc-glinchey": {
       "runner_id": "liam-mc-glinchey",
-      "canonical_name": "Liam Mc glinchey",
+      "canonical_name": "Liam McGlinchey",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Run for Enda",
@@ -49496,7 +49517,7 @@
     },
     "marion-odonnell": {
       "runner_id": "marion-odonnell",
-      "canonical_name": "Marion O donnell",
+      "canonical_name": "Marion O'Donnell",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Galbally runners",
@@ -49723,7 +49744,7 @@
     },
     "mairead-mccarthy": {
       "runner_id": "mairead-mccarthy",
-      "canonical_name": "Mairead Mccarthy",
+      "canonical_name": "Mairead McCarthy",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -49990,7 +50011,7 @@
     },
     "sean-mccarthy": {
       "runner_id": "sean-mccarthy",
-      "canonical_name": "Sean Mccarthy",
+      "canonical_name": "Sean McCarthy",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -50522,7 +50543,7 @@
     },
     "bronagh-mccrory": {
       "runner_id": "bronagh-mccrory",
-      "canonical_name": "Bronagh Mccrory",
+      "canonical_name": "Bronagh McCrory",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Carmen Runners",
@@ -50573,7 +50594,7 @@
     },
     "scott-mcaleer": {
       "runner_id": "scott-mcaleer",
-      "canonical_name": "Scott Mcaleer",
+      "canonical_name": "Scott McAleer",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Run for enda",
@@ -50727,9 +50748,10 @@
       "most_common_club_source": "automatic",
       "years": [
         2023,
-        2024
+        2024,
+        2025
       ],
-      "total_races": 2
+      "total_races": 3
     },
     "ellen-gormley": {
       "runner_id": "ellen-gormley",
@@ -50863,7 +50885,7 @@
     },
     "denise-mcgirr": {
       "runner_id": "denise-mcgirr",
-      "canonical_name": "Denise Mcgirr",
+      "canonical_name": "Denise McGirr",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Knockmany Running Club",
@@ -50938,7 +50960,7 @@
     },
     "sean-mckenna": {
       "runner_id": "sean-mckenna",
-      "canonical_name": "Sean Mckenna",
+      "canonical_name": "Sean McKenna",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -51589,7 +51611,7 @@
     },
     "donnchadh-mcaleer": {
       "runner_id": "donnchadh-mcaleer",
-      "canonical_name": "Donnchadh Mcaleer",
+      "canonical_name": "Donnchadh McAleer",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -51781,9 +51803,10 @@
       "most_common_club": "Run for enda",
       "most_common_club_source": "automatic",
       "years": [
-        2023
+        2023,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "collette-rooney": {
       "runner_id": "collette-rooney",
@@ -51958,7 +51981,7 @@
     },
     "john-james-mcanerney": {
       "runner_id": "john-james-mcanerney",
-      "canonical_name": "John james Mc anerney",
+      "canonical_name": "John james McAnerney",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Annadale Striders",
@@ -52008,7 +52031,7 @@
     },
     "shane-mccann": {
       "runner_id": "shane-mccann",
-      "canonical_name": "Shane Mccann",
+      "canonical_name": "Shane McCann",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -52081,7 +52104,7 @@
     },
     "niall-mcconnell": {
       "runner_id": "niall-mcconnell",
-      "canonical_name": "Niall Mcconnell",
+      "canonical_name": "Niall McConnell",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Knockmany Running Club",
@@ -52474,7 +52497,7 @@
     },
     "cormac-mcwilliams": {
       "runner_id": "cormac-mcwilliams",
-      "canonical_name": "Cormac Mcwilliams",
+      "canonical_name": "Cormac McWilliams",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Loughmacrory",
@@ -52537,16 +52560,15 @@
     },
     "barry-oneill-carmen": {
       "runner_id": "barry-oneill-carmen",
-      "canonical_name": "Barry O’neill",
+      "canonical_name": "Barry O’Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Carmen Runners",
       "most_common_club_source": "automatic",
       "years": [
-        2024,
-        2025
+        2024
       ],
-      "total_races": 2
+      "total_races": 1
     },
     "mark-mccann": {
       "runner_id": "mark-mccann",
@@ -52588,15 +52610,16 @@
     },
     "emma-oneill-2": {
       "runner_id": "emma-oneill-2",
-      "canonical_name": "Emma O’Neill",
+      "canonical_name": "Emma O'Neill",
       "canonical_name_source": "automatic",
       "gender": "F",
-      "most_common_club": "",
+      "most_common_club": "Dromore Runners",
       "most_common_club_source": "automatic",
       "years": [
-        2024
+        2024,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "sean-brogan": {
       "runner_id": "sean-brogan",
@@ -52606,9 +52629,10 @@
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2024
+        2024,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "ine-donnelly": {
       "runner_id": "ine-donnelly",
@@ -53186,19 +53210,20 @@
     },
     "declan-gordan": {
       "runner_id": "declan-gordan",
-      "canonical_name": "Declan Gordan",
+      "canonical_name": "Declan Gordon",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
-        2024
+        2024,
+        2025
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "dylan-mccauley": {
       "runner_id": "dylan-mccauley",
-      "canonical_name": "Dylan Mccauley",
+      "canonical_name": "Dylan McCauley",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -53272,7 +53297,7 @@
     },
     "martin-donnelly": {
       "runner_id": "martin-donnelly",
-      "canonical_name": "Martin Donnellly",
+      "canonical_name": "Martin Donnelly",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -53382,7 +53407,7 @@
     },
     "clive-mccrea": {
       "runner_id": "clive-mccrea",
-      "canonical_name": "Clive Mccrea",
+      "canonical_name": "Clive McCrea",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -53445,7 +53470,7 @@
     },
     "martin-mccauley": {
       "runner_id": "martin-mccauley",
-      "canonical_name": "Martin Mccauley",
+      "canonical_name": "Martin McCauley",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Star Running Club",
@@ -53695,7 +53720,7 @@
     },
     "maxine-mcmenemy": {
       "runner_id": "maxine-mcmenemy",
-      "canonical_name": "Maxine Mcmenemy",
+      "canonical_name": "Maxine McMenemy",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Sperrin Harriers",
@@ -53881,7 +53906,7 @@
     },
     "dylan-mccolgan": {
       "runner_id": "dylan-mccolgan",
-      "canonical_name": "Dylan Mccolgan",
+      "canonical_name": "Dylan McColgan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Melvin WJR",
@@ -54091,7 +54116,7 @@
     },
     "rita-mcpeake": {
       "runner_id": "rita-mcpeake",
-      "canonical_name": "Rita Mcpeake",
+      "canonical_name": "Rita McPeake",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -54189,7 +54214,7 @@
     },
     "peader-mccullagh": {
       "runner_id": "peader-mccullagh",
-      "canonical_name": "Peader Mccullagh",
+      "canonical_name": "Peader McCullagh",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -54239,7 +54264,7 @@
     },
     "sinad-mcaleer-o-neill": {
       "runner_id": "sinad-mcaleer-o-neill",
-      "canonical_name": "Sinead Mc aleer o neill",
+      "canonical_name": "Sinead McAleer O'Neill",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Knockmany Running Club",
@@ -54410,7 +54435,7 @@
     },
     "alicia-oconnor": {
       "runner_id": "alicia-oconnor",
-      "canonical_name": "Alicia Oconnor",
+      "canonical_name": "Alicia O'Connor",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Carmen Runners",
@@ -54423,7 +54448,7 @@
     },
     "roisin-oneill": {
       "runner_id": "roisin-oneill",
-      "canonical_name": "Roisin O’neill",
+      "canonical_name": "Roisin O'neill",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Carmen Runners",
@@ -54448,7 +54473,7 @@
     },
     "daith-okane": {
       "runner_id": "daith-okane",
-      "canonical_name": "Daithí O'kane",
+      "canonical_name": "Daithí O'Kane",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -54621,7 +54646,7 @@
     },
     "nicola-mccann": {
       "runner_id": "nicola-mccann",
-      "canonical_name": "Nicola Mccann",
+      "canonical_name": "Nicola McCann",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -54820,7 +54845,7 @@
     },
     "liam-mcintyre": {
       "runner_id": "liam-mcintyre",
-      "canonical_name": "Liam Mcintyre",
+      "canonical_name": "Liam McIntyre",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Melvin WJR",
@@ -55150,7 +55175,7 @@
     },
     "orla-mcelwee": {
       "runner_id": "orla-mcelwee",
-      "canonical_name": "Orla Mc elwee",
+      "canonical_name": "Orla McElwee",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Melvin WJR",
@@ -55212,7 +55237,7 @@
     },
     "cara-okane": {
       "runner_id": "cara-okane",
-      "canonical_name": "Cara O'kane",
+      "canonical_name": "Cara O'Kane",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -55408,7 +55433,7 @@
     },
     "oonagh-mcdermott": {
       "runner_id": "oonagh-mcdermott",
-      "canonical_name": "Oonagh Mcdermott",
+      "canonical_name": "Oonagh McDermott",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -55421,7 +55446,7 @@
     },
     "aisling-mcdermottdonaghy": {
       "runner_id": "aisling-mcdermottdonaghy",
-      "canonical_name": "Aisling Mc dermott-donaghy",
+      "canonical_name": "Aisling McDermott-Donaghy",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Carmen Runners",
@@ -55508,7 +55533,7 @@
     },
     "maeliosa-mccrudden": {
       "runner_id": "maeliosa-mccrudden",
-      "canonical_name": "Maelíosa Mc crudden",
+      "canonical_name": "Maelíosa McCrudden",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -55521,7 +55546,7 @@
     },
     "tracy-mcgibney": {
       "runner_id": "tracy-mcgibney",
-      "canonical_name": "Tracy Mcgibney",
+      "canonical_name": "Tracy McGibney",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -55690,6 +55715,18 @@
       ],
       "total_races": 1
     },
+    "maria-mcgee": {
+      "runner_id": "maria-mcgee",
+      "canonical_name": "Maria McGee",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "Rosses AC",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "andy-carson": {
       "runner_id": "andy-carson",
       "canonical_name": "Andy Carson",
@@ -55716,7 +55753,7 @@
     },
     "tiarnan-oneill": {
       "runner_id": "tiarnan-oneill",
-      "canonical_name": "Tiarnan O’neill",
+      "canonical_name": "Tiarnan O'neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -55728,7 +55765,7 @@
     },
     "michael-mccolgan": {
       "runner_id": "michael-mccolgan",
-      "canonical_name": "Michael Mccolgan",
+      "canonical_name": "Michael McColgan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -55776,7 +55813,7 @@
     },
     "adrian-mcbride": {
       "runner_id": "adrian-mcbride",
-      "canonical_name": "Adrian Mcbride",
+      "canonical_name": "Adrian McBride",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Enniskillen RC",
@@ -55846,9 +55883,9 @@
       ],
       "total_races": 1
     },
-    "james-o-neill": {
-      "runner_id": "james-o-neill",
-      "canonical_name": "James O' neill",
+    "james-oneill": {
+      "runner_id": "james-oneill",
+      "canonical_name": "James O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Enniskillen RC",
@@ -55860,7 +55897,7 @@
     },
     "maggie-ohara-finn": {
       "runner_id": "maggie-ohara-finn",
-      "canonical_name": "Maggie Ohara",
+      "canonical_name": "Maggie O'Hara",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Finn Valley AC",
@@ -55894,9 +55931,9 @@
       ],
       "total_races": 1
     },
-    "charlie-mc-aleer": {
-      "runner_id": "charlie-mc-aleer",
-      "canonical_name": "Charlie Mc aleer",
+    "charlie-mcaleer": {
+      "runner_id": "charlie-mcaleer",
+      "canonical_name": "Charlie McAleer",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -55920,7 +55957,7 @@
     },
     "pearse-mcnabb": {
       "runner_id": "pearse-mcnabb",
-      "canonical_name": "Pearse Mcnabb",
+      "canonical_name": "Pearse McNabb",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -55944,7 +55981,7 @@
     },
     "eamon-mcnally": {
       "runner_id": "eamon-mcnally",
-      "canonical_name": "Eamon Mcnally",
+      "canonical_name": "Eamon McNally",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Keep 'er Lit",
@@ -55956,7 +55993,7 @@
     },
     "john-mcmanus": {
       "runner_id": "john-mcmanus",
-      "canonical_name": "John Mcmanus",
+      "canonical_name": "John McManus",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "St Peter's AC",
@@ -56052,7 +56089,7 @@
     },
     "nigel-davidson": {
       "runner_id": "nigel-davidson",
-      "canonical_name": "NIgel Davidson",
+      "canonical_name": "Nigel Davidson",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -56076,7 +56113,7 @@
     },
     "hayley-mcateer": {
       "runner_id": "hayley-mcateer",
-      "canonical_name": "Hayley Mcateer",
+      "canonical_name": "Hayley McAteer",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Newry City Runners AC",
@@ -56100,7 +56137,7 @@
     },
     "conall-mccann": {
       "runner_id": "conall-mccann",
-      "canonical_name": "Conall Mccann",
+      "canonical_name": "Conall McCann",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -56124,7 +56161,7 @@
     },
     "emmett-oneill": {
       "runner_id": "emmett-oneill",
-      "canonical_name": "Emmett Oneill",
+      "canonical_name": "Emmett O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -56184,7 +56221,7 @@
     },
     "conan-mcsorley": {
       "runner_id": "conan-mcsorley",
-      "canonical_name": "Conan Mcsorley",
+      "canonical_name": "Conan McSorley",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -56232,7 +56269,7 @@
     },
     "deaglan-ohagan": {
       "runner_id": "deaglan-ohagan",
-      "canonical_name": "Deaglan O'hagan",
+      "canonical_name": "Deaglan O'Hagan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "St Peter's AC",
@@ -56260,6 +56297,18 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "roisin-devlin": {
+      "runner_id": "roisin-devlin",
+      "canonical_name": "Roisin Devlin",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "Carmen Runners",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -56295,6 +56344,18 @@
       "canonical_name": "Oisin Bennett",
       "canonical_name_source": "automatic",
       "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "aisling-moore-2": {
+      "runner_id": "aisling-moore-2",
+      "canonical_name": "Aisling Moore",
+      "canonical_name_source": "automatic",
+      "gender": "F",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -56344,6 +56405,18 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Sperrin Harriers",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "david-ofarrell": {
+      "runner_id": "david-ofarrell",
+      "canonical_name": "David O'Farrell",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Keep 'er Lit",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -56400,7 +56473,7 @@
     },
     "ronan-mchugh": {
       "runner_id": "ronan-mchugh",
-      "canonical_name": "Ronan Mchugh",
+      "canonical_name": "Ronan McHugh",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -56506,6 +56579,18 @@
       ],
       "total_races": 1
     },
+    "sean-lavery": {
+      "runner_id": "sean-lavery",
+      "canonical_name": "Sean Lavery",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "conor-pancott": {
       "runner_id": "conor-pancott",
       "canonical_name": "Conor Pancott",
@@ -56518,9 +56603,9 @@
       ],
       "total_races": 1
     },
-    "sean-mc-auley": {
-      "runner_id": "sean-mc-auley",
-      "canonical_name": "Sean Mc auley",
+    "sean-mcauley": {
+      "runner_id": "sean-mcauley",
+      "canonical_name": "Sean McAuley",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Tafelta AC",
@@ -56542,8 +56627,8 @@
       ],
       "total_races": 1
     },
-    "oisn-hughes": {
-      "runner_id": "oisn-hughes",
+    "oisin-hughes": {
+      "runner_id": "oisin-hughes",
       "canonical_name": "Oisín Hughes",
       "canonical_name_source": "automatic",
       "gender": "M",
@@ -56664,7 +56749,19 @@
     },
     "ronan-mcnabb": {
       "runner_id": "ronan-mcnabb",
-      "canonical_name": "Ronan Mcnabb",
+      "canonical_name": "Ronan McNabb",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "ronan-mcgrath": {
+      "runner_id": "ronan-mcgrath",
+      "canonical_name": "Ronan McGrath",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -56698,9 +56795,9 @@
       ],
       "total_races": 1
     },
-    "kelly-mcmnemain": {
-      "runner_id": "kelly-mcmnemain",
-      "canonical_name": "Kelly Mcmnemain",
+    "kelly-mcmenamin": {
+      "runner_id": "kelly-mcmenamin",
+      "canonical_name": "Kelly McMenamin",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Carmen Runners",
@@ -56878,9 +56975,9 @@
       ],
       "total_races": 1
     },
-    "daniel-mc-crory": {
-      "runner_id": "daniel-mc-crory",
-      "canonical_name": "Daniel Mc crory",
+    "daniel-mccrory": {
+      "runner_id": "daniel-mccrory",
+      "canonical_name": "Daniel McCrory",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Galbally Runners",
@@ -56928,7 +57025,7 @@
     },
     "gary-mcnamee": {
       "runner_id": "gary-mcnamee",
-      "canonical_name": "Gary Mcnamee",
+      "canonical_name": "Gary McNamee",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Omagh Harriers",
@@ -56976,7 +57073,7 @@
     },
     "seamus-mcaleer-2": {
       "runner_id": "seamus-mcaleer-2",
-      "canonical_name": "Seamus Mcaleer",
+      "canonical_name": "Seamus McAleer",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57000,7 +57097,7 @@
     },
     "deirdre-mcgarrigle": {
       "runner_id": "deirdre-mcgarrigle",
-      "canonical_name": "Deirdre Mcgarrigle",
+      "canonical_name": "Deirdre McGarrigle",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Tír Chonaill AC",
@@ -57096,10 +57193,22 @@
     },
     "peter-mcevoy": {
       "runner_id": "peter-mcevoy",
-      "canonical_name": "Peter Mcevoy",
+      "canonical_name": "Peter McEvoy",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Enniskillen RC",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "cathal-mcenhill-2": {
+      "runner_id": "cathal-mcenhill-2",
+      "canonical_name": "Cathal McEnhill",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Omagh Triathlon Club",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -57130,12 +57239,36 @@
       ],
       "total_races": 1
     },
+    "mark-connolly": {
+      "runner_id": "mark-connolly",
+      "canonical_name": "Mark Connolly",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "gerald-rodgers": {
       "runner_id": "gerald-rodgers",
       "canonical_name": "Gerald Rodgers",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Omagh Harriers",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "ryan-conway-2": {
+      "runner_id": "ryan-conway-2",
+      "canonical_name": "Ryan Conway",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -57168,7 +57301,7 @@
     },
     "cahir-mcashee": {
       "runner_id": "cahir-mcashee",
-      "canonical_name": "Cahir Mcashee",
+      "canonical_name": "Cahir McAshee",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57192,7 +57325,19 @@
     },
     "liam-mcelhone": {
       "runner_id": "liam-mcelhone",
-      "canonical_name": "Liam Mcelhone",
+      "canonical_name": "Liam McElhone",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "paul-coney": {
+      "runner_id": "paul-coney",
+      "canonical_name": "Paul Coney",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57264,7 +57409,7 @@
     },
     "jason-chippy-oneill": {
       "runner_id": "jason-chippy-oneill",
-      "canonical_name": "Jason chippy. Oneill",
+      "canonical_name": "Jason chippy. O'Neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Sperrin Harriers",
@@ -57310,24 +57455,12 @@
       ],
       "total_races": 1
     },
-    "oisn-magee": {
-      "runner_id": "oisn-magee",
+    "oisin-magee": {
+      "runner_id": "oisin-magee",
       "canonical_name": "Oisín Magee",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "St Peter's AC",
-      "most_common_club_source": "automatic",
-      "years": [
-        2025
-      ],
-      "total_races": 1
-    },
-    "dara-conway-loughmacrory": {
-      "runner_id": "dara-conway-loughmacrory",
-      "canonical_name": "Dara Conway",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "Loughmacrory",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -57373,6 +57506,18 @@
     "sean-murphy": {
       "runner_id": "sean-murphy",
       "canonical_name": "Sean Murphy",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "mark-donnelly": {
+      "runner_id": "mark-donnelly",
+      "canonical_name": "Mark Donnelly",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57430,9 +57575,33 @@
       ],
       "total_races": 1
     },
+    "martin-mcgurk": {
+      "runner_id": "martin-mcgurk",
+      "canonical_name": "Martin McGurk",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "aidan-kerlin": {
       "runner_id": "aidan-kerlin",
       "canonical_name": "Aidan Kerlin",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "paul-curran": {
+      "runner_id": "paul-curran",
+      "canonical_name": "Paul Curran",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57514,6 +57683,18 @@
       ],
       "total_races": 1
     },
+    "john-meenagh": {
+      "runner_id": "john-meenagh",
+      "canonical_name": "John Meenagh",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "jon-kerr": {
       "runner_id": "jon-kerr",
       "canonical_name": "Jon Kerr",
@@ -57588,7 +57769,7 @@
     },
     "eugene-mccollum": {
       "runner_id": "eugene-mccollum",
-      "canonical_name": "Eugene Mccollum",
+      "canonical_name": "Eugene McCollum",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57612,10 +57793,22 @@
     },
     "james-mcatee": {
       "runner_id": "james-mcatee",
-      "canonical_name": "James Mcatee",
+      "canonical_name": "James McAtee",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "vincentmcatee-knockmanyr": {
+      "runner_id": "vincentmcatee-knockmanyr",
+      "canonical_name": "Vincent McAtee",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Knockmany Running Club",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -57658,12 +57851,24 @@
       ],
       "total_races": 1
     },
+    "elaine-mcconway": {
+      "runner_id": "elaine-mcconway",
+      "canonical_name": "Elaine McConway",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "shea-mullin": {
       "runner_id": "shea-mullin",
       "canonical_name": "Shea Mullin",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "",
+      "most_common_club": "Keep 'er Lit",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -57684,7 +57889,7 @@
     },
     "piaras-mcconnell": {
       "runner_id": "piaras-mcconnell",
-      "canonical_name": "Piaras Mcconnell",
+      "canonical_name": "Piaras McConnell",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57766,9 +57971,33 @@
       ],
       "total_races": 1
     },
+    "barry-mullan": {
+      "runner_id": "barry-mullan",
+      "canonical_name": "Barry Mullan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "dylan-mccullagh-2": {
       "runner_id": "dylan-mccullagh-2",
-      "canonical_name": "Dylan Mccullagh",
+      "canonical_name": "Dylan McCullagh",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "paul-mccarron": {
+      "runner_id": "paul-mccarron",
+      "canonical_name": "Paul McCarron",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57852,7 +58081,7 @@
     },
     "paul-mcdonald": {
       "runner_id": "paul-mcdonald",
-      "canonical_name": "Paul Mcdonald",
+      "canonical_name": "Paul McDonald",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -57910,6 +58139,18 @@
       ],
       "total_races": 1
     },
+    "michael-donnelly": {
+      "runner_id": "michael-donnelly",
+      "canonical_name": "Michael Donnelly",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Knockmany Running Club",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "eamon-ohagan": {
       "runner_id": "eamon-ohagan",
       "canonical_name": "Eamon Ohagan",
@@ -57958,11 +58199,11 @@
       ],
       "total_races": 1
     },
-    "nn-1087": {
-      "runner_id": "nn-1087",
-      "canonical_name": "N.N. 1087",
+    "lucy-mccann": {
+      "runner_id": "lucy-mccann",
+      "canonical_name": "Lucy McCann",
       "canonical_name_source": "automatic",
-      "gender": "M",
+      "gender": "F",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -57984,10 +58225,22 @@
     },
     "shauna-mcmenamin": {
       "runner_id": "shauna-mcmenamin",
-      "canonical_name": "Shauna Mcmenamin",
+      "canonical_name": "Shauna McMenamin",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "lorcan-mcveigh": {
+      "runner_id": "lorcan-mcveigh",
+      "canonical_name": "Lorcan McVeigh",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Galbally",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -58020,7 +58273,7 @@
     },
     "gary-mclaughlin": {
       "runner_id": "gary-mclaughlin",
-      "canonical_name": "Gary Mclaughlin",
+      "canonical_name": "Gary McLaughlin",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Dromore AC",
@@ -58042,9 +58295,21 @@
       ],
       "total_races": 1
     },
+    "bryan-mcguire": {
+      "runner_id": "bryan-mcguire",
+      "canonical_name": "Bryan McGuire",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Galbally Runners",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "hannah-ocallaghan": {
       "runner_id": "hannah-ocallaghan",
-      "canonical_name": "Hannah O'callaghan",
+      "canonical_name": "Hannah O'Callaghan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -58066,8 +58331,20 @@
       ],
       "total_races": 1
     },
-    "cahn-moran": {
-      "runner_id": "cahn-moran",
+    "shay-grimes": {
+      "runner_id": "shay-grimes",
+      "canonical_name": "Shay Grimes",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Keep 'er Lit",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "cahan-moran": {
+      "runner_id": "cahan-moran",
       "canonical_name": "Cahán Moran",
       "canonical_name_source": "automatic",
       "gender": "M",
@@ -58090,12 +58367,48 @@
       ],
       "total_races": 1
     },
+    "darryl-mccullagh": {
+      "runner_id": "darryl-mccullagh",
+      "canonical_name": "Darryl McCullagh",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "lorna-costelloe": {
       "runner_id": "lorna-costelloe",
       "canonical_name": "Lorna Costelloe",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "dara-coney": {
+      "runner_id": "dara-coney",
+      "canonical_name": "Dara Coney",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Keep 'er Lit",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "michelle-mccrory": {
+      "runner_id": "michelle-mccrory",
+      "canonical_name": "Michelle McCrory",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "Galbally Runners",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -58140,7 +58453,7 @@
     },
     "mark-mcreynolds": {
       "runner_id": "mark-mcreynolds",
-      "canonical_name": "Mark Mcreynolds",
+      "canonical_name": "Mark McReynolds",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Keep 'er Lit",
@@ -58162,9 +58475,9 @@
       ],
       "total_races": 1
     },
-    "ruari-fearon": {
-      "runner_id": "ruari-fearon",
-      "canonical_name": "Ruari Fearon",
+    "ruairi-fearon": {
+      "runner_id": "ruairi-fearon",
+      "canonical_name": "Ruairi Fearon",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58234,6 +58547,18 @@
       ],
       "total_races": 1
     },
+    "martin-conlan": {
+      "runner_id": "martin-conlan",
+      "canonical_name": "Martin Conlan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "sarah-dg": {
       "runner_id": "sarah-dg",
       "canonical_name": "Sarah D-g",
@@ -58284,7 +58609,7 @@
     },
     "shea-mcnamee": {
       "runner_id": "shea-mcnamee",
-      "canonical_name": "Shea Mcnamee",
+      "canonical_name": "Shea McNamee",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58320,7 +58645,7 @@
     },
     "adam-mccormick": {
       "runner_id": "adam-mccormick",
-      "canonical_name": "Adam Mccormick",
+      "canonical_name": "Adam McCormick",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58450,9 +58775,21 @@
       ],
       "total_races": 1
     },
+    "gemma-obrien-2": {
+      "runner_id": "gemma-obrien-2",
+      "canonical_name": "Gemma O'Brien",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "damian-mcbride": {
       "runner_id": "damian-mcbride",
-      "canonical_name": "Damian Mcbride",
+      "canonical_name": "Damian McBride",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58500,7 +58837,7 @@
     },
     "anita-mcbride": {
       "runner_id": "anita-mcbride",
-      "canonical_name": "Anita Mcbride",
+      "canonical_name": "Anita McBride",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -58524,7 +58861,7 @@
     },
     "fionn-mckenna": {
       "runner_id": "fionn-mckenna",
-      "canonical_name": "Fionn Mckenna",
+      "canonical_name": "Fionn McKenna",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58551,6 +58888,18 @@
       "canonical_name": "Julie Coombs",
       "canonical_name_source": "automatic",
       "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "sean-devine": {
+      "runner_id": "sean-devine",
+      "canonical_name": "Sean Devine",
+      "canonical_name_source": "automatic",
+      "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -58608,7 +58957,7 @@
     },
     "shane-mcgread": {
       "runner_id": "shane-mcgread",
-      "canonical_name": "Shane Mcgread",
+      "canonical_name": "Shane McGread",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58632,7 +58981,7 @@
     },
     "joyce-ogoan": {
       "runner_id": "joyce-ogoan",
-      "canonical_name": "Joyce O'goan",
+      "canonical_name": "Joyce O'Goan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -58644,7 +58993,7 @@
     },
     "caolan-mccallan": {
       "runner_id": "caolan-mccallan",
-      "canonical_name": "Caolan Mccallan",
+      "canonical_name": "Caolan McCallan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58666,9 +59015,33 @@
       ],
       "total_races": 1
     },
+    "john-kelly-2": {
+      "runner_id": "john-kelly-2",
+      "canonical_name": "John Kelly",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "jess-honeyman": {
+      "runner_id": "jess-honeyman",
+      "canonical_name": "Jess Honeyman",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "anthony-mcnamee": {
       "runner_id": "anthony-mcnamee",
-      "canonical_name": "Anthony Mcnamee",
+      "canonical_name": "Anthony McNamee",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58764,7 +59137,19 @@
     },
     "conor-mccusker": {
       "runner_id": "conor-mccusker",
-      "canonical_name": "Conor Mccusker",
+      "canonical_name": "Conor McCusker",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "stephen-mckenna-2": {
+      "runner_id": "stephen-mckenna-2",
+      "canonical_name": "Stephen McKenna",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58800,7 +59185,7 @@
     },
     "vincent-mcguckin": {
       "runner_id": "vincent-mcguckin",
-      "canonical_name": "Vincent Mcguckin",
+      "canonical_name": "Vincent McGuckin",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58812,7 +59197,19 @@
     },
     "rogan-mcguckin": {
       "runner_id": "rogan-mcguckin",
-      "canonical_name": "Rogan Mcguckin",
+      "canonical_name": "Rogan McGuckin",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "conor-mccabe": {
+      "runner_id": "conor-mccabe",
+      "canonical_name": "Conor McCabe",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58860,7 +59257,7 @@
     },
     "niall-mclaughlin": {
       "runner_id": "niall-mclaughlin",
-      "canonical_name": "Niall Mclaughlin",
+      "canonical_name": "Niall McLaughlin",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58884,9 +59281,21 @@
     },
     "adrian-okane": {
       "runner_id": "adrian-okane",
-      "canonical_name": "Adrian O'kane",
+      "canonical_name": "Adrian O'Kane",
       "canonical_name_source": "automatic",
       "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "alice-funston-prob-dupe": {
+      "runner_id": "alice-funston-prob-dupe",
+      "canonical_name": "Alice Funston",
+      "canonical_name_source": "automatic",
+      "gender": "F",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -58908,7 +59317,7 @@
     },
     "shea-mccullagh": {
       "runner_id": "shea-mccullagh",
-      "canonical_name": "Shea Mccullagh",
+      "canonical_name": "Shea McCullagh",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -58932,7 +59341,7 @@
     },
     "alanna-mcaleer": {
       "runner_id": "alanna-mcaleer",
-      "canonical_name": "Alanna Mcaleer",
+      "canonical_name": "Alanna McAleer",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -58966,9 +59375,9 @@
       ],
       "total_races": 1
     },
-    "john-mc-ivor": {
-      "runner_id": "john-mc-ivor",
-      "canonical_name": "John Mc ivor",
+    "john-mcivor": {
+      "runner_id": "john-mcivor",
+      "canonical_name": "John McIvor",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -58981,18 +59390,6 @@
     "nn-1298": {
       "runner_id": "nn-1298",
       "canonical_name": "N.N. 1298",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "",
-      "most_common_club_source": "automatic",
-      "years": [
-        2025
-      ],
-      "total_races": 1
-    },
-    "martin-oneill-2": {
-      "runner_id": "martin-oneill-2",
-      "canonical_name": "Martin O'neill",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59016,7 +59413,7 @@
     },
     "alice-mcglinchey": {
       "runner_id": "alice-mcglinchey",
-      "canonical_name": "Alice Mcglinchey",
+      "canonical_name": "Alice McGlinchey",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59040,7 +59437,7 @@
     },
     "pearce-mcgrath": {
       "runner_id": "pearce-mcgrath",
-      "canonical_name": "Pearce Mcgrath",
+      "canonical_name": "Pearce McGrath",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59064,9 +59461,21 @@
     },
     "daniel-mcdaid": {
       "runner_id": "daniel-mcdaid",
-      "canonical_name": "Daniel Mcdaid",
+      "canonical_name": "Daniel McDaid",
       "canonical_name_source": "automatic",
       "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "sarah-moore": {
+      "runner_id": "sarah-moore",
+      "canonical_name": "Sarah Moore",
+      "canonical_name_source": "automatic",
+      "gender": "F",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -59100,7 +59509,7 @@
     },
     "eimear-mcgarvey": {
       "runner_id": "eimear-mcgarvey",
-      "canonical_name": "Eimear Mcgarvey",
+      "canonical_name": "Eimear McGarvey",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59124,7 +59533,7 @@
     },
     "eilish-mcaleer-omagh": {
       "runner_id": "eilish-mcaleer-omagh",
-      "canonical_name": "Eilish Mcaleer",
+      "canonical_name": "Eilish McAleer",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Omagh Harriers",
@@ -59160,7 +59569,7 @@
     },
     "daniel-mcgurk": {
       "runner_id": "daniel-mcgurk",
-      "canonical_name": "Daniel Mcgurk",
+      "canonical_name": "Daniel McGurk",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59172,7 +59581,7 @@
     },
     "dermot-mccusker": {
       "runner_id": "dermot-mccusker",
-      "canonical_name": "Dermot Mccusker",
+      "canonical_name": "Dermot McCusker",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59196,7 +59605,7 @@
     },
     "emma-mcstay": {
       "runner_id": "emma-mcstay",
-      "canonical_name": "Emma Mcstay",
+      "canonical_name": "Emma McStay",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59284,6 +59693,18 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Run for Enda",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "caolan-meenan": {
+      "runner_id": "caolan-meenan",
+      "canonical_name": "Caolán Meenan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -59460,7 +59881,7 @@
     },
     "suzanne-mcconnell": {
       "runner_id": "suzanne-mcconnell",
-      "canonical_name": "Suzanne Mcconnell",
+      "canonical_name": "Suzanne McConnell",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59616,10 +60037,22 @@
     },
     "padraig-okane": {
       "runner_id": "padraig-okane",
-      "canonical_name": "Padraig O’kane",
+      "canonical_name": "Padraig O'Kane",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Tafelta AC",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "eoghan-odonnell": {
+      "runner_id": "eoghan-odonnell",
+      "canonical_name": "Eoghan O'Donnell",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -59652,7 +60085,7 @@
     },
     "john-mcelduff": {
       "runner_id": "john-mcelduff",
-      "canonical_name": "John Mcelduff",
+      "canonical_name": "John McElduff",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59686,9 +60119,21 @@
       ],
       "total_races": 1
     },
+    "martin-mee": {
+      "runner_id": "martin-mee",
+      "canonical_name": "Martin Mee",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "john-mcfadden": {
       "runner_id": "john-mcfadden",
-      "canonical_name": "John Mcfadden",
+      "canonical_name": "John McFadden",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59700,7 +60145,7 @@
     },
     "derbhla-mccullagh": {
       "runner_id": "derbhla-mccullagh",
-      "canonical_name": "Derbhla Mccullagh",
+      "canonical_name": "Derbhla McCullagh",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59710,8 +60155,8 @@
       ],
       "total_races": 1
     },
-    "naomhn-meenan": {
-      "runner_id": "naomhn-meenan",
+    "naomhan-meenan": {
+      "runner_id": "naomhan-meenan",
       "canonical_name": "Naomhán Meenan",
       "canonical_name_source": "automatic",
       "gender": "M",
@@ -59746,9 +60191,9 @@
       ],
       "total_races": 1
     },
-    "elesha-mc-dermott": {
-      "runner_id": "elesha-mc-dermott",
-      "canonical_name": "Elesha Mc dermott",
+    "elesha-mcdermott": {
+      "runner_id": "elesha-mcdermott",
+      "canonical_name": "Elesha McDermott",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59784,7 +60229,7 @@
     },
     "niamh-mcnulty": {
       "runner_id": "niamh-mcnulty",
-      "canonical_name": "Niamh Mcnulty",
+      "canonical_name": "Niamh McNulty",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59808,7 +60253,7 @@
     },
     "siobhan-mcmullen": {
       "runner_id": "siobhan-mcmullen",
-      "canonical_name": "Siobhan Mcmullen",
+      "canonical_name": "Siobhan McMullen",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59823,6 +60268,18 @@
       "canonical_name": "Elisha Hunter",
       "canonical_name_source": "automatic",
       "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "john-kelly-3": {
+      "runner_id": "john-kelly-3",
+      "canonical_name": "John Kelly",
+      "canonical_name_source": "automatic",
+      "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -59856,7 +60313,7 @@
     },
     "ann-mcsorley": {
       "runner_id": "ann-mcsorley",
-      "canonical_name": "Ann Mcsorley",
+      "canonical_name": "Ann McSorley",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59890,6 +60347,18 @@
       ],
       "total_races": 1
     },
+    "connal-kelly": {
+      "runner_id": "connal-kelly",
+      "canonical_name": "Connal Kelly",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "shauna-sweeney": {
       "runner_id": "shauna-sweeney",
       "canonical_name": "Shauna Sweeney",
@@ -59916,7 +60385,7 @@
     },
     "donna-mclaughlin": {
       "runner_id": "donna-mclaughlin",
-      "canonical_name": "Donna Mclaughlin",
+      "canonical_name": "Donna McLaughlin",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -59940,7 +60409,7 @@
     },
     "mick-mcfadden": {
       "runner_id": "mick-mcfadden",
-      "canonical_name": "Mick Mcfadden",
+      "canonical_name": "Mick McFadden",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -59986,9 +60455,9 @@
       ],
       "total_races": 1
     },
-    "marcella-o-hagan": {
-      "runner_id": "marcella-o-hagan",
-      "canonical_name": "Marcella O' hagan",
+    "marcella-ohagan": {
+      "runner_id": "marcella-ohagan",
+      "canonical_name": "Marcella O'Hagan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60046,9 +60515,9 @@
       ],
       "total_races": 1
     },
-    "mary-jo-mc-kernan": {
-      "runner_id": "mary-jo-mc-kernan",
-      "canonical_name": "Mary jo Mc kernan",
+    "mary-jo-mckernan": {
+      "runner_id": "mary-jo-mckernan",
+      "canonical_name": "Mary jo McKernan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60082,9 +60551,21 @@
       ],
       "total_races": 1
     },
+    "mark-allen": {
+      "runner_id": "mark-allen",
+      "canonical_name": "Mark Allen",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "michaela-mccusker": {
       "runner_id": "michaela-mccusker",
-      "canonical_name": "Michaela Mccusker",
+      "canonical_name": "Michaela McCusker",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60106,9 +60587,9 @@
       ],
       "total_races": 1
     },
-    "aoibhnn-mccrystal": {
-      "runner_id": "aoibhnn-mccrystal",
-      "canonical_name": "Aoibhínn Mccrystal",
+    "aoibhinn-mccrystal": {
+      "runner_id": "aoibhinn-mccrystal",
+      "canonical_name": "Aoibhínn McCrystal",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60132,7 +60613,7 @@
     },
     "gillian-mccullagh": {
       "runner_id": "gillian-mccullagh",
-      "canonical_name": "Gillian Mccullagh",
+      "canonical_name": "Gillian McCullagh",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Magherafelt Harriers",
@@ -60228,7 +60709,7 @@
     },
     "heath-mccombe": {
       "runner_id": "heath-mccombe",
-      "canonical_name": "Heath Mccombe",
+      "canonical_name": "Heath McCombe",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -60370,6 +60851,18 @@
       ],
       "total_races": 1
     },
+    "etaoine-okane": {
+      "runner_id": "etaoine-okane",
+      "canonical_name": "Etaoine O'Kane",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "philip-cross": {
       "runner_id": "philip-cross",
       "canonical_name": "Philip Cross",
@@ -60432,7 +60925,7 @@
     },
     "daryl-mcmullan": {
       "runner_id": "daryl-mcmullan",
-      "canonical_name": "Daryl Mcmullan",
+      "canonical_name": "Daryl McMullan",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -60526,9 +61019,21 @@
       ],
       "total_races": 1
     },
+    "james-oneill-prob-dupe": {
+      "runner_id": "james-oneill-prob-dupe",
+      "canonical_name": "James O'Neill",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "Enniskillen RC",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "ciana-mcgrath": {
       "runner_id": "ciana-mcgrath",
-      "canonical_name": "Ciana Mcgrath",
+      "canonical_name": "Ciana McGrath",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "OMG AC",
@@ -60540,7 +61045,7 @@
     },
     "cairenn-mcgrath": {
       "runner_id": "cairenn-mcgrath",
-      "canonical_name": "Cairenn Mcgrath",
+      "canonical_name": "Cairenn McGrath",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "OMG AC",
@@ -60552,7 +61057,7 @@
     },
     "sharon-mcnulty": {
       "runner_id": "sharon-mcnulty",
-      "canonical_name": "Sharon Mcnulty",
+      "canonical_name": "Sharon McNulty",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -60564,7 +61069,7 @@
     },
     "diane-mclaughlin": {
       "runner_id": "diane-mclaughlin",
-      "canonical_name": "Diane Mclaughlin",
+      "canonical_name": "Diane McLaughlin",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60612,7 +61117,7 @@
     },
     "sinead-mccrumlish": {
       "runner_id": "sinead-mccrumlish",
-      "canonical_name": "Sinead Mccrumlish",
+      "canonical_name": "Sinead McCrumlish",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60648,7 +61153,7 @@
     },
     "ciaran-mcdonald": {
       "runner_id": "ciaran-mcdonald",
-      "canonical_name": "Ciaran Mcdonald",
+      "canonical_name": "Ciaran McDonald",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -60660,7 +61165,7 @@
     },
     "andrea-mcfarland": {
       "runner_id": "andrea-mcfarland",
-      "canonical_name": "Andrea Mcfarland",
+      "canonical_name": "Andrea McFarland",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60708,7 +61213,7 @@
     },
     "teresa-obrien": {
       "runner_id": "teresa-obrien",
-      "canonical_name": "Teresa Obrien",
+      "canonical_name": "Teresa O'Brien",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60766,6 +61271,18 @@
       ],
       "total_races": 1
     },
+    "micheal-kelly": {
+      "runner_id": "micheal-kelly",
+      "canonical_name": "Micheal Kelly",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
     "s-kelly": {
       "runner_id": "s-kelly",
       "canonical_name": "S Kelly",
@@ -60784,6 +61301,18 @@
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Letterkenny AC",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "helen-dowie": {
+      "runner_id": "helen-dowie",
+      "canonical_name": "Helen Dowie",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -60828,7 +61357,7 @@
     },
     "richard-mcgibney": {
       "runner_id": "richard-mcgibney",
-      "canonical_name": "Richard Mcgibney",
+      "canonical_name": "Richard McGibney",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -60850,9 +61379,21 @@
       ],
       "total_races": 1
     },
-    "berni-campbell": {
-      "runner_id": "berni-campbell",
-      "canonical_name": "Berni Campbell",
+    "sean-grogan": {
+      "runner_id": "sean-grogan",
+      "canonical_name": "Sean Grogan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "bernie-campbell": {
+      "runner_id": "bernie-campbell",
+      "canonical_name": "Bernie Campbell",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60876,7 +61417,7 @@
     },
     "susanne-mckernan": {
       "runner_id": "susanne-mckernan",
-      "canonical_name": "Susanne Mckernan",
+      "canonical_name": "Susanne McKernan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60898,9 +61439,9 @@
       ],
       "total_races": 1
     },
-    "natasha-mc-manus": {
-      "runner_id": "natasha-mc-manus",
-      "canonical_name": "Natasha Mc manus",
+    "natasha-mcmanus": {
+      "runner_id": "natasha-mcmanus",
+      "canonical_name": "Natasha McManus",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "OMG AC",
@@ -60912,7 +61453,7 @@
     },
     "sharon-mcgrath": {
       "runner_id": "sharon-mcgrath",
-      "canonical_name": "Sharon Mcgrath",
+      "canonical_name": "Sharon McGrath",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "OMG AC",
@@ -60936,7 +61477,7 @@
     },
     "melissa-mcmanus": {
       "runner_id": "melissa-mcmanus",
-      "canonical_name": "Melissa Mcmanus",
+      "canonical_name": "Melissa McManus",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60946,8 +61487,8 @@
       ],
       "total_races": 1
     },
-    "grinne-moxon": {
-      "runner_id": "grinne-moxon",
+    "grainne-moxon-2": {
+      "runner_id": "grainne-moxon-2",
       "canonical_name": "Gráinne Moxon",
       "canonical_name_source": "automatic",
       "gender": "F",
@@ -60996,7 +61537,19 @@
     },
     "clare-mcmanus": {
       "runner_id": "clare-mcmanus",
-      "canonical_name": "Clare Mcmanus",
+      "canonical_name": "Clare McManus",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "michaela-mcguigan": {
+      "runner_id": "michaela-mcguigan",
+      "canonical_name": "Michaela McGuigan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61056,7 +61609,7 @@
     },
     "laura-mcaleer": {
       "runner_id": "laura-mcaleer",
-      "canonical_name": "Laura Mcaleer",
+      "canonical_name": "Laura McAleer",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61072,6 +61625,18 @@
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Omagh Tri Club",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "mark-phillips-2": {
+      "runner_id": "mark-phillips-2",
+      "canonical_name": "Mark Phillips",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
         2025
@@ -61116,7 +61681,7 @@
     },
     "sophia-mccallan": {
       "runner_id": "sophia-mccallan",
-      "canonical_name": "Sophia Mccallan",
+      "canonical_name": "Sophia McCallan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61129,6 +61694,30 @@
     "leah-donnelly": {
       "runner_id": "leah-donnelly",
       "canonical_name": "Leah Donnelly",
+      "canonical_name_source": "automatic",
+      "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "kevin-hannan": {
+      "runner_id": "kevin-hannan",
+      "canonical_name": "Kevin Hannan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "stephanie-cleary": {
+      "runner_id": "stephanie-cleary",
+      "canonical_name": "Stephanie Cleary",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61164,7 +61753,7 @@
     },
     "jessy-oneill": {
       "runner_id": "jessy-oneill",
-      "canonical_name": "Jessy O’neill",
+      "canonical_name": "Jessy O'neill",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61188,7 +61777,7 @@
     },
     "nadine-mccabe": {
       "runner_id": "nadine-mccabe",
-      "canonical_name": "Nadine Mccabe",
+      "canonical_name": "Nadine McCabe",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "Tír Chonaill AC",
@@ -61248,7 +61837,7 @@
     },
     "john-mcnulty": {
       "runner_id": "john-mcnulty",
-      "canonical_name": "John Mcnulty",
+      "canonical_name": "John McNulty",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -61272,7 +61861,7 @@
     },
     "colleen-mccusker": {
       "runner_id": "colleen-mccusker",
-      "canonical_name": "Colleen Mccusker",
+      "canonical_name": "Colleen McCusker",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61318,11 +61907,11 @@
       ],
       "total_races": 1
     },
-    "lucy-mccann": {
-      "runner_id": "lucy-mccann",
-      "canonical_name": "Lucy McCann",
+    "paul-sceeny": {
+      "runner_id": "paul-sceeny",
+      "canonical_name": "Paul Sceeny",
       "canonical_name_source": "automatic",
-      "gender": "F",
+      "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
@@ -61356,7 +61945,7 @@
     },
     "meabh-mcelhone": {
       "runner_id": "meabh-mcelhone",
-      "canonical_name": "Meabh Mcelhone",
+      "canonical_name": "Meabh McElhone",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61380,7 +61969,7 @@
     },
     "roisin-mcnamee": {
       "runner_id": "roisin-mcnamee",
-      "canonical_name": "Roisin Mcnamee",
+      "canonical_name": "Roisin McNamee",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61392,7 +61981,7 @@
     },
     "valerie-mcmullan": {
       "runner_id": "valerie-mcmullan",
-      "canonical_name": "Valerie Mcmullan",
+      "canonical_name": "Valerie McMullan",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61524,7 +62113,7 @@
     },
     "caoimhe-mccrory": {
       "runner_id": "caoimhe-mccrory",
-      "canonical_name": "Caoimhe Mccrory",
+      "canonical_name": "Caoimhe McCrory",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61536,7 +62125,7 @@
     },
     "andrew-mccracken": {
       "runner_id": "andrew-mccracken",
-      "canonical_name": "Andrew Mccracken",
+      "canonical_name": "Andrew McCracken",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "Ward Park Runners",
@@ -61560,7 +62149,7 @@
     },
     "ciara-mccormack": {
       "runner_id": "ciara-mccormack",
-      "canonical_name": "Ciara Mccormack",
+      "canonical_name": "Ciara McCormack",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61582,9 +62171,9 @@
       ],
       "total_races": 1
     },
-    "sha-mccann": {
-      "runner_id": "sha-mccann",
-      "canonical_name": "Shéa Mccann",
+    "shea-mccann": {
+      "runner_id": "shea-mccann",
+      "canonical_name": "Shéa McCann",
       "canonical_name_source": "automatic",
       "gender": "M",
       "most_common_club": "",
@@ -61594,8 +62183,8 @@
       ],
       "total_races": 1
     },
-    "rom-riley-dobbin": {
-      "runner_id": "rom-riley-dobbin",
+    "rome-riley-dobbin": {
+      "runner_id": "rome-riley-dobbin",
       "canonical_name": "Romé Riley dobbin",
       "canonical_name_source": "automatic",
       "gender": "F",
@@ -61668,7 +62257,7 @@
     },
     "briege-mcgurk": {
       "runner_id": "briege-mcgurk",
-      "canonical_name": "Briege Mcgurk",
+      "canonical_name": "Briege McGurk",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61680,7 +62269,7 @@
     },
     "brigid-mcgurk": {
       "runner_id": "brigid-mcgurk",
-      "canonical_name": "Brigid Mcgurk",
+      "canonical_name": "Brigid McGurk",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61692,7 +62281,7 @@
     },
     "sheena-oneill-2": {
       "runner_id": "sheena-oneill-2",
-      "canonical_name": "Sheena Oneill",
+      "canonical_name": "Sheena O'Neill",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -61723,9 +62312,9 @@
       2024,
       2025
     ],
-    "total_runners": 4748,
+    "total_runners": 4795,
     "total_participations": 9569,
-    "participations_with_id": 9497,
-    "unassigned_results": 72
+    "participations_with_id": 9569,
+    "unassigned_results": 0
   }
 }

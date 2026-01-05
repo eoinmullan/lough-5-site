@@ -38,11 +38,11 @@
   {
     "Position": 5,
     "Year": 2025,
-    "Name": "Maria Mcgee",
+    "Name": "Maria McGee",
     "Club": "Rosses AC",
     "Category": "FO",
     "Finish Time": "0:28:37",
-    "runner_id": "maria-magee"
+    "runner_id": "maria-mcgee"
   },
   {
     "Position": 6,
@@ -182,7 +182,7 @@
   {
     "Position": 21,
     "Year": 2025,
-    "Name": "Maggie Ohara",
+    "Name": "Maggie O'Hara",
     "Club": "Finn Valley AC",
     "Category": "F35",
     "Finish Time": "0:30:42",
@@ -380,7 +380,7 @@
   {
     "Position": 43,
     "Year": 2025,
-    "Name": "Hayley Mcateer",
+    "Name": "Hayley McAteer",
     "Club": "Newry City Runners AC",
     "Category": "FO",
     "Finish Time": "0:32:21",

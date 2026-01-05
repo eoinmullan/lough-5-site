@@ -18,8 +18,18 @@ const outputPath = path.join(__dirname, '..', 'assets', 'highest-participation.j
 function normalizeName(name) {
   if (!name) return '';
 
-  // Convert to lowercase and trim whitespace
+  // Normalize for comparison: lowercase, accents, Unicode quotes, remove punctuation/spaces
   return name.toLowerCase().trim()
+    // Normalize accented vowels
+    .replace(/[áàâäã]/gi, 'a')
+    .replace(/[éèêë]/gi, 'e')
+    .replace(/[íìîï]/gi, 'i')
+    .replace(/[óòôöõ]/gi, 'o')
+    .replace(/[úùûü]/gi, 'u')
+    .replace(/[ñ]/gi, 'n')
+    .replace(/[ç]/gi, 'c')
+    // Normalize Unicode quotes
+    .replace(/[\u2018\u2019\u201A\u201B]/g, "'")
     // Remove all whitespace
     .replace(/\s+/g, '')
     // Remove punctuation

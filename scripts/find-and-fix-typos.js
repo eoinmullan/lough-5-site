@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generate and fix name typos in CSV results files.
+ * Find and fix name typos in CSV results files.
  *
  * This script:
  * - Detects potential typos using pattern matching and frequency analysis
@@ -9,7 +9,7 @@
  * - Tracks known typos and false positives in data/known-typos.json
  *
  * Usage:
- *   node scripts/generate-typos.js csv-results/2025.csv
+ *   node scripts/find-and-fix-typos.js csv-results/2025.csv
  */
 
 const fs = require('fs');
@@ -34,8 +34,8 @@ const args = process.argv.slice(2);
 const csvFilePath = args[0];
 
 if (!csvFilePath) {
-  console.error('Usage: node scripts/generate-typos.js <csv-file>');
-  console.error('Example: node scripts/generate-typos.js csv-results/2025.csv');
+  console.error('Usage: node scripts/find-and-fix-typos.js <csv-file>');
+  console.error('Example: node scripts/find-and-fix-typos.js csv-results/2025.csv');
   process.exit(1);
 }
 
@@ -73,7 +73,24 @@ function normalizeName(name) {
     .replace(/[úùûü]/gi, 'u')
     .replace(/[ñ]/gi, 'n')
     .replace(/[ç]/gi, 'c')
+    .replace(/[\u2018\u2019\u201A\u201B]/g, "'")  // Normalize Unicode quotes
     .replace(/[^a-z0-9]/g, '');
+}
+
+function normalizeForCorrectionKey(name) {
+  if (!name) return '';
+  // Normalize for correction keys: lowercase and remove accents, but KEEP punctuation
+  // This allows "Thomas." and "Thomas" to be treated as different corrections
+  return name.toLowerCase()
+    .replace(/[áàâäã]/gi, 'a')
+    .replace(/[éèêë]/gi, 'e')
+    .replace(/[íìîï]/gi, 'i')
+    .replace(/[óòôöõ]/gi, 'o')
+    .replace(/[úùûü]/gi, 'u')
+    .replace(/[ñ]/gi, 'n')
+    .replace(/[ç]/gi, 'c')
+    .replace(/\s+/g, ' ')  // Normalize whitespace but keep it
+    .trim();
 }
 
 function levenshteinDistance(str1, str2) {
@@ -280,6 +297,35 @@ function saveKnownTypos(knownTypos) {
 // PREPROCESSING
 // ============================================================================
 
+function parseName(nameField) {
+  // Parse "Surname, Firstname" format from CSV
+  if (!nameField) return { firstName: '', surname: '' };
+
+  const commaParts = nameField.trim().split(',');
+  if (commaParts.length >= 2) {
+    return {
+      surname: commaParts[0].trim(),
+      firstName: commaParts.slice(1).join(',').trim()
+    };
+  }
+
+  // Fallback: no comma, assume it's already "Firstname Surname" format
+  const parts = nameField.trim().split(/\s+/);
+  if (parts.length >= 2) {
+    return {
+      firstName: parts[0],
+      surname: parts.slice(1).join(' ')
+    };
+  }
+
+  return { firstName: nameField.trim(), surname: '' };
+}
+
+function formatName(firstName, surname) {
+  // Format back to "Surname, Firstname" for CSV
+  return `${surname}, ${firstName}`;
+}
+
 function applyKnownTypos(csvData, knownTypos) {
   console.log('  Applying known typos to CSV...');
   let appliedCount = 0;
@@ -287,36 +333,36 @@ function applyKnownTypos(csvData, knownTypos) {
   for (const row of csvData.rows) {
     if (!row.Name) continue;
 
-    const parts = row.Name.trim().split(/\s+/);
-    if (parts.length < 2) continue;
+    const { firstName, surname } = parseName(row.Name);
+    if (!firstName || !surname) continue;
 
-    let firstName = parts[0];
-    let surname = parts.slice(1).join(' ');
+    let newFirstName = firstName;
+    let newSurname = surname;
     let changed = false;
 
     // Check first name
-    const normalizedFirst = normalizeName(firstName);
-    if (knownTypos.first_names[normalizedFirst]) {
-      firstName = knownTypos.first_names[normalizedFirst];
+    const correctionKeyFirst = normalizeForCorrectionKey(firstName);
+    if (knownTypos.first_names[correctionKeyFirst]) {
+      newFirstName = knownTypos.first_names[correctionKeyFirst];
       changed = true;
       appliedCount++;
     }
 
     // Check surname
-    const normalizedSurname = normalizeName(surname);
-    if (knownTypos.surnames[normalizedSurname]) {
-      surname = knownTypos.surnames[normalizedSurname];
+    const correctionKeySurname = normalizeForCorrectionKey(surname);
+    if (knownTypos.surnames[correctionKeySurname]) {
+      newSurname = knownTypos.surnames[correctionKeySurname];
       changed = true;
       appliedCount++;
     }
 
     if (changed) {
-      row.Name = `${firstName} ${surname}`;
+      row.Name = formatName(newFirstName, newSurname);
     }
   }
 
   console.log(`    Applied ${appliedCount} known typos`);
-  return csvData;
+  return appliedCount;
 }
 
 function buildFrequencyMaps(csvData, historicalData) {
@@ -332,11 +378,8 @@ function buildFrequencyMaps(csvData, historicalData) {
   for (const row of csvData.rows) {
     if (!row.Name) continue;
 
-    const parts = row.Name.trim().split(/\s+/);
-    if (parts.length >= 2) {
-      const firstName = parts[0];
-      const surname = parts.slice(1).join(' ');
-
+    const { firstName, surname } = parseName(row.Name);
+    if (firstName && surname) {
       maps.first_names[firstName] = (maps.first_names[firstName] || 0) + 1;
       maps.surnames[surname] = (maps.surnames[surname] || 0) + 1;
     }
@@ -453,14 +496,11 @@ function detectTypos(csvData, frequencyMaps, knownTypos) {
   for (const row of csvData.rows) {
     if (!row.Name) continue;
 
-    const parts = row.Name.trim().split(/\s+/);
-    if (parts.length < 2) continue;
-
-    const firstName = parts[0];
-    const surname = parts.slice(1).join(' ');
+    const { firstName, surname } = parseName(row.Name);
+    if (!firstName || !surname) continue;
 
     // Check first name
-    if (!knownTypos.false_positives.first_names.includes(normalizeName(firstName))) {
+    if (!knownTypos.false_positives.first_names.includes(firstName)) {
       // Try casing issues first
       let suggestion = detectCasingIssues(firstName);
       let reason = 'casing';
@@ -475,9 +515,9 @@ function detectTypos(csvData, frequencyMaps, knownTypos) {
       }
 
       if (suggestion && suggestion !== firstName) {
-        const normalized = normalizeName(firstName);
-        if (!suspects.first_names[normalized]) {
-          suspects.first_names[normalized] = {
+        const correctionKey = normalizeForCorrectionKey(firstName);
+        if (!suspects.first_names[correctionKey]) {
+          suspects.first_names[correctionKey] = {
             original: firstName,
             suggestion,
             reason,
@@ -485,12 +525,12 @@ function detectTypos(csvData, frequencyMaps, knownTypos) {
             frequency: frequencyMaps.first_names[firstName] || 0
           };
         }
-        suspects.first_names[normalized].count++;
+        suspects.first_names[correctionKey].count++;
       }
     }
 
     // Check surname
-    if (!knownTypos.false_positives.surnames.includes(normalizeName(surname))) {
+    if (!knownTypos.false_positives.surnames.includes(surname)) {
       // Try Mc/O prefix issues first
       let suggestion = detectMcOPrefixIssues(surname);
       let reason = 'Mc/O prefix';
@@ -511,9 +551,9 @@ function detectTypos(csvData, frequencyMaps, knownTypos) {
       }
 
       if (suggestion && suggestion !== surname) {
-        const normalized = normalizeName(surname);
-        if (!suspects.surnames[normalized]) {
-          suspects.surnames[normalized] = {
+        const correctionKey = normalizeForCorrectionKey(surname);
+        if (!suspects.surnames[correctionKey]) {
+          suspects.surnames[correctionKey] = {
             original: surname,
             suggestion,
             reason,
@@ -521,7 +561,7 @@ function detectTypos(csvData, frequencyMaps, knownTypos) {
             frequency: frequencyMaps.surnames[surname] || 0
           };
         }
-        suspects.surnames[normalized].count++;
+        suspects.surnames[correctionKey].count++;
       }
     }
   }
@@ -559,7 +599,7 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
   for (let i = 0; i < firstNames.length; i++) {
     if (skipRemaining) break;
 
-    const [normalized, data] = firstNames[i];
+    const [correctionKey, data] = firstNames[i];
 
     console.log(`\n[${i + 1}/${firstNames.length}] Found potential typo in FIRST NAME:`);
     console.log(`  Original: "${data.original}"`);
@@ -568,16 +608,28 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
     console.log(`  Occurrences in CSV: ${data.count}`);
     console.log(`  Historical frequency: "${data.original}" = ${data.frequency}×`);
 
-    const answer = await prompt('Fix this typo? (y/n/s=skip remaining): ');
+    const answer = await prompt('Fix this typo? (y/n/c=custom/s=skip remaining/x=exit): ');
 
-    if (answer.toLowerCase() === 's') {
+    if (answer.toLowerCase() === 'x') {
+      console.log('\n⚠️  Exiting early, will save corrections made so far...');
+      return { corrections, newFalsePositives, earlyExit: true };
+    } else if (answer.toLowerCase() === 's') {
       skipRemaining = true;
       break;
     } else if (answer.toLowerCase() === 'y') {
-      corrections.first_names[normalized] = data.suggestion;
+      corrections.first_names[correctionKey] = data.suggestion;
       console.log(`  ✓ Will fix ${data.count} occurrence(s)`);
+    } else if (answer.toLowerCase() === 'c') {
+      const customName = await prompt('Enter correct name: ');
+      if (customName) {
+        corrections.first_names[correctionKey] = customName;
+        console.log(`  ✓ Will fix ${data.count} occurrence(s) with custom correction`);
+        console.log(`  [DEBUG] Stored: corrections.first_names["${correctionKey}"] = "${customName}"`);
+      } else {
+        console.log(`  ✗ No name entered, skipping`);
+      }
     } else {
-      newFalsePositives.first_names.push(normalized);
+      newFalsePositives.first_names.push(data.original);
       console.log(`  ✗ Marked as false positive`);
     }
   }
@@ -588,7 +640,7 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
   for (let i = 0; i < surnames.length; i++) {
     if (skipRemaining) break;
 
-    const [normalized, data] = surnames[i];
+    const [correctionKey, data] = surnames[i];
 
     console.log(`\n[${i + 1}/${surnames.length}] Found potential typo in SURNAME:`);
     console.log(`  Original: "${data.original}"`);
@@ -597,21 +649,33 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
     console.log(`  Occurrences in CSV: ${data.count}`);
     console.log(`  Historical frequency: "${data.original}" = ${data.frequency}×`);
 
-    const answer = await prompt('Fix this typo? (y/n/s=skip remaining): ');
+    const answer = await prompt('Fix this typo? (y/n/c=custom/s=skip remaining/x=exit): ');
 
-    if (answer.toLowerCase() === 's') {
+    if (answer.toLowerCase() === 'x') {
+      console.log('\n⚠️  Exiting early, will save corrections made so far...');
+      return { corrections, newFalsePositives, earlyExit: true };
+    } else if (answer.toLowerCase() === 's') {
       skipRemaining = true;
       break;
     } else if (answer.toLowerCase() === 'y') {
-      corrections.surnames[normalized] = data.suggestion;
+      corrections.surnames[correctionKey] = data.suggestion;
       console.log(`  ✓ Will fix ${data.count} occurrence(s)`);
+    } else if (answer.toLowerCase() === 'c') {
+      const customName = await prompt('Enter correct name: ');
+      if (customName) {
+        corrections.surnames[correctionKey] = customName;
+        console.log(`  ✓ Will fix ${data.count} occurrence(s) with custom correction`);
+        console.log(`  [DEBUG] Stored: corrections.surnames["${correctionKey}"] = "${customName}"`);
+      } else {
+        console.log(`  ✗ No name entered, skipping`);
+      }
     } else {
-      newFalsePositives.surnames.push(normalized);
+      newFalsePositives.surnames.push(data.original);
       console.log(`  ✗ Marked as false positive`);
     }
   }
 
-  return { corrections, newFalsePositives };
+  return { corrections, newFalsePositives, earlyExit: false };
 }
 
 // ============================================================================
@@ -620,36 +684,41 @@ async function interactiveReview(suspects, frequencyMaps, knownTypos) {
 
 function applyCorrections(csvData, corrections) {
   console.log('\nApplying corrections to CSV...');
+  console.log(`  First name corrections: ${Object.keys(corrections.first_names).length}`);
+  console.log(`  Surname corrections: ${Object.keys(corrections.surnames).length}`);
+
   let correctionCount = 0;
 
   for (const row of csvData.rows) {
     if (!row.Name) continue;
 
-    const parts = row.Name.trim().split(/\s+/);
-    if (parts.length < 2) continue;
+    const { firstName, surname } = parseName(row.Name);
+    if (!firstName || !surname) continue;
 
-    let firstName = parts[0];
-    let surname = parts.slice(1).join(' ');
+    let newFirstName = firstName;
+    let newSurname = surname;
     let changed = false;
 
     // Apply first name corrections
-    const normalizedFirst = normalizeName(firstName);
-    if (corrections.first_names[normalizedFirst]) {
-      firstName = corrections.first_names[normalizedFirst];
+    const correctionKeyFirst = normalizeForCorrectionKey(firstName);
+    if (corrections.first_names[correctionKeyFirst]) {
+      console.log(`    Fixing first name: "${firstName}" → "${corrections.first_names[correctionKeyFirst]}"`);
+      newFirstName = corrections.first_names[correctionKeyFirst];
       changed = true;
       correctionCount++;
     }
 
     // Apply surname corrections
-    const normalizedSurname = normalizeName(surname);
-    if (corrections.surnames[normalizedSurname]) {
-      surname = corrections.surnames[normalizedSurname];
+    const correctionKeySurname = normalizeForCorrectionKey(surname);
+    if (corrections.surnames[correctionKeySurname]) {
+      console.log(`    Fixing surname: "${surname}" → "${corrections.surnames[correctionKeySurname]}"`);
+      newSurname = corrections.surnames[correctionKeySurname];
       changed = true;
       correctionCount++;
     }
 
     if (changed) {
-      row.Name = `${firstName} ${surname}`;
+      row.Name = formatName(newFirstName, newSurname);
     }
   }
 
@@ -675,7 +744,7 @@ async function main() {
 
   // Step 2: Apply known typos
   console.log('\nStep 2: Preprocessing...');
-  csvData = applyKnownTypos(csvData, knownTypos);
+  const knownTyposApplied = applyKnownTypos(csvData, knownTypos);
   const frequencyMaps = buildFrequencyMaps(csvData, historicalData);
 
   // Step 3: Detect typos
@@ -686,17 +755,31 @@ async function main() {
                         Object.keys(suspects.surnames).length;
 
   if (totalSuspects === 0) {
-    console.log('\n✓ No typos detected! CSV is clean.');
+    console.log('\n✓ No new typos detected!');
+
+    // If known typos were applied, save the file
+    if (knownTyposApplied > 0) {
+      console.log(`\n${knownTyposApplied} known typo(s) were fixed. Saving file...`);
+      writeCSV(csvFilePath, csvData.header, csvData.rows);
+      console.log(`✓ Updated: ${csvFilePath}`);
+    } else {
+      console.log('CSV is already clean.');
+    }
+
     rl.close();
     return;
   }
 
   // Step 4: Interactive review
-  const { corrections, newFalsePositives } = await interactiveReview(suspects, frequencyMaps, knownTypos);
+  const { corrections, newFalsePositives, earlyExit } = await interactiveReview(suspects, frequencyMaps, knownTypos);
 
   // Step 5: Apply corrections
   console.log('\n========================================');
-  console.log('APPLYING CHANGES');
+  if (earlyExit) {
+    console.log('SAVING PARTIAL CHANGES (EARLY EXIT)');
+  } else {
+    console.log('APPLYING CHANGES');
+  }
   console.log('========================================');
 
   const correctionCount = applyCorrections(csvData, corrections);
@@ -717,18 +800,29 @@ async function main() {
       surnames: [...knownTypos.false_positives.surnames, ...newFalsePositives.surnames]
     }
   };
+
+  console.log(`\n[DEBUG] New corrections being added to known-typos.json:`);
+  console.log(`  First names: ${JSON.stringify(corrections.first_names)}`);
+  console.log(`  Surnames: ${JSON.stringify(corrections.surnames)}`);
+
   saveKnownTypos(updatedTypos);
 
   // Summary
   console.log('\n========================================');
   console.log('SUMMARY');
   console.log('========================================');
+  if (earlyExit) {
+    console.log('⚠️  EARLY EXIT - Some typos were not reviewed');
+  }
   console.log(`Typos fixed: ${correctionCount}`);
   console.log(`False positives added: ${newFalsePositives.first_names.length + newFalsePositives.surnames.length}`);
   console.log(`Total known typos: ${Object.keys(updatedTypos.first_names).length + Object.keys(updatedTypos.surnames).length}`);
   console.log('========================================\n');
 
   console.log('Next steps:');
+  if (earlyExit) {
+    console.log('0. Re-run this script to review remaining typos');
+  }
   console.log('1. Convert CSV to JSON: node scripts/csv-to-json.js');
   console.log('2. Assign runner IDs: npm run assign-ids-new-year YYYY\n');
 

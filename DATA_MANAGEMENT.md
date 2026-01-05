@@ -15,14 +15,19 @@ The website uses a comprehensive runner identification system that tracks runner
 
 ## Adding New Race Results
 
-### Quick Start
+### Quick Start (Recommended for New Years)
 
 1. Add new results file: `assets/results/YYYY.json` (without runner_ids)
    - If starting from CSV export: `node scripts/csv-to-json.js csv-results/YYYY.csv assets/results/YYYY.json`
    - See `csv-results/README.md` for CSV preparation details
-2. Assign runner IDs: `npm run assign-runner-ids`
-3. Review any duplicate warnings: `npm run review-duplicates`
-4. Generate all databases and records: `npm run generate-all`
+2. Assign runner IDs using the new-year script: `npm run assign-ids-new-year YYYY [--dry-run]`
+   - Only modifies the new year's file
+   - Matches against all previous years (read-only)
+   - Safer and faster than full reprocessing
+3. Review warnings file for uncertain matches: `cat assets/runner-database-warnings.json`
+4. Manually assign any uncertain/duplicate runner_ids in `assets/results/YYYY.json`
+5. Re-run step 2 to process remaining unassigned results
+6. Generate all databases and records: `npm run generate-all`
 
 ### Data Structure
 
@@ -109,9 +114,7 @@ npm run generate-runner-stats
 
 | Command | Description |
 |---------|-------------|
-| `npm run assign-runner-ids` | Assign unique IDs to runners in results files |
-| `npm run assign-runner-ids:dry-run` | Preview ID assignments without writing |
-| `npm run review-duplicates` | Interactively review and resolve duplicate runners |
+| `npm run assign-ids-new-year YYYY [--dry-run]` | Assign IDs to a specific new year |
 | `npm run generate-db` | Generate runner database from results files |
 | `npm run generate-masters-records` | Generate masters age group records |
 | `npm run generate-fastest-50` | Generate fastest 50 male/female lists |
@@ -125,9 +128,10 @@ npm run generate-runner-stats
 ### After adding new year results
 
 ```bash
-npm run assign-runner-ids        # Assign IDs to new results
-npm run review-duplicates         # Resolve any duplicates (if needed)
-npm run generate-all              # Regenerate all databases and records
+npm run assign-ids-new-year 2025 --dry-run  # Preview first
+npm run assign-ids-new-year 2025            # Assign IDs
+# Manually fix any warnings in assets/results/2025.json
+npm run generate-all                         # Regenerate all databases and records
 ```
 
 ### After fixing typos or updating data
