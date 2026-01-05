@@ -285,19 +285,20 @@ function findBestMatch(result, runnerGroups, nameChanges) {
           const groupGender = getGender(sampleResult.Category);
           if (resultGender && groupGender && resultGender !== groupGender) continue;
 
-          // Check time consistency - only against recent years (last 5 years)
+          // Check time consistency - prefer recent years (last 5 years)
           let timeConsistent = true;
           const recentResults = group
             .filter(r => r.year && (targetYear - r.year) <= 5)
             .slice(-5);
 
-          if (recentResults.length > 0) {
-            for (const groupResult of recentResults) {
-              if (groupResult['Chip Time'] && result['Chip Time']) {
-                if (!isReasonableTimeVariance(groupResult['Chip Time'], result['Chip Time'])) {
-                  timeConsistent = false;
-                  break;
-                }
+          // If no recent results, fall back to checking all historical results
+          const resultsToCheck = recentResults.length > 0 ? recentResults : group;
+
+          for (const groupResult of resultsToCheck) {
+            if (groupResult['Chip Time'] && result['Chip Time']) {
+              if (!isReasonableTimeVariance(groupResult['Chip Time'], result['Chip Time'])) {
+                timeConsistent = false;
+                break;
               }
             }
           }
@@ -336,20 +337,21 @@ function findBestMatch(result, runnerGroups, nameChanges) {
     const groupGender = getGender(sampleResult.Category);
     if (resultGender && groupGender && resultGender !== groupGender) continue;
 
-    // Check time consistency with group - only against recent years (last 5 years)
+    // Check time consistency with group - prefer recent years (last 5 years)
     // Runners naturally improve or slow down over long periods
     let timeConsistent = true;
     const recentResults = group
       .filter(r => r.year && (targetYear - r.year) <= 5)
       .slice(-5); // Last 5 appearances
 
-    if (recentResults.length > 0) {
-      for (const groupResult of recentResults) {
-        if (groupResult['Chip Time'] && result['Chip Time']) {
-          if (!isReasonableTimeVariance(groupResult['Chip Time'], result['Chip Time'])) {
-            timeConsistent = false;
-            break;
-          }
+    // If no recent results, fall back to checking all historical results
+    const resultsToCheck = recentResults.length > 0 ? recentResults : group;
+
+    for (const groupResult of resultsToCheck) {
+      if (groupResult['Chip Time'] && result['Chip Time']) {
+        if (!isReasonableTimeVariance(groupResult['Chip Time'], result['Chip Time'])) {
+          timeConsistent = false;
+          break;
         }
       }
     }

@@ -155,6 +155,26 @@
       "position": 1027,
       "name": "Gráinne Moxon",
       "runner_id": "grainne-moxon"
+    },
+    {
+      "position": 143,
+      "name": "David O'Farrell",
+      "runner_id": "david-ofarrell"
+    },
+    {
+      "position": 647,
+      "name": "Stephen McKenna",
+      "runner_id": "stephen-mckenna-2"
+    },
+    {
+      "position": 713,
+      "name": "Sarah Moore",
+      "runner_id": "sarah-moore"
+    },
+    {
+      "position": 162,
+      "name": "Shane Donnelly",
+      "runner_id": "shane-donnelly"
     }
   ]
 }
