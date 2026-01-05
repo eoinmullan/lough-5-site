@@ -2721,18 +2721,29 @@
       ],
       "total_races": 1
     },
-    "desmond-brownlie-lagan": {
-      "runner_id": "desmond-brownlie-lagan",
+    "desmond-brownlie": {
+      "runner_id": "desmond-brownlie",
       "canonical_name": "Desmond Brownlie",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Lagan Valley",
+      "most_common_club": "Lagan Valley AC",
       "most_common_club_source": "automatic",
       "years": [
         2009,
-        2010
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2016,
+        2018,
+        2019,
+        2021,
+        2022,
+        2024,
+        2025
       ],
-      "total_races": 2
+      "total_races": 13
     },
     "ronan-nugent": {
       "runner_id": "ronan-nugent",
@@ -12496,28 +12507,6 @@
         2012
       ],
       "total_races": 2
-    },
-    "desmond-brownlie": {
-      "runner_id": "desmond-brownlie",
-      "canonical_name": "Desmond Brownlie",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "Lagan Valley AC",
-      "most_common_club_source": "automatic",
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2016,
-        2018,
-        2019,
-        2021,
-        2022,
-        2024,
-        2025
-      ],
-      "total_races": 11
     },
     "sharon-mccartney": {
       "runner_id": "sharon-mccartney",
@@ -62113,7 +62102,7 @@
       2024,
       2025
     ],
-    "total_runners": 4777,
+    "total_runners": 4776,
     "total_participations": 9569,
     "participations_with_id": 9569,
     "unassigned_results": 0
