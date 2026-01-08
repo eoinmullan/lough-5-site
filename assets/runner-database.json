@@ -8096,10 +8096,9 @@
       "most_common_club_source": "automatic",
       "years": [
         2010,
-        2011,
-        2025
+        2011
       ],
-      "total_races": 3
+      "total_races": 2
     },
     "keith-dolan": {
       "runner_id": "keith-dolan",
@@ -37704,17 +37703,18 @@
       ],
       "total_races": 2
     },
-    "aidan-o-hagan": {
-      "runner_id": "aidan-o-hagan",
-      "canonical_name": "Aidan O ' Hagan",
+    "aidan-ohagan-strive": {
+      "runner_id": "aidan-ohagan-strive",
+      "canonical_name": "Aidan O'Hagan",
       "canonical_name_source": "automatic",
       "gender": "M",
-      "most_common_club": "Acorns AC",
+      "most_common_club": "Strive Racing Club",
       "most_common_club_source": "automatic",
       "years": [
-        2019
+        2019,
+        2021
       ],
-      "total_races": 1
+      "total_races": 2
     },
     "oisin-cassidy": {
       "runner_id": "oisin-cassidy",
@@ -42037,18 +42037,6 @@
         2022
       ],
       "total_races": 2
-    },
-    "aidan-ohagan-strive": {
-      "runner_id": "aidan-ohagan-strive",
-      "canonical_name": "Aidan O'Hagan",
-      "canonical_name_source": "automatic",
-      "gender": "M",
-      "most_common_club": "Strive Racing Club",
-      "most_common_club_source": "automatic",
-      "years": [
-        2021
-      ],
-      "total_races": 1
     },
     "kyle-thompson": {
       "runner_id": "kyle-thompson",
@@ -56047,7 +56035,7 @@
     },
     "meghan-hugheshallett": {
       "runner_id": "meghan-hugheshallett",
-      "canonical_name": "Meghan Hughes-hallett",
+      "canonical_name": "Meghan Hughes-Hallett",
       "canonical_name_source": "automatic",
       "gender": "F",
       "most_common_club": "",
@@ -60982,6 +60970,18 @@
       "canonical_name": "Nieve Daly",
       "canonical_name_source": "automatic",
       "gender": "F",
+      "most_common_club": "",
+      "most_common_club_source": "automatic",
+      "years": [
+        2025
+      ],
+      "total_races": 1
+    },
+    "martin-mcguigan-2": {
+      "runner_id": "martin-mcguigan-2",
+      "canonical_name": "Martin McGuigan",
+      "canonical_name_source": "automatic",
+      "gender": "M",
       "most_common_club": "",
       "most_common_club_source": "automatic",
       "years": [
