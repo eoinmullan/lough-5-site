@@ -126,7 +126,7 @@
                                 </div>
 
                                 <!-- External Links -->
-                                <template x-if="runner.profile.power_of_10 || runner.profile.world_athletics || (runner.profile.additional_links && runner.profile.additional_links.length > 0)">
+                                <template x-if="runner.profile.power_of_10 || runner.profile.world_athletics || runner.profile.splits_ie || (runner.profile.additional_links && runner.profile.additional_links.length > 0)">
                                     <div style="margin-top: 1rem;">
                                         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                                             <template x-if="runner.profile.power_of_10">
@@ -143,6 +143,14 @@
                                                    @mouseenter="$el.style.background = '#e0e0e0'"
                                                    @mouseleave="$el.style.background = '#f0f0f0'">
                                                     World Athletics ↗
+                                                </a>
+                                            </template>
+                                            <template x-if="runner.profile.splits_ie">
+                                                <a :href="runner.profile.splits_ie" target="_blank" rel="noopener noreferrer"
+                                                   style="display: inline-block; padding: 0.25rem 0.75rem; background: #f0f0f0; border-radius: 4px; font-size: 0.85rem; color: #333; text-decoration: none; transition: background 0.2s;"
+                                                   @mouseenter="$el.style.background = '#e0e0e0'"
+                                                   @mouseleave="$el.style.background = '#f0f0f0'">
+                                                    Splits.ie ↗
                                                 </a>
                                             </template>
                                             <template x-if="runner.profile.additional_links && runner.profile.additional_links.length > 0">

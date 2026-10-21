@@ -73,6 +73,7 @@ The website features hand-researched profiles for 95 notable runners (medal winn
     "headline": "Brief tagline (e.g., '2024 Champion and Olympian')",
     "power_of_10": "URL or null",
     "world_athletics": "URL or null",
+    "splits_ie": "https://splits.ie/runner/<slug> (omitted if no confident match)",
     "additional_links": ["URL to news articles, etc."],
     "notable_achievements": [
       "Achievement 1",
