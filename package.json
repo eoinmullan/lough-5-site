@@ -5,13 +5,8 @@
   "main": "index.html",
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "npm run generate-runner-stats && vite build",
     "preview": "vite preview",
-    "test": "cypress run",
-    "test:open": "cypress open",
-    "test:headed": "cypress run --headed",
-    "test:chrome": "cypress run --browser chrome",
-    "test:firefox": "cypress run --browser firefox",
     "generate-db": "node scripts/generate-runner-database.js",
     "generate-db:verbose": "node scripts/generate-runner-database.js --verbose",
     "generate-db:dry-run": "node scripts/generate-runner-database.js --dry-run",
@@ -23,7 +18,8 @@
     "add-position-fields": "node scripts/add-position-fields.js",
     "normalize-field-order": "node scripts/normalize-field-order.js",
     "generate-all": "npm run generate-db && npm run generate-masters-records && npm run generate-fastest-50 && npm run add-position-fields && npm run generate-runner-stats && npm run normalize-field-order",
-    "check-duplicates": "node scripts/find-duplicate-runner-ids.js"
+    "check-duplicates": "node scripts/find-duplicate-runner-ids.js",
+    "deploy": "npm run build && wrangler deploy"
   },
   "keywords": [
     "charity",
@@ -35,13 +31,12 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^15.5.0",
     "serve": "^14.2.1",
-    "vite": "^7.2.7"
+    "vite": "^7.2.7",
+    "wrangler": "^4.151.3"
   },
   "dependencies": {
     "alpinejs": "^3.13.0",
     "chart.js": "^4.5.1"
-  },
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  }
 }

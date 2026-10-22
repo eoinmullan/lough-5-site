@@ -36,7 +36,7 @@ npm start
 - **Frontend**: HTML5, CSS3, Alpine.js, Chart.js
 - **Build**: Vite
 - **Data**: JSON files, Node.js scripts
-- **Testing**: Cypress
+- **Hosting**: Cloudflare Workers (static assets)
 
 ## Common Tasks
 
@@ -58,7 +58,6 @@ npm run generate-all
 npm start              # Dev server with hot reload
 npm run build          # Production build
 npm run preview        # Preview production build
-npm test               # Run Cypress tests
 ```
 
 ### Data Management
@@ -78,14 +77,13 @@ npm run check-duplicates  # Find duplicate runner IDs
 │   └── runner-database.json  # Main runner database
 ├── scripts/               # Data processing scripts
 ├── src/js/                # JavaScript source files
-├── cypress/               # E2E tests
 └── dist/                  # Production build output
 ```
 
 ## Documentation
 
 - **[NEW_YEAR.md](NEW_YEAR.md)** - Adding new race year results
-- **[DEVELOPMENT.md](DEVELOPMENT.md)** - Local development and testing
+- **[DEVELOPMENT.md](DEVELOPMENT.md)** - Local development and building
 - **[DATA_MANAGEMENT.md](DATA_MANAGEMENT.md)** - Runner database and data workflows
 - **[DEPLOYMENT.md](DEPLOYMENT.md)** - Production deployment
 - **[scripts/README.md](scripts/README.md)** - Technical script documentation

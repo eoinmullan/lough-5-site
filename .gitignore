@@ -8,10 +8,6 @@ dist/
 .git-credentials
 assets/js/bundle.js
 
-# Cypress
-cypress/screenshots/
-cypress/videos/
-
 # Temporary data processing files
 temp/
 
