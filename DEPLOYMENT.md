@@ -59,12 +59,9 @@ Current setup (as of Oct 2026):
 
 Steps:
 
-1. **Export the Route 53 zone** so nothing is missed:
-   ```bash
-   aws route53 list-hosted-zones --profile <profile>
-   aws route53 list-resource-record-sets --hosted-zone-id <zone-id> --profile <profile>
-   ```
-   Note the CloudFront distribution domain (`dxxxxxxxx.cloudfront.net`) on the apex/`www` alias records.
+1. **Record the current setup** in the AWS console (account `401894346357`, region eu-west-2):
+   - Route 53 → **Hosted zones** → `lough5.com`: copy or screenshot every record so nothing is missed
+   - CloudFront → **Distributions**: note the distribution domain (`dxxxxxxxx.cloudfront.net`) whose alternate domain names are `lough5.com` and `www.lough5.com`
 2. **Add the zone to Cloudflare**: dashboard → **Add a domain** → `lough5.com` → Free plan. Compare the imported records against the export.
 3. **Fix the imported apex/`www` records.** Route 53 aliases import as A/AAAA records pointing at CloudFront IPs, which change over time. Replace them with `CNAME` records to the CloudFront domain, set to **DNS only** (grey cloud), so the old site keeps working during the switch.
 4. **Change nameservers at Blacknight** to the two Cloudflare nameservers shown in the dashboard.
