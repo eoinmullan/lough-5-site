@@ -34,50 +34,34 @@ npm run build
 npm run preview    # http://localhost:4173
 ```
 
-## One-Time Setup
-
-### 1. Connect the repo to Cloudflare
-
-1. Cloudflare dashboard → **Workers & Pages** → **Create** → **Import a repository** → GitHub → `eoinmullan/lough-5-site`
-2. Project name: `lough-5-site` (must match `name` in `wrangler.jsonc`)
-3. Build command: `npm run build`
-4. Deploy command: `npx wrangler deploy`
-5. Production branch: `master`; enable builds for non-production branches
-6. Deploy and check the site at `https://lough-5-site.<your-subdomain>.workers.dev`
-
-### 2. Move DNS for lough5.com to Cloudflare
-
-Current setup (as of Oct 2026):
+## Hosting Setup
 
 | | |
 |---|---|
-| Registrar | Blacknight — **registration expires 13 Dec 2026** |
-| DNS | AWS Route 53 |
-| Hosting | CloudFront → S3 (both `lough5.com` and `www.lough5.com`) |
-| Email | None (no MX records) |
-| DNSSEC | Off |
+| Worker | `lough-5-site` ([lough-5-site.eoin-mullan-a63.workers.dev](https://lough-5-site.eoin-mullan-a63.workers.dev)) |
+| Custom domains | `lough5.com`, `www.lough5.com` (Worker → **Settings** → **Domains & Routes**) |
+| DNS | Cloudflare (moved from AWS Route 53, Nov 2026) |
+| Registrar | Blacknight — auto-renews each December |
+| Email | None |
 
-Steps:
+Workers Builds settings (Worker → **Settings** → **Build**):
+- Build command: `npm run build`
+- Deploy command: `npx wrangler deploy`
+- Production branch: `master`, with builds for non-production branches enabled
 
-1. **Record the current setup** in the AWS console (account `401894346357`, region eu-west-2):
-   - Route 53 → **Hosted zones** → `lough5.com`: copy or screenshot every record so nothing is missed
-   - CloudFront → **Distributions**: note the distribution domain (`dxxxxxxxx.cloudfront.net`) whose alternate domain names are `lough5.com` and `www.lough5.com`
-2. **Add the zone to Cloudflare**: dashboard → **Add a domain** → `lough5.com` → Free plan. Compare the imported records against the export.
-3. **Fix the imported apex/`www` records.** Route 53 aliases import as A/AAAA records pointing at CloudFront IPs, which change over time. Replace them with `CNAME` records to the CloudFront domain, set to **DNS only** (grey cloud), so the old site keeps working during the switch.
-4. **Change nameservers at Blacknight** to the two Cloudflare nameservers shown in the dashboard.
-5. **Wait for Cloudflare to show the zone as Active.** This is usually under an hour, but the `.com` NS TTL is 48h, so allow up to 2 days.
-6. **Point the domain at the Worker**: delete the apex and `www` CNAMEs, then Worker → **Settings** → **Domains & Routes** → add custom domains `lough5.com` and `www.lough5.com`.
-7. Optional: add a redirect rule from `www.lough5.com` to `lough5.com` (or vice versa) so there is one canonical URL.
+The Worker name must match `name` in [wrangler.jsonc](wrangler.jsonc).
 
-### 3. Decommission AWS
+## Outstanding
 
-After a few days of traffic on Cloudflare:
+### Decommission AWS
 
-1. Disable, then delete, the CloudFront distribution
-2. Delete the S3 bucket
-3. Delete the Route 53 hosted zone
-4. Delete the ACM certificate and the IAM user/keys used for `aws s3 sync`
+The site used to be served from CloudFront → S3 with Route 53 DNS (account `401894346357`). None of it is used now. Delete:
 
-### 4. Domain registration
+1. CloudFront distribution `d2uq5lau3gxc1s` (disable, then delete)
+2. The S3 bucket
+3. The Route 53 hosted zone for `lough5.com`
+4. The ACM certificate, and the IAM user/keys and `lough-5-s3-push` role used for `aws s3 sync`
 
-Either renew at Blacknight before 13 Dec 2026, or transfer the domain to Cloudflare Registrar once the zone is Active. A transfer adds a year and is billed at cost. To transfer, unlock the domain and get the auth code from Blacknight, then start it from the Cloudflare dashboard. Allow up to 5 days, so start well before the expiry date.
+### Domain registration (optional)
+
+The domain auto-renews at Blacknight. To move it to Cloudflare Registrar instead, unlock the domain and get the auth code from Blacknight, then start the transfer from the Cloudflare dashboard (**Add a site** → **Transfer a domain**). A transfer adds a year and is billed at cost. Allow up to 5 days.
