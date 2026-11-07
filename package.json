@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "alpinejs": "^3.13.0",
+    "canvas-confetti": "^1.9.4",
     "chart.js": "^4.5.1"
   }
 }
